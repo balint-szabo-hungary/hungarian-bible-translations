@@ -1,0 +1,970 @@
+1Chr.1.1 | Adám Seth, Énós.
+1Chr.1.2 | Kénán, Mahalaléel, Járed.
+1Chr.1.3 | Énók, Metusélákh, Lámek.
+1Chr.1.4 | Nóé, Sem, Khám és Jáfet.
+1Chr.1.5 | Jáfetnek fijai: Gómer, Mágog, Madai, Jáván, Tubál, Mések és Tirás.
+1Chr.1.6 | Gómernek pedig fijai: Askenáz, Difát és Togárma.
+1Chr.1.7 | Jávának pedig fija: Elisa, Társisa, Kittim és Dódanim.
+1Chr.1.8 | Khámnak fijai: Khús, Misraim, Pút, és Kanaán.
+1Chr.1.9 | Kúsnak fijai: Séba, Hávila, Sábra, Rahéma, és Sabtéka. Rahémának pedig fijai: Séba és Dédán.
+1Chr.1.10 | Annakfelette Kús nemzé Nimródot; e kezde e földön lenni hatalmassá.
+1Chr.1.11 | Misraim pedig nemzé a Ludeusokat, Hanameusokat, Lehabeusokat és a Naftukheusokat.
+1Chr.1.12 | A Patruseusokat is és a Káslukheusokat, kiktől származának a Filiszteusok, és a Kaftoreusok.
+1Chr.1.13 | Kanaán pedig nemzé Sídont az ő elsőszülöttét, és Hétetk,
+1Chr.1.14 | És a Jebuzeust, Emoreust és Grigazeust.
+1Chr.1.15 | Hiveust is, Arkeust és Sineust.
+1Chr.1.16 | És Arvadeust, Semareust, és Hamateust.
+1Chr.1.17 | Semnek fijai, Elám és Assur, Arfaksád, Lúd, Arám. Ennek fijai Úr, Húl, Géter és Mések.
+1Chr.1.18 | Arfaksád pedig nemzé Sélákhot, és Sélákh nemzé Ébert.
+1Chr.1.19 | Ébernek pedig lőnnek két fijai, kik közzűl egyiknek Péleg vala neve: mert az idejében oszla el a föld népe: a másiknak neve Joktán.
+1Chr.1.20 | Joktán pedig nemzé Almodádot és Sélefet, Hasármávetet és Jérákhot.
+1Chr.1.21 | És Hadorámot, és Uzált, és Diklát,
+1Chr.1.22 | És Ebált, Abimáelt és Sébát.
+1Chr.1.23 | És Ofirt, Havilát, és Jobábot; ezek mind Joktán fijai voltak.
+1Chr.1.24 | Sem, Arfaksád, Selákh.
+1Chr.1.25 | Éber Péleg, Réu.
+1Chr.1.26 | Sérug, Nákhor, Táré,
+1Chr.1.27 | Ábrám, ez az Ábrahám.
+1Chr.1.28 | Ábrahám fijai Izsák és Ismáel.
+1Chr.1.29 | Ezeknek pedig nemzetségei ezek: Ismáelnek elsőszülötte Nébajót és Kédár, és Adbeél, és Mibsám.
+1Chr.1.30 | Misma és Dúma, Massa. Hadád és Téma.
+1Chr.1.31 | Jétur, Náfis és Kedma; ezek az Ismáel fijai.
+1Chr.1.32 | Keturának pedig az Ábrahám ágyasának fijai, kiket szüle, ezek: Zimrán, Joksán, Médán, Midián, Isbák és Súah. És a Joksán fijai: Séha és Dédán.
+1Chr.1.33 | És a Midián fijai: Efa, Efer, Hánok, Abída és Eldáa; mind ezek Ketura fijai voltak.
+1Chr.1.34 | Ábrahám pedig nemzé Izsákot; Izsák fijai pedig ezek: Ézsaú és Izráel.
+1Chr.1.35 | Ézsaúnak fijai; Elifáz, Réhuel, Jéus, Jaalám és Kórákh.
+1Chr.1.36 | Elifáz fijai: Temán, Omár, Sefi, Gaátám, Kénáz, és Timnának fija Amálek.
+1Chr.1.37 | Réhuel fijai: Náhát, Zérah, Samma és Mizza.
+1Chr.1.38 | Seir fijai: Lotán és Sobál, Sibon, Ana, Dison, Eser és Disán.
+1Chr.1.39 | Lótán fijai pedig: Hori és Hómám: Lótánnak huga pedig Timna.
+1Chr.1.40 | Sobál fijai: Alián és Manakhát, Ebál, Séfi és Onám; Sibón fijai pedig: Aja és Ana.
+1Chr.1.41 | Ana fija: Dison. Dison fijai pedig, Hamrán és Esban, Itrán és Kérán.
+1Chr.1.42 | Eser fijai: Bilhán és Zaaván, Jaakán. Disán fijai: Us és Arán.
+1Chr.1.43 | Ezek pedig a Királyok, kik uralkodának Edom földén minekelőtte az Izráel fijai közzűl Király támadna: Béla Beór fija, és az ő városának neve Dinhába vala.
+1Chr.1.44 | És meghala Béla, és uralkodék helyette Jobáb a Bozrából való Zéráh fija.
+1Chr.1.45 | És hogy Jobáb meghala, uralkodék helyette a Témán tartománybeli Húsám.
+1Chr.1.46 | Meghala Húsám is, és uralkodék helyette Hadád a Bédád fija, ki megverte vala a Midiánitákat a Moáb mezején; és az ő városának neve vala Avit.
+1Chr.1.47 | Hadád is hogy meghala, uralkodék helyette a Masrékabeli Sámla.
+1Chr.1.48 | Sámla is pedig meghala, és uralkodék helyette Saul, a Rehóbot folyóvíz mellől való.
+1Chr.1.49 | Saul is meghala, és uralkodék helyette Baál-hanán az Akbor fija.
+1Chr.1.50 | Meghala végezetre Baál-hanán is, és uralkodék helette Hadád: és az ő városának Páhi vala neve: feleségének pedig neve Mehetábel, Mátréd leánya, melly vala Mézaháb leánya.
+1Chr.1.51 | Meghala végezetre Hadád is. Voltak pedig Edom földének Herczegei: Timna Herczeg, Hália Herczeg, és Jéteth Herczeg;
+1Chr.1.52 | Aholibáma Herczeg, Ela Herczeg, és Pinon Herczeg;
+1Chr.1.53 | Kénáz Herczeg; Témán Herczeg; és Mibsár Herczeg;
+1Chr.1.54 | Magdiel Herczeg, és Hirám Herczeg: Ezek Herczegek voltak az Edomeusoknak földökben.
+
+1Chr.2.1 | Ezek az Izráel fijai: Rúben, Simeon, Lévi, Júda, Issakhár és Zebulon.
+1Chr.2.2 | Dán, József, Benjámin, Nafthali, Gád és Áser.
+1Chr.2.3 | Júdának fijai: Ér, Onán és Séla; e három fiak szüleetének néki Suának leányától, melly Kanaánbeli vala. Vala pedig ez Ér, Júdának elsőszülötte, igen gonosz az Úrnak szemei előtt, mellyért őtet megölé.
+1Chr.2.4 | Támár pedig az ő menye szülé néki Pérest és Zérát: A Júdának fijai mindnyájan öten valának.
+1Chr.2.5 | Péres fijai, Hesron és Hámul.
+1Chr.2.6 | Zérah fijai pedig: Zimri és Etán, és Hémán, és Kálkól és Dára; mindenestől öten.
+1Chr.2.7 | Kármi fijai: Akám Izráelnek megháborítója, ki az átok alatt megtiltott marhának lopásában vétkezék.
+1Chr.2.8 | Etán fija: Azária.
+1Chr.2.9 | Hesron fijai, kik születtenek néki: Jérákhméel, Rám és Kélubai.
+1Chr.2.10 | Rám nemzé Amminádábot, Amminádáb pedig nemzé Naassont, a Júda fijainak Fejedelmét.
+1Chr.2.11 | Naasson nemzé Sálmát, Sálma pedig Bozát;
+1Chr.2.12 | Boáz nemzé Obedet; Obed nemzé Isait;
+1Chr.2.13 | Isai pedig nemzé Eliábot az ő elsőszülöttét, és Abinádábot másodikat, Simeát harmadikat.
+1Chr.2.14 | Natenéelt negyediket, és Raddait ötödiket,
+1Chr.2.15 | Osémot hatodikat, és Dávidot hetedik fiját;
+1Chr.2.16 | És ezeknek nénnyeiket Séruját és Abigáilt. Serujának pedig fijai voltak: Abisai, Joáb és &amp; Asáel, e három.
+1Chr.2.17 | Abigáil nemzé Amasát: Amasának pedig vala attya az Ismáel nemzetségéből való Jéter.
+1Chr.2.18 | Káleb pedig a Hesron fija nemzett vala az ő Azuba nevű feleségétől és a Jéríóttól, és ezek az ő fijai: Jéser, és Sobáb és Ardon.
+1Chr.2.19 | Azuba meghala, és Káleb vevé magának feleségűl Efratát, és e szülé néki Húrt.
+1Chr.2.20 | Húr nemzé Urit, Uri pedig Basaléelt.
+1Chr.2.21 | Azután béméne Hesron Mákirnak Gileád attyának leányához; mert ő ezt elvette vala hatvan esztendős korában, és szülé néki Ségubot.
+1Chr.2.22 | Ségud pedig nemzé Jáirt, kinek voltak huszonhárom városai a Gileád földén.
+1Chr.2.23 | Megvevé pedig a Gessureusoktól és Siriabeliektől Jáirnak városait, Kénát várost is, és annak faluti, mindenestől hatvan várost. Mind ezek a Mákir fijáé, ki vala Gileádnak attya.
+1Chr.2.24 | Minekutánna pedig meghala Hesron Káleb-Efratában, akkor a Hesron felesége Abija szülé néki Ashúrt, a Tékoa attyát.
+1Chr.2.25 | Voltak pedig Jérakhméelnek a Hesron előszülöttének fija; elsőszülött Rám, és Búna, és Orem, és Osem, és Akhija.
+1Chr.2.26 | Volt más felesége is Járakhméelnek, Atára nevű; ez az Onám annya.
+1Chr.2.27 | Voltak pedig rámnak Jérakhméel elsőszülöttének fijai: Maás, Jámin és Héker.
+1Chr.2.28 | Voltak az Onám fijai: Sammai, Jáda, és Sammai fijai: Nádáb és Abisúr.
+1Chr.2.29 | Abisúr feleségének neve Abihail, ki szülé néki Akhbánt és Mólidót.
+1Chr.2.30 | Nádáb fijai: Séled és Appaim: de meghala Séled magtalanúl.
+1Chr.2.31 | Appaim fija: Isi; Isi fijai: Sésán; Sésán leánya: Ahálai.
+1Chr.2.32 | Jáda fijai, ki vala Sammai attyafia: Jéter és Jónathán, és Jéter meghala magtalanúl.
+1Chr.2.33 | Jónathán fijai: Pélet és Záza. Ezek voltak a Jérakhméel fijai.
+1Chr.2.34 | Nem voltak pedig Sésánnak fijai, hanem leányai; ennekfelette Sésánnak vala egy Égyiptombeli szolgája, Járha nevű.
+1Chr.2.35 | És adá Sésán az ő leányát feleségűl e Járha nevű shzolgájának, ki szülé néki Athait;
+1Chr.2.36 | Athai pedig nemzé Nátánt; Nátán nemzé Zabádot;
+1Chr.2.37 | Zadáb nemzé Efált; Efál nemzé Obedet;
+1Chr.2.38 | Obed nemzé Jéhut; Jéhu nemzé Azáriát.
+1Chr.2.39 | Azária nemzé Hélest; Héles nemzé Elását;
+1Chr.2.40 | Elása nemzé Sisémait; Sisémai nemzé Sallumot;
+1Chr.2.41 | Sallum nemzé Jékámiát; Jékámia pedig nemzé Elisámát.
+1Chr.2.42 | A Káleb fijai pedig, ki Jérakhméel attyafia vala, elsőszülötte Mésa; e volt a Zifnek és Maresa fijainak attyok, Hebronnak is attya.
+1Chr.2.43 | Hebron fijai: Kórah: Tappuah, Rékem és Séma.
+1Chr.2.44 | Séma pedig nemzé Rahámot a Jorkeám attyát; és Rékem nemzé Samait.
+1Chr.2.45 | A Samai fija pedig Máon; ez a Máon volt a Bethsúr attya.
+1Chr.2.46 | Hésa pedig, a Káleb ágyastársa szülé Háránt és Mósát, és Gázezt; és Hárán nemzé Gázezt.
+1Chr.2.47 | Jaddai fijai pedig: Régem, Jotám, Gésán, Pélet, Héfa és Saáf.
+1Chr.2.48 | A Káleb ágyasa Maaka, szülé Sébert és Tirhánát.
+1Chr.2.49 | Saáfnak, a Madména attyának felesége pedig szülé Sévát, a Makbéna attyát, és a Gibea attyát: A Káleb leánya pedig vala Aksa.
+1Chr.2.50 | Ezek voltak a Káleb fijai, ki Húrnak, az Efrata elsőszülöttének fija volt: Sobál, Kirját-jeárim attya.
+1Chr.2.51 | Sálma, Betlehem attya; Háref, Bethgáder attya.
+1Chr.2.52 | Voltak pedig Sobálnak is a Kirját-jeárim attyának fijai: Haroé, ki Menuhót földének felét bírja vala.
+1Chr.2.53 | Ezek a Kirját-jeárim háznépei: Jitreusok, Puteusok, Sumateusok, Misraiteusok: ezektől származának a Sorateusok és az Estaoliteusok.
+1Chr.2.54 | Sálme fijai, Bethlehem és Nétófáti, Joáb házának koronái, és Sóreus, ki Menuhótnak felét bírja vala.
+1Chr.2.55 | És Jaábesben lakozó tudós embereknek cselédei; a Tirateusok, Simateusok, Sukateusok; ezek a Kineus jövevények, kik származtak Hámáttól, a Rékáb házának attyától.
+
+1Chr.3.1 | Ezek voltak pedig a Dávid fijai, kik születének néki Hebronban; elsőszülötte vala Amnon, Jezréelből való Ahinoámtól; második vala Dániel, Kármelből való Abigáiltól.
+1Chr.3.2 | Harmadik Absolon, ki Maakának a Gessurbeli Talmai Király leányának fija vala; negyedik Adónia, Haggittól vaó.
+1Chr.3.3 | Ötödik Sefátia, Abitáltól való; hatodik Jitreám, Egla feleségétől.
+1Chr.3.4 | E hat fiak születének néki Hebronban, a hol uralkodék két esztendeig s hat hónapig; Jérusálemben pedig harminczhárom esztendeig uralkodék.
+1Chr.3.5 | Ezek születének pedig néki Jérusálemben: Simea, Sobab, Nátán és Salamon, négyen Bathsuától, Amielnek leányától.
+1Chr.3.6 | És Jikhár, Elisáma, és Elifélet.
+1Chr.3.7 | Nógah, Néfeg és Jáfia.
+1Chr.3.8 | Ismét Elisáma, Eliáda és Elifélet, kilenczen.
+1Chr.3.9 | Mind ezek a Dávid fijai, az ő ágyastársainak fijain kivűl: és Támár ezeknek hugok vala.
+1Chr.3.10 | Salamonnak pedig fija volt Roboám; ennek fija Abija, ennek fija Asa, ennek fija Jósafát.
+1Chr.3.11 | Ennek fia Jórám, ennek fija Akháziás, ennek fija Joás.
+1Chr.3.12 | Ennek fija Amáziás, ennek fija Azáriás: ennek fija Jotám.
+1Chr.3.13 | Ennek fija Akház, ennek fija Ezékiás, ennek fija Manasse
+1Chr.3.14 | Ennek fija Amon, ennek fija Jósiás.
+1Chr.3.15 | Jósiásnak pedig fijai: elsőszülötte Johanán, második Jójákim, harmadik Sédékiás, Sallum negyedik.
+1Chr.3.16 | Jójákim fija: Jékóniás, ennek fija Sédékiás.
+1Chr.3.17 | Jékóniásnak fija: Assir, ennek fija Saálthiel.
+1Chr.3.18 | Ennek pedig fijai: Málkirám, Pedája, Sénasár, Jékámia, Hosáma, és Nédábia.
+1Chr.3.19 | Pedája fijai! Zerubábel és Símei. Zerubábel fijai: Messullám, Hanánia: és az ő hugok vala Selómit.
+1Chr.3.20 | És Hásuba, Ohel, Berekia, Hasádia, és Juseb-Hésed, ezek öten.
+1Chr.3.21 | Hanánia fijai: Pelátia és Jésai; ennek fija Refája; ennek fija Arnám, ennek fija Obádia, ennek fija Sekánia.
+1Chr.3.22 | És Sekánia fija: Semája. Semája fijai: Hattus, Jigeál, Báriah, Neárja és Sáfát, ezek hatan.
+1Chr.3.23 | Neárja fijai: Elohénai, Ezékiás, és Azrikám, ezek hárman.
+1Chr.3.24 | Eljohénai fijai: Hódajéva, Eliásib, Pelája, Akkub, Johanán, Delája és Anáni: ezek heten.
+
+1Chr.4.1 | Júda fijai ezek: Péres. Hesron, Kármi, Húr és Sobál.
+1Chr.4.2 | Reája pedig a Sobál fija nemzé Jahátot; Jahát nemzé Ahumáit és Lahádot; ezek a Soráteusok nemzetségei.
+1Chr.4.3 | Etám attyának cselédei ezek: Jezréel, Jisma, Jédbás: és az ő hugoknak neve Sélelponi.
+1Chr.4.4 | Pénuel pedig Gédor attya, és Ezer, Húsa attya. Ezek Efrata elsőszülöttének tudniillik Húrnak fijai, ki vala a Bethlehemiták attyok.
+1Chr.4.5 | Ashúrnak pedig a Tékoa attyánask volt két felesége, Heléa és Naára.
+1Chr.4.6 | És Naára szülé néki ezeket: Ahuzámot, Héfert, Teménit, és Ahastárit: ezek a Naára fijai.
+1Chr.4.7 | Heléa fijai; Séret, Jésohár, és Etnán, és Kócz.
+1Chr.4.8 | Kócz pedig nemzé Hánubot, Hásobébát, és Ahárhel nemzetségeit, ki Hárumnak fija vala.
+1Chr.4.9 | Volt pedig Jábes az ő attyafiainál becsületesebb; és azért nevezé őtet az ő annya Jábesnek mondván: Mivelhogy nagy fájdalommal szülém őtet, azért így kell nevezni.
+1Chr.4.10 | És Jábes az Izráelnek Istenét hívá segítségűl, mondván: Ha engemet igen megáldándasz, és az én határomat megszélesíténded, és a te kezed én velem lejénd, és engem minden veszedelmtől megoltalmazándasz, hogy bút ne lássak! És megadá Isten néki, a mit kért vala.
+1Chr.4.11 | Kélub pedig, a Súkha attyafia, nemzé Méhírt: ez az Eston attya.
+1Chr.4.12 | Eston nemzé Rafának és Páseákhnak, és Tehinnának a Náhás város attyának háznépét: Ezek a Rékától való férjfiak.
+1Chr.4.13 | Kénáz fijai: Otniel és Serája, Otniel fijai Hatát és Meonótai.
+1Chr.4.14 | Meonótai nemzé Ofrát: Serája pedig Joábot, ki a mesteremberek völgyében lakozóknak attyok vala; mert azok mesteremberek valának.
+1Chr.4.15 | Káleb fijai, ki Jefunné fija vala: Iru, Ela és Naám. Ela fija: Kénáz.
+1Chr.4.16 | Jéhalélel fijai: Zif, Zifa, Tirja és Asárel.
+1Chr.4.17 | Ezra fijai: Jéter, Méred, Efer és Jálon; és szülé a Méred felesége Mirjámot, Sammait, és Isbát, Estemóa attyát.
+1Chr.4.18 | Ennek felesége pedig Jehudéja szülé Jéredet, a Gédor attyát, és Hébert a Sókó attyát, Jékuthielt is a Zánoah attyát: s ezek Bithiának a Faraó leányának fijai, kit Méred elvett vala.
+1Chr.4.19 | Hódia nevű feleségének pedig fijai: ki vala a Naám nénnye, ki ismét Kéhila attya vala, ezek: Hagármi és Maakátbeli Estemóa.
+1Chr.4.20 | Simon fijai: Amon, Rinna, Benhanán és Thilon. Jishi fijai: Zohét és Benzohét.
+1Chr.4.21 | Júda fijának Sélának fijai: Er, Léka attya és Laáda, Marésa attya, az Asbéa házában a bibor szövők háznépének is attyok vala.
+1Chr.4.22 | És Jókim, és Kozebának lakosai, és Jóás és Saráf, kik uralkodtak Moábnak földében, és Jásubi, Léhem. De ezek immár régi dolgok.
+1Chr.4.23 | Ezek fazekasok voltak és lakoztak a plánták között és a kertek meleltt: és ott maradtak a Királlyal az ő dolgában.
+1Chr.4.24 | Simeon fijai: Némuel Jámin, Járib, Zérah, Saul.
+1Chr.4.25 | Sallum ennek fija, Mibsám ennek fija: Misma ennek fija.
+1Chr.4.26 | Misma fijai: Hamjúel ennek fija, Zakkur ennek fija, és Simi ennek fija.
+1Chr.4.27 | Siminek voltak tizenhat fijai s hat leányai: az ő attyafiainak pedig nem voltak sok fijai; minden nemzetségek is nem volt annyi, mint a Júda fijai.
+1Chr.4.28 | Lakoznak vala pedig Beersebában és Móladában és Hasársuálban.
+1Chr.4.29 | Bilhában, Esemben és toládban.
+1Chr.4.30 | Bétuelben, Hormában és Siklágban.
+1Chr.4.31 | Beth-markabótban, Hásársusimban, Beth-biriben és Sabáraimban: ezek valának az ő városaik mind addig míg Dávid Királlyá lőn.
+1Chr.4.32 | Faluik pedig ezek: Etám, Ain, Rimmon, tóken és Assán, öt városok.
+1Chr.4.33 | És minden faluk, mellyek valának a városok körűl szintén Bálig: e volt az ő lakóhelyek, nemzeségek is ő nékik:
+1Chr.4.34 | Mesobáb, Jámlek és Jósa, Amásia fija.
+1Chr.4.35 | És Jóel és Jéhu a Jósibia fija, ki Serája fija, ki Asiel fija vala.
+1Chr.4.36 | És Eljoénai, Jaákoba, Jésohája, Asája, Adiel, Jesiméel és Benája.
+1Chr.4.37 | Ziza a Sifi fija, ki Alon fija, ki Jedája fija, ki Simre fija, ki Semája fija.
+1Chr.4.38 | ezek voltak kik nevezetes Főemberek valának az ő nemzetségekben, s kik igen megsokasodtak vala az ő attyoknak házokban.
+1Chr.4.39 | Elindulának azért Gédorba, hogy bémennének annak a völgynek szinte napkelet felől való részéig, hogy keresnének az ő barmaiknak legeltető helyet.
+1Chr.4.40 | Találának is zsiros és jó legeltető helyet, (az a föld pedig vala tágas, nyugodalmas és békeséges) mert Hámnak nemzetségei laktak vala az előtt ott.
+1Chr.4.41 | Elmenvén pedig e megírattatott személyek, Ezékiásnak a Júda Királyának idejében, azoknak sátoraikat megverék, és a lakóheleket, mellyek ott találtatának, és levágák őket minde napig, és helyettek ott lakának; mert az ő barmaiknak ott jó legeltető mezejek vala.
+1Chr.4.42 | Ennekfelette a Simeon fijai közzűl némellyek elmenének a Seir hegyére, úgymint ötszázan: Kiknek előjáróik valának a Jesi fijai, Pelátja, Nehárja, Refája és Uzriel.
+1Chr.4.43 | És valakik az Amálek nemzetében megmaradtak vala, mind levágák azokat, és ott letelepedének mind e mai napig.
+
+1Chr.5.1 | Rúbennek pedig az Izráel elsőszülöttének fijai: (mert ő volt elsőszülött: mikor pedig megfertéztette volna az ő attyának ágyasházát, adaték az ő elsőszületésének méltósága a József fijainak, ki Izráel fija vala, mindazáltal nem azért, hogy őnéki tulajdoníttatnék egészen az elsőszületés.
+1Chr.5.2 | Mert Júda vala méltóságosb az ő attyafiai között, és ő belőle volt a Fejedelem, jóllehet az elsőszületésnek haszna Józsefé lőn.)
+1Chr.5.3 | Ezek mondom Rubennek, Izráel elsőszülöttének fijai: Hánók, Pallu, Hesron és Kármi.
+1Chr.5.4 | Jóel fijai: Semája ennek fija, Góg ennek fija, Simei ennek fija.
+1Chr.5.5 | Mika ennek fija, Reája ennek fija, Baál ennek fija.
+1Chr.5.6 | Beára ennek fija, kit fogva elvitt volt Tiglát-Pilnéser, az Assiriabeli Király; e vala Fejedelmek a Rúbenitáknak.
+1Chr.5.7 | Az ő attyafiai pedig az ő házoknépe szerint, mikor nemzetségenként számláltatnának, akkor vala Fejedelem köztök Jéhiel és Zakariás.
+1Chr.5.8 | Bla is, Azáz fija, ki Séma fija, ki Jóel fija vala, ki lakik vala Aróerben Nébóig és Baál-Meónig.
+1Chr.5.9 | Napkelet felől is lakik vala a pusztában való bémenetelig, az Eufrátes folyóvíztől fogva; mert az ő barmaik Gileád földén igen megszaporodtak vala.
+1Chr.5.10 | Saul Királynak idejében pedig támasztának hadat a Hágárénusok ellen, és elhullának azok az ő kezek miatt, és lakának azoknak sátoraikban, Gileádnak napkelet felé való egész tartományában.
+1Chr.5.11 | A Gád fijai pedig ő ellenekben laknak vala a Básán földén Salkáig.
+1Chr.5.12 | Jóel vala előjárójok, Sáfán második az után; Jahánai pedig és Sáfát Básánban lakának.
+1Chr.5.13 | Ezeknek pedig attyokfiai, az ő attyaiknak cselédjek szerint, valának, Mikáel, Mésullám, Séba, Jórai, Jaékán, Zia és Éber, heten.
+1Chr.5.14 | Ezek az Abihail fijai, ki Húri fija, ki Jároáh fija, ki Gileád fija, ki Mikáel fija, ki Jésisai fija, ki Jahadó fija, ki Búz fija vala.
+1Chr.5.15 | És mikor Ahi, a Gúni fijának, tudniillik, Abdielnek fija, Fejedelem volna az ő attyok háznépe között.
+1Chr.5.16 | Mikor lakának Gileádban, Básánba, és ezekhez tartozó falukban: és Sáronhoz tartozó helyekben, ind az ő határokig.
+1Chr.5.17 | Kik mind megszámláltatván, Jótámnak a Júda Királyának idejében: és Jéroboámnak az Izráel Királyának idejében.
+1Chr.5.18 | A Rúben fijai közzűl és a Gáditák közzűl, és a Manasse félnemzetsége közzűl, erős paizs és fegyverhordozó férjfiak, kézívesek, és a hadakozásban tudósok, negyvennégy ezeren, hétszázan és hatvanon harczra kimehető férjfiak.
+1Chr.5.19 | Hadakozának a Hágárénusok ellen, Jétúr, Náfis, és Nódáb ellen.
+1Chr.5.20 | És győzedelmesek levének azokon, és kezekbe adatának a Hágárénusok, és mind azok, kik ezekkel valának: mert az Istenhez felkiáltottak vala a hadban, mellyért Isten is őket meghallgatá: mert ő benne bíztak vala.
+1Chr.5.21 | És zsákmányt vetének az ő barmaikban, a tevék közzűl nyerének ötvenezeret, a juhok közzűl kétszáz s ötvenezeret, a szamarak közzűl kétezeret, és százezer embert.
+1Chr.5.22 | A seb miatt pedig sokan elhullának: mert Istentől vala az a harcz; és azok helyett lakának mind addig, míg őket Isten fogsába viteté.
+1Chr.5.23 | A Manasse nemzetsége felének fijai laktak a földön, melly hívatik Básánnak, Baál Hermonig és Senirig, azaz Hermon hegyig; mert igen megsokasultak vala.
+1Chr.5.24 | És ezek voltak az ő attyok házanépének Fejedelmei: Efer, Jishi, Eliel, Azriel, Irméja, Kódávia és Jahdiel, igen erős férjfiak, nevezetesek, kik az ő attyok házanépe között fők voltak.
+1Chr.5.25 | Vetkezének pedig az ő attyoknak Istene ellen: mert a föld lakóinak bálványisteneivel paráználkodának, kiket Isten szemek elől elvesztett vala.
+1Chr.5.26 | Felindítá azért az Izráelnek Istene Pulnak az Assiriabeli Királynak szívét, és Tiglát-Pilnésernek az Assiriai Királynak szívét, és fogva elvivé őket, a Rúbenitákat, a Gáditákat, és a Manasse félnemzetségét is: és elvivé őket Heláhba és Háborba és Hárába, és a Gozán folyóvizéhez mind e mai napig.
+
+1Chr.6.1 | Lévi fijai; Gerson, Kéhát és Mérári.
+1Chr.6.2 | Kéhát fijai pedig: Amrám, Ishár, Hebron és Uzziel.
+1Chr.6.3 | Amrám fijai: Áron, Mózes és Mária. Áron fijai: Nádáb, Abihu, Eleázár és Itamár.
+1Chr.6.4 | Eleázár nemzé Fineást, Fineás nemzé Abisuát;
+1Chr.6.5 | Abisua pedig nemzé Bukkit, Bukki nemzé Uzzit;
+1Chr.6.6 | Uzzi nemzé Zeráhiát; Zeráhia nemzé Mérajótot;
+1Chr.6.7 | Mérajót nemzé Amáriát; Amária nemzé Ahitúbot;
+1Chr.6.8 | Ahitúb nemzé Sádókot; Sádók nemzé Ahimáhást;
+1Chr.6.9 | Ahimáhás nemzé Azáriát, Azária nemzé Jóhanánt;
+1Chr.6.10 | Jóhanán nemzé Azáriát, e vala Pap a házban, mellyet Salamon Jérusálemben épített vala.
+1Chr.6.11 | Azária nemzé Amáriát; Amária nemzé Ahitúbot;
+1Chr.6.12 | Ahitúb nemzé Sádókot, Sádok nemzé Sallumot;
+1Chr.6.13 | Sallum nemzé Hilkiát; Hilkia nemzé Azáriát;
+1Chr.6.14 | Azária nemzé Sáráját, Sérája nemzé Jéhozadákot;
+1Chr.6.15 | Jéhozadák pedig fogsába méne, mikor az Úr Júdát és Jérusálemet fogságba viteté Nabukodonozor által.
+1Chr.6.16 | Lévi fijai, mondom, Gerson, Kéhát és Mérári.
+1Chr.6.17 | ezek a Gerson fijainak neveik: Libni és Simi.
+1Chr.6.18 | Kéhát fijai: Amrám, Ishár, Hebron és Uzziel.
+1Chr.6.19 | Mérári fijai: Mákhli és Musi. Ezek azért a Lévi háznépei az ő Eleik szerint.
+1Chr.6.20 | Gersonnak fijai: Libni az ő fija, Jáhát ennek fija, Zima ennek fija.
+1Chr.6.21 | Jóáh ennek fija, Iddó ennek fija, Iddó ennek fija, Zérah ennek fija, és Jéathérai ennek fija.
+1Chr.6.22 | Kéhát fijai: Amminádáb az ő fija, Kórah ennek fija és Assir ennek fija:
+1Chr.6.23 | Elkána ennek fija, Ebiásáf ennek fija, és Assir ennek fija.
+1Chr.6.24 | Tákhát ennek fija, Uriel ennek fija, Uzzija ennek fija, és Saul ennek fija: és Elkána ennek fija.
+1Chr.6.25 | Elkána fijai: Amása és Ahimót.
+1Chr.6.26 | Amásainak fija Elkána: Elkána fija: Sófai az ő fija, és Náhát ennek fija.
+1Chr.6.27 | Eliáb ennek fija, Jérohám ennek fija, Elkána ennek fija, Sámuel ennek fija.
+1Chr.6.28 | Sámuel fijai pedig: elsőszülött Vásni, és Abija.
+1Chr.6.29 | Mérári fijai: Mákhli az ő fija, Libni ennek fija: Simmi ennek fija, és Uzza ennek fija.
+1Chr.6.30 | Siméa ennek fija, Haggija ennek fija és Asája ennek fija.
+1Chr.6.31 | Ezek pedig a kiket Dávid válogata az Úr házában az énekléshez, minekutánna az Isten ládája megnyugovék.
+1Chr.6.32 | Szolgáltak pedig énekléssel a gyülekezet sátorának hajléka előtt, míg Salamon építé az Úr házát Jérusálemben, és állottak az ő szolgálatjoban, kiki mind az ő rendi szerint.
+1Chr.6.33 | Ezek pedig a kik szolgáltak és ezeknek fijai, a Kéhátiták fijai közzűl, Hémán főéneklő, Jóel fija, ki Sámuel fija.
+1Chr.6.34 | Ki Elkána fija, ki Jérohám fija, ki Eliél fija, ki Thóa fija.
+1Chr.6.35 | Ki Czúf fija, ki Elkána fija, ki Mahár fija, ki Amásai fija.
+1Chr.6.36 | Ki Elkána fija, ki Jóel fija, ki Azárja fija, ki Séfánia fija.
+1Chr.6.37 | Ki Takhát fija, ki Assia fija, ki Ebiásáf fija, ki Kóra fija.
+1Chr.6.38 | Ki Ishár fija, ki Kéhát fija, ki Lévi fija, ki Izráel fija.
+1Chr.6.39 | És ennek attyafia Asáf, ki jobbkeze felől áll vala: Asáf a Berekiás fija, ki Simea fija vala.
+1Chr.6.40 | Ki Mikáel fija, ki Bahásia fija, ki Melkija fija.
+1Chr.6.41 | Ki Ethni fija, ki Zérah fija, ki Adája fija.
+1Chr.6.42 | Ki Etán fija, ki Zimma fija, ki Simei fija.
+1Chr.6.43 | Ki Jábát fija, ki Gerson fija, ki Lévi fija.
+1Chr.6.44 | Továbbá a Mérári fijai, kik azokkal atyafiasok valának, balkéz felől állnak vala; Etán, Kisi fija, ki Abdi fija, ki Malluk fija.
+1Chr.6.45 | Ki Kasábja fija, ki Amásia fija, ki Hilkia fija.
+1Chr.6.46 | Ki Amsi fija, ki Báni fija, ki Sémet fija.
+1Chr.6.47 | Ki Makhli fija, ki Musi fija, ki Mérári fija, ki Lévi fija.
+1Chr.6.48 | Némellyek pedig a Léviták közzűl, kik ezeknek attyokfiai valának, rendeltetnek vala az Isten háza hajlékának egyéb szolgálatjára.
+1Chr.6.49 | Áron pedig és az ő fijai az egészen megégetendő áldozatnak oltára mellé, és a füstölő oltár mellé a legszentségesb helynek szolgálatja mellé, és az Izráelnek megszentelésére rendeltetének mind a szerint, valamint Mózes az Isten szolgája megparancsolta vala.
+1Chr.6.50 | Áron fijai pedig ezek: Eleázár, ennek fija Fineás, ennek fija Abisún.
+1Chr.6.51 | Ennek fija Bukki, ennek fija Uzzi, ennek fija Zerája.
+1Chr.6.52 | Ennek fija Merájót, ennek fija Amárja, ennek fija Akhitúb.
+1Chr.6.53 | Ennek fija Sádók, ennek fija Ahimaás.
+1Chr.6.54 | És ezek az ő lakhelyeik, az ő házok és határok szerint, tudniillik az Áron fijaié a Kéhátiták nemzetsége szerint: mert e jutott volt nékik sors által.
+1Chr.6.55 | Adák azért nékik Hebront a Júda földében és a körülte való hostátot.
+1Chr.6.56 | De azért a városnak mezeit és annak faluit Kálebnek a Jéfunne fijának.
+1Chr.6.57 | Az Áron fijainak azért a Júda városai közzűl adák, a gyilkosok mentségére rendeltetett városokat, Hebront, Libnát és a mellette való hostátot, Jathirt és Esthemoát, és ezeknek is hostátit.
+1Chr.6.58 | És Hilent és annak hostátit, és Débirt és annak hostátit.
+1Chr.6.59 | Asánt és annak hostátit, és Bethsémest és annak hostátit.
+1Chr.6.60 | A Benjámin nemzetségéből: Gébát és annak hostátit; Alémetet és annak hostátit: Anatót várost is és annak hostátit. Ezeknek vala az ő nemzetségek szerint tizenhárom városok.
+1Chr.6.61 | A Kéhát több fijainak az egy nemzetségnek cselédjéből, és a félnlemzetségből, tudniillik a Manasse nemzetségének feléből sors által tiz várost adának.
+1Chr.6.62 | A Gerson fijainak pedig az ő nemzeségek szerint az Issakhár nemzetségéből, az Áser nemzetségéből, a Nafthali nemzetségéből és a Manasse nemzetségéből Básákban tizenhárom várost.
+1Chr.6.63 | A Mérári fijainak az ő nemzetségek szerint, a Rúben nemzetségéből, a Gád nemzetségéből és a Zebulon nemzetségéből sors által tizenkét várost.
+1Chr.6.64 | Adának mondom az Izráel fijai a Lévitáknak városokat; azoknak hostátjaikkal egybe.
+1Chr.6.65 | (Minekutánna adtak volna sors által a Júda nemzetségéből, a Simeon nemzetségéből és a Benjámin nemzetségéből) bizonyos nevű városokat.
+1Chr.6.66 | Először azoknak, kik valának a Kéhát fijainak házoknépe közzűl, (voltak pedig ezeknek városaik és határok az Efraim nemzetségéből.)
+1Chr.6.67 | Ezeknek, mondom, adák a mentségre rendeltetett városokat, Sékemet és annak hostátit az Efraim hegyén: Gézert és annak hostátit.
+1Chr.6.68 | És Jokmeámot és annak hostáti; Beth-horont és annak hostátit.
+1Chr.6.69 | Ajalont és annak hostátit; Gáthrimmont is és annak hostátit.
+1Chr.6.70 | A Manasse nemzetségének feléből, Anert és annak hostátit, Bileámot és annak hostátit, a Kéhát megmaradott fijai cselédjének.
+1Chr.6.71 | A Gerson fijainak pedig a Manasse félnemzetségéből Gósánt Básánban, és annak hostátit: és Astarotót és annak hostátit:
+1Chr.6.72 | Az Isskhár nemzetségéből adák Kédest és annak hostátit; Dobrátot és annak hostátit;
+1Chr.6.73 | Rámótot és annak hostátit, Anémet és annak hostátit.
+1Chr.6.74 | Az Áser nemzetségéből Mását és annak hostátit, és Abdont és annak hostátit;
+1Chr.6.75 | Hukókot és annak hostátit: Réhobot és annak hostátit.
+1Chr.6.76 | A Nafthali nemzetségéből Kédest Galileában, és annak hostátit: Hammont és annak hostátit; és Kirjáthaimot és annak hostátit.
+1Chr.6.77 | A Mérári megmaradott fijainaka Zebulon nemzetségéből Rimmonót és annak hostátit; s Thábort és annak hostátit.
+1Chr.6.78 | A Jordánon túl Jerikó ellenében, a Jordánnak napkelet felől való részében, a Rőben nemzetségéből Bésert a pusztában, és annak hostátit; Jahását és annak hostátit;
+1Chr.6.79 | Kedemótot és annak hostátit; Mefaátot és annak hostátit.
+1Chr.6.80 | A Gád nemzetségéből Rámótot Gileádban, és annak hostátit; Mahanaimot és annak hostátit.
+1Chr.6.81 | Hesbont és annak hostátit; Jaázert és annak hostátit.
+
+1Chr.7.1 | Issakhár fijai: Thóla, Pua, Jásub és Simron, négyen.
+1Chr.7.2 | Thóla fijai pedig: Uzzi, Réfája, Jériel, Jakhmai, Jibsán és Sámuel, kik Fejedelmek valának az ő attyaiknak cselédjekben: A Thóla fijai valának igen erős férjfiak az ő nemzetségek szerint, ezeknek pedig számok Dávid Király idejbéen huszonkét ezer és hatszáz vala.
+1Chr.7.3 | Az Uzzi fijai; Izráhja; és az Izráhja fijai Mikáel, Obádja, Joel, Issia, öten: kik mind főemberek valának.
+1Chr.7.4 | Kikkel valának az ő nemzetségek szerint, az ő attyaiknak cselédjek szerint hadakozó férjfiak harminczhat ezeren: mert sok feleségeik voltak, és azért sok fijaik is.
+1Chr.7.5 | ezeknek attyokfiaik is, Issakhárnak egész nemzetsége szerint erős férjfiak valának, nyolczvanhét ezeren szám szerint mindenestől.
+1Chr.7.6 | Benjámin fijai: Béla, Béker és Jediáel, hárman.
+1Chr.7.7 | Béla fijai: Esbon, Uzzi, Uzziel, Jérimot és Hiri, öt főemberek az ő nemzetségekben igen erősek, kik mikor rendel nemzetségek szerint megszámláltattak, voltak huszonkét ezeren és harmincznégyen.
+1Chr.7.8 | Béker fijai: Zémira, Joás, Eliézer, Eljoénai, Omri, Jeremót, Abija, Anatót és Alémet: ezek mindnyájan Béker fijai.
+1Chr.7.9 | Szám szerint pedig, az ő nemzetségeknek rendi szerint, az ő attyoknak cselédjekben erős főemberek találtattak húszezeren és kétszázan.
+1Chr.7.10 | Továbbá Jédiáel fija: Bilhán; Bilhán fijai: Jéus, Benjámin, Éhud, Kénaána, Zetán, Társis és Ahisahár.
+1Chr.7.11 | Ezek mind Jédiael fijai, az ő attyok nemzetségében főemberek és igen erősek, kik tizenhétezeren, és kétszázan mehetnek vala ki a viadalra.
+1Chr.7.12 | Ir fijai: Suppim és Huppim: Húsim Ahernek fija.
+1Chr.7.13 | Nafthali fijai: Jakhcziel, Gúni, Jéser, Sallum: Bilha fijai.
+1Chr.7.14 | Manasse fijai: Asriel, kit szüle az ő felesége. (Az ő ágyastársa pedig a Siriabeli asszony szüle Mákirt, a Gileád attyát.
+1Chr.7.15 | Mákir pedig vevé feleségűl Huppimnak és Suppimnak hugát, kinek neve Maáka.) A másiknak neve Sélofhád. A sélofhándnak leányai voltak.
+1Chr.7.16 | Maáka a Mákir felesége szüle fiat, kit neveze Péresnek; annak pedig öcssét Séresnek. Ennek fijai: Ulám és Rékem.
+1Chr.7.17 | Ulám fija: Bédán. Ezek a Gileád fijai, ki Mákir fija volt, ki Manasse fija volt.
+1Chr.7.18 | Az ő huga pedig Moléket szülé Ishodot, Abiézert, és Makhlát, és Sémidát.
+1Chr.7.19 | Sémidának fijai voltak: Ahián, Sékem, Likhi és Aniám.
+1Chr.7.20 | Efraim fijai pedig: Sútelákh, kinek fija Béred, ennek fija Táhát, ennek fija Elhada, ennek fija Táhát.
+1Chr.7.21 | Ennek fija Zábád, ennek fija Sutelákh és Ezer, és Elhád. És megölék ezeket a Gáthbeliek a földnek lakosai; mert alámentek vala, hogy a Gáthbeilieknek barmaikat elhajtanák.
+1Chr.7.22 | Efraim azért az ő attyok sokáig siratá őket, kihez elmennek vala az ő attyafiai és őtet vigasztalják vala.
+1Chr.7.23 | Béméne azért az ő feleségéhez, ki fogada méhében és szüle fiat: és nevezé Bériának, mivelhogy nagy keserűségben volt volna az ő háznépéért.
+1Chr.7.24 | Leányának neve Seére vala, ki megépíté mind az alsó s mind a felső Beth-hóront, Uzen-Seérát is.
+1Chr.7.25 | Réfah is ő fija, és Resef, ennek fija Théla, ennek fija Táhán.
+1Chr.7.26 | Ennek fija Laadán, ennek fija Ammihud, ennek fija Elisáma.
+1Chr.7.27 | Ennek fija Nún, ennek fija Jósué.
+1Chr.7.28 | Ezeknek pedig birodalmok és lakóhelyek Béthel és annak falui; napkeletre Naarán, napenyészetre Gézer és ennek falui, Sékem és ennek falui, szintén Gázáig, és ehez tartozó falukig.
+1Chr.7.29 | És a Manasse fijai birodalmok mellett birják vala ezekeet: Beth-seánt és ennek faluit, Thanákot és ennek faluit. Megiddot és ennek faluit, Dórt és ennek faluit. Ezekben laktak az Izráel fijának Józsefnek fijai.
+1Chr.7.30 | Áser fijai: Jimma, Jisva, Jisvi. Béria: és Sárah az ő hugok.
+1Chr.7.31 | Béria fijai: Héber és Malkhiel, ki volt Birzávit attya.
+1Chr.7.32 | Héber pedig nemzé Jaflétet, Sómert, Hótámot és Suát az ő hugokat.
+1Chr.7.33 | Jaflét fijai: Pásák, Bimhál, Asvát; ezek Jaflét fijai.
+1Chr.7.34 | Sómer fijai: Ahi és Róhega, Jehubba és Arám.
+1Chr.7.35 | Ennek pedig attyafiának Hélemnek fija vala Sófákh, Jimna, Séles és Amál.
+1Chr.7.36 | Sófákh fijai: Suákh, Harnéfer, Suál, Béri és Imra.
+1Chr.7.37 | Béser, Hód, Samma, Silsa, Ittrán és Beéra.
+1Chr.7.38 | Jéter fijai: Jéfunne, Pispa és Ara.
+1Chr.7.39 | Ulla fijai: Ara, Hanniel és Risja.
+1Chr.7.40 | Ezek mind Áser fijai főemberek az ő nemzetségekben, válogattattak, erősek a főembereknek is fejek; és megszámláltatván az ő nemzetségeknek rendi szerint viadalra, számok volt huszonhat ezer férjfiak.
+
+1Chr.8.1 | Benjámin pedig nemzé Bélát az ő elsőszülöttét, másodikat Asbélt, harmadikat Akhráhot.
+1Chr.8.2 | Negyedik Nóhát, és Ráját ötödiket.
+1Chr.8.3 | (Bélának fijai voltak: Adár, Géra és Abihúd.
+1Chr.8.4 | Abisua, Naámán, Ahóah.)
+1Chr.8.5 | Gérát, Sefufánt és Hurámot.
+1Chr.8.6 | Ezek az Ehud fijai: (Ezek voltak főemberek a Géba városban lakó nemzetség között, kiket költöztetének Manahátba.)
+1Chr.8.7 | Naámánt és Ahiját, és Gérát elköltözteté: Nemzé pedig Uzzát és Akhihúdot.
+1Chr.8.8 | Saharáim pedig nemzé a Moáb mezején, minekutánna azokat elhagyá az ő két feleségétől Húsimtól és Baarától.
+1Chr.8.9 | Nemzé, mondom, a Hódes nevű feleségétől Jobábot és Sibját, Mésát és Malkámot.
+1Chr.8.10 | Jéust is, Sobját és Mirmát. Ezek az ő fijai; főemberek az ő nemzetségekben.
+1Chr.8.11 | Húsimtól nemzé Abitúbot és Elpaált.
+1Chr.8.12 | Elpaál fijai: Eber, Miseám és Sémed: E rakatá Onot és Lódót s ennek faluit.
+1Chr.8.13 | Béria, Séma, (ezek voltak az Ajalonban lakozók attyaiknak Fejei, és ezek üzték vala el Gáthnak lakóit).
+1Chr.8.14 | Ahio pedig, Sasák, Jeremót.
+1Chr.8.15 | Zebádia, Arád, Ader,
+1Chr.8.16 | Mikáel, Isba, Jóha, Béria fijai.
+1Chr.8.17 | Zebádia, Mésullám, Hizki, Héber.
+1Chr.8.18 | Ismérai, Izlia és Jobáb; Elpaál fijai.
+1Chr.8.19 | Jákim pedig, Zikri, Zabdi,
+1Chr.8.20 | Eliénai, Silletai, Eliel:
+1Chr.8.21 | Adája, Berája és Simrát, Simei fijai.
+1Chr.8.22 | Jispán pedig, Eber, Eliel.
+1Chr.8.23 | Abdon, Zikri, Hanán,
+1Chr.8.24 | Hanánja, Elám, Anatótija,
+1Chr.8.25 | Ifdéja, Pénuel, Sesák fijai,
+1Chr.8.26 | Samsérai pedig, Sahárja, Atália.
+1Chr.8.27 | Jaarésia, Elia és Zikri, Jérohám fijai.
+1Chr.8.28 | Ezek voltak az atyáknak Fejei az ő nemzetségek szerint, és ezek laktak Jérusálemben.
+1Chr.8.29 | Gibeonban pedig laktak a Gibeonnak attya, kinek feleségének neve Maáka vala.
+1Chr.8.30 | És az elsőszülötte Abdon, azután Súr, Kis, Baál, Nádáb.
+1Chr.8.31 | Gédor, Ahio és Zéker,
+1Chr.8.32 | És Miklót, a ki nemzé Simámot: Ezek is az ő attyokfiainak ellenekben laktak Jérusálemben, az ő attyokfiaival.
+1Chr.8.33 | Nér pedig nemzé Kist: Kis nemzé Sault, Saul nemzé Jónatánt, Malkisuát, Abinádábot és Esbaált.
+1Chr.8.34 | Jónatán fija: Méribbaál: Méribbaál nemzé Mikát.
+1Chr.8.35 | Mika fijai: Pitón, Mélek, Tárea és Akház.
+1Chr.8.36 | Akház nemzé Jehoádát. Jehoáda pedig nemzé Alémetet és Azmávetet, és Zimrit: Zimri nemzé Mósát.
+1Chr.8.37 | Mósa pedig Binát, ennek fija Ráfa, ennek fija Elása, ennek fija Asel.
+1Chr.8.38 | Továbbá Aselnek voltak hat fijai, kiknek ezek neveik: Azrikám, Bókru, Ismáel, Seárja, Obádia és Hanán, ezek mind Asel fijai.
+1Chr.8.39 | Az ő attyafiának Eseknek fijai ezek: Ulám az ő elsőszülötte, Jéus második, és Elifélet harmadik.
+1Chr.8.40 | És voltak az Ulám fijai igen erős férjfiak, kézívesek, és sok fiakat és unokákat szaporítnak vala százig és ötvenig: Mind ezek a Benjámin fijai közzűl valók voltak.
+
+1Chr.9.1 | Fejenként azért az Izráel fijai megszámláltatattak vala nemzetségek szerint, a mint meg is irattattak az Izráel és Júdabeli Királyok könyvében, kik az ő sok gonsozságokért Babilóniába vitetének fogságra.
+1Chr.9.2 | A kik pedig elein laknak vala az ő jószágaikon s városaikban, ezek: Izráeliták, Papok, Léviták és Nétineusok.
+1Chr.9.3 | Mert Jérusálemben laktak a Júda fijai közzűl s Benjámin fijai közzűl. Efraim és Manasse fijai k valók.
+1Chr.9.4 | Utái, Ammihúd fija, ki Omri fija, ki Imri fija, ki Báni fija, a Péres fijai közzűl való, ki Júda fija vala.
+1Chr.9.5 | A Sláhiták közzűl, Asája, ki elsőszülött vala s ennek fijai.
+1Chr.9.6 | A Zérah fijai közzűl: Jéuel és az ő attyafiai hatszázan s kilenczvenen.
+1Chr.9.7 | A Benjámin fijai közzűl: Salu, Mésullám fija, ki Hodávia fija, ki Hasénua fija.
+1Chr.9.8 | Ibnéja, Jérohám fija, és Ela, Uzzi fija, ki Mikri fija, és Mésullám, Séfátja fija, ki Reuel fija, ki Ibnija fija vala.
+1Chr.9.9 | Ezeknek pedig attyokfiai, az ő nemzetségek szerint valának kilenczszázan és ötvenhatan; ezek fejenként igen főemberek vaának az ő attyok háznépe szerint.
+1Chr.9.10 | A Papok közzűl is: Jedája, Jéhojárib és Jákin.
+1Chr.9.11 | Azária, Hilkia fija, ki Mésullám fija, ki Sádok fija, ki Mérajót fija, ki Ahitubnak az Isten házának főgondviselőjnéek fija vala.
+1Chr.9.12 | És Adája Jérohám fija, ki Pashúr fija, ki Malkija fija: Maassai, Adiel fija, ki Jahzéra fija, ki Mésullám fija, ki Mésillémit fija, ki Immer fija.
+1Chr.9.13 | Ezeknek attyokfiai az ő attyok háznépe között igen főemberek, ezezr hétszáz hatvanan valának, erősek az Isten háza dogának munkájában.
+1Chr.9.14 | A Léviták közzűl Sémája, Hásub fija, ki Azrikám fija, ki Hasábia fija, a Mérári fijai közzűl.
+1Chr.9.15 | Bakbakkár, Héres és Galál: és Mattánia a Mika fija, ki Zikri fija, ki Asáf fija vala.
+1Chr.9.16 | Obádia a Sémája fija, Galál fija, ki Jéduton fija; és Bérékia, Asa fija, ki Elkána fija: ki lakik vala Nétofáti faluiban.
+1Chr.9.17 | Továbbá ajtónállók: Sallum, Akkúb, Talmon, Abimán, és ezeknek attyokfiai: Sallum pedig fő vala.
+1Chr.9.18 | És ennek mind ez ideig a Király kapuján vagyon állása napkelet felől, amazok ajtónállók a Lévitáknak rendek szerint.
+1Chr.9.19 | Sallum pedig a Kóré fija, ki Ebiásáf fija, ki Kórákh fija, és ennek rokonságai az ő attyának házából valók: tudniillik a Kóriták a szolgálatnak munkájában a Hajlék ajtajának őrizői valának, mint az ő attyaik az Úr seregében őrizték vala a Sátornak bémenetelit.
+1Chr.9.20 | Mikor Fineás az Eleázár fija azok előtt járó volna régen, kivel vala az Úr.
+1Chr.9.21 | Továbbá Zakariás a Meselémia fija a Gyülekezet sátorára való ajtónak őrizője.
+1Chr.9.22 | Mindenestől ezek választott ajtónállók voltak, kétszázan és tizenketten; kik az ő faluikban nemek szerint megszámláltattak volt; kiket Dávid rendelt volt a Sámuel Próféta az ő tisztekben.
+1Chr.9.23 | Miképen az ő attyok azért, azonképen a fiak őrizik vala renddel az Úr házának és a sátornak kapuit.
+1Chr.9.24 | Négy felé valának az őrizők; napkeletre, napnyugotra, északra és délre.
+1Chr.9.25 | És ezeknek attyokfiai, az ő faluikban valának, hogy minden hetednap amazokkal felmennének Jérusálembe bizonyos ideig.
+1Chr.9.26 | E négy Lévitákra bízatott vala, mind a kapunállóknak sámok, és őrizik vala a kamarákat és az Isten házának kincsét.
+1Chr.9.27 | És az Úrnak háza körűl hálnak vala, mivelhogy az őrzés ő tisztek volna; és minden reggel ők nyitják vala meg az ajtókat.
+1Chr.9.28 | És ő közzűlök némellyek az egyházi szolgálatra csinált edényekre viselnek vala gondot; mert mind ki, s mind bé, számán viszik vala azokat.
+1Chr.9.29 | Ugyanazok közzűl választattak vala némellyek másféle edényeknek gondviselésére, minden szent edényekhez is, némellyek a zsemlyéhez, borhoz, olajhoz, temjénhez és fűszerszámokhoz.
+1Chr.9.30 | A Papok fijai közzűl valók csinálják vala fűszerszámokból a drágakenetet is.
+1Chr.9.31 | Továbbá Mattitja a Léviták közzűl való, (ki elsőszülötte a Kóriták közzűl való Sallumnak) a serpenyőkre visel vala gondot.
+1Chr.9.32 | A Kéhátiták fijai és azoknak attyokfiai közzűl rendeltettek volt a szent kenyérnek gondviselésére, hogy minden Szombaton megkészítenék azt.
+1Chr.9.33 | Ezek közzűl valók valának az éneklők is, a Léviták közzűl az ő attyok cselédjének Fejei, kik szabadosok valának egyéb tiszttől az ő kamarájokban; mert éjjel és nappal szolgálattal tartoznak vala.
+1Chr.9.34 | Ezek a Léviták között az ő attyok háznépe közzűl fők voltak az ő nemzetségek szerint, és ezek laktak Jérusálemben.
+1Chr.9.35 | Gibeonban pedig laktak, a Gibeon attya Jéhiel, és az ő feleségének neve Maáka.
+1Chr.9.36 | Az ő elsőszülött fija Abdon, azután Súr, Kis, Baál, Nér és Nádáb.
+1Chr.9.37 | Gédor, Ahió, Zékária és Miklót.
+1Chr.9.38 | Miklót pedig nemzé Simámot, s ezek is az ő attyokfiainak ellenekben laktak Jérusálemben az ő attyokfiaival.
+1Chr.9.39 | Nér nemzé Kist, Kis pedig nemzé Sault, Saul Jónatánt, Málkisuát, Abinádábot és Esbaált.
+1Chr.9.40 | Jónaát fija Méribbaál; és Méribbaál nemzé Mikát.
+1Chr.9.41 | Mika fijai: Piton, Mélek és Táréa.
+1Chr.9.42 | Akház pedig nemzé Jahrát, Jahra nemzé Alémetet, Azmávetet, Zimrit, Zimri pedig nemzé Mósát.
+1Chr.9.43 | Mósa nemzé Bineát, ennek fija Réfája, ennek fija Elása, ennek fija Asel.
+1Chr.9.44 | Aselnek voltak hat fijai, kiknek ezek neveik: Azrikám, Bókru, Ismáel, Seárja, Obádia és Hanán: Ezek Asel fijai.
+
+1Chr.10.1 | A filiszteusok pedig hadakoznak vala az Izráel népével, és megfutamodék az Izráel a Filiszteusok előtt, és egynáhányan a sebek miatt is elhullának a Gilboa hegyén.
+1Chr.10.2 | Elérék pedig a Filiszteusok Sault és az ő fijait; és megölék a Filiszteusok Jónatánt, Abinádábot és Malkisuát, a Saul fijait.
+1Chr.10.3 | És megsúlyosodék Saul ellen a viadal, és találkozának ő reá az ívesek, kik nyilakkal meg is sebesíték őtet.
+1Chr.10.4 | És monda Saul az ő fegyverhordozójának: Vond ki fegyveredet, és verj által engem vele: mert ne talán eljőnek e körülmetéletlenek, és megcsúfolnak engemet. Nem akará pedig az ő fegyverhordozója: mert szertelen fél vala: Ragadá ezért Saul a maga fegyverét, és belé bocsátkozék.
+1Chr.10.5 | Látván pedig az ő fegyverhordozója, hogy Saul immár megholt volna, ő is a maga fegyverébe bocsátkozék s meghala.
+1Chr.10.6 | Meghala azért Saul és az ő három fijai, és egész háznépe is egyetemben meghala.
+1Chr.10.7 | Melly dolgot mikor megláttak volna az Izráel fijai, kik laknak vala azon a völgyön, hogy tudniillik ők megfutamodtak volna: és hogy Saul s az ő fijai megholtak volna: pusztán hagyák városaikat és elfutának. Akkor eljövének a Filiszteusok és azokba beszállának.
+1Chr.10.8 | Lőn pedig másodnap, eljövének a Filiszteusok, hogy a holtakat megfosszák: és megtalálák Sault és az ő fijait halva feküdvén a Gilboa hegyén.
+1Chr.10.9 | És őtet megfosztván, fejét elvevék és fegyvereit, s elküldözék a Filiszteusoknak minden tartományokra köröskörűl, hogy az ő bálványaiknak megmondanák, és a népnek.
+1Chr.10.10 | És feltevék az ő fegyvereit az ő isteneiknek templomában: fejét pedig a Dágon kápolnájában feltevék.
+1Chr.10.11 | Meghallván pedig mindnyájan a Jábes Gileádbeliek, a miket a Filiszteusok cselekedtek vala Saullal:
+1Chr.10.12 | Feltámadának fejenként az erős férjfiak, és elvivék Saulnak és az ő fijainak testeket: és Jábesbe vivén eltemeték azoknak csontjaikat egy tölgyfa alatt Jábesben, s böjtölének hetednapig.
+1Chr.10.13 | Meghala azért Saul az ő hamisságáért, mellyel az Urat igen megbántotta vala, azaz, az Úrnak igéje ellen vétkezett vala, mellyet meg nem őrízett vala, és hogy az ördöngöstől is tanácsot kérdett volna.
+1Chr.10.14 | És nem kérde tanácsot az Úrtól, emllyért őtet el is veszté, és adá az ő országát Dávidnak az Isai fijának.
+
+1Chr.11.1 | Gyűlének pedig mindnyájan az Izráeliták Dávidhoz Hebronba, mondván: Ímé te csontod és te tested vagyunk.
+1Chr.11.2 | Ennekelőtte is, még mikor Saul Király vala is, te viszed vala ki, s te hozod vala bé is az Izráelt: és ezt mondotta a te Urad Istened néked: Te legelteted az én népemet Izráelt, és te lészesz vezér az énm népemen az Izráelen.
+1Chr.11.3 | Elmenének azért mindnyájan az Izráelnek Vénei a Királyhoz Hebronba, és szövetséget tőn Dávid velek Hebronban az Úr előtt; és megkenék Dávidot a királyságra az Izráelen, az Úrnak Sámuel által való beszéde szerint.
+1Chr.11.4 | Elméne pedig Dávid és az egész Izráel Jérusálembe, ez a Jebus, (hol a föld népének lakosai közzűl való Jebuzeusok laknak vala.)
+1Chr.11.5 | És mondának a Jebus lakói Dávidnak: Ide bé nem jösz!. De megvevé Dávid a Sion várát, ez a Dávid városa:
+1Chr.11.6 | Mert ezt mondotta vala Dávid: Valaki legelőször a Jebuzeusokat megveréndi, utánnam Fő és Hadnagy lészen. Felméne azért legelőször Joáb a Séruja fija; és lőn Hdnaghgyá.
+1Chr.11.7 | Azután lakék Dávid a várban, azért nevezék azt Dávid városának.
+1Chr.11.8 | És megépíté Dávid a várost Millótól fogva mind körül: Joáb pedig megépíté a városnak maradékát.
+1Chr.11.9 | És szüntelen nevekedik vala Dávid: mert a seregeknek Ura vala ő vele.
+1Chr.11.10 | Ezek pedig erős férjfiak közzűl a Hadnagyok, kik Dávid mellett valának, kik erősen forgolódának vele az ő országáért az egész Izráellel, hogy Királlyá választanák őtet az Izráelen, az Úrnak beszéde szerint.
+1Chr.11.11 | E pedig az erős férjfiaknak számok, kik Dávid körül valának: Jásobéám, Hakhamoni fija, harmincz férjfiúnak előljárója: ez emelte vala fel az ő kopjáját háromszáz ellen, kiket mind egyszer meg is sebesíte.
+1Chr.11.12 | Ezután Eleázár, az Ahóhita Dodó fija; ki a három erősek közzűl vala.
+1Chr.11.13 | E vala Dáviddal Pasdamimban, a hová gyültek vala a Filiszteusok viadalra, melly mezőnek darabja árpával vala tele, s a lakos nép elfutott vala a Filiszteusok előtt.
+1Chr.11.14 | És megállottak vala ott a darab mezőnek közepén, mellyet meg is szabadítának, és megverék a Filiszteusokat; és az Úr megszabadítá azokat nagy szabad1tással.
+1Chr.11.15 | Továbbá mikor alámentek volna hárman a haarmincz Főemberek közzűl Dávidhoz, a kősziklához az Adullám barlangjába; a Filiszteusok pedig tábort járának a Réfaim völgyben.
+1Chr.11.16 | (Dávid pedig akkor vala az ő erősségében, és a Filiszteusok hada vala Bethlehemnél.)
+1Chr.11.17 | Kíváná Dávid vizet, s monda: Óh ki adhatna nékem innom a Bethlehem kapuja előtt való forrásnak vizéből!
+1Chr.11.18 | Általvágák azért a három fő erős férjfiak magokat a Filiszteusok táborán, és vizet merítének a Bethlehem forrásából, melly vala a kapu előtt, és vivék Dávidnak: de nem akara Dávid inni, hanem kitölté azt az Úrnak.
+1Chr.11.19 | És monda: Távoztassa el tőlem az én Istenem, hogy ezt cselekedném: Avagy ezeknek véreket innám é meg, kik életeket halálra vetették? Mert ők ezt életek veszedelmével hozták: És semmiképen nem akara inni. Ezt cselekedék a három erős férjfiak.
+1Chr.11.20 | És Abasai a Joáb attyafia, ő vala e háromnak előljárójok: e ragadott vala dárdát háromszáz ellen, kiket megsebes1te: és ő híres és nevezetes vala a három között.
+1Chr.11.21 | A három közzűl a kettőnél becsületesb vala, azért volt azoknak előljárójok; de azért ő magaaa nem ér vala a hárommal.
+1Chr.11.22 | Benája a Jójada fija, erős férjfiúnak fija, ki nagy dolgokat cselekedett vala, és vala Kábséelbeli: ő ölte vala meg a két erős Moábitákat, ugyanez ment vala alá, és megölte vala az oroszlánt a veremben havas időn.
+1Chr.11.23 | Ugyanez ölé meg az Égyiptombeli férjfiakat, kinek magassága öt sing vala, és ollya dárda vala az Égyiptombeli férjfiúnak kezében, mint a szövö zugoly. Szembe szállott vala pedig egy pálczával s kiragadá az Égyiptombeli ember kezéből a dárdát, és az ő maga dárdájával általveré.
+1Chr.11.24 | Ezeket cselekedte Benája a Jójada fija, ki is vala nevezetes a három erősek között.
+1Chr.11.25 | A harmincz közzűl ímé tiszteletes vala ő, de nem ér vala a hárommal; annakokáért Dávid Hadnaggyá tevé őtet, az ő szavát halgató vitézeken.
+1Chr.11.26 | A seregnek pedig erősei közzűl valók ezek: Asael a Joáb attyafia; Elhanán, Dódónak fija, ki Bethlehembeli vala.
+1Chr.11.27 | Haróritból való Sammót, Pélonból való Héles.
+1Chr.11.28 | tékoabeli Hira, Ikkés fija, Anatótbeli Abiézer.
+1Chr.11.29 | Húsatbeli Sibbékai, Ahóhitbeli Ilai.
+1Chr.11.30 | Nétofátbeli Maharai, Nétofátbeli Héled, Bahána fija.
+1Chr.11.31 | Ittai, Ribai fija, a Benjámin fijainak Gibea városokból való; Pirátonbeli Benája.
+1Chr.11.32 | Húrai, a Gaás völgyéből való: Arbátbeli Abiel.
+1Chr.11.33 | Baharumi Azmávet, Saálbonitbeli Eliáhba.
+1Chr.11.34 | Gisonbeli Hásem fijai közzűl, Jónathán, Hararitbeli Ságé fija.
+1Chr.11.35 | Hararitbeli Ahiám, Sákár fija: Elifál, Ur fija.
+1Chr.11.36 | Mekerátbeli Héfer, Pélonbeli Ahija.
+1Chr.11.37 | Kármelből való Hésró, Naárai, Ezbái fija.
+1Chr.11.38 | Jóel, Nátán attyafia; Mibhár, Géri fija.
+1Chr.11.39 | Sélek, Ammon nemzetségéből való: Berótbeli Naárai, Joábnak ki Séruja fija vala, fegyverhordozója.
+1Chr.11.40 | Itrébeli Hira, Itrébeli Gáreb.
+1Chr.11.41 | Hitteus Uriás, Zabád, Ahlai fija.
+1Chr.11.42 | Hadina, a Rúben nemzetségéből való Siza fija, ki a Rúbenitáknak Hadnagyok vala, és vele harminczan valának.
+1Chr.11.43 | Hanán, Maaka fija, és Mitnibeli Jósafát.
+1Chr.11.44 | Asterátbeli Uzzija; Sáma és Jéhiel, Aroerbeli Hótám fija.
+1Chr.11.45 | Jidiháel, Simri fija, és az ő attyafia Joha Tisibeli.
+1Chr.11.46 | Mihávimbeli Eliel, Jéribai és Jósávia, Elnaám fija, és Jitma, Moáb nemzetéből való.
+1Chr.11.47 | Eliel és Obed, és Jaásiel, Mésóbájából valók.
+
+1Chr.12.1 | Ezek pedig azok, a kik mentek volt Dávidhoz Siklágba, mikor Saultóla Kis fijától való félelem miatt még számkivetésben volna, kik amaz erősekkel az ő hadakozásában segítői voltak.
+1Chr.12.2 | Ívesek, kik mind jobb, mind balkézre kővel hajítanak vala, és nyillal lőnek vala, kik a Saul attyafiai k valók valának, Benjámin nemzetéből.
+1Chr.12.3 | Hadnagy vala Ahiézer és Joás, a Gibeabeli Semáa fijai: és Jézel és Pélet, Azmávet fijai; Beráka és Jéhu Anatótbeli.
+1Chr.12.4 | És a Gibeonbeli Ismája a harmincz közzűl való eerős, kiknek előljárójok is vala; Irméja, Jaháziel, Johjanán és Gederátbeli Józabád.
+1Chr.12.5 | Elúzai, Jérimót, Behália, Semária és Hárufbeli Sefátja.
+1Chr.12.6 | Elkána, Isija, Azaréel, Jóézer, és a Kóré nemzetéből való Jásobéám.
+1Chr.12.7 | Joéla és Zebádja, a Gédobról való Jérohám fijai.
+1Chr.12.8 | A Gáditák közzűl is hajlának Dávidhoz, mikor volna a pusztában az erősségben, erős és hadakozó férjfiak, paizsosok, dárdások: kiknek orczájok mint az oroszlánnak orczája, és hasonlók a hegen lakozó vadkecskékehez a gyorsaságra.
+1Chr.12.9 | Ézer az első, Obádia második, Eliáb harmadik.
+1Chr.12.10 | Mismanna negyedik, Jirméja ötödik.
+1Chr.12.11 | Aftai hatodik, Eliel hetedik.
+1Chr.12.12 | Nyolczadik Johanán, kilenczedik Elzabúd.
+1Chr.12.13 | Tizedik Jirméja, tizenegyedik Makbánnai.
+1Chr.12.14 | Ezek voltak főembereka seregben a Gád fijai közzűl: egy, a ki kissebb vala, százért vala, a nagyobbik ezerért.
+1Chr.12.15 | Ezek voltak, kik a Jordánon általmentek volt az első hónapban, noha az árvíz a partot felűlmulta volna, és elüzték vala mind azokat, kik a völgyet napkelet felől és napnyugot felől lakják vala.
+1Chr.12.16 | Jövének Dávidhoz a Benjámin és a Júda fijai közzűl is, szintén az erősségig, mellyben Dávid akkor vala.
+1Chr.12.17 | És kiméne Dávid elejekbe, és mond nékik: Hogyha békességnek okáért jöttök hozzám, hogy segítségemre lennétek; az én szívem egy lészen ti veletek; ha pedig meg akartok csalni, hogy eláruljatok az én ellenségeimnek, holott semmi hasmisságomat nem esmérem: lássa meg a mi atyáinknak Istene, és titeket büntessen meg.
+1Chr.12.18 | A lélek pedig felindítá Amásait a harmincznak Fejedelmét, s monda: Óh Dávid, tiéid vagyunk, és te veled lészünk Isai fija! békesség, békesség néked, békesség a te segítőidnek is, mert megsegít téged a te Istened! Magához fogaá azért őket Dávid, és főemberekké tevé a seregben.
+1Chr.12.19 | ennekfelette a Manasséból is hajlának Dávidhoz, mikor ment volna a filiszteusokkal együtt Saulra; de nem seegéllék őket; mert tanácsot tartván felőlök, haza küldék Dávidot a Filiszteusok Fejedelmei, mondván: A mi fejünk veszésével fog visszamenni az ő urához Saulhoz.
+1Chr.12.20 | Mikor, mondom, visszatérne Siklágba, hajlának ő hozzá a Manasse fijai közzűl Adna, Józabád, Jediháel, Mikáel, Józabád, Elihu és Sillétai, kik a Manasse nemzetségéből való vitézeknek Hadnagyai voltak.
+1Chr.12.21 | És ezek voltak Dávidnak segítséggel az ellenségnek seregei ellen: mert fejenként mind válogatott erős vitézek valának, és főhadnagyok voltak a seregben.
+1Chr.12.22 | Annakfelette minden napon mennek vala Dávidhoz, hogy segítségére lennének néki, míg az ő népe megsokasulna, mint az Istennek tábora.
+1Chr.12.23 | Ezek pedig számok a viadalhoz készült Hadnagyoknak, kik Dávidhoz mentek vala Hebronba, hogy őtet Saul helyett az országban Királlyá választanák, az Istennek igéreti szerint.
+1Chr.12.24 | A Júda fijai közzűl, kik viselnek vala paizst és kopját, hatezer és nyolczszáz vala, kik a viadalhoz készültek vala.
+1Chr.12.25 | A Simeon fijai közzűl erős férjfiak a viadalra, hétezer és száz.
+1Chr.12.26 | A Lévi fijai közzűl, négyezer és hatszáz vala.
+1Chr.12.27 | Jójada is, ki az Áron fijai között Fejedelem vala, és ő vele háromezer és hétszáz.
+1Chr.12.28 | És az ifjú Sádók, ki igen erős vala, és az ő attya házából huszonkét Főemberek.
+1Chr.12.29 | A Benjámin fijai közzűl, kik Saul attyafiai valának, háromezer: mert még azok közzűl sokan erősen őrizik vala a Saul házát.
+1Chr.12.30 | Az Efraim fijai közzűl húszezer vala és nyolczszáz, igen erősek, kik az ő nemzetségekben igen nevezetesek valának.
+1Chr.12.31 | Manassénak pedig félnemzetségéből tizennyolczezer, kik egyenként válogattattak voltak, hogy elmenének, és Dávidot Királlyá választanák.
+1Chr.12.32 | Az Issakhár fijai közzűl, kik az időknek alkalmatosságát tudják vala, annyira hogy jól tudnák, az Izráel népének mihez kellene magát tartani, főemberek kétszázan; és mind azoknak attyokfiai az ő beszédekhez hallgatnak vala.
+1Chr.12.33 | A Zebulon fijai közzűl a harczra kimehetők, minden hadiszerszámokkal felkészültek, valának ötvenezeren: készek a viadalra állhatatos szívvel.
+1Chr.12.34 | A Nafthali nemzetségéből ezer Főember vala; és ő velek paizzsal, s kopjával harminczhétezer vala.
+1Chr.12.35 | A Dániták közzűl, kik a viadalhoz készek valának, huszonnyolcz ezeren voltak és hatszázan.
+1Chr.12.36 | És az Áser fijai közzűl, a hadakozók, és az ütközethez készek, negyvenezeren valának.
+1Chr.12.37 | A Jordánon túl lakozók közzűl, azaz, a Rúbeniták, gáditák, és a Manasse nemzetségének fele közzűl, minden viadalhoz való szerszámokkal egyetemben jöttek százhúszezeren.
+1Chr.12.38 | Fejenként ezek hadakozó férjfiak, harczrendelésnek tudói, tiszta szívvel mentek vala Hebronba, hogy Dávidot az egész Izráel népén Királlyá választanák, sőt ezeken kivűl is, az egész Izráel fijai, egy szívvel valának, hogy Dávidot Királyságra választanák.
+1Chr.12.39 | És lőnek ott Dáviddal harmadnapig, és ezsnek s isznak vala; mert az ő attyokfiai készitettek vala nékik élést;
+1Chr.12.40 | Sőt azok is, a kik ott szomszédságban laknak vala. Issakhárig, Zebulonig, és Nafthaliig, hoznak vala kenyereket szamarakon, tevéken, öszvéreken és ökrökön, eleséget, lisztet, figét, asszúszőlőt, bort, olajt, vágóbarmokat, juhokat, számtalan sokat: mert az Izráel nagy örömben vala.
+
+1Chr.13.1 | Tanácsot tarta pedig Dávid az Ezeredesekkel, Századosokkal és mind a Hadnagyokkal.
+1Chr.13.2 | És monda Dávid az egész Izráel népének: Ha néktek tetszik, és ha a mi Urunktól Istenünktől vagyon: küldjünk el széllyel a mi több atyánkfiaihoz is, az Izráelnek minden tartományaira; és azokkal egybe a Papokhoz s a Lévitákhoz az ő városaik és hostátjaik szerint, hogy ők is gyűljenek hozzánk.
+1Chr.13.3 | Hogy hozzák meg a mi Istenünknek ládáját mi hozzánk; mert a Saul idejében mi azt meg nem kerestük.
+1Chr.13.4 | És monda az egész sokaság, hogy bátor úgy cselekednék:mert igaznak láttaték e dolog mind a sokaság előtt.
+1Chr.13.5 | Öszvegyüjté azért Dávid mind az Izráel népét Égyiptomnak Nílus folyóvizétől fogva szintén Hámátig, hogy az Urnak ládáját elhoznák Kirját-Jeárimból.
+1Chr.13.6 | Felméne azért Dávid és vele az Izráel sokasága Baalába vagy Kirját-Jeárimba, melly Júdában vagyon, hogy onnan elhoznák az Úr Istennek ládáját, ki a két Kérubimok között ül, melly az ő nevéről neveztetik.
+1Chr.13.7 | És helyhezteték az Isten ládáját az Abinádáb házából egy új szekérre: Uzza pedig és Ahió vezetik vala a szekeret.
+1Chr.13.8 | Dávid pedig és az Izráelnek minden népe az Isten előtt teljes erejekből éneklésekben, hegedűlésekben, dícséretekben, dobolásokban, czimbalomverésben és kürtölésekben valának foglalatosok.
+1Chr.13.9 | Mikor pedig jutottak volna a Kidon mezejére, Uzza veté kezét reá, hogy megtartaná a ládát; mert az ökrök félre tértek vala.
+1Chr.13.10 | És az Istennek haragja felgerjede Uzza ellen, és őtet megveré, hogy kezét vetette volna a ládára, s meghala ugyan ott az Isten előtt.
+1Chr.13.11 | Azért magában igen megbúsula Dávid, hogy az Úr Uzzát megölte volna: annakokáért azt a helyet mind e mai napig nevezik Péres Uzzának.
+1Chr.13.12 | És Dávid az napon megrettene az Istentől, mondván: Miképen merjem hozzám bévinni az Isten ládáját.
+1Chr.13.13 | És nem vivé bé Dávid magához a ládát a Dávid városába, hanem téríté azt a Gitteus Obed-Edom házához:
+1Chr.13.14 | És volt az Isten ládája Obed-Edom házában három hónapig; és megáldá az Úr Obed-Edom házát, és mindenét valamije vala.
+
+1Chr.14.1 | Külde pedig Hírám, Tírusnak Királya Dávidhoz követeket: és czédrusfákat, kőmíveseket, ácsmestereket, hogy néki házat csinálnának:
+1Chr.14.2 | Megesméré azért Dávid, hogy az Úr őtet megerősítette volna a Királyságban az Izráel népén, mivel hogy igen felmagasztaltatott vala az ő országa az ő népéért az Izráelért.
+1Chr.14.3 | Vőn pedig Dávid mégis több feleségeket Jérusálemben, és nemze mégis több fiakat és leányokat.
+1Chr.14.4 | És ezek neveik azoknak, kik születtek néki Jérusálemben: Sammua, Sobáb, Nátán és Salamon.
+1Chr.14.5 | Ihhár, Elisua és Elpélet.
+1Chr.14.6 | Nógah, Néfeg és Jáfia.
+1Chr.14.7 | Elisáma, Beheljada és Elifélet.
+1Chr.14.8 | Megtérvén pedig a Filiszteusok, hogy Dávid megkenettetett vona a Királyságra az egész Izráel népén, fejenként felindulának a Filiszteusok, hogy Dávidot megkeresség. Melly dolgot mikor Dávid meghallott volna, azonnal kiszálla elekikbe.
+1Chr.14.9 | A Filiszteusok pedig eljutánakés a Réfaim völgyében mind elszéledének.
+1Chr.14.10 | Dávid azért tanácsod kérede az Istentől, mondván: Reájok induljak é a Filiszteusokra, és őket kezembe adod é? És monda néki az Úr: Menj fel reájok, és őket kezedbe adom.
+1Chr.14.11 | Felmenének azért Baál-perásimba, és ott Dávid őket igen megveré, és monda: Az Isten eloszlatá az én ellenségeimet az én kezem miatt, mint a vizet; azért nevezék azt a helyet Baál-perásimnak.
+1Chr.14.12 | És ott hagyák az ő bálvány isteneiket, és Dávid megparancsolá, és mind megégeték azokat.
+1Chr.14.13 | Ismét feltámadának a Filiszteusok, és azon völgyön elszéledének.
+1Chr.14.14 | Azért Dávid ismét tanácsot kérde Istentől, és monda az Isten néki: Utánnok ne menj fel; hanem őket vedd körűl, és menj reájok a szederjfák ellenéről.
+1Chr.14.15 | És mikor hallándod valami indulásnak dobogását a szederjfák tetéjén: akkor indulj reájok a vidalra: mert az Isten akkor megyen ki te előtted, hogy megverje a Filiszteusok táborát.
+1Chr.14.16 | Dávid azért szintén úgy cselekedék, a mint néki Isten meghagyta vala, és vágák a Filiszteusok táborát Gibeontól fogva szintén Gézerig.
+1Chr.14.17 | És Dávidnak kiméne híre neve minden földnek szegeletire, és az Úr a Dávid hírével megrettente minden Pogányokat.
+
+1Chr.15.1 | Csináltata pedig Dávid magának házakat az ő városában: és píttete helyet az Isten ládájának, és annak sátort vonata.
+1Chr.15.2 | Akkor monda Dávid: Nem szabad senkinek hordozni az Isten ládáját, hanem csak a Lévitáknak: mert az Úr őket választotta, hogy hordozzák az Isten ládáját, és néki szolgáljanak mind örökké.
+1Chr.15.3 | Gyüjteté azért Dávid Jérusálembe mind az egész Izráel népét, hogy az Úr ládáját az ő helyére vitetné, mellyet néki csináltatott vala.
+1Chr.15.4 | Öszvegyüjteté Dávid az Áron fijait is és a Lévitákat.
+1Chr.15.5 | A Kéhát fijai között vala fő Uriel, és az ő attyafiai százhuszan valának.
+1Chr.15.6 | A Mérári fijai között Asája fő, és az ő attyafiai kétszázan s húszan valának.
+1Chr.15.7 | A Gerson fijai között Jóel fő, és az ő attyafiai százan s harminczan valának.
+1Chr.15.8 | Az Elisáfán fijai között Sámája fő, és az ő attyafiai kétszázan valának.
+1Chr.15.9 | A Hebron fijai között fő Eliel és az ő attyafiai nyolczvanan valának.
+1Chr.15.10 | Az Uzziel fijai között fő Amminádáb, és az ő attyafiai száz tizenketten avalának.
+1Chr.15.11 | Hivatá azért Dávid Sádok és Abjatár Papokat, a Léviták közzűl pedig Urielt, Asáját, Jóelt, Sémáját, Elielt és Amminádábot.
+1Chr.15.12 | És monda nékik: Ti vagytok a Léviták attyainak előljárói: Szenteljétek meg magatokat s a ti atyátokfiait, és vigyétek az Izráel Urának Istenének ládáját e helyre, mellyet készitettem néki:
+1Chr.15.13 | Mert mivelhogy eleitől fogva nem miveltétek ezt, a mi Urunk Istenünk eloszlatott minket, mert nem kerestük őtet a tőle szabott rendtartás szerint.
+1Chr.15.14 | Megszentelék azért magokat először a Papok és a Léviták, hogy vinnék az Izráel Urának Istenének ládáját.
+1Chr.15.15 | És felvevék a Lévitáknak fijai az Isten ládáját, a szerint, a mint Mózes meghagyta volt az Úrnak beszéde szerint, vállokra a rudakkal egybe, mellyek abban valának.
+1Chr.15.16 | Parancsola ennekfelette Dávid a fő Lévitáknak, hogy válogatnának az ő attyokfiai közzűl éneklőket éneklő szerszámokkal egyetemben, tudniillik náblumokkal, hegedűkkel és czimbalmokkal, hogy énekelnének felszóval nagy örömmel.
+1Chr.15.17 | Választák azért a Léviták Hémánt a Jóel fiját: és az ő attyafia közzűl Asáfot a Berekiéás fiját, és a Mérári fijai közzűl, kik azoknak attyokfiai valának Etánt a Kusája fiját.
+1Chr.15.18 | És ő velek egybe az ő attyokfiai másod renden, Zakariásm Bén, Jeáziel, Semmirámot, Jéhiel, Unni, Eliáb, Benája, Maaséja, Mattithja, Eliféle, Miknéja, Obed-Edom és Jehiel, ajtónállók valának.
+1Chr.15.19 | Éneklők pedig: Hémán, Asáf és Etán, réz czimbalmokkal zengedeznek vala.
+1Chr.15.20 | Zakariás, Aziel, Semirámot, Jéhiel, Unni, Eliáb, Maaséja és Benája, vékony szavú náblumokkal énekelnek vala.
+1Chr.15.21 | Mattithja, Eliféle, Miknéja, Obed-Edom, Jéhiel és Azaziás, hegedűlnek vala öreg szavú hegedűkkel.
+1Chr.15.22 | Kéniás pedig a Léviták Fejedelme, a prófétálásban fő vala, mivelhogy tudós volna.
+1Chr.15.23 | Berekiás és Elkána a Láda előtt való ajtónállók valának.
+1Chr.15.24 | Sébániás pedig és Jósafát, Nétánéel, Amásia, Zakariás Benája és Eliézer Papok kürtölnek vala az Isten ládája előtt: Obed-Edom és Jéhija, kik kapunállók valának, a láda után mennek vala.
+1Chr.15.25 | A kik pedig viszik vala és költöztetik vala az Úr szövetségének ládájátaz Obed-Edom házából nagy örömmel, ezek valának: Dávid, az Izráelnek Vénei és Fejedelmei.
+1Chr.15.26 | Lőn pedig, mikor az Isten felsegéllette volna a Lévitákat, kik az Úr szövetségének ládáját viszik vala, ezokáért áldozának hét tulokkal, és hét kossal.
+1Chr.15.27 | Dávid pedig bíborból csinált ruhába öltözvén: és mind a Léviták, kik a ládát viszik vala, az éneklők is, és Kénániás, ki fő vala az éneklésben, énekelnek vala, (Dávidon pedig vala gyolcsból csinált Efód.)
+1Chr.15.28 | És mind az Izráel népe viszik vala az Úr szövetségének ládáját nagy örömmel, kürtöknek, trombitáknak, czimbalmoknak, hegedűknek és náblumoknak felható zengésében.
+1Chr.15.29 | Mikor pedig immár az Úr szövetségének ládája jutott volna szintén a Dávid városához, és Mikál a Saul leánya kitekintvén az ablakon, látt volna hogy Dávid Király tánczolna és vígadna szívében megútálá őtet.
+
+1Chr.16.1 | Mikor azért bévitték volna az Isten ládáját, és helyheztették volna azt a sátor közepén, mellyet Dávid annak felvonatott vala: áldozának egészen égő és engesztelőáldozatokkal az Isten előtt.
+1Chr.16.2 | És mikor Dávid elvégezte volna az egészen égőáldozatot, és az engesztelőáldozatot, az Úrnak nevében megáldá a népet.
+1Chr.16.3 | És osztogata minden Izráelitának, mind férjfiúnak s mind asszonynak, egy-egy lepényt és egy-egy darab húst és egy-egy palaczk bort.
+1Chr.16.4 | Rendele ennekfelette az Úr ládája eleikbe a Léviták közzűl szolgákat, kik hirdetnék, tisztelnék és dícsérnék az Izráelnek Urát Istenét.
+1Chr.16.5 | Asáf fő vala, ő utánna másod renden Zakariás. Jéhiel, Semirámót, Jékhiel, Mattithja, Eliáb, Benája és Obed-Edom: Jéhiel pedig a náblumokkal és hegedűkkel, Asáf czimbalmokkal énekel vala.
+1Chr.16.6 | Továbbá Berája és Jaháziel Papok kürtölnek vala szűntelen az Isten szövetségének ládája előtt.
+1Chr.16.7 | Akkor azon napon legelőször Dávid ez Éneket adáa az Úrnak dícséretére, Asáfnak és az ő attyafiainak kezekbe.
+1Chr.16.8 | Tiszteljétek az Urat, hívjátok segítségűl az ő nevét, hirdessétek minden népek között az ő nagy dolgait.
+1Chr.16.9 | Énekeljetek néki, örvendezzetek néki, szóljatok minden csudálatos dolgairól.
+1Chr.16.10 | Dicsekedjetek az ő szent nevében, örvendezzen szívek azoknak, kik az Urat keresik.
+1Chr.16.11 | Keressétek az Urat és az ő hatalmasságát; keressétek az ő orczáját szüntelen.
+1Chr.16.12 | Emlékezzetek meeg örökké az ő csudálatos dolgairól, mellyeket cselekedett, az ő csudáiról, és az ő szájának ítéletiről.
+1Chr.16.13 | Óh Izráelnek, ő szolgájának magva! Jákóbnak ő választottjának fijai!
+1Chr.16.14 | Ez a mi Urunk Istenünk, az ő ítéletei mind e széles földön vagynak.
+1Chr.16.15 | Emlékezzetek meg örökké az ő szövetségéről és az ő beszédéről, mellyet parancsolt, ezer nemzetségig.
+1Chr.16.16 | Mellyet szerzett Ábrahámmal; és esküvéséről emlékezzetek, mellyet szóla Izsáknak.
+1Chr.16.17 | Mellyet megerősített Jákóbnak örök végzéssel, Izráelnek örökké való szövetséggel.
+1Chr.16.18 | Mondván: A Kanaán földét néked adom, hogy legyen néktek örökségtek.
+1Chr.16.19 | Jóllehet kevesen volnátok, mindenestől igen kevesen, és zsellérek azon a földön;
+1Chr.16.20 | Mert járnak vala egyik nemzetségtől a másikhoz, és egyik országból más országba:
+1Chr.16.21 | Nem engedé mindazáltal senkinek őket bántani, sőt még a Királyokat is megbünteté érettek.
+1Chr.16.22 | Ezt mondván: Az én megkeneetteimeet ne bántsátok, Prófétáimnak se ártsatok.
+1Chr.16.23 | Mind ez egész föld énekeljen az Úrnak, napról napra hirdessétek az ő szabadítását.
+1Chr.16.24 | Beszéljétek a Pogányok között az ő dicsőségét, minden népek között az ő csudálatos dolgait;
+1Chr.16.25 | Mert nagy az Úr és igen dícsérendő, és rettenetes minden istenek felett:
+1Chr.16.26 | Mert a pogányoknak minden isteneik csak bálványok: de az Úr termettte az egeket.
+1Chr.16.27 | Dicsőség és tisztesség vagyon ő előtte, erősség és vígasság az ő helyén.
+1Chr.16.28 | Adjatok az Úrnak népeknek nemzetségei, adjatok, mondom, az Úrnak dicsőséget és erősséget!
+1Chr.16.29 | Adjatok az Úr nevének dicsőséget: hozzatok ajándékokat és jöjjetek eleibe, hajtsátok meg magatokat az Úrnak az ő szentségének ékes helyén.
+1Chr.16.30 | Rettegjen mind az egész föld az ő orczájától; a föld is megerősíttetik, hogy meg ne induljon.
+1Chr.16.31 | Örüljenek az egek és örvendezzen a föld, és mondják a Pogányok között: Uralkodik az Úr!
+1Chr.16.32 | Zengjen a tenger, minden benne valóval egybe; örvendezzen a mező, minden benne valólva egybe.
+1Chr.16.33 | Akkor örvendezi kezdnek az erdőnek fái az Úr előtt, mikor eljövénd megítélni a földet.
+1Chr.16.34 | Tiszteljétek az Urat: mert igen jó, mert örökkévaló az ő irgalmassága.
+1Chr.16.35 | És mondjátok: Tarts meg mindket, mi szabadító Istenünk, gyüjts öszve minket, és szabadíts meg a Pogányok közzűl, hogy a te szent nevedet tisztelhessük, dicsekedhessünk a te dícséretedben!
+1Chr.16.36 | Áldott legyen az Izráelnek Ura Istene öröktől fogva mind örökké: És mondja a sokaság, Ámen! Dícséret az Úrnak!
+1Chr.16.37 | Hagyá pedig ott Dávid az Úr szövetségének ládájánál Asáfot és az ő attyafiait, hogy a láda előtt szüntelen minden napon szolgálnának.
+1Chr.16.38 | Obed-Edomot és Hósát, ezeknek hatvannyolcz attyokfiaival egybe, Obed-Edomot, mondom, a Jéduton fiját, és Hósát hagyá ajtónállóknak.
+1Chr.16.39 | Sádók Papot pedig és az ő Pap attyafiait, az Úr sátora előtt hagyá a magasságban, melly vala Gibeon hegyén;
+1Chr.16.40 | Hogy áldoznának az Úrnak szüntelen tüzes áldozattal a tüzes áldozatnak oltárán minden reggel és estve, és hogy mind a szerint cselekednének a mint meg volna írattatva az Úr törvényében, mellyet parancsolt vala az Izráelnek.
+1Chr.16.41 | Hémánt is és Jédutunt velek hagyá, és többeket is választva, kik nevek szerint megneveztettek, hogy az Urat dícsérnék: mert az ő irgalmassága örökkévaló.
+1Chr.16.42 | Ezekkel, mondom, hagyá Hémánt és Jédutunt kürtökkel, czimbalmokkal és egyéb zengő szerszámokkal: A Jédutun fijait pedig kapunállókká tevé.
+1Chr.16.43 | Azért az egész sokaság eloszla, kiki mind házához: Dávid pedig megtére, hogy az ő háznépét is megáldaná.
+
+1Chr.17.1 | Lőn pedig, mikor Dávid az ő házában laknék, monda Nátán Prófétának: Ímé én czédrusfából csinált házban lakom, az Úr szövetségének ládája pedig vagyon sátor alatt.
+1Chr.17.2 | Akkor monda Nátán Dávidnak: Valami vagyon a te szívedben, cselekedd meg: mert az Isten veled vagyon.
+1Chr.17.3 | Azon éjjel pedig lőn az Istennek szava Nátánhoz, mondván:
+1Chr.17.4 | Menj el és mond meg az én szolgámnak Dávidnak: Ezt mondja az Úr: Te nem csinálsz nékem lakni való házat;
+1Chr.17.5 | Mert nem laktam én attól fogva házban, miolta az Izráel fijait kihoztam, mind e mai napig: hanem egy hajlékból más hajlékba mentem; sátorból sátorba.
+1Chr.17.6 | A melly helyeken jártam az Izráel népével, szólottam é vagy egyszer valakinek az Izráel Bírái közzűl, (kiknek parancsoltam vala, hogy az én népemet legeltetnék,) mondván: Miért nem csináltatok nékem czédrusfából házat?
+1Chr.17.7 | Most azért ezt mondjad az én szolgámnak Dávidnak: Ezt mondja a seregeknek Ura: Én választálak téged a juhok mellől a pásztori házacskából, hogy lennél Vezére az én népemnek az Izráelnek;
+1Chr.17.8 | És veled voltam mindenütt valahová mentél, minden ellenségeidet is a te orczád elől elvesztettem, ennekfelette olly hírt nevet szerzettem néked, a minémű hírek vagyo a hatalmasoknak, a kik vagynak a földön.
+1Chr.17.9 | Lakóhelyet is adtam az én népemnek az Izráelnek, és elplántálám őtet; és lakja az ő helyét és többé helyéből ki nem mozdíttatik s nem sanyargattatik a hamisságnak fijaitól mint ez előtt.
+1Chr.17.10 | És az időtől fogva, miolta megparancsoltam vala, hogy Bírák lennének az én népemen az Izráelen; minden te ellenségeidet megalázám, és ezt is jelentém néked, hogy az Úr házat épít néked.
+1Chr.17.11 | És lészen, mikor bételjesedéndenek a te életednak napjai, hogy a te atyáidhoz elmenj; a te magodat feltámasztom te utánnad, melly lészen a te fijaid közzűl való, és az ő országát megerősítem.
+1Chr.17.12 | Ő csinál nékem háza; és megerősítem az ő kiszélyiszékit mind örökké.
+1Chr.17.13 | Én lészek néki attya, ő nékem fiam lészen; és az én irgalmasságomat ő tőle el nem vészem, mint a te előtted valótól elvettem.
+1Chr.17.14 | Hanem megerősítem őtet az én házamban, és az én országomban mind örökké, és az ő királyiszéke erős lészen mind örökké.
+1Chr.17.15 | Mind e beszédek szerint, és mind e látás szerint szóla Nátán Dávidnak.
+1Chr.17.16 | Béméne azért Dávid és leüle az Úr előtt, és monda: Ki vagyok én, óh Uram Isten, s micsoda az én házam is, hogy engemet erre méltóztattál?
+1Chr.17.17 | Még ezt is kevésled, óh Isten, hanem ennekfelette szólál jövendőt is a te szolgád háza felől, és minden emberek között tekintetessé tettél engemet, óh én Uram Istenem!
+1Chr.17.18 | És mit kérhetne Dávid többet te tőled, a te szolgádnak tisztességére, holott te jól esméred a te szolgádat?
+1Chr.17.19 | Óh Uram, a te szolgádért, és a te szíved szerint cselekedéd mind e nagy dolgokat, hogy minden te csudálatos dolgaida kijelentenéd.
+1Chr.17.20 | (Óh Uram, nincsen senki hasonló hozzád, és nincsen Isten náladnál több,) mind a szerint, a mint füleinkkel hallottuk.
+1Chr.17.21 | És kicsoda ollyan nép a földön, mint a te néped az Izráel, kinek Istene elment volna, hogy magának népet szabadítana: hogy magadnak nagy és rettenetes nevet szerzenél, kiüzvén a Pogányokat a te néped elől, mellyet Égyiptomból megszabadítál!
+1Chr.17.22 | És választád az Izráel népét te magadnak kiváltképen való népeddé mind örökké, és te Uram, votál nékik Istenek.
+1Chr.17.23 | Most azért Uram, a szó, mellyet szólál a te szolgád felől és az ő háza felől, erősíttessék meg mind örökké, és úgy cselekedjél, a mint szóltál.
+1Chr.17.24 | Maradjon meg és magasztaltassék fel a te neved mindörökké, hogy mondhassák: A seregeknek Ura az Izráel Isene, Isten az Izráelen; és Dávidnak a te szolgádnak háza legyen erős előtted.
+1Chr.17.25 | Mert te, én Istenem, a te szolgádnak füle hallására megjelentetted, hogy néki házat csinálnál: ezokáért indula meg a te szolgád, hogy könyörgene előtted.
+1Chr.17.26 | Most azért én Uram, te vagy az Isten, és te szólád e jó dolgot a te szolgád felől.
+1Chr.17.27 | Most, mondom, mivelhogy akarád megáldani a te szolgádnak házát, hogy legyen állandó mind örökké előtted; mivelhogy te, Uram, megáldottad, legyen azért áldott mind örökké.
+
+1Chr.18.1 | Ezekután pedig meveré Dávid a Filiszteusokat és megalázá őket; és Gáth városát faluival egybe elnyeré a Filiszteus kezekből.
+1Chr.18.2 | A Moábitákat is megveré; és a Moábiták voltak Dávidnak adófizető szolgái.
+1Chr.18.3 | Továbbá megveré Dávid Hámátban Hadarézert is Sóbának Királyát, mikor elindult volna, hogy az Eufrátes folyóvízig vetné birodalmának határát.
+1Chr.18.4 | Dávid pedig nyere ő tőle ezer szekeret és hétezer lovagokat, és húszezer gyalogokat; és minden szekeres lovaknak inaikat elvagdaltatá Dávid: és megtarta azokban csak száz szekérbe valókat.
+1Chr.18.5 | Eljövének pedig Damaskusból a Siriabeliek, hogy megsegéllenék Hadarézert a Sóba Királyát; és levága Dávid a Siriabeliekben huszonkét ezer férjfiakat.
+1Chr.18.6 | És rendele Dávid Tiszttartóka Siriában, mellyben vagyon Damaskus; és lőnnek a Siriabeliek Dávidnak adófizető szolgái: és megtartja vala az Úr Dávidot mindenütt, valahová megyen vala.
+1Chr.18.7 | És elnyeré Dávid az arany paizsokat, mellyeket a Hadarézer szolgái viselnek vala, és vivé Jérusálembe.
+1Chr.18.8 | És hoza Dávid Tibhátból és Kúnból a Hadarézer városaiból igen sok rezet, mellyből Salamon a résztengert csinálá, az oszlopokat és a rézedényeket.
+1Chr.18.9 | Mikor meghallotta volna pedig Tóhu a Hámáthbeli Király, hogy Dávid megverte volna Hadarézernek, a Sóba Királyának egész hadát;
+1Chr.18.10 | Küldé Dávid Királyhoz az ő fiját Hadarámot, hogy köszöntené őtet nagy tisztességgel, és hogy néki minden jót is kívánna, mivelhogy megharczolt volna Hadarézerrel, és megverte vala őtet; mert Tóhu is hadakozik vala Hadarézer ellen. És külde Dávidnak sok aranya, ezüst és rézedényeket.
+1Chr.18.11 | Mellyeket Dávid Király szentele az Úrnak az ezüsttel és az arannyal, mellyet nyert vala a pogányoktól, az Edomitáktól, a Moábitáktól, az Ammon fijaitól, a Filiszteusoktól és Amálekitáktól.
+1Chr.18.12 | Abisai pedig a Séruja fija, az Edomiták közzűl, a Sónak völgyében megvere tizennyolczezeret.
+1Chr.18.13 | És rendelet Edomban Dávid Tiszttartókat, és lőnnek az Edombeliek Dávidnak szolgái. És megtartá az Úr Dávidot mindenütt, valahová megyen vala.
+1Chr.18.14 | Uralkodék azért Dávid az egész Izráelen és szolgáltat vala ítéletet és igazságot az ő egész népén.
+1Chr.18.15 | Joáb pedid Séruja fija vala Hadnagy a seregben: Jósafát az Ahilud fija vala Kanczelláriusa Dávidnak.
+1Chr.18.16 | Sádok az Ahitub fija, és Abimélek az Abjátár fija, Papok valának; Sausa vala Íródeák.
+1Chr.18.17 | És Benája a Jójada fija vala Hadnagy a Kereteusokon és Peleteusokon. A Dávid fijai pedig legközelebb járnak vala a Királyhoz.
+
+1Chr.19.1 | Lőn továbbá, meghala Náhás az Ammon fijainak Királya, és uralkodék az ő fija helyette.
+1Chr.19.2 | És monda Dávid: Minden jóval lészek a Náhás fijához Hánunhoz; mert az ő attya is jól tett volt velem. - Ennekokáért Dávid külde követekeet ő hozzá, kik vigasztalnák őtet az ő attyának halála felől, és elmenének a Dávid szolgái az Ammon fijainak földökbe Hánunhoz, hogy őtet vigasztalnák.
+1Chr.19.3 | Akkor mondának az Ammon fijainak Főemberei Hánunnak: A vagy az t álítod é, hogy Dávid tiszteli ezzel a te megholt atyádat a te szemeid előtt, hogy küldött hozzád viasztalókat? A vagy nem azért jöttek é az ő szolgái hozzád, hogy e föld felől jól megértekezzenek, tudakozzanak és megkémleljék?
+1Chr.19.4 | Hozatá azért Hánum a Dávid szolgáit, és azokat megnyíreté, és ruhájokat félbe elmetélteté mind az ő alfelekig és elbocsátá őket.
+1Chr.19.5 | Elmenének pedig és megbeszélék Dávidnak e dolgot e férjfiak felől: és külde elejekbe, (mert azok a férjfiak felette nagy gyalázattal illettek vala) és ezt izené a Király: Maradjatok Jérikóban, míg szakállatok megnövénd, akkor jöjjetek hozzám.
+1Chr.19.6 | Látván pedig az Ammon fijai, hogy éktelen dolgot fselekedtek volna Dávidon; külde Hánum és az Ammon fijai ezer tálentom ezüstöt, hogy fogadnának szekerekeet és lovagokat Mésopotámiból, a Siriai Maakából, és Sobából.
+1Chr.19.7 | Fogadának azért magoknak harminczkét ezer fegyvere szekeret, Maakának Királyát is az ő népével egybe, kik eljövének és tábort járának Medeaba ellenében: Az Ammon fijai is pedig öszvegyülének az ő városaikból, és jövének az ütközetre.
+1Chr.19.8 | Mellyet ávid mikor meghallott volna elbocsátá Jóábot és minden erős népét.
+1Chr.19.9 | És az Ammon fijai kimenvén rendet állának a város kapuja előtt; a melly Királyok pedig segitségre jöttek vala, külön valának a mezőn.
+1Chr.19.10 | Látván pedig azt Joáb, hogy mind elől, mind hátul elensége volna; válogata az egész Izráelnek erősei közzűl egynéhányat, és sereget rendele a Siriabeliek ellen.
+1Chr.19.11 | A több népet pedig bízá az ő attyafiára Abisaira, mellyet rendelének az Ammon fijai ellen.
+1Chr.19.12 | És monda: Ha a Siriabeliek rajtam erőt vennének, nékem segítséggel légy: ha pedig az Ammon fijai rajtad erőt vennénék, én is megsegélek.
+1Chr.19.13 | Légy erős, sőt legyünk bátorságosok mindnyájan a mi népünkért, és a mi Istenünk városaiért; az Úr pedig cselekedje azt, a mi néki tetszik.
+1Chr.19.14 | Indaula azért harczra Joáb és az ő hada a Siriabeliek ellen, kik ő előtte mind megfutamodának.
+1Chr.19.15 | Az Ammon fijai pedig mikor látták volna, hogy megfutamodtak volna a Siriabeliek: ők is a Joáb attyafia előtt, ki Abisai vala, megfutamodának, és bészaladának a városba, Joáb is azután Jérusálembe méne.
+1Chr.19.16 | Látván pedig a Siriabeliek hogy az Izráel előtt megverettettek volna, küldének követeket, és kihozák a Siriabelieket, kik a folyóvízen túl laknak vala, és Sófák, a Hadarézer seregeinek Hadnagya vala előljáró.
+1Chr.19.17 | Megmondák ezt Dávidnak: ki öszvegyüjté az egész Izráelt és a Jordán vizén általköltözvén hozzájok érkezék: és sereget rendele azok ellen ütközetre: És mikor sereget rendelt volna Dávi a Siriabeliek elen, ők is megütközének ő vele.
+1Chr.19.18 | De a Siriabeliek megfutamondának az Izráel előtt; és levága Dávid azok közzűl hétezer szekeret és negyvenezer gyalogot; annakfellette Sófákot is a seregek Hadnagyát megölé.
+1Chr.19.19 | Mikor pedig látták volna a Hadarézer szolgái, hogy az Izráel miatt illyen igen megromlottak volna: megbékéllének Dáviddal és szolgálának néki, és nem akarák többször a Siriabeliek megsegélleni az Ammon fijait.
+
+1Chr.20.1 | És lőn ennekfelette az esztendőnek fordulásában, mikor a Királyok szoktak hadakozni indulni, elindítá Jóáb a hadat, és elpusztítá az Ammon fijainak földöket: És elmenvén megszállá Rabbát, (Dávid pedig maradott vala Jérusálemben,) és megvevé Jóáb Rabbát, és elrontá azt.
+1Chr.20.2 | Elvivé pedig Dávid az ő Királyoknak koronáját az ő fejéből, melly egy tálentom aranyat nyomó vala, mellyben valának drágalátos kövek, melly a Dávid fejébe téteték: a városból is igen sok nyereséget vőn el.
+1Chr.20.3 | A népet pedig, melly a városban vala kihozatá, és fűrésszel metélteté azokat, és vasgereblyékkel és sarlókkal. Így cselekedék Dávid az Ammon fijainak minden városaival: azután megtére Dávid mind az egész néppel Jérusálembe.
+1Chr.20.4 | Ezután ismét had támada Gézeerben a Filiszteusok ellen; és akkor ölé meg a Husátites Sibbékai az Óriások nemzetségéből való Sippait, és illyen módon meegaláztatának.
+1Chr.20.5 | Ismét lőn hada a Filiszteusok ellen, mellyben megölé Elhanán a Jáir fija, a Gáthbeli Lákhmit a Góliát attyafiát, kinek az ő dárdájának nyele hasonló vala a szövőknek zúgolyfájokhoz.
+1Chr.20.6 | Ezek után ismét lőn viadal Gáthnál: Vala pedig ott a városban egy igen nagy magas ember, kinek hat-hat ujjai valának, azaz huszonnégy: ez is Óriás fija vala.
+1Chr.20.7 | És szidalommal illeti vala az Izráelt, kit megöle Jónathán, Dávid attyafiának Simeának fija.
+1Chr.20.8 | Ezek ugyanazon egy Óriásnak fijai voltak Gáth városban, kik elveszének Dávidnak és az ő szolgáinak kezek miatt.
+
+1Chr.21.1 | Támada pedig a Sátán az Izráel ellen, és felindítá Dávidot, hogy megszámlálná az Izráelt.
+1Chr.21.2 | Monda azért Dávid Jóábnak és a nép Hadnagainak: Menjetek el, számláljátok meg az Izráelt, Beersebától fogva szintén Dánig: és hozzátok hozzám, hadd tudjam számát.
+1Chr.21.3 | Akkor monda Jóáb: Az Úr száz ennyivel szaporítsa meg az ő népét, a mennyin vagynak. A vagy nem mind te shzolgáid é azok, uram Király? s miért tudakoznék ezen az én uram? Miért lenne ez az Izráelnek büntetésére?
+1Chr.21.4 | De a Király szava erősebb lőn a Jóábénál. Kifordula azért Jóáb a Király elől, és eljárá az egész Izráelt: azután megtére Jérusálembe.
+1Chr.21.5 | És adá Jóáb a népnek számát Dávidnak: És volt az egész Izráel népének száma ezerszer való ezer; és százezer fegyverfogható: a Júda fijai pedig négyszáz hetvenezer fegyverfogható férjfiak.
+1Chr.21.6 | A Lévi és Benjámin fijait pedig közikbe nem számlálá: mert nem tetszik vala Jóábnak a Király parancsolatja.
+1Chr.21.7 | Sőt az Istennek is nem tetszék e dolog, mellyért megveré az Izráelt.
+1Chr.21.8 | Monda pedig Dávid az Istennek: Igen vétkeztem, hogy ezt mívelém: s te pedig most a te szolgádnak hamisságát bocsásd meg, kérlek, mert felette igen bolondúl cselekdtem!
+1Chr.21.9 | Ennekokáért szóla az Úr Gádnak a Dávid Prófétájának mondván:
+1Chr.21.10 | Eredj el, szólj Dávidnak e képen: Ezt mondja az Úr: Hármat vetek elődbe; válassz magadnak egyet ezek közzűl, mellyet veled cselekdjem.
+1Chr.21.11 | Elméne azért Gád Próféa Dávidhoz, és monda néki: ezt mondja az Úr: válaszd el magadnak:
+1Chr.21.12 | Vagy három esztendeig való éhséget, vagy hogy ellenségeidtől három hónapig megemésztessél, és a te ellenséged fegyvere rajtad legyen: vagy az Úr fegyvere harmadnapig, és a döghalál kegyetlenkedjék földedben, és az Úr Angyala pusztítson az Izráelnek minden határiban? Azért lássad most, mit feleljek annak, a ki engemet hozzá küldött.
+1Chr.21.13 | És monda Dávid Gádnak: Mindenfelől nékem keresűség; kérlek, hadd essem az Úr kezébe (mert igen sok és nagy az ő irgalmassága) és ne essem embereknek kezekbe.
+1Chr.21.14 | Bocsáta azért az Úr döghalált az Izráelre: és meghalának az Izráel közzűl hetvenezer férjfiak.
+1Chr.21.15 | Bocsáta annakfelette Angyalt az Úr Jérusálembe, hogy elpusztitaná azt: És mikor vágná a népet, meglátá az Úr, és könyörűle az ő veszedelmeken; és monda a pusztító Angyalnak: Elég immár, szünjél meg. Az Úrnak Angyala pedig áll vala a Jebuzeus Ornánnak szérűjénél.
+1Chr.21.16 | Akkor Dávid felemelé az ő szemeit, és látá az Úr Angyalát állani a föld és az ég között, kinek kezében mezítelen tőr vala, mellyet Jérusálem elen emelt vala fel: Leesék azért Dávid és a Vének is, zsákba öltözvén, az ő orczájokra.
+1Chr.21.17 | És monda Dávid az Istennek: Nemde nem én számláltattam é meg a népet; Én vagyok, a ki vétkeztem és igen gonoszúl cselekedtem: ímez juhoknak mi vétkek vagyon benne? óh én Uram Istenem, kérlek, forduljon reám a te kezd, és az én atyám háznépére, és ne legyen a te népeden a csapás.
+1Chr.21.18 | Az Úr Angyala pedig parancsolá Gádnak, hogy megmondaná Dávidnak: Hogy sietne felmenni Dávid oltárt rakatni az Úrnak a Jebus Ornán szérűjén.
+1Chr.21.19 | Felméne azért Dávid a Gád beszéde szerint, mellyet az Úr nevében szólott vala.
+1Chr.21.20 | Mikor pedig Ornán hátratekintvén látta volna az Angyalt, és az ő négy fijai, kik vele valának, elrejtezének. (Ornán pedig búzát csépel vala.)
+1Chr.21.21 | És juta Dávid Ornánhoz. Mikor azért feltekintett volna Ornán, Dávidot meglátá, és kimenvén a szérűről, meghajtá magát Dávid előtt, a földre arczal leborúlván.
+1Chr.21.22 | És monda Dávid Ornánnak: Add nékem e szérű helyet, hogy építsek oltárt rajta az Úrnak: igaz árán adjad nékem azt, és megsünik azonnal e csapás a népen.
+1Chr.21.23 | Monda Ornán Dávidnak: Legyen bátor tiéd, és az én uram a Király azt cselekedje, a mi néki tetszik: annakfelette ez ökröket adom az eegészen égőáldozatra, és fa helyett e cséplőszerszámokat, e gabonát is Minhának; mind ezekeet ajándékon adom.
+1Chr.21.24 | És monda Dávid Király Ornánnak: Nem akarom azt, hanem ugyan igaz áron akarom megvenni tőled; mert a mi tiéd, el nem veszem tőled az Úrnak, és nem akarok tüzes áldozattal áldozni néki a máséból.
+1Chr.21.25 | Ada azért Dávid Ornánnak a szérűért hatszáz arany siklust.
+1Chr.21.26 | És építe ott oltárt Dávid az Úrnak, és áldozék tüzes és engesztelő áldozatokkal, és segítségűl hívá az Urat, ki meghallgatá őtet, mennyből tüzet bosátván a tüzes áldozat oltárára.
+1Chr.21.27 | És parancsola az Úr az Angyalnak; és bétevé az ő tőrét hüvelyébe.
+1Chr.21.28 | Akkor látván Dávid, hogy az Úr őtet meghallgatta volna a Jebuzeus Ornán szérűjén, mikor ott áldoznék.
+1Chr.21.29 | (Az Úr sátora pedig, mellyet csinált vala Mózes a pusztában, és a tüzes áldozatnak oltára is akkor ala fenn a magassában Gibeonban.
+1Chr.21.30 | És Dávid akkor oda fel nem mehetett vala, hogy az Istent megengesztelné: mert igen megrettent vala az Úr Angyalának mezítelen tőrétől.)
+
+1Chr.22.1 | Monda Dávid: Ez az Úrnak, az Istennek háza, és az Izráelnek tüzes áldozatjára való oltár is itt vagyon.
+1Chr.22.2 | Megparancsolá azért Dávid, hogy öszvegyüjtének az Izráel földén való jövevényeket, kiket kővágókká tőn, hogy faragni való köveket vágának, hogy az Isten házát megcsinálnák.
+1Chr.22.3 | Továbbá bőséges vasat szerze Dávid szegeknek, ajtóknak és foglalásoknak: rezet is bőségesen szerze inden mérték nélkűl.
+1Chr.22.4 | Számtlaan czédrusfákat is: mert a Sídon és Tírus városbeliek czédrusfákat bőségesen hordanak vala Dávidnak.
+1Chr.22.5 | Akkor monda Dávid: Az én fiam Salamon, gyermek és igen gyenge, az Úrnak pedig felette igen nagy házat kell építeni, mellynek híre neve elterjedjen ez egész földön: elkészítek azért mindeneket néki. Dávid azért mindeneket nagy bőségesen megszerze, minekelőtte meghala.
+1Chr.22.6 | Hivatá azért Dávid az ő fiját Salamont és meghagyá néki, hogy az Izráel Urának Istenének házat csináltatna.
+1Chr.22.7 | És monda Dávid Salamonnak: Édes fiam, én elgondoltam vala szívemben, hogy az én Uram Istenem nevének házat építsek:
+1Chr.22.8 | De az Úr szóla nékem illyenképen: Sok vért ontottál és sokat hadakoztál; nem csinálsz az én nevemnek házat! mert sok vért ontottál ki a földre én előttem.
+1Chr.22.9 | Ímé fiad lészen néked, kinek csendessége lészen: mert nyugodalmat adok néki minden körűle vaó ellenségeitől: azért neveztetik Salamonnak! mert békességet és nyugodalmat adok az Izráelnek az ő idejében.
+1Chr.22.10 | Ő cisnál az én nevemnek házat: ő lészen nékem fiam, és én néki lészek attya, és megerősítem az ő országának királyiszékit, az Izráelen mind örökké.
+1Chr.22.11 | Most édes fiam az Úr veled lészen; és szerencsés lészes, és te építed meg a te Uradnak Istenednek házát, a mint ez előtt meeg nem mondotta felőled.
+1Chr.22.12 | De adjon az Úr néked értelmet és bölcseséget, mikor néked parancsol az Izráel felől, hogy a te Uradnak Istenednek törvényét megőrizzed.
+1Chr.22.13 | Akkor jól lészen dolgot, mikor a parancsolatokat és az ítéleteket megőrizénded, és megcselekedénded, a mellyeket az Úr Mózes által parancsolt volt az Izráelnek: légy bátor, légy erős, ne félj s ne rettegj!
+1Chr.22.14 | Ímé én is az én szegénységem szerint készitettem az Úr házának építésére száz ezer tálentom aranyat, és ezerszer való ezer tálentom ezüstöt, rezet s vasat mérték nélkűl, mert igen bőven vagyon; fákat is, köveket is szerzettem; te is szerezz ezekhez.
+1Chr.22.15 | Vagynak néked sok míveseid, kővágóid, kő- és fafaragóid, és mindenféle dologban bölcs mesterembereid.
+1Chr.22.16 | Az aranynak, ezüstnek, vasnak és réznek száma nincsen: azért kelj fel, láss hozá, és az Úr legyen veled.
+1Chr.22.17 | Megparancsolá pedig Dávid az Izráel minden Főembereeinek, hogy ők is segítséggel lennének az ő fijának Salamonnak, ezt mondván:
+1Chr.22.18 | A vagy nincsen é a ti uratok Istentek ti veletek, ki néktek békességet adott köröskörűl? Mert az én hatalmam alá adá e földnek lakosait, és meghódoltattuk e földet az Úr előtt, és az ő népe előtt.
+1Chr.22.19 | No azért keressétek a ti Uratokat Istenteket teljes szivetek és lelkete szerint, és felkelvén, az Úr Istennek szentséges helyét csináljátok meg, hogy vigyétek az Úr szövetségének ládáját, és az Istennek szenteltetett edényeket a házba, melly építtetik az Úr nevének.
+
+1Chr.23.1 | Megvénhedék pedig Dávid, és mikor igen koros volna: Királlyá tevé az ő fiját Salamont az Izráelen.
+1Chr.23.2 | És öszvegyűjté az Izráelnek minden Fejedelmeit, a Papokat is és a Lévitákat.
+1Chr.23.3 | És megszámláltatának, a Léviták, harmincz esztendőstől fogva és a kik annál idősebbek valának; és volt azoknak számok fejenként harmincznyolczezer.
+1Chr.23.4 | Ezek közzűl huszonnégy ezeren az Úr háza körűl való dolgosoknak pallérai valának: és hatezeren igazgatók és bírák valának.
+1Chr.23.5 | Négyezeren ajtónállók valának: négyezeren dícsérik vala az Urat minden zengő szerszámokkal, mellyeket Dávid készíttetett vala a dícséretre.
+1Chr.23.6 | És Dávid őkt három részre rendelé a Lévi fijai szerint: Gersonitákra, Kéhátitákra, és Méráritákra.
+1Chr.23.7 | A Gersoniták közzűl valók valának Lahdán és Simhi.
+1Chr.23.8 | Lahdán fijai: Jéhiel fő, Zétám és Joel hárman.
+1Chr.23.9 | És a Simhi fijai: Selómit, Hásiel és Hárán, hárman: ezek voltak a Lahdán háznépe között fők.
+1Chr.23.10 | Simhi fijai: Jahát, Zina, Jéus és Béria; ezek négyen voltak Simhi fijai.
+1Chr.23.11 | Vala pedig Jahát fő, Zina második; de Jéus és Béria, mivelhogy nem sok fiakat nemzének, azért az ő attyoknak háznépe között csak egy ágért számláltattak.
+1Chr.23.12 | Kéhát fijai: Amrám, Ishár, Hebron és Uzziel, négyen.
+1Chr.23.13 | Amrám fijai: Árón és Mózes: Elválasztaték pedig Áron, hogy szenteltetnék szenteséges dolgoknak cselekedeteire, ő és az ő fijai mind örökké; és hogy jóillatot tennének az Úr előtt, hogy szolgálnának néki, és az ő nevében, a népet megáldanák mind örökké.
+1Chr.23.14 | Mózesnek az Isten emberének fijai pedig számláltatának a Lévi nemzetségei közzé.
+1Chr.23.15 | Mózes fijai: Gerson és Eliézer.
+1Chr.23.16 | Gerson fijai: Sébuel fő.
+1Chr.23.17 | Voltak pedig Eliézer fijai: Rhábia fő: nem is voltak Eliézernek több fijai: de a Rehábia fijai igen megsokasodtak vala.
+1Chr.23.18 | Ishár fijai: Selómit, ki fő vala.
+1Chr.23.19 | Hebrón fijai: Jéria fő, Amárja második, Jaháziel harmadik, és Jékámám negyedik.
+1Chr.23.20 | Uzziel fijai: Mika fő, és Isija második.
+1Chr.23.21 | Mérári fijai: Mákhli és Músi: Mákhli fijai: Eleázár és Kis.
+1Chr.23.22 | Meghala pedig Eliázár, és nem voltak néki fijai, hanem leányai, kiket elvevének a Kis fijai, azoknak attyokfiai.
+1Chr.23.23 | Músi fijai: Mákhli, Eder és Jeremót, ez három.
+1Chr.23.24 | Ezek a Lévi fijai az ő cselédjek szerint, kik az ő tisztekben, az ő neveknek száma szerint főemberek voltak; kik az Úrnak házában szolgáltak, a kik húsz esztendősök és annál idősebbek voltak.
+1Chr.23.25 | Mert ezt mondotta vala Dávid: Az Izráelnek Ura Istene im megnyugotá az ő népét, és lakozik Jérusálemben mind örökké.
+1Chr.23.26 | A Lévitáknak is nem szükség lészen többé az Isten sátorát hordozni, sem az edényeket, mellyek annak szükségére szereztettek volt.
+1Chr.23.27 | Annakokáért Dávidnak utolsó rendelése szerint számláltattak a Lévi fijai, húsz esztendőstől fogva, és a kik idősebbek volnának.
+1Chr.23.28 | Annakfelette ezeknek rendek vala az Áron fijainak birodalmokban, hogy szolgálnának az Úr házában, és annak pitvaraiban, kamaráiban, minden szent edényeknek tisztításában és az Isten házának szolgálatjában:
+1Chr.23.29 | Azaz, a szent kenyereknek elrendelésében, a Minhának, kovász nélkűl való lepényeknek, serpenyőben főzött és szépen felhólyagzott pogácsáknak való zsemlyelisztnek megszerzésében, és mindennek mértékében:
+1Chr.23.30 | És hogy állanának minden reggel az Úrnak tiszteletére, és dícséretére, azonképen estve is;
+1Chr.23.31 | És hogy áldoznának az Úrnak minden tüzes áldozattal, minden szombatnapokon, a hónapoknak első napjain, és a szokott innepeken bizonyos szám szerint, a mint szükség ala szünetlen az Úr előtt.
+1Chr.23.32 | És hogy a Gyülekezetnek sátorát szorgalmatosan őriznék, és a szent állatokat; és hogy az ő attyokfiainak az Áron fijainak szolgálatjok mellett vigyáznának az Úr házánk szolgálatjában.
+
+1Chr.24.1 | Az Áron fijainak pedig ezek az ő elrendelések: Áron fijai: Nádáb, Abihú, Eleázár és Itamár.
+1Chr.24.2 | Meghala pedig Nádáb és Abihú az ő attyok előtt, kiknek fijai nem valának: azért Eleázár és Itamár viselék a Papságot.
+1Chr.24.3 | És elrendelé őket Dávid, és Sádók, ki az Eleázár fijai közzűl vala, és Ahimélek, ki az Itamár fijai közzűl vala, az ő tisztek szerint a szolgálatra.
+1Chr.24.4 | Találtatának pedig az Eleázár fijai közzűl sokkal több főemberek, hogysem mint az Itamár fijai közzűl, mikor elrendelnék őket. Az Eleázár fijai között voltak főemberek, az ő attyok háznépe szerint tizenhatan; az Itamár fijai közzűl, az ő attyok háznépe szerint, nyolczan.
+1Chr.24.5 | Eloszták pedig őket sors által válogatás nélkűl: jóllehet a Szenthelynek Istentől választatott Fejedelmei volnának, mind az Eleázár s mind az Itamár fijai közzűl valók.
+1Chr.24.6 | És béírá őket Semája Nétanéel fija, a Lévi nemzetségéből való Íródeák, a Király előtt és a Fejedelmek előtt, Sádók Pap előtt, Ahimélek előtt ki Abjátár fija vala, és a Papoknak és Lévitáknak attyai nemzetségeknek Fejedelmei előtt, minden attyai cselédet, melly sors által az Eleázár nemzetségéből esett, hasonlatosképen melly az Itamár nemzetségéből esett.
+1Chr.24.7 | Esék pedig az első sors Jojáribra; a második Jedájára.
+1Chr.24.8 | Hárimra a harmadik: Seórimra a negyedik.
+1Chr.24.9 | Málkijára az ötödik: Mijáminra a hatodik.
+1Chr.24.10 | Hakkósra a hetedik; Abijára a nyolczadik.
+1Chr.24.11 | Jesuára a kilenczedik: Sekániára a tizedik.
+1Chr.24.12 | Eliásibra a tizenegyedik: Jámikra a tizenkettődik.
+1Chr.24.13 | Huppára a tizenharmadik: Jésebeábra a tizennegyedik.
+1Chr.24.14 | Bilgára a tizenötödik: Immérre a tizenhatodik.
+1Chr.24.15 | Hézirre a tizenhetedik: Hápisesre a tizennyolczadik.
+1Chr.24.16 | Petáhiára a tizenkilenczedik: Jéhezkelre a huszadik.
+1Chr.24.17 | Jákinra a huszonegyedik: Gámulra a huszonkettődik.
+1Chr.24.18 | Délájára a huszonharmadik: Maáziára a huszonnegyedik.
+1Chr.24.19 | Ez az ő tiszteknek rende az ő szolgálatjokban, hogy az Úr házába béjárnának az ő attyoknak Áronnak birodalma alatt való tiszt szerint; int megparancsolta volt néki az Izráel Ura Istene.
+1Chr.24.20 | A mi néz a Livinek több fijaira; az Amrám fijai közzűl vala Subáel: A Subáel fijai közzűl Jehdéja.
+1Chr.24.21 | A mi néz pedig Rehábiára: A Rehábia fijai közzűl Issija vala fő.
+1Chr.24.22 | Az Ishár fijai közzűl vala Selómot: És a Selómót fijai közzűl Jahát.
+1Chr.24.23 | A Hebron fijai közzűl vala első Jérija, Amárja második, Jaháziel harmadik, Jehámám negedik.
+1Chr.24.24 | Uzziel fijai: Míka: A Míka fijai közzűl Sámir.
+1Chr.24.25 | Míka attyafia Issija: Issija fijai közzűl Zékáriás.
+1Chr.24.26 | Mérári fijai: Mákhli és Músi; Jaázija fija, Bénó.
+1Chr.24.27 | Mérárinak Jaázijától az ő fijától való fijai: Sohám, Zakúr és Hibri.
+1Chr.24.28 | Mákhlitól vala Eliázár és ennek nem valának fijai.
+1Chr.24.29 | Kistől a Kis fijai közzűl való volt Jérakhméel.
+1Chr.24.30 | Músi fijai: Mákhli, Eder és Jérimót! E Léviták fők voltak az ő attyaiknak házoknépe szerint.
+1Chr.24.31 | Ezek is sorsot vetének az ő attyokfiaival az Áron fijaival együtt Dávid Király előtt, Sádok és Ahimélek előtt, a Papok és Léviták attyainak Fejedelmei előtt, a fő a kissebbikkel egyaránt.
+
+1Chr.25.1 | Elválasztá pedig Dávid, és a seregnek Fejedelmei, szolgálatra az Asáf Hémán és a Jédutun fijait, kik prófétálnak vala hegedűkkel, náblumokkal, czimbalmokkal. Ezeknek pedig az ő szolgálatjokban bizonyos számok vala.
+1Chr.25.2 | Az Asáf fijai közzűl ezek voltak: Zakkúr, József, Nétánia, és Asaréla; az Asáf fijai voltak az Asáf birtokában; ki a Király akaratja szerint prófétál vala.
+1Chr.25.3 | A Jédutun fijai közzűl: A Jédutun fijai: Gedália, Séri, Jésája, Hasábia, Mattithia és Simei, hatan az ő attyoknak Jédutunnak birtokában valának hegedülésben, ki prófétál vala, az Urat tisztelvén és dícsérvén.
+1Chr.25.4 | A Hémán fijai közzűl: Hémán fijai: Bukkija, Mattánia, Uzziel, Sébuel, Jérimót, Hanánia, Hanáni, Eliáta, Giddálti, Romámti-Ezer, Josbekása, Mallóti, Hótir, Maháziót.
+1Chr.25.5 | Ezek mind Hémán fijai, ki az Isten beszédeiben a Király Nézője vala az ő királyi méltósága felől: és ada az Isten Kémánnak tizennégy fiakat és három leányokat.
+1Chr.25.6 | Ezek mindnyájan az ő attyoknak hatalmában valának, kik az Úr házában énekelnek vala czimbalmokkal, náblumokkal és hegedűkkel, az Isten házának szolgálatjára; a Királynak, Asáfnak, Jédutunnak, és Hémánnak parancsolatjok szerint.
+1Chr.25.7 | Volt pedig ezeknek számok, az Úrnak dícséretében tudós attyokfiaival öszve minden tanitóknak kétszáz nyolczvannyolcz.
+1Chr.25.8 | És sorsot is vetének közöttök a vígyázásban való tisztre, mind kicsiny s mind nagy, mind a tanitó s mind a tanítvány.
+1Chr.25.9 | És esék az elsősors az Asáf fijára Józsefre: Gedáliára a második, ki az ő attyafiaival és fijaival öszve tizenketted magával vala.
+1Chr.25.10 | A harmadik Zakkúrra, kinek fijai és attyafiai tizenketten valának.
+1Chr.25.11 | Negyedik Jifrire esék, kinek fijai és attyafiai tizenketten valának.
+1Chr.25.12 | Ötödik Nétániára, kinek fija és attyafiai tizenketten valának.
+1Chr.25.13 | Hatodik Bukkijára, kinek fijai és attyafiai tizenketten valának.
+1Chr.25.14 | Hetedik Jésarelára, kinek fijai és attyafiai tizenketten valának.
+1Chr.25.15 | Nolczadik Jésaiára, kinek fijai és attyafiai tizenketten valának.
+1Chr.25.16 | Kilenczedik Mattániára, kinek fijai és attyafiai tizenketten valának.
+1Chr.25.17 | Tizedik Simeire, kinek fijai és attyafiai tizenketten valának.
+1Chr.25.18 | Tizenegyedik Azárelre, kinek fijai és attyafiai tizenketten valának.
+1Chr.25.19 | Tizenkettődik Hasábiára, kinek fijai és attyafiai tizenketten valának.
+1Chr.25.20 | Tizenharmadik Subáelre, kinek fijai és attyafiai tizenketten valának.
+1Chr.25.21 | Tizennegyedik Mattithiára, kinek fijai és attyafiai tizenketten valának.
+1Chr.25.22 | Tizenötödik Jérimótra, kinek fijai és attyafiai tizenketten valának.
+1Chr.25.23 | Tizenhatodik Hanániára, kinek fijai és attyafiai tizenketten valának.
+1Chr.25.24 | Tizenhetedik Jósbekására, kinek fijai és attyafiai tizenketten valának.
+1Chr.25.25 | Tizennyolczadik Hanánira, kinek fijai és attyafiai tizenketten valának.
+1Chr.25.26 | Tizenkilenczedik Mallótira, kinek fijai és attyafiai tizenketten valának.
+1Chr.25.27 | Huszadik Elijátánra, kinek fijai és attyafiai tizenketten valának.
+1Chr.25.28 | Huszonegyedik Hótirra, kinek fijai és attyafiai tizenketten valának.
+1Chr.25.29 | Huszonkettődik Giddáltire, kinek fijai és attyafiai tizenketten valának.
+1Chr.25.30 | Huszonharmadik Maháziótra, kinek fijai és attyafiai tizenketten valának.
+1Chr.25.31 | Huszonnegyedik Rómámti-Ezerre, kinek fijai és attyafiai tizenketten valának.
+
+1Chr.26.1 | Az ajtónállóknak elrendelések ez: A Kóriták közzűl Meselémiás a Kóré fija, ki az Asáf fijai közzűl való volt.
+1Chr.26.2 | A Meselémiás fijai közzűl elsőszülött Zekária, Jédiáel második, Zebádia harmadik, és Játniel negyedik.
+1Chr.26.3 | Elám ötödik, Jóhanán hatodik, Eljehoénai hetedik.
+1Chr.26.4 | Obed-Edom fijai közzűl: Sémája elsőszülött, Józabád második, Jóah harmadik, Sákár negyedik, Nétanéel ötödik.
+1Chr.26.5 | Ammiel hatodik, Issakhár hetedik, Pehullétai nyolczadik: mert az Isten őtet megáldotta vala.
+1Chr.26.6 | Az ő fijának is Sémájának születtetének fijai, hasonlók az ő attyának fiaihoz: mert igen erősek valának.
+1Chr.26.7 | Sémája fijai: Othni, Refáel, Obed, Elzabád, kinek attyafiai igen erős férjfiak valának, Elihu és Sémákiás.
+1Chr.26.8 | Mindnyájan zek Obed-Edom fijai közzűl valók, mind ő magok, mind fijaik, s mind attyafiai igen erősek valának a szolgáltara; hatvanketten valának mind Ebed-Edomtól.
+1Chr.26.9 | Meselémiásnak is fijai és attyafiai tizennyolczan valának erős férjfiak.
+1Chr.26.10 | Hósának is pedig, ki vala a Mérári fijai közzűl, valának fijai, kik között Simri fő vala, nemhogy elsőszülött volna, hanem hogy az őt attya ugyan őtet akará választani főnek.
+1Chr.26.11 | Hilkiás a második, Tebáliás a harmadik, Zekária negyedik: mindnyájan a Hósa fijai és attyafiai tizenhárman.
+1Chr.26.12 | Ezek között osztaték el az ajtónállásnak tiszte a Főemberek által, kik az ő attyafiaival egybe vigyáznának é szolgálnának az Úr házában.
+1Chr.26.13 | És sorsot vetének mind kicsiny s mind nagy egyaránt, az ő attyaiknak cselédjek szerint mindenik kapura.
+1Chr.26.14 | És esék a napkelet felé való kapunak őrizete sors szerint Selémiásra: Zekáriára pedig a Selémiás fijára, ki bölcs és jótanácsú vala, mikor sorsot vetnének, esék az északi kapu sors szerint.
+1Chr.26.15 | Obed-Edomnak a délre való kapu: az ő fijainak pedig a kincstartó ház.
+1Chr.26.16 | Suppimnak és Hósának a napnyugotra való kapu, a Salléketh kapuval egyetemben a felmenő pádimentomos úton, hogy egyik őrzőhely lenne a másiknak ellenében.
+1Chr.26.17 | Napkelet felé vala hat Lévita: észak felé minden napra négy: délre is minden napra négy; A kincstartó háznál ketten-ketten valának.
+1Chr.26.18 | A tárháznak őrizetiért napnyugot felé, a töltött felmenő útnál négyen voltak; ketten a tárháznál.
+1Chr.26.19 | Így rendeltettek volt el az ajtónállók a Kóriták és a Méráriták között.
+1Chr.26.20 | Ami a több Lévitákra néz; Ahija volt az Isten háza kincsének, és az Istennek szenteltetett kincsnek főgondviselője.
+1Chr.26.21 | A Lahdán fijai közzűl, azaz, Lahdántól való Gersoniták fijai, kik Lahdánnak nemzetségéből fők valának, ezek: Gersonita Jéhiéli.
+1Chr.26.22 | Jéhiéli fijai: Zétám és Jóel az ő attyafia, kik voltak az Úr háza kincsének gondviselői.
+1Chr.26.23 | Az Amrám, Ishár, Hebron és Azziel nemzetségéből valók is.
+1Chr.26.24 | Hasonlatosképen Sébuel a Gerson fija, ki vala Mózes fija, a kincsnek vala főgondviselője.
+1Chr.26.25 | Az ő attyafiai pedig, Eliézertől valók, ezek: Rehábiás az ő fija, kinek fija Jésáisa, kinek fija Jórám, kinek fija Zikri, kinek fija Selómit.
+1Chr.26.26 | Ez a Selómit és az ő attyafiai valának gondviselői a szemteltett egész kincsnek, mellyet Dávid Király, a nemzetségeknek Fejedelmei, az Ezredesek Századosok, és a hadakozó népnek Fejedelmei szenteltek vala Istennek.
+1Chr.26.27 | Mellyet a haadban való nyereségből szenteltek vala az Úr házának ép1tésére.
+1Chr.26.28 | És valamit szentelt vala Sámuel Próféta és Saul a Kis fija, és Abner a Nér fija, és Jóáb a Séruja fija; és fejenként a kik valamit szenteltek vala Istennek, mind Selómitnak és az ő attyafiaimak gondviselésekben vala.
+1Chr.26.29 | Az Isháriták közzűl vala Kenániás és az ő fijai, kik az Izráel között külső dolgokban való Tiszttartók és Bírák valának.
+1Chr.26.30 | A Hebroniták közzűl Hasábiás és az ő attyafiai, igen erős férjfiak, ezeren és hétszázan valának, kik az Izráel népe között a Jordán vizén túl napenyészetre gondviselők voltak az Úrnak minden dolgában, és a Király szolgálatjában.
+1Chr.26.31 | A Hebroniták közzűl, Jéria vala fő a Hebroniták nemzetségekben az Atyák között, Dávid Királyságának negyvenedik esztendejében kerestetének meg, és találtatának ő közzűllők erős férjfiakat Gileádnak Jaézer városában.
+1Chr.26.32 | És az ő attyafiai kétezeren és hétszázan valának, kik az ő attyai nemzetségekben erős férjfiak és fők valának; kiket Dávid Király gondviselőkké választa a Rúben és Gád nemzetségén, és a Manasse nemzetségének felén, mind az Istennek s mind a Királynak minden dolgaiban.
+
+1Chr.27.1 | Ezek pedig az Izráel fijai az ő számok szerint, kik az ő attyai nemzetségekben Fejedelmek, Ezredesek, Századosok, és előljáróik valának mind azoknak, kik szolgálnak vala a Királynak a seregeknek minden dolgaiban, mellyek béjőnek vala és kimennek vala mindenik hónapban az esztendőnek minden havaiban; melly seregek közzűl egy-egy, áll vala huszonnégy ezer emberből.
+1Chr.27.2 | Az első seregben, az első hónapban vala Fejedelm Jasobeám Zabdiel fija, melly sereg áll vala huszonnégy ezerből.
+1Chr.27.3 | A Péres fijai közzűl vala az első hónapbeli seregben való minden Hadnagyoknak Fejedelme.
+1Chr.27.4 | A második hónapbeli seregnek vala Fejedelme Dódai Ahóhites, és ő utánna az ő seregében második Fejedelem Miklót. Ez is huszonnégy ezerből áll vala.
+1Chr.27.5 | A harmadik seregnek, a harmadik hónapban vala Fejedelme Benája, ki vala a Főpapnak Jojadának fija; ennek is sereg áll vala huszonnégy ezerből.
+1Chr.27.6 | Ez a Benája vala erős a harmincz erős férjfiak között, sőt azoknak Fejedelmek is vala. És Amizabád az ő fija vala fő az ő seregén.
+1Chr.27.7 | A negyedik hónapbeli seregnek vala Fejedelme Asáel a Joáb attyafia, és az ő fija Zebádia ő utánna való; ennek is serege huszonnégy ezerből áll vala.
+1Chr.27.8 | Az ötödik hónapbeli seregnek Fejedelme vala Jizráhites Samhut; ennek is serege huszonnégy ezerből állott.
+1Chr.27.9 | A hatodik hónapbeli seregnek Fejedelme aTékuabeli Ira, az Ikkés fija, ennek is serege huszonnégy ezerből áll vala.
+1Chr.27.10 | A hetedik hónapbeli seregnek Fejdelme a Pélonbeli Héles, ki az Efraim fijai közzűl vala; ennek serege huszonnégy ezerből áll vala.
+1Chr.27.11 | A nyolczadik hónapbeli seregnek Fejedelme vala a Húsátbeli Sibbékai, ki a Zárhiták féle vala; és az ő seregében huszonnégy ezer ember vala.
+1Chr.27.12 | A kilenczedik hónapbeli seregnek Fejedelme az Anatótbeli Abiézer a Benjáminiták közzűl; és az ő seregében huszonnégy ezer ember vala.
+1Chr.27.13 | A tizedik hónapbeli seregnek Fejedelme vala a Nétofátbeli Maharai, a Zárhitákból való: kinek is seregében huszonnégy ezer vala.
+1Chr.27.14 | A tizenegyedik hónapbeli seregnek Fejedelme vala a Pirathonbeli Benája, az Efraim fijai közzűl való; kinek seregében huszonnégy ezer ember vala.
+1Chr.27.15 | A tizenkettődik hónapbeli seregnek Fejedelme vala a Nétofátbeli Héldai Othniel nemzetségéből való; kinek seregében huszonnégy ezer ember vala.
+1Chr.27.16 | Valának ennekfelette az Izráel nemzetségein Fejedelmek: A Rúbenitákon Eliézer, a Zikri fija: a Simeonitákon Sefátiás, a Maaka fija;
+1Chr.27.17 | A Lévi nemzetségén Hasábia, a Hémuel fija: az Árón fijain Sádók;
+1Chr.27.18 | A Júdán Elihu, a Dávid attyfiai közzűl; az Issakháron Omri, a Miáel fija;
+1Chr.27.19 | A Zebulonon Ismája, az Obádiás fija; a Nafthalin Jérimót, Azriel fija;
+1Chr.27.20 | Az Efraim fijain Hósea, az Azáziás fija; a Manasse félnemzetségén Jóel, a Pedája fija:
+1Chr.27.21 | Manassénak Gileád földén való félnemzetségén Iddó, a Zekáriás fija; a Bénjáminon Jaásiel az Abner fija;
+1Chr.27.22 | A Dán nemzetségén Azáréel, a Jerohám fija. Ezek valának az Izráel nemzetségeinek Fejedelmei.
+1Chr.27.23 | Nem számláltatá meg pedig Dávid azokat, a kik húsz esztendőn alól valánka: mert az Úr mondotta volt ezt, hogy megsokasítaná az Izráelt, mint az égnek csillagait.
+1Chr.27.24 | Joáb a Séruja fija kezdette vala őket számlálni, de véghez nem vivé: mivelhogy e dologért Istennek nagy haragja gerjedett volna az Izráel népe ellen: Ez okon bé sem jegyzék számát a népnek, a Dávid Király históriáiában.
+1Chr.27.25 | A Király kincsének gondviselője vala Azmávet, az Adiel fija; a kivűl való kincseknek pedig, a városokban, falukban és várakban valóknak, Jónatán az Uzziás fija vala gondviselője.
+1Chr.27.26 | A mezőn való paraszti munkásoknak Fejedelmek vala Ezri, a Kélub fija.
+1Chr.27.27 | A szőlőmívesek gondivselőjök vala a Rámátbeli Simei, és a szőlők hasznának, azaz, a borospinczéknek gondviselője vala a Sifmitbeli Zabdi.
+1Chr.27.28 | Az olajfák és a mezőn való figefák míveseinek a Gideritbeli Baálhanán; az olajos pinczéknek Joás vala gondviselője.
+1Chr.27.29 | A Sáron mezején való barmoknak a Sáronbeli Sitrai; a mellyek pedig a völgyekben legeltetnek vala, Sáfát az Adlai fija vala gondviselője.
+1Chr.27.30 | A tevéknek az Ismáel nemzetéből való Obil, a szamaraknak a Méronótbeli Jehdéja.
+1Chr.27.31 | A juhoknak a Hágárénus Jaziz. Mindnyájan ezek valának a Dávid Király jószágainak gondviselő Fejedelmei.
+1Chr.27.32 | Jónatán pedig, a Dávid attyának báttya főtanácsos vala, ki okos és a törvényben tudós vala: Jéhiel pedig a Hákhmóni fija vala a Király fijával.
+1Chr.27.33 | Akhitófel is a Királynak tanácsosa vala, az Arkites Khúsai pedig barátja vala a Királynak.
+1Chr.27.34 | Akhitófel után volt Jójada a Benája fija, és Abjátár; a Király hadának Főhadnagya vala Joáb.
+
+1Chr.28.1 | Egybe hívatá pedig Dávid Jérusálembe az Izráelnek minden Fejedelmeit, a nemzetségeknek Fejedelmeit, a Királynak udvarló seregeinek Fejedelmeit, az Ezeredeseket, a Századosokat, a Király minden jószágának és marhájának gondviselőit, maga fijait is, udavariszolgáival és minden erős vitézivel egyetembe.
+1Chr.28.2 | Felálla azért Dávid Király az ő lábaira, és monda: Halljátok meg szómat atyámfiai és én népem! Én magamban elvégeztem nagy szívem szerint, hogy az Úr szövetsége ládájának nyugodalmas házat csináltatnék, és a mi Istenünk lábainak zsámolyt; hozzá is készítettem vala mindent, valami szükség volna;
+1Chr.28.3 | De az Isten engemet megszólíta, s monda: Nem csinálsz te házat az én nevemnek: mert hadakozó ember vagy, sok vért is ontottál immár.
+1Chr.28.4 | Választa pedig engemet az Izráelnek Ura Istene az én atyámnak egész házából, hogy lennék Királya az Izráel népének mind örökké; mert a Júdát választotta főnek, és a Júda cselédei közzűl az én atyámnak háznépét; az én atyámnak fijai közzűl pedig engemet akara Királlyát tenni az egész Izráelen.
+1Chr.28.5 | És az én fiam közzűl (mert az Úr sok fiakat adott nékem) választotta Salamont az én fiamat, hogy ülne az Úr országának székiben az Izráel között.
+1Chr.28.6 | És monda nékem: Salamon a te fijad építi meg az én házamat és az én pitvarimat; mert én őtet magamnak fiamúl választottam, én is néki attya helyett lészek:
+1Chr.28.7 | Megerősítem az ő országát mind örökké; ha az én parancsolatimat és ítéletimet szorgalmatosan megtartándja, amint e mai napon.
+1Chr.28.8 | Most azért intlek az Izráelnek, az Úr népének egész Gyülekezete előtt, és a mi Istenünknek hallására, őrizzétek s keressétek a ti Uratoknak Istenteknek minden parancsolatit, hogy bírhassátok e jó földet: és hogy ti utánnatok fijaitokat is örökösíthessétek meg abban mind örökké.
+1Chr.28.9 | Te azért édes faim Salamon, esmérd még a te atyádnak Istenét, és szolgálj néki tökéletes szívvel és jó kedvvel; mert az Úr minden szíveket általlát, és minden emberi gondolatot jól ért. Hogyha őtet keresénded, megtalálod; de ha viszontag őtet elhagyándod, ő is elhagy téged mind örökké.
+1Chr.28.10 | Most azért mivelhogy az Úr választott téged, hogy néki szent házat csinálj; légy erős és készítsd meg azt.
+1Chr.28.11 | Akkor adá Dávid az ő fijának Salamonnak a tornácznak, annak házacskáinak, kincstartó helyeinek, felházainak és belső kamaráinak, a kegyelem táblája helyének is formáját.
+1Chr.28.12 | És mindenek formáját, mellyeket szívében elgondolt vala, az Úr házának pitvarai felől, az Isten háza kincsének, és minden szent kincseknek köröskörűl való házai felől.
+1Chr.28.13 | A Papoknak és a Lévitáknak seregekért való házaknak, az Úr háza szolgálatjára való minden munkának, és az Úr háza szolgálatjára való minden eszközöknek formái felől.
+1Chr.28.14 | Ada aranyat mérve, a külömb-külömbféle szolgálatoknak edényeire, ezüstöt is mérve minden ezüst edényekre, a külömb-külömbféle szolgálatnak inden edényeire.
+1Chr.28.15 | Azaz, ada aranyat mérve, az arany gyertyatartókra, és azoknak szövétneikire, mindenik gyertyatartóra és annak szövétneikre, a mint mindenik gyertyatartóhoz kívántatott.
+1Chr.28.16 | Ismét ada aranyat mérve, a szent kenyereknek asztalaira, minden asztalra: azonképen ezüstöt az ezüst asztalokra.
+1Chr.28.17 | Ismét a szigonyokra, csészékre, és füstölő szelenczékre tiszta aranyat; az aranymedenczékre is bizonyos mérték szerint ada aranyat, minden medenczére; és az ezüst medenczékre ezüstöt bizonyos mértékkel, minden medenczére.
+1Chr.28.18 | Annakfelette a temjénező oltárra ada igen szép tiszta aranyat mérték szerint: a széknek csináltatására is, azaz, a Kérumibokra ada aranyat, hogy kiterjesztvén az ő szárnyaikat az Úr szövetségének ládáját béfedeznék.
+1Chr.28.19 | Mind ezek az Úrnak kezétől írattattak meg, ki engemet megtanított mind az egész alkotmány formájára.
+1Chr.28.20 | Monda ezek után Dávid Salamonnak az ő fijának: Légy bátor és erős, és kezdj hozzá, semmit ne félj, és ne rettegj: mert az Úr Isten, az én Istenem veled lészen, téged el nem hágy, tőled el nem távozik, míg az Úr házának minden mesterségének míve elvégeztetik.
+1Chr.28.21 | És ímé a Papok és a Léviták seregei az Isten házának minden szolgálatjára, és inden tudós emberek szabad akaratjok szerint, a Fejedelmek is és az egész község a te beszéded szerint veled lésznek minden szolgálattal.
+
+1Chr.29.1 | Azután monda Dávid Király az egész sokaságnak: Ím látjátok, hogy egyedűl az én fiamat Salamont választotta Isten, ki igen gyermek és gyenge; e pedig nagy dolgo: mert nem ember háza lészen, hanem az Úr Istené.
+1Chr.29.2 | Én pedig teljes tehetségem szerint az én Istenem házának építésére készítettem bőségesen aranyat az arany szerszámokra, rezet a rézre, vasat a vasra, fákat a fákra: sárdoniks köveket, foglalni való köveket, veres köveket, különb-különb színű köveket: mindenféle drágaköveket, márványköveket is bőséggel.
+1Chr.29.3 | Még ennekfelette, mivelhogy nékem nagy kedvem vagyon az én Istenem házához, kiváltképen való kincsem is vagyon nékem, aranyom és ezüstöm, mellyeet adok az én Istenem háza szükségére, azoknak felette, mellyeket ez előtt készítettem vala a szent háznak épületire.
+1Chr.29.4 | Tundiillik háromezer tálentom Ofirból hozott aranyat: és hétezer tálentom tiszta azüstöt, a házak falainak béborítására.
+1Chr.29.5 | Aranyat adtam az arany szerszámokra, ezüstöt az ezüstre és minden szükségre, a mesteremberek kezéhez. És ha valaki ajándékot adni akar szabad akaratja szerint, töltse meg az ő kezét ma, és adjon a mit akar az Úrnak.
+1Chr.29.6 | Azért szabad akaratjok szerint adának ajándékokat az atyáknak Fejedelmei, az Izráel nemzetségeinek Fejedelmei, az Ezeredesek, Századosok, és a Király dolgosainak is Fejedelmei.
+1Chr.29.7 | És adának az Isten házának szükségére ötezer tálentom aranyat, és tízezer arany pénzt; tízezer tálentom ezüstöt, és tizennyolcezezer tálentom rezet, és százezer tálentom vasat.
+1Chr.29.8 | És valakinél drága kövek találtatának, adák az Úr házának kincséhez; a Gersoniták közzűl való Jéhiel kezébe.
+1Chr.29.9 | És örvendeze a sokaság, hogy szabad akaratjokból adnának; mert tiszta szívekből adakozának az Úrnak: Dávid Király is lőn ezen nagy örömben.
+1Chr.29.10 | Hálákat ada azért Dávid az Úrnak mind a sokaság előtt, és monda Dávid: Áldott vagy te, óh Izráelnek a mi atyánknak Ura Istene, öröktől fogva mind örökké!
+1Chr.29.11 | Óh Uram, tiéd a nagyság, hatalom, dicsőség, örökkévalóság és máltóság, sőt minden, valami a mennyben és a földön vagyon, tiéd: Tiéd mondom, óh Uram az ország, te magasztalod fel magadat, hogy légy minden Fejedelmek felett!
+1Chr.29.12 | A gazdagság és a dicsőség mind te tőled vagynak és te uralkodol mindeneken: a te kezedben vagyon mind az erősség és mind a birodalom; a te kezedben vagyon mindenek felmagasztaltatása és megerősítetése.
+1Chr.29.13 | Most azért óh mi Istenünk, vallást tészünk előtted, és dícsérjük a te dicsőséges Nevedet;
+1Chr.29.14 | Mert micsoda vagyok én és micsoda az én népem, hogy erőnk lehetne a szabad akarat szerint való ajándéknak adására, a mint ezt adtuk? Mert tőled vagynak mindenek, és a miket a te kezedből vettünk, azokat adtuk most néked.
+1Chr.29.15 | Mert mi csak jövevények vagyunk te előtted és idegenek, a mi fejenként a mi atyáink is: a mi életünknek napjai olyanok e földön mint az árnyék, melyben állandóság nincsen.
+1Chr.29.16 | Óh mi Urunk Istenünk! mind ez, a mit készitettünk, hogy néked és a te szent nevednek házat építsünk, a te kezedből való, és mind azok tiéid!
+1Chr.29.17 | Jól tudom pedig ezt is, óh én Istenem, hogy te a szívet nézed és az igazságot szereted: Én adatam mind ezeket tiszta szívemből nagy jó kedvvvel: e te itt jelen való néped is, láttad, hogy nagy örömmel szabad akaratja szerint adta ezeket néked.
+1Chr.29.18 | Óh Ábrahámnak, Iszáknak és Izráelnek a mi atyáinknak Ura Istene, tartsd meg ezt mind örökké, tudniillik a te népednek hozzád való ilyen jó akaratját, és az ő szíveket igazgassad te hozzád.
+1Chr.29.19 | Salamonnak pedig az én fiamnak adja tökéletes szívet, hogy a te parancsolatidat, bizonyságtételeidet és rendelésidet megőrizhesse, és hogy mind azokat megcselekedhesse, és hogy megépíthesse azt a házat, mellyet én elilndítottam.
+1Chr.29.20 | Ezek után monda Dávid a sokaságnak: Kérlek, hogy ti is áldjátok a ti Uratokat Istenteket. Áldá azért az egész Gyülekezet az ő attyaiknak Urát Istenét, és fejeket lehajtván meghajták magokat, és tisztelék az Urat, és a Királyt.
+1Chr.29.21 | És áldozának az Úrnak véres áldozatokkal, és áldozának az Úrnak tüzes áldozatokkal másodnapon: ezer tulkokkal, ezer kosokkal, ezer bárányokkal, azoknak italiáldozatjokkal egybe; és sokféle áldozatokkal, az gész Izráel népéért.
+1Chr.29.22 | És evének s ivának az Úr előtt azon a napon nagy vígaságban. Azután Salamont a Dávid fiját Királlyá tevék másodszor is, és megkenék őtet az Úrnak, hogy lenne Fejedelem: Sádókot is megkenék a Főpapságra.
+1Chr.29.23 | És üle Salamon az Úr székibe mint Király az ő attyának Dávidnak helyében, és mindenbe szerencsés vala; mert enged vala néki az egész Izráel népe.
+1Chr.29.24 | Fejenként a Fejedelmek is, és a hatalmasok, annakfelette mindnyájan a Dávid Király fijai is kezekeet adák, hogy Salamon Királynak engedelmesek lennének.
+1Chr.29.25 | És igen felmagasztalá az Úr Salamont mind az egész Izráel népe előtt, és ollya királyi méltóságot szerze néki, mellyhez hasonló méltósága egy Királynak sem vot ő előtte Izráel országában.
+1Chr.29.26 | Minekutánna pedig Dávid az Isai fija uralkodott volna az egész Izráelen:
+1Chr.29.27 | (A napok pedig, mellyeken uralkodott az Izráelen, negyven esztendők voltak: Hebronban uralkodott vala hét esztendeig, Jérusálemben pedig harminczháromig uralkkodott.
+1Chr.29.28 | Meghala Dávid jó vénségben, életével, gazdagságával és minden dicsőségével megelégedve: És uralkodék az ő fija Salamon helyette.
+1Chr.29.29 | Dávid Királynak pedig mind első s mind utolsó dolgai, ímé meg vagynak írattatva a Sámuel Próféta könyvében, és a Nátán Próféta könyvében, és a Gád Próféta könyvében:
+1Chr.29.30 | Minden ő országlásával, hatalmasságával és változásoknak idejével, mellyek ő rajta, az Izráelen, és a földnek minden országain estek.

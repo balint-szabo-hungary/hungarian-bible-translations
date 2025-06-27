@@ -1,0 +1,857 @@
+2Chr.1.1 | Megerősödék pedig Salamon a Dávid fija az ő orszgában; és az ő Ura Istene vele vala, és őtet igen felmagasztalá.
+2Chr.1.2 | És parancsola Salamon az egész Izráel népének, az Ezeredeseknek, Századosoknak, a Bíráknak és az Izráel minden Hadnagyainak, és az atyák Fejedelmeinek.
+2Chr.1.3 | Elméne azért Salamon, és mind a sokaság vele együtt a Gibeon hegyén való oltárhoz: mert ott vala az Isten Gyülekezetinek sátora, mellyet Mózes az Úr szolgája csinált vala a pusztában;
+2Chr.1.4 | De az Isten ládáját Dávid immár Kirját-Jeárimból felvitte vala, minekutánna annak helyet szerzett volna Dávid; mert Jérusálemben vont vala annak sátort;
+2Chr.1.5 | Ott vala az Úr sátora előtt a rézoltár is, mellyet Bésaléel az Uri fija csinált vala, ki Húr fija vala: és Salamon a sokasággal egybe megkeresé azt.
+2Chr.1.6 | Áldozék pedig ott Salamon a rézoltáron az Úr előtt, melly a Gyülekezetnek sátorában vala, áldozék, mondom, azon ezer tüzes áldozatokkal.
+2Chr.1.7 | Azon éjsazaka megjelenék az Isten Salamonnak, és monda néki: Kérjed a mit akarsz, hogy adjak néked.
+2Chr.1.8 | És monda Salamon az Istennek: Te nagy kegyelmességet cselekedtél az én atyámmal Dáviddal; és ő helyette engemet Királlyá tettél.
+2Chr.1.9 | Most, óh Uram Isten, legyen állandó a te beszéded, mellyet szólottál volt az én atyámnak Dávidnak: mert te választottál engemet Királlyá e népen, melly olly sok, mint a földnek pora.
+2Chr.1.10 | Most azért adj nékem bölcseséget és tudományt, hogy a te néped előtt mind ki s mind bémehessek: mert valyon kicsoda ítélhetné e te sok számú népedet.
+2Chr.1.11 | Akkor monda az Isten Salamonnak: Mivelhogy e volt a te szívedben, és nem kívánál tőlem gazdagságot, kincset és tisztességet, avagy a téged gyűlölőknek nem kértél, hanem kértél magadnak bölcseséget és tudományt, hogy igaz ítéletet tehetnél az én népemen, mellyen téged Királyá választottalak;
+2Chr.1.12 | A bölcsességet és a tudományt megadtam néked, gazdagságot is pedig, kincset és tisztességet ollyat adok néked, mellyhez hasonló nem volt sem előtted, sem utánnad való Királyoknak.
+2Chr.1.13 | Alájöve pedig Salamon Jérusálembe a Gibeon hegyéről, a Gyülekezetnek sátora elől, és uralkodék az Izráelen.
+2Chr.1.14 | Szerze Salamon szekereket is és lovagokat; és vala néki ezer és négyszáz szekere, és tizenkétezer lovagjai, kiket helyheztete a szekereknek rendeltetett városokba, és Jérusálembe a Király mellé.
+2Chr.1.15 | És a Király az ezüstöt és aranyat bőségessé tevé, mint a köveket, Jérusálemben: a czédrusfákat pedig elbővíté, mind a vad figefákat, mellyek nevekednek bőséggel a mezőségen.
+2Chr.1.16 | Salamonnak pedig hoznak vala lovakat Égyiptomból: mert a Király tőséri bizonyos árron sok lovakat vesznek vala.
+2Chr.1.17 | És mikor feljőnek vala, hoznak vala Égyiptomból egy szekeret hatszáz ezüst sikluson, egy-egy lovat másfélszáz ezüst sikluson: mind a Hitteusoknak, mind a Siriabelieknek Királyaik azokkal hozatnak vala lovakat Égyiptomból.
+
+2Chr.2.1 | Elvégezé pedig Salamon magában, hogy az Úr nevének házat csinálna, és magának is királyipalotát.
+2Chr.2.2 | És rendele Salamon hetvenezer férjfiakat teherhordani, nyolczvanezer férjfiakat favágni a hegyben; és pallérokat ezekhez háromezeret és hatszázat.
+2Chr.2.3 | És külde Salamon a Tírusblei Húrám Királyhoz, mondván: A mint az én atyámmal Dáviddal cselekedtél, kinek küldöttél czédrusfákat, hogy építene magának házat, mellyben laknék.
+2Chr.2.4 | Ím én akarok csinálni az én Uram Istenem nevének házat, mellyet néki szenteljetek, és abban drága fűszerszámokból való jóillatot tegyek ő előtte, hogy ő előtte szüntelen szent kenyerek álljanak, és mind reggel, mind estve áldozzam tüzes áldozattal szombatnapokon, az új holdnak napjain, és a mi Urunknak Istenünknek szenteltetett innepeken, mellyeket örökké kell cselekedniek az Izráelitáknak.
+2Chr.2.5 | A melly házat pedig csinálok, igen nagy lészen: mert a mi Istenünk nagyobb minden isteneknél.
+2Chr.2.6 | És kinek volna annyi ereje, hogy néki házat csinálhatna? Az ég és az egeknek egei őtet bé nem foghatják, s ki vagyok én is, hogy néki házat csinálhassak, hanem hogy csak jóillatot tegyenek abban ő előtte.
+2Chr.2.7 | Azért azonképen küldj most nékem tudós mesterembert, ki tudjon mívelni aranyból, ezüstből, rézből, vasból, bársonyból, veres és kék selyemből; ki tudjon metszéseket metszeni az én mesterembereimmel egyetemben, ki Júdában és Jérusálemben vagynak, kiket az én atyám Dávid szerzett.
+2Chr.2.8 | Annakfelette küldj czédrusfákat, fenyőfákat, és algumimfákat a Libánusról: mert tudom hogy a te szolgáid tudják vágni a Libánusnak fáit; és ímé az én szolgáim is a te szolgáiddal lésznek.
+2Chr.2.9 | Hogy készítsenek nékem sok fákat: mert igen nagy és csudálatos, a emly házat csináltatni akarok.
+2Chr.2.10 | És ímé a favágóknak a te szolgáidnak adok húszezer véka cséplett búzát, és húszezer véka árpát, húszezer báth bort, és húszezer báth olajt.
+2Chr.2.11 | Felele pedig Húrám a Tírús Királya levél által, mellyet külde Salamonnak: Mivelhogy az Úr szerette az ő népét, azért adott nékik Királyúl.
+2Chr.2.12 | Ismét monda Húrám: Áldott az Izráelnek Ura Istene, ki mind a mennyet s mind a földet teremtette; ki illyen bölcs, tudós, okos és értelmes fiat adott volt Dávid Királynak, ki mind az Úrnak házat, mind magának királyipalotát akar építeni.
+2Chr.2.13 | Ímé küldöttem azért bölcs, tudós és értelmes férjfiat, ki az én atyámé Húrámé volt:
+2Chr.2.14 | A Dán nemzetségének leányai közzűl való asszony fiját, és az ő attyát, ki Tírús városból való, ki tud mívelni aranyból, ezüstből, rézből, vasból, kövekbő, fákból, bársonyból, kék, fejér és veres selyemből, és mindenféle metszést megmetszeni, és gondolni minden találmányt, valamit eleibe adnak a te tudós mesterembereiddel, és az én uramnak Dávid Királynak a te atyádnak tudós mestereivel egybe.
+2Chr.2.15 | Azért most, a melly búzát, árpát, olajt és bort igért az én uram, küldje el az ő szolgáinak;
+2Chr.2.16 | Mi pedig a Libánuson vágunk fát, a mennyi néked szüksgées lészen, és elvisszük azokat szálakon s tengeren Joppéhoz, és te onnét vitessed Jérusálembe.
+2Chr.2.17 | Megszámláltata azért Salamon minden idegen férjfiakat az Izráel földén az ő attyának Dávidnak megszámláltatása után, és találtatának száz ötvenezeren, ismét háromezeren és hatszázan.
+2Chr.2.18 | És választa azok közzűl hetvenezer teherhordókat, favágásra pedig a hegyben nyolczvanezeret: palléroknak, kik a népet szorgalmaztatnák, rendele háromezeret és hatszázat.
+
+2Chr.3.1 | Csináltatni kezdé azért Salamon az Úr házát Jérusálemben a Mórija hegyén, melly Dávidnak az ő attyának megmutattatott vala a helyen, mellyet készített vala Dávid a Jebuzeus Ornán szérűjén.
+2Chr.3.2 | Elkezdé pedig az építést a második hónak második napján, királyságának negyeik esztendejében.
+2Chr.3.3 | És illyen mértékkel éle Salamon az Isten házának fundálásában: hosszasága az első mérésben vala hatvan sing, szélessége húsz sing.
+2Chr.3.4 | A hosszasága előtt való tornácz, a háznak szélessége szerint, húsz sing vala, magassága száz húsz; és béborítá azt belől tiszta arannyal.
+2Chr.3.5 | A derék házat pedig megbélletté jegenyefákkal, mellyet ismét tiszta arannyal béboríta, mellyen pálmafáknak, és egybekapcsolt lánczoknak formáját metszete.
+2Chr.3.6 | A háznak pádimentomát is megrakatá drága márványkövekkel igen szép ékesen, az arany pedig vala Párvaimból való.
+2Chr.3.7 | Megbélleté pedig a háznak gerendáit, ajtómellékit, falait, és annak ajtait is arannyal: és metszete a háznak falaira Kérubim formákat.
+2Chr.3.8 | Megcsináltatá a legszentségesb helynek házát is, mellynek hosszasága vala egyaránt a derék háznak szélességével, tudniillik húsz sing, szélessége is húsz sing: és megbélleté azt a hatszáz tálentom tiszta arannyal.
+2Chr.3.9 | A szegeknek pedig nehézségek tészen vala ötven arany siklust. A felső házakat is arannyal megbélleté.
+2Chr.3.10 | Csináltata pedig a legszentségesb helynek házában két Kérubimokat is, két gyermeknek formájára, kiket megaranyoztata.
+2Chr.3.11 | A Kérubimok szárnyainak hosszasága húsz sing vala: egyik szárnya öt sing vala, és a Háznak falához ér vala, a másik szárnya is öt sing vala, és a másik Kérubim szárnyát éri vala.
+2Chr.3.12 | És így ér vala a Kérubimnak egyik szárnya, melly öt sing vala, a ház falához: a másik szárnya, melly ismét öt sing vala, a másik Kérubim szárnyához ér vala.
+2Chr.3.13 | Azért e két Kérubimoknak szárnyai húsz singnyire valának kiterjesztetve: és azok lábokon állanak vala, az ő orczájok pedig oda bé vala fordulva.
+2Chr.3.14 | Annakfelette kárpitot is csináltata, kék, bársonyszínű, veres és fejér selyemből, melylre Kérubim formákat csináltata.
+2Chr.3.15 | Két oszlopokat is csináltata a ház előtt, mellyeknek hossza harminczöt sing vala, és gombot felűl mindenikre, melly öt sing vala.
+2Chr.3.16 | Csináltata lánczoknak formáját is mint szinte a templom belső részében, és helyhezteté az oszlopoknak gombjaira: száz pómagránátokat is csináltata, mellyeket a lánczokba helyheztete.
+2Chr.3.17 | És felállatá ez oszlopokat a templom előtt; egyiket jobfelől, a másikat balfelől: És nevezé a jobbfelől valót Jákinnak, a balfelől valót pedig Boáznak.
+
+2Chr.4.1 | Csinála annakfelette rézoltárt, mellynek hosszasága húsz sing, szélessége is húsz sing, magassága pedig tíz sing vala.
+2Chr.4.2 | Csinála öntött tengert is, mellynek egyik széle az ellenbe való széléhez tíz sing vala, köröskörűl kerekded vala: magassága öt sing vala, és harmincz sing sinór éri vala bé a kerületit.
+2Chr.4.3 | (Ökröknek formája vala az alatt köröskörűl, mellyek megkörnyékezik vala a tengert, tíz singnyire környékezik vala meg azt köröskörűl; két renddel öntettek vala az ökrök annak öntésében.)
+2Chr.4.4 | Áll vala a tenger tizenkét ökrökön: hárma néz vala északra, hárma napnyugotra, hárma délre, s hárma napkeletre: és a tenger vala azokon felűl: azoknak pedig minden hátulsó részek oda bé vala.
+2Chr.4.5 | Temérdeksége pedig vala egy tenyérnyi, és annak ajaka mint a pohárnak ajaka, és mint a liliomnak virága: mellybe fér vala háromezer báth víz.
+2Chr.4.6 | Csinála annakfelette tíz üstöt és helyhezteté ötét jobbkéz felől, ötét balkzé felől, hogy azokból mosnák a tüzes áldozatra való baromnak húsát: a tenger pedig vala e végre, hogy abból mosódnának a Papok.
+2Chr.4.7 | Csinála tíz arany gyertyatartókat is egymáshoz hasonlatosokat és helyhezteté a templomban, ötét jobbkéz felől, ötét balkéz felől.
+2Chr.4.8 | Csinála tíz asztalokat is, mellyeket helyheztete a temploban, ötét jobbkéz felől, ötét balkéz felől: csinála száz arany poharakat is.
+2Chr.4.9 | Megcsinálá a Papok pitvarát is, és a nagy tornáczot köröskörűl, és ajtókat a tornáczra, és azoknak ajtait rézzel borítá meg.
+2Chr.4.10 | Továbbá a tengert helyhezteté jobbkéz felől napkeletre, délnek ellenébe.
+2Chr.4.11 | Csinála annakfelette Húrám vasfazekakat, seprőket, és medenczéket: És elvégezé Húrám a mívét, mellyet kell vala csinálni Salamon Királynak, az Isten házának szükségére:
+2Chr.4.12 | Tudniillik két oszlopokat, és két karikákat az oszlopok tetején való koronákkal egybe, és hálóhoz hasonlatos két szerszámokat, hogy béfedeznék az oszlopok tetején való két koronás karikákat.
+2Chr.4.13 | És négyszáz pómagránát formákat a két hálókba: két rend pómagránátok valának mindenik hálóban, mellyek csináltattak vala az oszlopok tetején való két koronás karikáknak béfedezésére.
+2Chr.4.14 | Csinálá talpakat is, és azokon felűl csinálá az üstöket.
+2Chr.4.15 | Egy tengert, és tizenkét ökröket az alá.
+2Chr.4.16 | Vasfazekakat, seprőket, háromágú villákat, és minden szerszámokat megcsinála Húrám az ő attya, Salamon Királynak, az Úr házának szükségére, tiszta rézből.
+2Chr.4.17 | A Jordán mezején önteté azokat a Király az agyagos földben, Sukkót között és Seredáta között.
+2Chr.4.18 | Csinálá pedig Salamon mind ezeket az edényeket nagy bőségesen; mert a réz mértékének számát nem tudták.
+2Chr.4.19 | Megkészíté azért Salamon az Isten házának minden edényeit: Az arany oltárt is, és az asztalokat, mellyekre helyheztetik vala a szent kenyereket.
+2Chr.4.20 | A gyertyatartókat is, és azoknak szövétnekeit is, hogy égnének azok az ő rendek szerint a legszentségesb hely előtt, tiszta aranyból.
+2Chr.4.21 | Annak virágait, szövétnekeit és ollóit is aranyból, melly vala finom arany.
+2Chr.4.22 | Az éneklő szerszámokat is: medenczéket, kalánokat és temjénezőket tiszta aranyból: és a legszentségesb hely házának belső ajtait, és a templom házának is belső ajtait, aranyból.
+
+2Chr.5.1 | Elvégezteték pedig az Úr házának minden míve, mellyet míveltete Salamon: és bévivé Salamon a Dávidtól az ő attyától Isennek szenteltetett jószágot, az ezüstöt, aranyat, és minden edényeket; és helyhezteté azokat az Isten házának kincsei közzé.
+2Chr.5.2 | Akkor Salamon öszvehívatá az Izráel Véneit, és a nemzetségeknek minden Fejedelmeit, és az Izráel háznépének Fejedelmeit Jérusálembe, hogy felvinnék az Úr szövetségének ládáját, a Dávid városából Sionból.
+2Chr.5.3 | Gyülének azért fejenként az Izráel fijai a Királyhoz, a hetedik hónak Innepén.
+2Chr.5.4 | És eljövének az Izráelnek minden Vénei, és a Léviták fogák a ládát.
+2Chr.5.5 | És felvivék a ládát a Gyülekezetnek sátorát, és minden szent edényeket, mellyek valának a sátorban: felvivék, mondom, azokat a Papok és Léviták.
+2Chr.5.6 | Salamon Király pedig és az Izráel sokasága, a kik ő hozzá gyültek vala a láda előtt juhokat és ökröket áldoznak vala, mellyek meg sem számláltatnak vala, meg sem írattatnak vala a sokaság miatt.
+2Chr.5.7 | És bévivék a Papok az Úr szövetségének ládáját az ő helyrére, az Isten házának belső részébe a legszentségesb helybe, a Kérubimok szárnyai alá.
+2Chr.5.8 | A Kérubimok pedig az ő szárnyaikat kiterjesztik vala a láda felett és béfedezik vala a Kérubimok a ládát és annak ruadit felűl.
+2Chr.5.9 | Azután kiljebb vonák annak rudjait, úgy hogy a rudaknak végei megláttatnának a ládán kivűl, a legszentségesb helynek első része felől, de onnét kivűl nem láttatnak vala. És ott volt a láda, mind e mai napig.
+2Chr.5.10 | Nem volt egyéb a ládában, hanem a Mózes két táblái, mellyeket ő a Hóreb hegyén tett ala abban, mikor az Úr szövetséget tett volt az Izráel fijaival, hogy Égyiptomból kijöttek vala.
+2Chr.5.11 | Lőn pedig, mikor a Papok kijöttek volna a szent helyből, (mert mindnyájan a Papok, kik ott valának, magokat megszentelték vala, és akkor nem kellett megtartaniok az ő rendeket.)
+2Chr.5.12 | Hasonlatosképen az énekes Léviták mind, kik Asáftól, Hémántól, Jédutuntól valának, mind fijaik, mind attyokfijai, fejér ruhákba öltözvén, czimbalmokkal, náblumokkal és hegedűkkel állanak vala napkelet felől az oltárnál, és ő velek százhúsz kürtölő Papok:
+2Chr.5.13 | Mert a kürtölőúknek és éneklőknek tisztek vala, egyenlőképen zengeni az Úrnak dícséretére és tiszteletére: És mikor nagy felszóval énekelnének kürtökkel, czimbalmokkal és mindenféle zengő szerszámokkal: és mikor az Urat dícsérnék mondván: Mert igen jó ő, mert örökké való az ő irgalmassága! lőn mondom, hogy az Úr házát a köd bételné;
+2Chr.5.14 | Annyira hogy a Papok nem shzolgálhatnának a köd miatt; mert az Úrnak dicsősége az Isten házát bétöltötte vala.
+
+2Chr.6.1 | Akkor monda Salamon: Az Úr mondotta, hogy ő homályban lakoznék.
+2Chr.6.2 | Én pedig lakóházat csinálék néked, és olly helyet, mellyben lakozzál mind örökké!
+2Chr.6.3 | Fordítá azért a Király az ő orczáját az Izráel egész Gyülekezetére, és megáldá őket; (az Izráel egész Gyülekezete pedig fenn áll vala.)
+2Chr.6.4 | És monda: Áldott az Izráelnek Ura Istene, ki szólot volt az ő szájával az én atyámnak Dávidnak: és hatalmas kezével meg is teljesítette, mondván:
+2Chr.6.5 | A naptól fogva, hogy kihozám az én népemet az Égyiptom földéből, nem választottam egy várost is az Izráel minden nemzetségeiből, a háznak építésére, mellyben az én nevem lenne: a képen egyéb férjfiat sem, hogy lenne az én népemnek az Izráelnek Vezére.
+2Chr.6.6 | Hanem választottam Jérusálemet, hogy az én nevem abban tiszteltetnék: és választám Dávidot, hogy lenne Vezére az én népemnek az Izráelnek.
+2Chr.6.7 | Volt pedig az én atyámnak Dávidnak szívében, hogy építene az Izráel Ura Istene nevének házat;
+2Chr.6.8 | De az Úr azt mondotta Dávidnak az én atyámnak: Mivelhogy szívedben eltökéletted, hogy nékem házat csinálj, jól tetted, hogy olly szándékkal voltál:
+2Chr.6.9 | De te nem csinálsz nékem házat, hanem a te fijad, ki a te ágyékodból származik, ő csinál az én nevemnek házat.
+2Chr.6.10 | Azért az Úr megteljesítette az ő mondását, mellyet szólott volt; mert felkelék az én atyám Dávid helyett, és ülök az Izráelnek királyiszékiben, a mint az Úr megmondotta volt: és a házat is megcsináltam az Izráel Ura Istene nevének.
+2Chr.6.11 | Holott helyheztettem a ládát, mellyben az Úrnak szövetsége vagyon, mellyet szerzett volt az Izráel fijaival.
+2Chr.6.12 | Megálla pedig Salamon az Úr oltára előtt, az Izráel egész Gyülekezete előtt, és kezeit kiterjesztette vala.
+2Chr.6.13 | (Mert Salamon egy széket csináltatott vala rézből, mellyet helyheztetett vala a tornácznak közepén: mellynek hossza öt sing, szélessége öt sint, magassága három sing vala): Felálla, mondom, abba, és térdeire esvén az egész Izráel Gyülekezete eőtt, kezeit az ég felé kiterjeszté.
+2Chr.6.14 | És monda: Óh Izráelnek Ura Istene, nincsen hozzád hasonló Isten sem mennyen sem földön, ki megőrized a te fogadásodat és kegyelmességedet a te szolgáidhoz, kik te előtted tökéletes szívvel járnak!
+2Chr.6.15 | Ki megőrized a mit szólottál volt a te szolgádnak az én atyámnak Dávidnak:a mint száddal szólottál volt, azonképen hatalmas kezeddel bétöltéd, a mint e mai napon látjuk.
+2Chr.6.16 | Most azért, óh Izráelnek Ura Istene, teljesítsd bé, a mit a te shzolgádnak Dávidnak az én atyámnak szólottál volt, mondván: Nem fogy el előlem a te magodból való férjfiú, ki az Izráelnek királyiszékiben üljön; de úgy, ha a te fijaid is az ő útjokat megőrizéndik: azaz, hogy ha az én törvényemben járándanak, a mind én előttem te jártál.
+2Chr.6.17 | Most kérlek mégis, óh Izráelnek Ura Istene, bizonyíttassék meg a te beszéded, mellyet szólottál volt a te szolgádnak Dávidnak:
+2Chr.6.18 | (Jóllehet, avagy lakozhatnék é valósággal az Isten e földön az emberek között? Ím az egek és az egeknek egei téged bé nem foghatnak, mennyibel kevésbé e ház, mellyet csináltam?)
+2Chr.6.19 | Hogy tekints a te szolgádnak könyörgésére és imádságára, óh én Uram Istenem, meghallgatván kiáltását és könyörgését, mellyel könyörög a te szolgád előtted!
+2Chr.6.20 | Hogy a te szemeid éjjel és nappal e házra figyelmezzenek, e helyre, mellyről mondottad volt, hogy a te nevedet abban helyhezteted, meghallgatván könyörgését a te szolgádnak, mikor e helyen könyörgene.
+2Chr.6.21 | Hallgasd meg azért a te szolgádnak, és a te népednek az Izráelnek könyörgését, mellyel könyörgeni fognak e helyen; te, mondom, meghallgassad a te mennyei lakhelyedből, és meghallgatván őket, kedvezz nékik.
+2Chr.6.22 | Mikor valaki vétkezéndik az ő felebarátja ellen, és annak hitet veténd hogy megesküdtesse azt, és esküvése te elődbe jutand e házba a te oltárod eleibe:
+2Chr.6.23 | Te meghallgassad a mennyből, és vidd véghez, és tégy igaz ítéletet a te szolgáid között, az istentelent megbüntetvén az ő hamissága szerint; és az igazit megigazítván, megfizetvén néki az ő igazsága szerint.
+2Chr.6.24 | Ha mikor a te néped az Izráel az ellenségtől megverettetik, mivelhogy te ellened vétkeztek volt; és megtérvén vallást tésznek a te nevedről, könyörgenek és imádkoznak te előtted e házban:
+2Chr.6.25 | Te meghallgassad a mennyből, és légy kegyelmes a te népednek az Izráel bűnének, és őket hozzad meg e földre, mellyeet adtál nékik és az ő attyaiknak.
+2Chr.6.26 | Mikor az ég bézároltatik, hogy eső ne legyen, mivelhogy vétkeztek volt te ellened; ha ez helyen könyörögnek, és vallást tésznek a te nevedről, és megtérnek bűnökből, minekutánna őket megsanyargatándod:
+2Chr.6.27 | Te meghallgassad a mennyből, és légy kegyelmes a te szolgáidnak és a te népednek az Izráelnek, minekutánna őket megtanítándod az igaz útra, a mellyen járjanak, és esőt adja a te földedr, mellyet adtál a te népednek örökségűl.
+2Chr.6.28 | Ha mikor éhség lejénd e földön, döghalál mikor lejénd, aszály, vagy ragya, sáska, vagy csrebogár mikor lejénd; vagy mikor az ő elensége őtet megszorítándja az ő birodalmának földében: akár miféle csapás és nyomorúság lejénd;
+2Chr.6.29 | Minden könyörgést és minden imádságot, mellyet akármelly ember lejénd, akár a te egész néped az Izráel, minekutánna kiki eszébe vejéndi az ő csapását és nyavalyáját, és kezeit e házban kiterjeszténdi:
+2Chr.6.30 | Te meghallgassad a mennyből, a te lakhelyedből, és légy kegyelmes nékik, és kinek-kinek mind az ő érdeme szerint fizess úgy, mind kinek szívét látod, (mert csak te egyedűl látod által az emberek fijainak szíveket;)
+2Chr.6.31 | Hogy féljenek tége járván a te útaidon míg élnek e földnek színén, mellyet adtál volt a mi atyáinknak.
+2Chr.6.32 | Sőt még az idegeneket is, a kik nem a te néped közzűl az Izráel közzűl valók, hanem messzünnen jöttek a te nagy nevedért, és a te hatalmas kezedért, és a te kiterjesztett karodért, mikor ide jutván könyörgnek a házban:
+2Chr.6.33 | Te meghallgassad a mennyből a te lakóhelyedből, és a szerint cselekedjél, a mint az idegen kiáltott te hozzád; hogy megesmérjék a földnek minden népei a te nevedet, és tiszteljenek téged a mint a te néped az Izráelt, és hogy megtudják, hogy a te nevedről neveztetik e ház, mellyet én építettem.
+2Chr.6.34 | Ha mikor a te néped haddal kimenénd az ő ellenségeire azon az úton, mellyen elbocsátod őket; ha könyörögnek néked e város felé, mellyet választottál, és e ház felé fordulván, melyet a te nevednek csináltam;
+2Chr.6.35 | Te meghallgassad az ő könyörgéseket és imádságokat, és tégy ítéletet érettek.
+2Chr.6.36 | Ha veténdnek ellened, (mert az ember sincsen, a ki nem vétkeznék), és reájok megharagudván, az ellenség kezébe adándod őket, és őket fogságba vijéndik azok, a kiktől megfogattak, messze földre vagy közelre.
+2Chr.6.37 | Ha az idegen földön, a hol fogva tartatnak, magokat eszekbe veszik, és megtérvén, az ő fogságoknak helyén könyörgéndenek néked, és ezt mondándják: Vétkeztünk, hamisan és gonszúl cselekedtünk.
+2Chr.6.38 | És megtéréndenek te hozzád teljes szívekből és teljes lelkekből az ő fogásgoknak földében, a hol őket fogva tartják, és köknyörgéndenek ez ő földök felé fordulván, mellyet adtál volt az ő attyaiknak, és e város felé, mellyet választottál magadnak, és e ház felé, mellyet a te nevednek építettem:
+2Chr.6.39 | Meghallgassad akkor az ő könyörgéseket és imádságokat a mennyből a te lakhelyedről, és viseld gondjokat, és légy engedelmes a te népednek, a melly ellened vétett volna.
+2Chr.6.40 | Most azért, óh én Istenem, legyenek a te szemeid nyitva, és füleid figyelmetesek e helyben lett könyörgésre.
+2Chr.6.41 | És most kelj fel, óh Úr Isten, a te nyugodalmadba, te és a te hatalmasságodnak ládája: A te Papjaid, óh Úr Isten, öltöztessenek fel &amp; segítséggel, és a te szenteid örvendezzenek minden jóban.
+2Chr.6.42 | Óh Úr Isten, ne utáld meg a te megkenetett Királyodnak orczáját: emlékezzél meg Dávidhoz a te szolgádhoz való nagy irgalmasságaidról!
+
+2Chr.7.1 | És mikor Salamon elvégezte volna a könyörgést; tűz szálla le az égből, és az áldozatokat mind megemészté és az Úr dicsősége bétölté a házat.
+2Chr.7.2 | Annyira hogy még a Papok is bé nem mehetnek vala az Úr házába; mert az Úr dicsősége mind béfogta vala az Úr házát.
+2Chr.7.3 | Az Izráel fijai pedig fejenként látják vala, mikor a tűz alászállott vala, és az Úr dicsősége is a házra; és hanyathomlok leborúlának a föld felé a pádimentom felett, és imádák és tisztelék az urat, ezt mondván: Mert igen jó, mert örökké megmarad az ő kegyelmessége!
+2Chr.7.4 | A Király pedig és mind a sokaság áldoznak vala áldozatokat az Úr előtt.
+2Chr.7.5 | Áldozék azért Salamon Király huszonkét ezer ökrökkel; és százhúsz ezer juhokkal, mikor a Király a sokassággal egyetemben az Úr házát megszentelnék.
+2Chr.7.6 | A papok pedig foglalatosok valának az ő tisztekben: a Léviták is az Úrnak minden zengő szerszámaival, mellyeket Dávid Király szerzett vala, dícsérvén az Urat a Dávid dícséreti által, melly az ő kezekbe adatott vala: Mivelhogy örökké volna az ő irgalmassága! a Papok közzűl pedig némellyek azoknak ellenekben kürtölnek vala, mikor mind az Izráeliták talpokon állanának.
+2Chr.7.7 | Annakfelette megszentelé Salamon a pitvar közepét, melly vala az Úr háza előtt: mert ott is áldozék egészen égőáldozatokkal, és háláadó-áldozatoknak kövérivel: mert a rézoltárra, mellyet csinált vala Salamon, nem fér vala ennyi tüzes áldozat, sem a minha sem a kövérség.
+2Chr.7.8 | És Innepet szentele akkor Salamon hét napig, az egész Izráellel egybe, melly igen nagy Gyülés vala, Hámáttól fogva szinte az Égyiptom patakáig.
+2Chr.7.9 | Nyolczadnapon pedig mindnyájan egybegyülének: mert az oltárt hét napg szentelék, a fő Innepet is hét napig.
+2Chr.7.10 | Huszonharmadik napján pedig a hetedik hónapnak elbocsátá magától a népet az ő házaikba, a jók felől való nagy örömmel és vígassággal, mellyekkel volt az Úr Dávidhoz, Salamonhoz és az Izráelhez az ő népéhez.
+2Chr.7.11 | Elvégezé azért Salamon mind az Úr házuát s mind az ő királyi palotáját mind a szerint, valamint az előtt Salamon szívében eltökélette vala, hogy csinálna mind az Úr házában, s mind a maga házában, boldogűl véghez vivé.
+2Chr.7.12 | Megjelenék pedig az Úr Salamonnak azon éjjel, s monda néki: Meghallgattam a te könyörgésedet, és választottam e helyet magamnak áldozat házának.
+2Chr.7.13 | Ha mikor az eget megtartóztatándom, hogy esőt ne adjon és ha mikor a sáskának meghagyándom, hogy a földet megeméssze: ismét a mikor döghalált bocsátándok az én népemre;
+2Chr.7.14 | És megalázván magokat az én népem, a kik az én nevemről neveztetnek, könyörgéndenek és az én orczámat megkereséndik, s megtéréndenek az ő gonosz útokról: én is meghallgatom őket a mennyből, kedvezek az ő bűnöknek, földöket is meszabadítom.
+2Chr.7.15 | Immár az én szemeim nyitva lésznek és füleim figyelmetesek lésznek e helyen lett könyörgésre.
+2Chr.7.16 | Mert immár választottam és megszenteltem e házat, hogy az én nevem abban legyen mind örökké; és mind szemem, mind szívem ott lészen mindenkor.
+2Chr.7.17 | Te pedig ha járándasz én előttem, mint a te atyád Dávid járt, úgy hogy mindenestől a képen cselekedjél, a mint parancsoltam néked, rendeléseimet és törvényemet megőrizénded:
+2Chr.7.18 | Én is megerősítem a te királyiszékedet, a mint szövetséget tettem volt Dáviddal a te atyáddal, mondván: Magva nem szakad te benned az Izráelben uralkodó férjfiúnak.
+2Chr.7.19 | Ha pedig ti én tőlem elszakadándotok, rendtartásimat és parancsolatimat elhagyándjátok, mellyeket előtökbe adtam, és elmenvén szolgálándotok idegen isteneknek, és azok előtt meghajoltok.
+2Chr.7.20 | Kiszaggatom őket az én földemből, mellyet adtam vala nékik: ez én házamat pedig, mellyet az én nevemnek szenteltem orczám elől elvetem: tanúságúl és példabeszédűl adom minden nemzetségnek.
+2Chr.7.21 | És e hires-neves házon minden útonjárók álmélkodni fognak, és ezt mondják: Miért mívelte az Úr ezt e földdel és e házzal?
+2Chr.7.22 | És azt felelik: Azért, mert elhagyták az ő attyaiknak Urát Istenét, a ki őket kihozta volt Égyiptom földéből, és idegen isteneket választottak magoknak, azokat imádták és azoknak szolgáltak: azért hozta reájok mind e veszedelmet.
+
+2Chr.8.1 | Lőn pedig húsz esztendő mulva, minekutánna Salamon elvégezte volna mind az Úr házát, s mind az ő kirlyi palotáját
+2Chr.8.2 | Salmaon megépíté a városokat, mellyeket néki Húrám adott vala, és azokba az Izráel népét szállítá.
+2Chr.8.3 | Azután Salamon méne Hámát Sobára, és azt megvevé.
+2Chr.8.4 | És Tádmort megépíté a pustzában, minden kincstartó városokkal egyetembe, mellyeket Hámát földén építe.
+2Chr.8.5 | Annakfelette mind a felső s mind az alsó Beth-hóront megépíté, kőfalakkal, kapukkal és zárokkal megerősíttettt városokat.
+2Chr.8.6 | Baalátot is és minden kincstartó városokat, mellyek Salamonéi valának a szekereknek és a lovagoknak is minden városaikat; és mindent, a mi Salamonnak tetszett, mind megépíté Jérusálemben, a Libánuson és az ő egész birodalmának földében.
+2Chr.8.7 | Továbbá a népet, melly megmaradott vala a Hitteusok közzűl, az Emoreusok, Perizeusok, Hiveusok és Jebuzeusok közzűl, kik nem voltak az Izráel népe közzűl.
+2Chr.8.8 | Hanem azoknak fijai közzűl, kik megmaradtak vala a földön ő utánnok, kiket az Izráel fijai el nem vesztének; azokat Salamon adófizetőkké tevé mind e mai napig.
+2Chr.8.9 | Az Izráel fijai közzűl pedig, a kiket Salamon szolgákká nem tőn az ő külső dolgaiban: (mert ők valának hadakozó férjfiak, és az ő Hadnagyinak Fejedelmei, mind szekereinek s mind lovagjainak Fejedelmei.)
+2Chr.8.10 | Azok közzűl valának a palléroknak Fejedelmei, kik Salamon Királynak valának kétszázan és ötvenen, kik uralkodnak vala a népen.
+2Chr.8.11 | Továbbá Salamon felviteté a Faraó leányát a Dávid városából, a házba, mellyet néki épített vala;mert ezt mondá: Nem lakhatik az én feleségem az Izráel Királyának Dávidnak házában; mert szentségeshely az, mivelhogy az Úr ládája abban volt.
+2Chr.8.12 | Akkor Salamon áldozék égő áldozatokat az Úrnak, az Úr oltárán, mellyet rakatott vala a tornácz előtt;
+2Chr.8.13 | Hogy minden napon áldoznának azon, Mózesnek parancsolatja szerint, szombatnapokon, a hónapoknak első napjain, és esztendő által a fő Innepeken háromszor; tudniillik, a pogácsáknak Innepén, a heteknek Innepén, a sátorok Innepén.
+2Chr.8.14 | És elrendelé az ő attyának Dávidnak rendelése szerint a Papoknak tiszteket az ő szolgálatjokban, a Lévitákat is az ő tisztekben, hogy dícsérnék az Istent, és szolgálnának a Papok előtt minden napon rend szerint: az ajtónállókat is az ő oszlások szerint minden kapukra: mert így volt az Isten emberének Dávidnak parancsolatja.
+2Chr.8.15 | El sem távozának a Király parancsolatjától, mellyet parancsolt vala a Papoknak és Lévitáknak minden tisztben, és a kincsnek sáfárlásában is.
+2Chr.8.16 | Mikor elvégeződött volna Salamonnak mindenestől fogva való míve, mind e mai napig, az Úr háza fundamentomának felvettetésétől fogva mind addig, míg azt elvégezte volna; mikor immár az Úr háza elkészült voln;
+2Chr.8.17 | Akkor elméne Salamon Esiongáberbe, és Elótba, melly vala a tenger partján, Edomnak földében.
+2Chr.8.18 | És külde Húrám az ő szolgái által néki hajókat, és tudós hajósmestereket, és menének a Salamon szolgáival egybe Ofirba, honnan hozának négyszáz és ötven tálentom aranyat, mellyet vivének Salamon Királynak.
+
+2Chr.9.1 | A Séba Királynéasszonya pedig, mikor hallotta volna Salamon hírét, eljöve, hogy megkisértené Salamont példabeszédekben, Jérusálembe igen nagy sereggel és tevékkel, mellyek hoznak vala drága fűszerszámokat; aranyat nagy bőséggel, és drágaköveket; és bémenvén Salamonhoz, megjelenté néki, valami az ő szívében vala.
+2Chr.9.2 | Megfelele pedig Salamon néki minden beszédére, és semmi el nem volt titkolva Salamontól, mellyet meg nem mondott volna néki.
+2Chr.9.3 | És látá a Sébabeli Királynéasszony Salamonnak nagy bölcseségét és minden házát, a mellyet épített vala.
+2Chr.9.4 | Az ő asztalának étkét, szolgáinak is ülőhelyeket, és az ő szolgáinak udvarlásoknak módját, azoknak öltözeteket is, a képen pohárnokit és azoknak ruhájokat; és az ő áldozatját, mellyet áldozik vala az Úr házában, és a nagy álmélkodás miatt lélek is alig vala ő benne.
+2Chr.9.5 | És monda a Királynak: Lám mind igaz volt, valamit hallottam volt az én lakóföldemben a te dolgaidról és bölcsességedről;
+2Chr.9.6 | De nem hiszem vala azoknak szavokat, míg én magam eljőnék, és szemeimmel látnám; de ímé felét sem mondották volt meg nékem a te nagy bölcseségednek, sokkal meghaladtad a te híredet, mellyet hallottam felőled.
+2Chr.9.7 | Boldogok a te embereid, és boldogok ezek a te szolgáid, kik mindenkor te előtted állanak és hallgatják a te bölcseségedet!
+2Chr.9.8 | Legyen e te Urad Istened áldott, ki téged annyira szeretett, hogy helyheztetne téged az ő székibe, hogy lennél a te Uradnak Istenednek Királya; mivelhogy a te Istened szerette az Izráelt, hogy megerősítené őtet mind örökké, és téged Királlyá választott ő rajtok, hogy szolgáltatnál igazságot és itéletet.
+2Chr.9.9 | És ada a Királynak százhusz tálentom aranyat, és felette sok drága fűszerszámokat, és drágaköveket: mert soha nem hoztak többé illyen fűszerszámokat, minéműeket Sébának Királynéasszonya Salamon Királynak ada.
+2Chr.9.10 | (Annakfelette Húrámnak szolgái is, és Salamonnak szolgái, kik hoztak vala aranyat Ofirból: hoztak vala Algumimfákat és drágaköveket.
+2Chr.9.11 | És csinála a Király az Algumimfákból grádicsokat az Úr házába és a Király házába, és hegedűket s náplumokat az éneklőknek; melly fákhoz hasonlatosok nem láttattak annakelőtte Zsidóországban)
+2Chr.9.12 | Salamon Király pedig ada a Séba Királynéasszonyának valamit akara az ő kivánsága szerint, annak kivüle, a mit adott vala a Király azért, a mit az hozott vala. Annakutánna megtére, és elméne az ő földébe mind ő s mind az ő szolgái.
+2Chr.9.13 | Vala pedig az aranynak nehézsége, melly esztendőnként béjő vala Salamonnak, hatszáz és hatvanhat tálentom arany.
+2Chr.9.14 | Attól megválva, mellyet hoznak vala a kalmárok és kereskedők; de még az Arábiabeli minden Királyok is, és annak a földnek Fejedelmei hoznak vala aranyat és ezüstöt Salamonnak.
+2Chr.9.15 | Csináltata pedig Salamon Király kétszáz apró kerek paizsokat vert aranyból, mindenik paizsban hatszáz vert arany siklus vala.
+2Chr.9.16 | Háromszáz öreg paizst is csináltata vert aranyból; mindenik paizsra háromszáz arany siklus megyen vala, mellyeket a Király feltétetett vala a Libánus erdejének házában.
+2Chr.9.17 | Csináltata azután a Király nagy királyiszéket elefánttetemből, mellyet tiszta arannyal megboríta.
+2Chr.9.18 | Hat grádics vala pedigfel a székre, mellynek a talpa is aranyból vala, mellyek a székhez ragasztattak vala; a kezeinek mindkét felől támaszai valának az ülőhelynél, és a kezek támaszai mellett két oroszlán áll vala.
+2Chr.9.19 | Tizenkét oroszlán áll vala pedig ott a hat grádicson mindkét felől: Soha semmi országban nem volt illyen királyiszék.
+2Chr.9.20 | Annakfelette Salamon Királynak minden ivóedényei aranyból valának: a Libánus erdeje házának is minden edényei tiszta aranyból valának: nem vala azok között semmi ezüst: mert azt semmi becsületben nem tartják vala a Salamon idejében;
+2Chr.9.21 | Mert a Király hajói elmennek vala Társisba, a Húrám shzolgáival együtt; egyszer mennek vala a hajók minden harmad esztendőben Társisba, honnan hoznak vala aranyat, ezüstöt, elefánttetemet, majmokat és pávákat.
+2Chr.9.22 | És felűlhaladá Salamon Király e földnek minden Királyait gazdagsággal és bölcseséggel.
+2Chr.9.23 | És e földnek minden Királyai kívánnak vala szembe lenni Salamonnal, hogy hallhatnák az ő bölcseségét, mellyet Isten adott vala az ő szívébe.
+2Chr.9.24 | Azok pedig mindnyájan ajándékot visznek vala néki, arany és ezüst edényeket, ruhákat, fegyvert, fűszrszámokat, lovakat és öszvéreket esztendőnként.
+2Chr.9.25 | Valának azért Salamonnak négyezer lovaknak való istállói, és szekrei és tizenkétezer lovagjai, kiket rendelet a szekreknek városaiba, és a Kirly mellé Jérusálembe.
+2Chr.9.26 | És uralkodik vala mind a Királyokon az Eufrátes folyóvíztől fogva, mind a Filiszteusok földéig, és az Égyiptom határáig.
+2Chr.9.27 | És olyan bőségessé tevé a Király az ezüstöt Jérusálemben, mint a köveket, és a czédrusfákat elbővíté mint a vad figefákat, melyek nevekednek a mezőségen bőséggel.
+2Chr.9.28 | Hordnak vala pedig Salamonnak lovakat Égyiptomból és minden egyéb földről.
+2Chr.9.29 | Salamonnak pedig több lett dolgai, mind az elsők s mind az utolsók, avygy nem írattattak é meg a Nátáná Próféta könyvében, és a Silóbeli Ahija prófétziájában, és Jehdó Prófétának Jéroboám ellen a Nébát fija ellen írt látásaiban?
+2Chr.9.30 | Uralkodék pedig Salamon Jérusálemben az egész Izráelen negyven esztendeig.
+2Chr.9.31 | És elaluvék Salamon az őattyaival egyetemben; és eltemeték őtet az ő attyának Dávidnak városában, és uralkodék helyette az ő fija Roboám.
+
+2Chr.10.1 | Elméne pedig Roboám Síkembe: mert Síkembe gyült vala az egész Izráel, hogy őtet Királlyá választanák.
+2Chr.10.2 | Lőn pedig mikor ezt meghallotta volna Jéroboám a Nébát fija, ki akkor vala Égyiptomban; (mert oda futott vala Salamon Király előtt) hogy megjőne Jéroboám Égyiptomból.
+2Chr.10.3 | És elküldének, hogy hívnák őtet; eljöve azért Jéroboám és az egész Izráel népe; és így szólának a Roboámnak, mondván:
+2Chr.10.4 | A te atyád kemény igát vetett mi reánk; te azért a te atyádról reánk vetett kemény szolgálatot, és az ő nehéz igáját, mellyet reánk vetett, könnyebbítsd meg, és solgálunk néked.
+2Chr.10.5 | És monda nékik: Harmadnapig ím gondolkodom róla, azután jöjjetek hozzám. Elméne azért a nép előle.
+2Chr.10.6 | És tanácskozék felőle Roboám Király a vén emberekkel, kik az ő attyának is Salamonnak tanácsosai voltak éltében, mondván: Mi tanácsot adtok, hogy megfeleljek a népnek?
+2Chr.10.7 | És azok e képen szólának: Ha nékik előmenetelekre lejéndesz, és nékik engedéndesz, és szép szóval szólándasz nékik; bizonnyal te szolgáid lésznek mindenkor.
+2Chr.10.8 | De ő a Véneknek tanácsokat nem fogadá, mellyet néki adtak vala tanácsúl; hanem tanácskozék az ifjakkal, kik ő vele együtt nevekedtek vala, és néki udvarolnak vala.
+2Chr.10.9 | És monda azoknak is: Ti micsoda tanácsot adtok, hogy megfeleljünk a népnek: kik nékem így szólának: Könnyebbítsd meg az igát nyakunkon, mellyet a te atyád reánk vetett.
+2Chr.10.10 | Akkor felelének az Ifjak, kik ő vele együtt nevekedtek vala, mondván: Így szólj azoknak, a kik néked így szóltak: A te atyád igen súlyos igát vetett vala nyakunkra, te pedig könnyebbítsd meg azt rajtunk; Így szólj, mondom, nékik: Az én legkissebb ujjom temérdekebb az én atyám derekánál;
+2Chr.10.11 | Az én atyám vetett volt reátok nehéz igát; én pedig azt megöregbítem: Az én atyám ostorral ostorozott titeket, de én skorpiókkal.
+2Chr.10.12 | Elméne azért Jéroboám és ő vele a sokaság Roboámhoz harmadnapon mulva, a mint a Király meghagyta, ezt mondván: Jöjjetek hozzám harmadnapra.
+2Chr.10.13 | És felele nékik a Király nagy kemény szóval: Mert hátrahagyá Roboám Király a Vén embereknek tanácsokat.
+2Chr.10.14 | És az ifjaknak tanácsok szerint szóla nékik, mondván: Az én atyám súlyos igával bántott titeket, de én megöregbítem azt; az én atyám ostorokkal vert titeket, én pedig skorpiókkal.
+2Chr.10.15 | És a Király a népnek könyörgését nem hallgatá meg: mert az oka vala az Istentől, hogy megbizonyítaná az Úr az ő szavát, mellyet szólott vala a Silóbeli Ahija által Jéroboámnak a Nébát fijának.
+2Chr.10.16 | Mikor azért az egész Izráel látta volna, hogy semmiképen a Király jó választ nem adna nékik: felelének ők is a Királynak mondván: Micsoda részünk vagyon nékünk Dávidban? örökségünk sincsn nékünk az Isai fijában, kiki mind siessen házába, óh Izráel! Ám viseld gondját a te házadnak, óh Dávid! Elméne azért hazaz az egész Izráel.
+2Chr.10.17 | De azokon az Izráel fijain, kik laknak vala a Júda városaiban, Roboám uralkodék.
+2Chr.10.18 | Elküldé pedig Roboám Király Hadorámot, ki adószedő vala, az Izráel közibe, és megkövezék őtet az Izráel fijai, és meghala: Roboám Király pedig siete menni az ő szekerére, hogy Jérusálembe szaladna.
+2Chr.10.19 | Így szakada el az Izráel népe a Dávid házától, mind e mai napig.
+
+2Chr.11.1 | Méne azért Roboám Jérusálembe, és öszvehívatá a Júda és Benjámin házát, száz nyolczvan ezer válogatott és hadakozó férjfiakat, hogy az Izráellel megvívna; hogy az országot magához hódoltatná.
+2Chr.11.2 | Szóla pedig az Úr Semájának az Isten emberének, mondván:
+2Chr.11.3 | Mond meg Roboámnak a Salamon fijának, a Júda Királyának, és fejenként az Izráel népének, Júdában és Benjáminban lakozóknak, ez igékkel:
+2Chr.11.4 | Ezt mondja az Úr: Reájok fel ne menjetek és ne hadakozzatok a ti atyátokfiai ellen, hanem kiki térjen meg házához; mert ez én tőlem vagyon. És engedének az Úr szavának, és megtérének az ő házokhoz, hogy ne mennének Jéroboámra.
+2Chr.11.5 | Lakozék azért Roboám Jérusálemben, és a városokat megerősíté Júdában.
+2Chr.11.6 | Megépíté, mondom, Bethlehemet, Etámot, és Tékoát..
+2Chr.11.7 | Bethsúrt, Sókot és Adullámot.
+2Chr.11.8 | Gátot is, Marésát és Zifet.
+2Chr.11.9 | Adoráimot, Lákist és Azekát.
+2Chr.11.10 | Sórát, Ajalont és Hebront, mellyek erős városok valának Júdában és Benjáminban.
+2Chr.11.11 | És mikor igen megerősítette volna e városokat: vete Beléjek főurakat és szerze tárházakat eleségnek, bornak és olajnak.
+2Chr.11.12 | És mindenik városban szerze paizsokat és kopjákat, mellyeket igen megerősíte; és lőn Júda és Benjámin ő birodalmában.
+2Chr.11.13 | Továbbá a Papok és a Léviták, kik valának az egész Izráelben, ő hozzá hajlának minden ő határokból;
+2Chr.11.14 | Mert elhagyván a Léviták az ő faluikat és jószágokat, menének Júdába és Jérusálembe; mert őket kiűzte vala Jéroboám és az ő fija, hogy az Úrnak ne szolgálnának:
+2Chr.11.15 | És rendele magának Papokat a magas hegyeken való bálványokhoz, az ördögökhözu, és a borjúkhoz, mellyeket ő csináltatott vala.
+2Chr.11.16 | És követvén a Lévitákat sokan az Izráel minden nemzetségei közzűl, kik szívek szerint az előtt az Izráel Urát Istenét keresik vala, menének Jérusálembe, hogy az ő attyaiknak Urának Istenének áldoznának.
+2Chr.11.17 | Kik megerősíték a Júda országát és Roboámot a Salamon fiját három esztendeig: mert járának Dávidnak és Salamonnak útán három esztendeig.
+2Chr.11.18 | Vevé pedig Roboám feleségül magának Mahalátát, Jérimótnak a Dávid fijának leányát: Abihailt is Eliábnak az Isai fijának leányát.
+2Chr.11.19 | Ki szüle néki fiakat: Jeust, Semáriát és Zahámot.
+2Chr.11.20 | És ezután vevé Maakát az Absolon leányát ki szüle néki Abiját, Attait, Zizát és Selómitot.
+2Chr.11.21 | Inkább szereté pedig Roboám Maakát az Absolon leányát mindenik feleségeinél, és az ő ágyasainál: Mert tizennyolcz feleséget vett vala, és hatvan áygasokat; és nemze huszonnyolcz fiakat és hatvan leányokat.
+2Chr.11.22 | Rendelé pedig fejedelműl Roboám Abiját a Maaka fiját az ő attyafiain; mert őtet ugyan Királlyá is akarja választani.
+2Chr.11.23 | És őtet igen oktatá: A több fijait pedig elosztá Júdának és Benjáminnak minden tattományára az erős városokra, kiknek eledelt bőséggel ada, és szerze nékik sok feleségeket.
+
+2Chr.12.1 | Lőn pedig mikor Roboám az ő országát megerősítette volna és abban megörökösödött volna: hátra hagyá az Úr törvényét, és az egész Izráel ő vele egyetembe.
+2Chr.12.2 | Annakokáért a Roboám királyságának ötödik esztendejében felindula Sésák az Égyiptombeli Király Jérusálem ellen, (mert az Úr ellen nagyot vétettek vala.)
+2Chr.12.3 | Ezer és kétszáz fegyveres szekerekkel és hatvanezer lovagokkal és számtalan sok néppel, melly vele Égyiptomból feljött vala, a Libiabeliekkel, Sukkeusokkal és Szerecsenekkel.
+2Chr.12.4 | És megvevé Júdának erős városait; azután méne szintén Jérusálem alá.
+2Chr.12.5 | Akkor Sémája Próféta méne Roboámhoz és a Júda Fejedelmeihez, kik immár Jérusálembe gyültek vala Sésáktól valő féltekbe, és monda nékik: Ezt mondja az Úr: Mivelhogy ti engemet elhagytatok, és is titeket Sésák kezébe eresztettelek.
+2Chr.12.6 | Megalázá azért azonnal magokat, mind az Izráel Fejedelmei, mind maga a Király, és mondának: az Úr igaz!
+2Chr.12.7 | És mikor az Úr látta volna, hogy megalázták volna magokat, e képen szóla az Úr Sémája Prófétának: Megalázták magokat, el nem vesztem őket, hanem hamar időn szabadulások lészen, és nem ontom ki az én haragomat Jérusálem ellen Sésák által.
+2Chr.12.8 | Lésznek mindazáltal szolgái néki, hogy kísértsék meg, micsoda legyen nékem szolgálni, és micsoda legyen szolgálni egyéb országok Fejedelmeinek.
+2Chr.12.9 | Feljöve azért Sésák az Égyiptombeli Király Jérusálemre, és elvivé az Úr házának kincsét; és a Király házának kincsét; mind azokat mondom elvivé; az aranypaizsokat is elvivé, mellyeket Salamon csináltatott vala.
+2Chr.12.10 | Mellyek helyébe Roboám Király rézpaizsokat csináltata, és bízá azokat a gayalogok Fejedelmének kezébe, kik a Király háza ajtaja előtt őríznek vala:
+2Chr.12.11 | És mikor a Király felmegyen vala az Úr házába, elmennek vala a gyalogok is, és a paizsokat előviszik vala: azután ismét a gyalogok házába visszahozzák vala azokat.
+2Chr.12.12 | Mikor azért megalázta volna magát Roboám; elmúlék az Úr haragja róla, hogy őtet mindenestől fogva el ne vesztené: mert a Júdána is dolgai jól voltak.
+2Chr.12.13 | Megerősödék azért Roboám Király Jérusálemben, és uralkodék; mert negyven esztendős vala Roboám, mikor uralkodni kezdett volt, és tizenhét esztendeig uralkodék Jérusálemben, a városban, mellyet az Úr választott vala, hogy az ő nevét ott helyheztetné, az Izráel nemzetségének minden városai közzűl; és az ő annyának neve vala Naáma, az Ammon nemzetségéből való.
+2Chr.12.14 | Cselekedék pedig gonoszt: mert az Urat szíve szerint keresni nem akará.
+2Chr.12.15 | Roboámnak pedig első és utolsó dolgai, avagy nincsenek e megíratva a Sémája Próféta könyvében, és a Néző Iddónak könyvében, mikor a Királyok nemzetségeinek rendit előszámlálják? És a hadakozás is, melly volt Roboám és Jéroboám között egész éltekben?
+2Chr.12.16 | Elaluvék azért Roboám az ő attyaival egyetemben, és eltemetteték a Dávid városában: és uralkodék az ő fija Abija helyette.
+
+2Chr.13.1 | Jéroboám Királynak tizennyolczadik esztendejében kezde uralkodni Abija a Júda országán.
+2Chr.13.2 | Három esztendeig uralkodék Jérusálemben, kinek annyának neve Mekája vala, ki vala a Gibeából való Uriel leánya: és hadakozás vala Abija és Jéroboám között.
+2Chr.13.3 | Annakokáért felkész1té Abija az ő hadát, erős hadakozókat négyszázezer válogatott férjfiakat; Jéroboám pedig rendele ő ellene nyolczszázezer válogatott erős férjfiakból álló hadat.
+2Chr.13.4 | Akkor felállván Abija a Sémáraim hegyének tetején, melly az Efraimnak hegyes földén vala, monda: Hallgassátok meg szómat, Jéroboám és az egész Izráel!
+2Chr.13.5 | Avagy nem kell é néktek meggondolnotok, hogy a Izráelnek Ura Istene adta volt Dávidnak a birodalmat az Izráelen mind örökké: néki és az ő fijainak állandó szövetséggel?
+2Chr.13.6 | Mindazáltal felkele Jéroboám a Nébát fija, Salamonnak a Dávid fijának szolgája, és támada az ő Ura ellen.
+2Chr.13.7 | Azután gyűlének ő hozzá a hijábavaló és álnok emberek, kik elhatalmazának Roboámnak a Salamon fijának ellene, mikor Roboám gyermek és félelmes szívű volna, és azok ellen magát nem oltalmazhatná.
+2Chr.13.8 | És modt azt gondoljátok, hogy ti ellene állhatok az Úr országának, melly a Dávid fijának kezekben vagyon: És sok nép vagyon veletek: de az aranyborjúk is, mellyeket öntetett Jéroboám néktek istenek gyanánt, veletek vagynak.
+2Chr.13.9 | Avagy nem ti űztétek el az Úrnak Papjait az Áron fijait, és a Lévitákat? És nem ti szerzettetek é magatoknak Papokat, mint egyéb országoknak nemzetségei, akárkit, a ki az ő szolgálatjának felszentelésére egy gyermekded tulokkal és hét kossal eljött, és lett a bálványoknak Papja, a mellyek nem istenek.
+2Chr.13.10 | Mi mellettünk vagyon pedig a mi Urunk Istenünk, kit mi el nem hagytunk: a Papok pedig, kik az Úrnak szolgálnak, az Áron fijai és a Léviták forgolódnak, az ő tisztekben.
+2Chr.13.11 | És áldoznak az Úrnak égőáldozattal minden reggel és minden estve, a jóillattételre is, a szent kenyereknek a tiszta sztalra való elrendelésére, és az aranygyertyatartóra szövétnekeivel egybe ők viselnek gondot, meggyujtván azokat minden estve: mert megtartjuk a mi Urunknak Istenünknek rendelsété; ti pedig elhagytátok őtet.
+2Chr.13.12 | Annakokáért ímé mi velünk vagyon Hadnagy gyanánt az Isten: és az ő Papjai e zendő kürtökkel, hogy ti ellenetek kürtöljenek, Izráelnek fijai, ne harczoljatok a ti atyáitoknak Ura Istene ellen; mert nem lesztek szerencsések~
+2Chr.13.13 | Jéroboám pedig lest vete nékik, hogy őket hátúl venné: És illyen módon ők a Júda nemzetségének előtte valának: a kik pedig lesben valának, azok hátok megett valának.
+2Chr.13.14 | Látván pedig a Júda nemzetsége, hogy ímé mind elől mind hátúl rajtok volnának: kiáltának az Úrhoz, a Papok pedig trombitálnak vala.
+2Chr.13.15 | Trombitálnak vala a Júda férjfiai is; és mikor trombitálnának a Júda férjfiai: az Isten megveré Jéroboámot és az egész Izráelt, Abija és Júda előtt.
+2Chr.13.16 | Annakokáért elfutának az Izraeliták a Júdától való féltekben, és adá az Isten azokat ezek kezébe.
+2Chr.13.17 | Mert megveré őket Abija és az ő népe felette iden, úgyannyira hogy az Izraeliták közzűl elhullanának seb miatt ötszázezer válogatott férjfiak.
+2Chr.13.18 | És illyen módon megaláztatának az Izráeliták az időben, és erőt vőnnek a Júda fijai: mert bíznak vala az ő attyaiknak Urában Istenében.
+2Chr.13.19 | És üldözé Abija Jéroboámot, és megvőn ő tőle egynéhány várost, Béthelt és annak faluit, Jésanát és annak faluit, és Efrávint és annak faluit.
+2Chr.13.20 | És nem vehete többé erőt Jéroboám Abija idejében, hanem megveré őtet az Úr és meghala.
+2Chr.13.21 | Megerősödék azért Abija, ki vett vala magának tizennégy feleségeket, kiktől nemze huszonkét fiakat, és tizenhat leányokat.
+2Chr.13.22 | Abijának több dolgai, útai és beszédei megírattak az Iddó Próféta könyvében.
+
+2Chr.14.1 | Elaluvék pedig Abija az ő attyaival egyetemben, és eltemeték őtet a Dávid városában; Uralkodék pedig helyette az ő fija Asa, kinek idejében tíz esztendeig lőn nagy csendesség e földön.
+2Chr.14.2 | És Asa mind azt cselekedé, a mi jó és igaz vala az ő Ura Istene előtt:
+2Chr.14.3 | Mert elrontá az idegen istenek oltárait és azoknak kápolnáit; a bálványokat is eltöré, a berkeket is levágatá;
+2Chr.14.4 | És megparancsolá a Júdának, hogy az ő attyaiknak Urát Istenét keresnék meg, és cselekednék az Isten törvényét és parancsolatját.
+2Chr.14.5 | Kiveszté, mondom, Júdának minden városaiból a magasságbeli oltárokat, és a képeket; és az ő idejében az ország lőn nagy nyugalomban.
+2Chr.14.6 | Annakfelette erős városokat is építe Júdában, mivelhogy nyugodalomban volna a föld, had sem volna ez esztendőkben sehonnan ő ellene; mert az Úr nyugodalmat adott vala néki.
+2Chr.14.7 | Mert ezt mondja vala Júdának: Építsük meg a városokat, és vegyük körül kerítéssel, tornyokkal, kapukkal, zárokkal, míg a föld birodalmukban vagyon: mert a mi Urunkat Istenünket megkerestük és nyugodalmat adott nékünk minden felől. Annakokáért építenénk, és lőn jó előmenetelek.
+2Chr.14.8 | Vala pedig Asa hada, melly paizzst és kopját visel vala Júdából háromszázezer; a Benjáminból paizsosok és ívesek kétszáz nyolczvan ezeren valának: mind ezek erős vitézek.
+2Chr.14.9 | Kijöve pedig ő ellenök ama Szerecsen Zérah, tízszézezer emberrel és háromszáz szekérrel és méne Marésáig.
+2Chr.14.10 | Kiméne pedig Asa is ő ellene, és viadalhoz készülének a Sefáta völgyben Marésa mellett.
+2Chr.14.11 | Akkor felkiálta Asa az ő Urához Istenéhez, és monda: Óh Uram, nehéz néked megsegéllened vagy sokakat, vagy azokat, kiknek erejek nincsen! Segélj meg minket, óh mi Urunk Istenünk: mert benned vagyon minden bizodalmunk, és a te nevedben jöttünk e számtalan sok népre! óh Uram, te vagy a mi Istenünk, ne vegyen ember te rajtad erőt.
+2Chr.14.12 | Megveré az Úr azért a Szerecseneket Asa és Júda előtt, és elfutának a Szerecsenek.
+2Chr.14.13 | Kiket igen űze Asa az ő hadával szintén Gerárig, és elhullának a Szerecsenek közzűl sokan, annyira hogy egy sem maradna elevenen bennek: mert az Úr előtt ls az ő serege előtt igen megrontatának; és hozának tőlök sok nyereséget.
+2Chr.14.14 | Annakfelette megrontanák Gérár körül való minden városokat; mert az Úr őket igen megrettentette vala, és mind feldúlák a városokat: mert sok ragadomány vala azokban.
+2Chr.14.15 | A barmok sátorában lakozókat is levágák, és elhajtának sok juhokat és tevéket, és Jérusálembe megtérének.
+
+2Chr.15.1 | És Azáriást az Obed fiját felindítá az Isten Lelke.
+2Chr.15.2 | Ki mikor kiment volna Asa eleibe, monda néki: Asa, és fejenként Júdának és Benjáminnak népe, halljátok meg szómat! Az Úr vagyon veletek, ha ti is ő vele lésztek: ha őtet keresénditek, megtaláljátok, de őtet elhagyándjátok, ő is elhágy titeket.
+2Chr.15.3 | Sok ideje, hogy az Izráel az igaz Isten nélkűl, Pap nélkűl, Tanító nélkűl és Törvény nélkűl vagyon.
+2Chr.15.4 | Ha megtért volna az ő nyomorúságában az Izráel Urához Istenéhez: az őtet keresőknek segítséggel lett volna.
+2Chr.15.5 | De ez időkben nincsen sem a kimenőnek, sem a haza jövőnek békessége: hanem vagyon azon a földön lakó népnek nagy nyomorúsága.
+2Chr.15.6 | Annyira hogy egy nemzetség a másiktól, egyik város a másiktól elrontassék: mert az Isten gyötri őket minden sanyarúsággal.
+2Chr.15.7 | Ti azért bátorságosok legyetek, kezeiteket le ne eresszétek: mert a ti munkátoknak jutalma vagyon.
+2Chr.15.8 | Mikor pedig Asa meghallotta volna a beszédeket, és az Obed Prófétának prófétziáját: megbátorodék, és kiveszté a Júda és Benjámin földéről mindenestől az útálatos bálványokat, a városokból is, mellyeket megvett vala az Efraim hegyén: megújítá az Úr oltárát is, melly vala az Úr tornácza előtt.
+2Chr.15.9 | És egybegyüjté mind az egész Júda és Benjámin nemzetségét és azokat, a kik jövevények valának köztök. az Efraim, Manasseaz Izráel nemzetségéből hozzá állottak vala, látván, hogy az Úr az ő Istene volna ő vele.
+2Chr.15.10 | Azért gyűlének Jérusálembe a harmadik hónapban, az Asa királyságának tizenötödik ezstendejében.
+2Chr.15.11 | És áldozának az Úrnak az napon a nyereségből hétszáz ökrökkel, és hétezer juhokkal:
+2Chr.15.12 | És fogadást tőnnek, hogy ezután az ő attyaiknak Urát Istenét teljes szívekkel és teljes lelkekkel keresnék.
+2Chr.15.13 | És valaki nem keresné az Izráelnek Urát Istenét, megölettetnék kicsinytől fogva nagyig, mind férjfiú mind asszony.
+2Chr.15.14 | És megesküvének az Úrnak felszóval, nagy örömmel, trombita és kürtszókkal.
+2Chr.15.15 | Nagy örömben lőn pedig Júdának egész népe az esküvésen; mert mikor teljes szívekkel esküdtek volna meg, és egyenlő akaratból keresték volna meg az Urat; őket megsegéllette vala, és az Úr minden felől ő nékik nagy jó csendességet adott vala.
+2Chr.15.16 | De még Maakát is az ő annyát Asa Király megfosztá a Fejedelmeségtől: mivelhogy egy iszonyú bálványt emelt vala berekkel egybe, és Asa elrontá annak iszonyú bálványát, és a Kedron pataknál megégeté.
+2Chr.15.17 | Jóllehet Izráelből a magas helyen építtetett oltárok el nem rontatának: mindazáltal Asának tiszta szíve vala egész éltében.
+2Chr.15.18 | És bévivé az nattyától és magától szenteltetett jószágokat az Isten házába, az ezüstöt, aranyar, és edényeket.
+2Chr.15.19 | Had sem volt Asa királyságának szintén harminczötödik esztendejéig.
+
+2Chr.16.1 | Asa Király birodalmának harminczhatodik esztendejében, felindula Baása az Izráel Királya Júdára, és megerősíté Rámát; hogy ne engedne senkit se kimenni, se bémenni Asához a Júda Királyához.
+2Chr.16.2 | De Asa mind az Úrnak s mind a Királynak tárházából hoza ki ezüstöt, aranyat; és küldé azt Benhadádnak a Siriabeli Királynak, ki lakik vala Damaskusban, mondván:
+2Chr.16.3 | Szövetség vagyon köztünk, a mint az én atyám és a te atyád között is volt az előtt. Ímé küldöttem néked ezüstöt és aranyat: Mnej el, bontsd fel a te szövetségedet Baásával az Izráel Királyával, hadd távozzék el tőlem.
+2Chr.16.4 | És engedvén Benhadád Asa Királynak, azonnal elküldé az ő hadának Fejedelmeit az Izráel városaira, és megvevék Ijont, Dánt, Abelmáimot és Nafthalinak minden kincses városait.
+2Chr.16.5 | Mellyet mikor meghallott volna Baása: ottan megszünék a Ráma város építésétől, és elhagyá a mívet.
+2Chr.16.6 | Akkor Asa Király felvevé az egész Júda népét, és Rámából köveket és fákat mind elhozák, mellyekkel Baása a várost építi vala, és azokból Gébát és Mispát megerősíté.
+2Chr.16.7 | Az időben méne Hanáni Próféta Asához a Júda Királyához és monda néki: Mivelhogy bizodalmad lőn a Siriabeli Királyban, és nem bízol a te Uradban Istenedben; ezokáért szabadula el a Siriabeli Király hada a te kezedből.
+2Chr.16.8 | Avagy nem vala é a Szerecseneknek és a Libiabelieknek számtalan népek és szekerek s lovagjok felette sok? mindazáltal mivelhogy az Úrban vala reménységed, kezedbe adá azokat;
+2Chr.16.9 | Mert az Úr szemei forognak mind e széles földön, hogy hatalmát megmutassa azokhoz, kik ő hozzá teljes szívvel vagynak: Bolondúl cselekedél ebben, azokáért ezután te ellened hadak támadnak.
+2Chr.16.10 | Akkor megharaguvék Asa a Prófétára, és veté őtet a tömlöczházba; mert igen megharagudt vala e szóért reá: és ugyan akkor Asa a nép közzűl is sokat megnyomoríta.
+2Chr.16.11 | De ímé Asának mind első s mind utolsó dolgai meg vagynak iratva a Júda és az Izráel Királyainak könyvökben.
+2Chr.16.12 | Megbetegedék ezekután Asa lábai miatt, királyságának harminczkilenczedik esztendejében, annyira, hogy igen megnevekednék az ő nyavalyája; mindazáltal az ő nagy kinjában is nem az Urat keresé meg, hanem az orvosokat.
+2Chr.16.13 | Elaluvék azért Asa az ő attyaival egyetemben, és meghala az ő királyságának negyvenegyedik esztendejében.
+2Chr.16.14 | És eltemeték őtet egy koporsóba, mellyet magának rakatott vala a Dávid városában: és az ágyba helyhezteték őtet, mellyet megraktak vala különb-különbféle drága illatú szerszámokkal, mellyeket Patikárius mesterségével csináltak vala, és érette felette sok drága jóillatú szerszámokat égetének meg.
+
+2Chr.17.1 | Uralkodék pedig ő helyette az ő fija Jósafát, és megerősíté magát az z ellen.
+2Chr.17.2 | Vete pedig Júdának minden erős városaiba hadakozó népet; segítőseregeket is rendele a Júda földébe, és az Efraimnak városaiba, mellyeket az ő attya Asa megvett vala.
+2Chr.17.3 | És vala az Úr Jósafáttal, mivelhogy az ő attyának Dávidnak előbbi útain jár vala, és nem kér vala segítséget a bálványoktól.
+2Chr.17.4 | Hanem az ő attya Istenét keresi vala, és az ő parancsolatiban jár vala, és nem cselekszik vala az Izráelnek cselekedetei szerint.
+2Chr.17.5 | Azért az Úr megerősíté az ő országát az ő kezében, és a Júdának minden népe ada Jósafátnak ajándékot, annyira, hogy néki mind gazdagsága, mind híre neve igen nagy volna.
+2Chr.17.6 | Felemelkedék ennekfelette az ő szíve az Úr útának követésére, és mégis jobban kitisztítá Júdából a bálványoknak oltárait és berkeit.
+2Chr.17.7 | Az ő királyságának pedig harmadik esztendejében elküldé az ő főszolgáival Benhaillal, Obádiással, Zakariással, Nétanéellel és Mikájával, hogy tanítanának a Júda városaiban.
+2Chr.17.8 | Elküldé mondom, velek e Lévitákat: Semáját, Nétániát, Zebádiát, Asáelt, Sémirámótot, Jónatánt, Adóniát, Tóbiást és Tóbadóniát; ; kikkel valának Elisáma és Jórám Papok.
+2Chr.17.9 | Tanítának azért Júdában; és ő velek vala az Úr törvényének könyve, és eljárák Júdának minden városait, és tanítják vala a népet:
+2Chr.17.10 | Ezokáért az Úr igen megrettenté a földnek minden országait, mellyek valának a Júda körül, annyira hogy nem mernének a Jósafát ellen hadakozni.
+2Chr.17.11 | A Filiszteusoktól is hoznak vala néki ajándékot és rakás pénzt; az Arábiabeliek is hoznak vala néki nyájakat, hétezer és hétszáz kosokat, és hétezer hétszáz bakokat.
+2Chr.17.12 | Jósafát azért felette igen nagyra nevekedék, és Júdában építe házakat, és kincstartó városokat.
+2Chr.17.13 | És sok dolgai valának néki Júda városaiban, és erős hadakozó vitézei valának Jérusálemben.
+2Chr.17.14 | E pedig azoknak a számok az atyáknak nemzetségek szerint: Júdában a vitézlő népeknek hadnagyai valának: Adna fő; és vele háromszázezer erős vitézek valának.
+2Chr.17.15 | És ő utánna Jóhanán vala fő; és ezzel vala kétszáz nyolczvanezer ember.
+2Chr.17.16 | Ezután ismét vala Amásia a Zikri fija, ki maágt szabadakaratjából az Úrnak kötelezte vala; és ő vele kétszázezer erős férjfiak valának.
+2Chr.17.17 | A Benjámin nemzetségéből igen erős vala Eljada; és vele kézívesek és paizsosok kétszázezeren valának.
+2Chr.17.18 | Ezután vala Józabád: ezzel vala száz nyolczvanezer viadalhoz való ember.
+2Chr.17.19 | Ezek szolgálnak vala a Királynak, azokon kívűl, kiket a Király vetett vala egész Júdának erős városaiba.
+
+2Chr.18.1 | És mikor volna Jósafátnak nagy gazdagsága és nagy híre neve: sógorságot szerze Akháb Királlyal.
+2Chr.18.2 | Azutánegynéhány esztendő elmúlván, aláméne Akhábhoz Samariába, és Akháb vágata néki és a vele való népnek sok juhokat, és ökröket, és felindítá őtet, hogy a Gieládban való Rámóth városra menne fel vele;
+2Chr.18.3 | Mert ezt monda Akháb az Izráel Királya Jósafátnak a Júda Királyának: Avagy nem jösz é el velem a Gileádba való Ráthra? Felele néki, és monda: A mint én, a képen te, és a mint a te néped, az én népem is úgy; és veled lészek én is a hadban.
+2Chr.18.4 | Azután monda Jósafát az Izráel Királyának: Kérlek, kérj tanácsot az Úrtól e mai napon.
+2Chr.18.5 | Öszvehívatá azért az Izráel Királya az ő négyszáz Prófétáit, és monda nékik: Elmenjünk é a Gileádban való Rámóth városra a hadban, vagy ne menjek? Felelének: Elmenj, és az Isten a Király kezébe adja.
+2Chr.18.6 | És monda v: Vagyon é itt ezeken kívűl az Úrnak Prófétája, hogy attól tudakoznánk?
+2Chr.18.7 | És monda az Izráel Királya Jósafátnak: Vagyon még egy, ki által az Úrtól tudakozhatunk: de én azt igen gyűlölöm; mert soha én felőlem jót nem prófétál, hanem mindenkor gonoszt: Ez Mikeás a Jimla fija. És monda Jósafát: Ne szóljon úgy a Király!
+2Chr.18.8 | Szólíta azért az Izráel Királya egyet az ő szolgái közzűl és monda: Hívd ide hamarsággal Mikeást a Jumla fiját.
+2Chr.18.9 | Továbbá az Izráel Királya és Jósafát a Júda Királya, ülnek vala mindketten az ő királyiszékekben, királyi ruhákban; ülnek vala, mondom, a Samaria kapuja előtt való mulatóhelyen; és a Próféták fejenként prófétálnak vala ő előttök.
+2Chr.18.10 | Csináltatott vala pedig magának Sédékiás, a Kénaána fija vasszarvakat, és monda: Ezt mondja az Úr: Ezekkel rontod meg a Siriabelieket, mígnem megemészted őket!
+2Chr.18.11 | A több Próféták is mind a képen prófétálnak vala, mondván: Menj fel a Gieládba való Rámóthra, és dolgod jól lészen: mert az Úr azt a Király kezébe adja.
+2Chr.18.12 | Melly követ pedig Mikeásért ment vala, így szól vala néki: Ím fejenként a Próféták valamennyin vagynak, mind egyaránt jót prófétálnak a Királynak; kérlek azért, hogy szólj te is úgy, mint azok közzűl egy, és szólj jót.
+2Chr.18.13 | Akkor monda Mikeás: Él az Úr, hogy egyebet nem szólok, hanem a mit az én Istenem nékem mondánd!
+2Chr.18.14 | Mikor azért jutott volna a Király eleibe, akkor monda a Király néki: Mikeás el kell é mennünk a hadba a Gileádban való Rámóthra, vagy ne menjek? És monda: Menjetek fel, és jó szerencsétek lészen, kezetekben adatnak azok.
+2Chr.18.15 | És monda a Király néki: Mégis kénszerítlek téged hitedre, hogy semmit nékem egyebet ne szólj, hanem igazságot az Úr nevében.
+2Chr.18.16 | Akkor monda: Látám, hogy az Izráelnek sokasága a hegyeken széllyel eloszol, mint a juhok, mellyeknek pásztorok nincsen; és azt mondá az Úr nékem: Nincsen ezeknek urok: Térjen meg kiki mind házához békével.
+2Chr.18.17 | És monda az Izráel Királya Jósafátnak: Avagy nem mondám é néked, hogy nem fog nékem jót prófétálni, hanem gonoszt?
+2Chr.18.18 | Ismét monda: Halljátok meg azért az Úr szavát. Látám az urat ülni az ő királyiszékiben, és minden mennyei seregeket állani jobbkeze és balkeze felől.
+2Chr.18.19 | És monda az Úr: Valyon kicsoda hitethetné ek Akhábot az Izráel Királyát, hogy felmeeeenne, és a Gileádban való Rámóthnál elveszne? és ki egyet, ki mást szóla.
+2Chr.18.20 | Akkor eljöve egy lélek, ki megállván az Úr előtt, monda: Elhitetem és őtet. Az Úr pedig monda néki: Mimódon?
+2Chr.18.21 | És felele: Kimegyek, és lészek hazug lélek minden ő Prófétáinak szájokban. Monda azért: Megcsalhatod és erőt vehetsz rajta; Eredj ki és úgy cselekdejél.
+2Chr.18.22 | Ím azért most az Úr adta e hazug lelket mind a te Prófétáidnak szájokba: azonközben az Úr gonoszt végezett felőled.
+2Chr.18.23 | Akkor előállván Sédékiás a Kénaána fija, arczul csapá Mikeást és monda: Az Úrnak Lelke mellyik úton ment el én tőlem te hozzád, hogy veled szólana?
+2Chr.18.24 | Felele Mikeás: Ímé meglátod magad a napon, mellyen a te belső házadba mégy hogy magadat elrejthessed.
+2Chr.18.25 | Monda azért az Izráel Királya: Fogjátok meg Mikeást, és vigyétek Amonhoz, a város Fejedelméhez, és Joáshoz a Király fijához:
+2Chr.18.26 | Kiknek azt mondjátok: Ezt hagyja a Király: Vessétek ezt fogházba; ételt és italt szűken adjatok néki, mig békével haza jövéndek.
+2Chr.18.27 | És monda Mikeás: Ha békével meg térendesz; tehát nem szólott az Úr általam néked. Ismét monda: Halljátok ezt fejenként!
+2Chr.18.28 | Elindula azért az Izráel Királya és Jósafát a Júda Királya a Gileádban való Rámóth városra.
+2Chr.18.29 | És monda az Izráel Királya Jósafátnak: Ím ruhámat megváltoztatom, és úhy megyek a viadalnak; te pedig ugyanezen öltözetedben maradj. És megváltoztata az Izráel Királya az ő ruháját, és a viadalnak állának.
+2Chr.18.30 | Siriának Királya pedig meghagyta vala az ő szekerei Fejedelmeinek, mondván: Ne harczoljatok se kicsiny, se nagy ellen, hanem csak az Izráel Királya ellen.
+2Chr.18.31 | őn pedig mikor meglátták volna a szeekerek Fejedelmei Jósafátot, mondának: Ez az Izráel Királya! És reá igazodának harczolni. Akkor felkiálta Jósafát, és az Úr megsegéllé őtet és az Isten azokat róla elfordítá:
+2Chr.18.32 | Mert mikor látták volna a szekerek Fejedelmei, hogy nem az Izráel Királya volna, eltérének ő róla.
+2Chr.18.33 | Egy férjfiú pedig megvoná ívét, és löve csak szerencsére, és az ioz Királyát találá a pánczélnak ragasztásán. Monda azért az ő kocsisának: Térj meg, vigy ki engemet a táborból mert igen megsebesítének.
+2Chr.18.34 | Mivelhogy pedig a harcz mind az egész napon tarta: az Izráel Királya tartóztatja vala az ő szekereit a Siriabeliek ellen mind estvéig: És a napnak alámerülésekor meghala.
+
+2Chr.19.1 | Megtére pedig Jósafát a Júda Királya az ő házához Jérusálembe békével:
+2Chr.19.2 | És méne eleibe néki Jéhu Próféta a Hanáni fija, és monda Jósafát Királynak: Avagy az istentelennek kellett volna é segítséggel lenned, és az Úrnak gyűlölőit szeretned? Ezért te reád az Úrnak nagy haragja vagyon.
+2Chr.19.3 | De jó dolgok találtatak te benned, hogy e földről kivágattad a berkeket, és az Istennek keresésére adtad magadat.
+2Chr.19.4 | Lakozék azért Jósafát Jérusálemben, és megtérvén a Próféta intésére, kiméne a nép közibe, Beersebától fogva mind az Efraim hegyéig, és megtéríté őket az ő attyaiknak Uráhiz Istenéhez;
+2Chr.19.5 | És rendele Bírákat azon földön, Júdának minden erős városaiban, külön-külön.
+2Chr.19.6 | És monda a Biráknak: Jól meglássátok a mit cselekesztek; mert nem ember képében itéltek, hanem az Úrnak képében, ki az ítéletben veletek lészen.
+2Chr.19.7 | Azért az Úrnak félelme legyen rajtatok, okkal cselekedjetek és szorgalmatosok legyetek: Mert a mi Urunknál Istenünknél nincsen hamisság, sem személyválogatás, sem ajándékvétel.
+2Chr.19.8 | Annakfelette Jérusálemben is szerze Jósafát a Léviták, Papok, és az Izráel nemzetségéből való Fejedelmek közzűl Bírákat, az Úr dolgainak ítéletére, és a prlődéseknek meglátására, mikor Jérusálembe apellálnának.
+2Chr.19.9 | És meghagyá nékik mondván: Így cselekedjetek az Úrnak félelmében, hívséggel és tökéletes szívvel.
+2Chr.19.10 | Hogy valamelly pertelőtökbe hoznak a ti atyátokfiai, kik lakoznak az ő városaikban. ember halál felől, a törvény felől és parancsolat felől, a rendtartások és ítéletek felől: intsétek őket, hogy ne vétkezzenek az Úr ellen, és ne szálljon reátok és a ti atyátokfiaira az Úrnak nagy haragja. Így cselekedjetek, hogy ne vétkezzetek:
+2Chr.19.11 | És ímé Amária a Főpap lészen ti köztetek az Úrnak minden dolgaiban: és Zebádia az Ismaáel fija lészen a Júda házának Vezére a Királynak minden dolgában: a Léviták is lésznek előttetek járók. Legyetk azért erősek, és járjatok el tisztetekben, és az Úr mellette lészen az igaznak.
+
+2Chr.20.1 | És lőn ezekután, eljövének a Moáb fijai és Ammon fijai, és velek egybe azok, kik az Ammonitákon túl laknak, Jósafátra hadakozni.
+2Chr.20.2 | Eljövének pedig a hírmondók, és megmondák Jósafátnak mondván: A tengeren túl való tartományból jő nagy had reád, tudniillik Siriából: és ám Haséson-Tamárban vagyon, melly az Engédi.
+2Chr.20.3 | Megfélemlék azért Jósafát, és az Urat kezdé buzgóságosan keresni, és hirdete az egész Júda országának böjtöt.
+2Chr.20.4 | Azért felgyülének a Júda fijai, hogy az Urat megkeresnék, Júdának minden városaiból is összvegyülének, hogy az Urat megkeresnék.
+2Chr.20.5 | És megálla Jósafát a Júdának és Jérusálemnek Gyülekezet iben, az Úr házában az új pitvar előtt.
+2Chr.20.6 | És monda: Óh Uram, mi atyáinknak Istene! nem te vagy é egyedül Isten a mennyben, és ki uralkodol a pogányoknak minden országain? te kezedben vagyon az erősség és a hatalom, és senki nincsen ki ellened állhatna.
+2Chr.20.7 | Óh mi Istenünk! nem te űzéd é ki e földnek lakóit a te néped előtt az Izráel előtt, és nem te adád é e földet lakásra Ábrahám a te barátod magvának mind örökké?
+2Chr.20.8 | Azért laktak e földön, és építettek azon a te nevednek szentséges hajlékot mondván:
+2Chr.20.9 | Ha mikor jövend mi reánk veszedelem. Isten itéletinek fegyvere, vagy döghalál, vagy éhség, e házban elődbe állunk, (mert a te neved e Házban vagyon,) azért mikor kiáltunk hozzád a mi nagy nyomorúságinkban, hallgas meg és szabadíts meg minket.
+2Chr.20.10 | Most pedig ímé az Ammoniták és a Moábiták, és a Seir hegyén lakozók, kinek földökön nem akarád hogy általmennének az Izráel fijai; mikor Égyiptomnak földéből kijövének: hanem mellőlök elmenének, és őket el nem veszték.
+2Chr.20.11 | És ímé mivel fizetnek nékünk érette; mivelhogy e végre jőnek, hogy minket kiűzzenek a te örökségedből, emllyet nékünk örökségűl adtál vala.
+2Chr.20.12 | Óh mi Istenünk, nem ítéled é meg őket? Mert nincsen bennünk annyi erő, hogy ellene állhatnánk e számtalan sokaságnak, melly reánk jő. Nem tudunk hová lennei, hanem csak te reád néznek a mi szemeink.
+2Chr.20.13 | És fejenként a Júda fijai állanak vala az Úr előtt, mind gyermekeikkel, feleségeikkel, és fijaikkal.
+2Chr.20.14 | Akkor Jaházielre a Zakariás fijára (ki Benája fija, ki Jéhiel fija, ki Mattániás fija vala, és az Asáf maradékai közzűl való Lévita vala) az Úrnak Lelke szálla, a Gyülekezet nek közötte.
+2Chr.20.15 | És monda: Mindnyájan, kik Júdában és Jérusálemben lakoztok, és te Jósafát Király, halljátok meg szómat! Így szól az Úr néktek: Ne féljetek és ne rettegjetek e számtalan sok néptől: mert nem ti harczoltok velek, hanem az Isten.
+2Chr.20.16 | Holnap szálljatok szembe velek! Ímé ők a Stz halmán fognak felmenni, és rájok találtok a völgynek véginél, a Járuel pusztájának ellenében.
+2Chr.20.17 | Nem ti harczoltok velek hanem csak álljatok veszteg és lássátok az Úrnak szabadítását rajtatok, te júdának nemzetsége és ti Jérusálembeliek ne féljetek, meg se rettenjetek: Holnap menjetek rájok: mert az Úr veletek lészen.
+2Chr.20.18 | Mellyet mikor Jósafát hallott volna, fejét arczal a földre lefüggeszté, a Júda népe is, és a Jérusálemnek lakói az Úr előtt hanyathomlok leborúlának, imádván őtet.
+2Chr.20.19 | Felállának pedig a Kéhátiták közzűl és a Kóriták közzűl valő Léviták, hogy az Izráel Urát Istenét felette nagy felszóval dícsérnék.
+2Chr.20.20 | És mikor immár reggel felkészültek volna, kimenének a Tékoa pusztájára; és mikor kiindulnának onnan, megálla Jósafát és monda: Halljátok meg szómat Júda és Jérusálemben lakozók! Bizzatok a ti Uratokban Istentekben, és legyetek bátorságosak: Hidjetek a Próféták beszédeinek, és jó szerencsések lésztek!
+2Chr.20.21 | Tanácsot tartván pedig a néppel, előállítá az Úrnak énekkeseit és a szent Felségnek dicsérőit, hogy a haarczra menő nép előtt menvén, ezt mondanák! Tiszteljétek az Urat; mert örökkévaló az ő irgalmassága;
+2Chr.20.22 | Mikor pedig elkezdették volna az éneklést és a dícséretet: az Úr ellenséget szerze az Ammoniták és a Moábiták ellen, és a Seir hegyén lakozók ellen, kik jöttek vala Júdára, és ő magok levágák egymást;
+2Chr.20.23 | Mert támadának az Ammon és a Moáb fijai a Seir hegybeliek ellen, hogy őket mind egyik levágnák és elvesztenék; és mikor mind elvesztették volna a Seir hegybelieket; azután egymást segítik egymás vesztésére.
+2Chr.20.24 | Júda népe pedig méne Mispa felé, melly a pusztában vagyon, és mikor eltekintett volna a sokaágra, ímé csak elesett holtestet lát vala a földön: mert senki azhok közzűl el nem szaladhatott vala.
+2Chr.20.25 | Elména azért Jósafát az ő népével, hogy azoknak jószágokban zsákmányt vetnének: és találának nálok temérdek gazdagságot, és a holttestekkel drága szép ruhákat, mellyeket lefosztának rólök, annyira, hogy alig vihetnék el, és harmadnapig kapdosák a nyereséget; mert felette sok vala.
+2Chr.20.26 | Negyednapra pedig gyúlének a háláadásnak völgyébe; mivelhogy az Úrnak ott adának hálákat, azért azt a helyet háláadás völgyének nevezék mind a mai napig.
+2Chr.20.27 | Megtére azért Júdának és Jérusálemnek egész népe a Jósafáttal az ő Fejedelmekkel egybe, Jérusálembe nagy örömmel, mert az Úr megvígasztalta vala őket az ő ellenségek veszedelmével.
+2Chr.20.28 | Bémenének pedig Jérusálembe, náblum, hegedű és trombita zóval az Úr házába.
+2Chr.20.29 | És az Istentől igen megrettentek vala minden országbeliek, mikor meghallották volna, hogy az Úr hadakozott volna az Izráel ellenségei ellen.
+2Chr.20.30 | Megnyugovék azért a Jósafát országa, és békességet ada néki az ő Istene minden felől.
+2Chr.20.31 | Uralkodék azért Júdán: Harminczöt esztendős vala, mikor uralkodni kezde, és uralkodék jeruben huszonöt esztendeig; és az ő annyának neve Azuba vala, a Silhi leánya.
+2Chr.20.32 | És Jmára Asának az ő attyának útán, el sem távozék attól, cselekedvén azt, a mi az Úr szeme előtt kedves dolog vala.
+2Chr.20.33 | De azért még a magas helyeket le nem rontották vala; a község is nem készítette vala meg az ő szívét az ő attyaiknak Istenéhez.
+2Chr.20.34 | Jósafátnak pedig első és utolsó dolgai ímé meg vagynak iratva Jéhunak a Hanáni fijának könyvében, ki azokat béírta az Izráel Királyainak könyvökbe.
+2Chr.20.35 | Azután Jósafát a Júda Királya megbarátkozék Akháziával az Izráel Királyával, ki nagy Isten ellen való dolgot cselekedett vala.
+2Chr.20.36 | Mindazáltal vele megbarátkozék, hogy hajókat kész1tenének, emllyeken Társisba mennének, és megkészíték a hajókat Esiongáberben.
+2Chr.20.37 | Prófétála azért Eliézer a Maresából való Dódava fija Jósafát ellen, mondván: Mivelhogy megbarátkoztál Akháézival, az Úr mind semmivé tett a te szándékodat. És a hajók mind elromlának, és nem mehetének Társisba rajtok.
+
+2Chr.21.1 | Meghala pedig Jósafát az ő attyaival egyetemben, és eltemették az ő attyaival a Dávod városában: és uralkodék az ő fija Jórám helyette.
+2Chr.21.2 | Meghala pedig Jósafát az ő attyaival egyetemben, és eltemették az ő attyaival a Dávid városában: és uralkodék az ő fija Jórám helyette.
+2Chr.21.3 | Adott vala pedig nékik az ő attyok sok ezüst és arany ajándékot, drága marhákat, és Júdában erős városokat: de az országot Jórámnak adá, mivelhogy ő volna elsőszülötte.
+2Chr.21.4 | Kezde azért Jórám az ő attyának országában uralkodni, és mikor immár abban megerősödött volna: az ő attyafiait mind megölé fegyverrel; az Izráel Fejedelmei közzűl is egynéhányat.
+2Chr.21.5 | Harminczkét esztendős korában kezdett vala uralkodni Jórám, és nyolcz ezstendeig uralékodék Jérusálemben.
+2Chr.21.6 | És jára az Izráel Királyainak útjokon a mint cselekeszik vala az Akháb háznépe; mert az Akháb leányát vette vala magának feleségűl; és az Úr szemei előtt gonosz dolgot cselekedék.
+2Chr.21.7 | Nem akará mindazáltal az Úr a Dávid házát elveszteni, a szövetségéért, mellyet tett vala Dáviddal, és mivelhogy igéretet tett vala, hogy adna néki szövétneket, és az ő fijainak minden időben.
+2Chr.21.8 | Az ő idejében szakada el Edom, hogy a Júda birodalmában ne lenne, és Királyt választának magoknak.
+2Chr.21.9 | Jórám azért elméne az ő Főembereivel és a vele való minden szekereivel: és felkelvén éjjel, megveré az Edomitákat, kik őtet megkörnyékezték vala, és azoknak szekereiknek fejedelmeit.
+2Chr.21.10 | Mindazáltal Edom ugyan elszakada tőle, hogy a Júda alatt ne lenne mind e mai napig. Ugyan akkor elszakada Libna is, hogy Jórám birodalmában ne lenne, mivelhogy elhagyta volna az ő attyainak Urát Istenét.
+2Chr.21.11 | Ő is rakata a Júdának hegyein oltárokat, és azt mivelé, hogy a Jérusálembeliek paráználkodnának, sőt ugyan felindítá őket arra, a Júdával egybe.
+2Chr.21.12 | Juta pedig azonközben az Illyés Próféta irása hozzá, mely így vala: Ezt mondja a te atyádnak Dávidnak Ura Istene: Milvehogy nem járál a te atyádnak Jósafátnak útán, sem a Júda Királyának Asának útán:
+2Chr.21.13 | Hanem járál az Izráel Királyainak útjokon, és praáználkodtatád a Júdát és a Jérusálemben lakozókat, a mint az Akháb háza is paráználkodtatá az Izráelt; annakfelette a te atyádfiait, a te atyád cselédeit megöléd, kik sokkal jobbak voltak náladnál:
+2Chr.21.14 | Ímé az Úr nagy csapást bocsát a te népedre, fijaidra, feleségeidre, és minden jószágodra.
+2Chr.21.15 | Te pedig sok nyavalánkban gyötreltetel, bélednek fájdalmaiban lészesz mind addig, míg a te béled naponként kimegyen a nagy betegség miatt.
+2Chr.21.16 | Felindítá azért az Úr Jórám ellen a Filiszteusok és az Arábiabeliek elméjeket, kik a szerecsenekkel határosok valának.
+2Chr.21.17 | Kik mikor felindultak volna Júdára, reá ütének, és zsákmányt vetének mindenben, valami találtaték a Király házában; annakfelette fijait és feleségeit elvivék, és több nem marada meg fijai közzűl, hanem a legkisebb Joákház.
+2Chr.21.18 | És mind ezek után megveré őtet az Úr, bélinek szertelen nagy fájdalmával, melly gyógyíthatatlan vala.
+2Chr.21.19 | Lőn pedig egynéhány napok után, mikor a Prófétától mondott idő határa eljött volna két esztendő mulva, az ő béle mind kijára betegségében, és meghala nagy kinokban: és a köziség nem égete néki drága illatú szerzsámokat az ő temetőhelyén, mint az ő attyainak égettek vala.
+2Chr.21.20 | Harminczkét esztendős vala, mikor uralkodni kezde, és nyolcz esztendeig uralkodék Jérusálemben. És mikor minden gyönyörűség nélkűl élt volna: eltemeték őtet a Dávid városában, de nem a Királyok koporsójában.
+
+2Chr.22.1 | Választák pedi Királlyá Jérusálemnek lakosai ő helyette az ő legkisebb fiját Akháziát; mert az előtte valóket mind megölték vala azok, kik az Arábiabeliekkel jöttek vala a táborba. Uralkodék azért Akházia, Jórámnak a Júda Királyának fija.
+2Chr.22.2 | Kinek annyának neve Atália vala, Omrinak leánya, kinek birodalmának negyvenkettődik ezstendeje vala, mikor Akházia uralkodni kezde, ki csak egy esztendeig uralkodék Jérusálemben.
+2Chr.22.3 | Ez is az Akháb házának útain jára: mert az ő annya vala néki tanácsosa az istentelen cselekedetre.
+2Chr.22.4 | Azért gonoszúl cselekedék az Úr szemei előtt, miképen az Akháb háznépe: mert azok voltak tanácsadói attya halála után, az ő veszedelmére.
+2Chr.22.5 | Sőt inkább mindenestúl azoknak tanácsok szerint jára, és elméne Jórámmal az Akháb fijával az Izráel Királyával ütközetre Hazáel ellen, a Siriabeli Király ellen, a Gileádbeli Rámóthba, holott a Siriabeliek Jórámot igen megverék.
+2Chr.22.6 | Megtére azért, hogy magát gyógyíttatná Jezréel városában; mert igen megsebesíttetett vala Ráma város alatt, mikor hadakoznék Hazáel ellen, a Siriabeli Király ellen: Akházia pedig Jórámnak a Júda Királyának fija aláméne, hogy meglátná Jórámot az Akháb fiját Jezréelben; mert beteg vala.
+2Chr.22.7 | Istentől vala pedig Akháziának romlása, hogy Jórámhoz menne; mert mikor oda ment volna, kijőve Jórámmal Jéhu eleibe, ki Nimsi fija vala, kit az Úr megkenetett vala, hogy az Akháb háznépét kigyomlálná.
+2Chr.22.8 | Lőn azért, mikor Jéhu az Akháb házán bosszút állana: a Júda Fejedelmeire találkozék, és az Akházia attyafiainak fijaiira, kik Akháziának szolgálnak vala, és megölé őket.
+2Chr.22.9 | Akháziát is keresé és megfogák őtet, (ki Samariában rejtezett vala el) és hozák őtet Jéhuhoz, és őtet levágák és eltemeték; mert ezt mondják vala: Ez a Jósafát fija, ki keresi vala az Urat teljes szívéből. És nem valami immár senki az Akházia háznépe közzűl, ki elég volna az országnak birodalmára.
+2Chr.22.10 | Továbbá Atália a Akházia annya, látván hogy az ő fija megolt volna: felkele és megölé a Júda háznépének minden királyi magvát.
+2Chr.22.11 | De Jósabát a Király leánya, vevé Joást az Akházia fiját, és kivivé titkon őtet a Király fijai közzűl, kik megölettetnek vala, és elrejté őtet és az ő dajkáját az ágyasháziba: És eltitkolá őtet Jósabát a Jórám Király leánya, ki vala a Jójada Pap felesége, (mert Akháziának huga vala) Atália előtt, hogy őtet meg ne ölhetné.
+2Chr.22.12 | És vala ő velek az Úr házában elrejtetvén hat esztendeig: Atália pedig bírja vala a földet.
+
+2Chr.23.1 | A hetedik esztendőben pedig megerősödék Jójada, és maga mellé vevé a szövetségben a Századosokat, Azáriát a Jérohám fiját, Ismáelt a Jóhanán fiját, Azáriát az Obed fiját, Maaséját az Adája fiját, és Elisafátot a Zikri fiját.
+2Chr.23.2 | Kik a Júda országát körűl eljárván, öszvegyüjték Júdának minden városaiból a Lévitákat, és az Izráel attyainak Fejedelmeit, és jövének Jérusálembe.
+2Chr.23.3 | Szövetséget tőn pedig mind az egész Gyülekezet a Királlyal az Isten házában, minekutánna Jójada e képen szólott volna nékik: Ímé a Király fija fog uralkodni, a mint az Úr szólott volt a Dávid ijairól;
+2Chr.23.4 | Azért dolgotok e legyen: Harmadrész közzűletek, kik a Szombatra szoktatok feljönni a Papok és a Léviták közzűl, ajtónálló legen.
+2Chr.23.5 | Harmadrész a Király házánál, és harmadrész a főkapunál álljon: az egész község pedig legyen az Úr házának pitvariban;
+2Chr.23.6 | Senki ne menjen bé az Úr házába, hanem csak a Papok, és a kik szolgálnak a Léviták közzűl, ők menjenek bé: mert szent dologra rendeltettek; az egész gyülekezet tartsa meg az Úr parancsolatjához.
+2Chr.23.7 | És a Léviták körűlvegyék a Királyt, kinek-kinek mind fegyvere legyen kezében, és valaki bémenne a házba, ottan megölettessék; és a Király mellett legyetek, mikor bémegyen és mikor kijövénd.
+2Chr.23.8 | És mind a szerint cselekedének a Léviták és a Júdának egész gyülekezete, a mint nékik parancsolt ala Jójada Pap, és kiki maga mellé veszi vala az ő birodalmában való férjfiakat: mind azokat, a kik felmennek vala a Szombatra, mind a kik kijőnek vala Szombaton: Jójada Pap nem engedé, hogy a Lévitáknak seregek elmenne.
+2Chr.23.9 | És adá Jójada Pap a Századosoknak dárdákat, paizsokat és pánzcélokat, mellyek Dávid Királyéi voltak, mellyek az Isten házában valának.
+2Chr.23.10 | És állítá az egész gyülekezetet (kiknek fegyverek kezekben vala) a háznak jobb részétől fogva a háznak bal felől való részéig, az oltár mellett és a ház mellett a Király körűl.
+2Chr.23.11 | Akkor kihozák a Király fiját, és a koronát fejébe tevék, és a Királyhoz illendő ékességet reá adák, és Királlyá tevék őtet és megkené őtet Jójada és az ő fijai, és mondának; Éljen a Király!
+2Chr.23.12 | Mikor pedig meghallotta volna Atália a futosó népnek zengését, kik a Királyt dícsérik vala; akkor ő is felméne a nép közzé az Úr házába.
+2Chr.23.13 | Holott mikor látta volna, hogy a Király állana az ő oszlopánál a belső pitvarnak bémenetelinél, és a Fejedelmek és a trombitások a Király mellett volnának, és hogy a föld népe is örülne, trobitálna, és az énekesek a zengő szerszámokkal énekelnének kik tudósok valának az isteni dícséretben: Atália zonnal ruháit kezdé szaggatni magán, és monda: Pártolás vagyon! pártolás!
+2Chr.23.14 | Kiküldé pedig Jójada Pap a Századosokat, a seregek Hadnagait, mondván nékik: Engedjétek, hogy menjen ki a rendeek között, és valaki utánna menne fegyverrel megölettessék. Mert ezt mondja vala a Pap: Ne öljétek meg őtet az Úr házában.
+2Chr.23.15 | Adának azért néki helyet, hogy kimehetne és mikor béjutott volna a Király háza felé a lovaknak kapuján, ott vágák le őtet.
+2Chr.23.16 | Szövetséget tőn pedig Jójada, ő maga között, a nép között és a Király között, hogy ők az Úr népei lennének.
+2Chr.23.17 | Béméne azért mind a sokasága Baál házába, és azt elrontá, és annak mind oltárait s mind bálványait egybetöré: Mattánt pedig a Baál Papját az oltárok előtt ölék meg.
+2Chr.23.18 | És helyekre állatá Jójada a tiszteket az Úr házában, mellyeket bíztak vala a Papokra és Lévitákra, kiket Dávid elrendelt vala az Úr házában, hogy áldoznának egészen égőáldozatokkal az Úrnak, a mint a Mózes törvényében megírattatott, nagy vígassággal és énekszóval, a Dávid rendelése szerint.
+2Chr.23.19 | Helyekre állítá az ajtónállókat is az Úr házának kapuira, és semmi dologban való tisztátalan bé nem mehet vala.
+2Chr.23.20 | Azután maga mellé vevé a Századosokat és a fő urakat, mind azokkal egyetemben, kik a községen uralkodnak vala, és mind a föld népét, és kivivé a Királyt az Úr házából, és bémenének a Király házának nagyobbik kapuján: és helyhezteték a Királyt a királyiszékbe.
+2Chr.23.21 | Nagy örömben lőn azért a földnek minden népe, és a város is megnyugovék: minekutánna Atáliát megölék fegyverrel.
+
+2Chr.24.1 | Ht esztendős vala Jóás, mikor uralkodni kezde, és uralkodék Jérusálemben negyven esztendeig: az ő annyának neve Sibia vala, Beersebabeli.
+2Chr.24.2 | És cselekedék Joás az Úr előtt kedves dolgot, Jójada Papnak teljes életében.
+2Chr.24.3 | Vőn pedig néki Jójada két feleséget, és nemzé fiakat és leányokat.
+2Chr.24.4 | Ezekután végezé magában Joás, hogy az Úr házát megépítené.
+2Chr.24.5 | És öszvehívatá a Papokat és a Lévitákat, és monda nékik: Menjetek el a Júda városaira, és szedjetek az Izráel népétől fejenként pénzt, hogy esztendőnként a ti Istentek házát építsék meg; ti pedig e dologban hamar eljárjatok. És nem sietének a Léviták.
+2Chr.24.6 | Ezokáért hívatá a Király Jójadát a Papifejedelmet, és monda néki: Miért nem kénszerítetted a Lévitákat, hogy béhoznák Júdából és Jérusálemből az ajándékot, mellyet rendelt Mózes az Úr szolgája, és az Izráelnek Gyülekezete a Gyülekezetnek sátorához?
+2Chr.24.7 | Mert amaz istentelen Atália és az ő fijai elpusztították az Isten házát, és az Isten házához rendeltetett jószágot a bálványokra költötték.
+2Chr.24.8 | És mikor parancsolt volna a Király: szerzének egy ládát, mellyet letevének az Úr házának kapuja előtt;
+2Chr.24.9 | És meghirdeték Júdában és Jérusálemben, hogy hoznák el az Úrnak az ajándékot, mellyet az Isten szolgája Mózes rendelt volna, és parancsolt a pusztában az Izráelnek.
+2Chr.24.10 | Akkor nagy örömmel minden Fejedelmek és az egész község hozának és hányának pénzt a ládába, míglen megtelnék.
+2Chr.24.11 | Lőn pedig, mikor a ládát vinnék a Király gondviselőjéhez a Léviták által, (mert mikor látták, hogy a pénz sok volna, a Királynak Íródeákja, a Főpapnak választott emberével szembe lészen vala) hogy megüresítenék a ládát: azután ismét helyére teszik vala azt. És ezt mívelik vala minden napon, és nagy summa pénzt gyüjtének.
+2Chr.24.12 | És adá azt a Király és Jójada az Úr háza körűl való munkás szolgálat gondviselőjének: és fogadának favágókat és ácsokat az Úr házának megépítésére, vas és rézmíveseket is az Úr házának megerősítésére.
+2Chr.24.13 | Munkálkodának azért a mívesek, és az ő kezek által a romlások megépűlének, és helyére állíták az Úrnak házát elébbeni állapotja szerint, és megerősíték azt.
+2Chr.24.14 | Mikor pedig elvégezték volna, vivék a Királynak és Jójadának eleibe a maradék pénzt, mellyből csinálának az Úr szolgálatjához való edényeket, úgymint temjénezőket, kalánokat, arany és ezüst edényeket: És áldoznak vala égőáldozatokkal szüntelen az Úrnak házában, Jójadának teljes életében.
+2Chr.24.15 | Megvénhedék pedig Jójada és meegelégedvén életével, meghala: Száz harmincz esztendős korában hala meg.
+2Chr.24.16 | És eltemeték őtet a Dávid városában, a Királyok között: mivelhogy kedves dolgot cselekedett volna Izráelben, mind Istennel s mind az ő házával.
+2Chr.24.17 | Minekutánna pedig meeghala Jójada: eljövének a Júda Fejedelmei és térdet fejet hajtának a Király előtt: és a Király engede nékik.
+2Chr.24.18 | És hátra hagyván az ő attyaiknak Urának Istenének házát, szolgálának a berkeknek és azokban való bálványoknak: melly vétekért lőn az Úrnak Júdára és Jérusálemre igen nagy haragja.
+2Chr.24.19 | És külde az Úr hozzájok Prófétákat, hogy azok által magához hívatná őket, kik bizonyságot tevének nékik; de ugyan nem fogadák.
+2Chr.24.20 | Az Isten Lelke pedig felindítá Zakariást a Jójada Pap fiját, és felálla magas helyen a nép között, és monda nékik: Ezt mondja az Isten: Miért hagyátok hátra az Úrnak parancsolatait? Nem használtok vele: mivelhogy hátrahagyátok az Urat, ő is hátrahagy titeket.
+2Chr.24.21 | Azok pedig reá támadván, ugyan ott az Úr háza pitvarában megkövezék őtet a Király parancsolatjából.
+2Chr.24.22 | És nem emlékezék meg Joás Király a jótéteményről, mellyel annak attya Jójada vala ő hozzá éltében, hanem megöleté a fiját. Mikor pedig meghala, ezt mondá: Lássa meg az Úr és ítélje meg.
+2Chr.24.23 | Lőn pedig az esztendő forgásában, a Siriabeli Király hada feljöve ő ellen; és méne Júdára és Jérusálemre, és mind egyik elveszték a népnek Fejedelmeit a nép közzűl, és az egész ragadománytküldék Damaskusba a Királynak;
+2Chr.24.24 | Mert noha kevés emberekkel jött vala rájok a Siriabeli had: mindazáltal az Úr kezekbe adá a számtalan sok népet, mivelhogy az ő attyaiknak Urát Istenét elhagyták volna; Joáson is bosszút állának.
+2Chr.24.25 | És mikor tőle elmentek volna és hagyták volna őtet nagy betegségekben: pártot ütének ellene az ő szolgái, a Jójada Pap fijának haláláért, és megölék őtet ugyan ágyában. És minekutánna megholt volna, eltemeték őtet a Dávid városában, de nem temeték őtet a Királyok koporsójában.
+2Chr.24.26 | Ezek támadtak vala pedig reá: Zabád az Ammonbeli Simeát asszony fija, és Józabád a Moábbeli Simrith fija.
+2Chr.24.27 | Az ő fijainak pedig számok és a ravásszedés, melly ő idejében lett az Isten házának is megépítése, ímé meg vagynak íratva a Királyokról való könyvben: Uralkodék pedig helyette az ő fija Amásia.
+
+2Chr.25.1 | Huszonöt esztendős korában kezdett vala Amásia uralkodni, és huszonkilencz esztendeig uralkodék Jérusálemben; az ő annyának neve Jéhoaddán vala Jérusálemből való.
+2Chr.25.2 | És kedves dolgot cselekedék az Úr előtt: de nem tiszta szívvel.
+2Chr.25.3 | Lőn pedig azután, hogy országában megerősödék: megölé az ő szolgáit, kik a Királyt az ő attyát megölték vala.
+2Chr.25.4 | De azoknak fijaikat meg nem öleté, hanem a szerint cselekedék, a mint a törvényben a Mózes könyvében meg vagyon írattatva, mellyben az Úr így parancsolt volt, mondván: meg ne ölettessenek az atyák a fiakért, és a fiak is meg ne ölettessenek az atyákért, hanem kiki az ő saját bűnéért ölettessék meg.
+2Chr.25.5 | Öszvegyüjté annakfelette Amásia a Júda népét, és választa közzűlök az atyáknak házoknépei szerint egész Júdában és Benjáminban Ezeredeseket és Századosokat: és megszámlálá őket húsz esztendősöktől fogva és a kik feljeb valának és talála azok közzűl válogatott fegyverfoghatókat, kopjásokat és paizsosokat, háromszáz ezeret.
+2Chr.25.6 | Annakfelette bérle az Izráeliták közzűl százezer erős férjfiakat, száz tálentom ezüstben.
+2Chr.25.7 | Eljöve pedig az isten embere ő hozzá mondván: Óh Király; az Izráel népe veled el ne menjen: mert az Úr nem lészen az Izráellel, tudniillik az Efraimnak minden fijaival.
+2Chr.25.8 | Ha pedig kétes vagy benne, ám menj elő, készülj a viadalhoz: de ugyan megveret Isten téged az ellenség előtt: mert Isten hatalmában vagyon mind a segítség, mind a megveretés.
+2Chr.25.9 | Akkor monda Amásia az Isten emberének: Mit míveljünk a száz tálentom ezüst felől, a mellyet immár megadtam az Izráel népének? És felele az Isten embere: Az Úr néked annál sokkal többet adhat.
+2Chr.25.10 | Kiválasztá azért azokat Amásia, a kik Efraimból jöttek vala ő hozzá, hogy mennének helyekre: Melly dologért igen megharagvának a Júda népére, és megtérének helyekre nagy búsulva.
+2Chr.25.11 | Amásia pedig megbátorodván, kiindítá népét, és méne a sós völgybe; és megvere a Seir fijai közzűl tízezeret.
+2Chr.25.12 | Ismét a Júda fijai tízezer elevent fogának, kiket vivének egy magas kőszikla tetejére, és onnan nyakrafőre letaszigálák őket, és mind elszakadozának.
+2Chr.25.13 | A melly seregeket pedig megtérített vala Amásia, hogy ő vele ne mennének a hadba: Júdának városaira ütének Samariától fogva mind Bethóronig: és levágván háromezert azok közzűl, nagy sok nyereséget vivének el.
+2Chr.25.14 | Lőn azután, hogy Amásia megtére az Edomiták megverésekből: a sSeir fijainak isteneit elhozá és Isten gyanánt tisztelé azokat, kik előtt magát meghajtja vala, és azok előtt jóillatot tészen vala.
+2Chr.25.15 | Ezokáért megharagvék az Úr Amásiára, és bocsáta Prófétát hozzá, és monda néki: Miért imádád annak a népnek isteneit, kik meg nem szabadíthatták az ő népeket a te kezedbeől?
+2Chr.25.16 | Lőn pedi, mikor e képen szólott volna néki, monda a Király néki: Valyon tanácsosa vagy é te a Királynak? Hallgas, mert gonoszúl jársz. Megszünék azért a Próféta, minekutánna ezt mondotta volna: Látom hogy az Isten el akar téged veszteni mivelhogy ezt míveléd, és tanácsomat nem fogadád.
+2Chr.25.17 | Amásia pedig a Júda Királya tanácsot tartván, követet külde Joáshoz a Joákház fijához, ki Jéhunak fija vala, az Izráel Királyához, mondván: Nossza szálljunk szembe egymással!
+2Chr.25.18 | Akkor Joás az Izráel Királya illyen választ tőn Amásiának a Júda Királyának: A Libánus hegyén való tövis külde a Libánuson való czédrusfához, hogy ezt mondanák: A te leányodat add az én fiamnak feleségűl; azonközben azon elmenvén egy fenevad, melly a Libánuson lakik vala, eltapodá azt a töviset.
+2Chr.25.19 | Te magadban így gondolkodtál: Megverém az Edomitákat, azért fuvalkodtál fel magadban, hogy dicsekedjél. Kérlek maradj otthon, miért szerzesz magadnak veszedelmet, hogy mint te s mind Júda elvesszen általam.
+2Chr.25.20 | De ugyan nem nyughaték Amásia: mert Isten elvégezte vala, hogy az ellenség kezébe adná őtet, mivelhogy az Edomitáknak isteneit imádták volna.
+2Chr.25.21 | Felindula azért Joás az Izráel Királya, és szembe szállának egymással, ő és Amásia a Júda Királya, Beth-sémesnél, melly Júdában vagyon.
+2Chr.25.22 | És Júda megveretteték az Izráeltől, és kiki mind szalada az ő sátorához.
+2Chr.25.23 | Amásiát pedig a Júda Királyát a Joás fiját, ki Joákház fija volt, Joás az Izráel Királya elfogá Bethsémesben, és vivé őtet Jérusálembe, és Jérusálemnek kőfalát letöré az Efraim kaputól fogva, mind a szegeletnek kapujáig négyszáz singnyire.
+2Chr.25.24 | És mind az aranyat, mind az ezüstöt, és mindenféle edényeket, a mellyek találtatának az Isten házában az Oben-Edom birtoka alatt, és a Király házának kincsei között, a főfő népeknek fijaival egyetemben, mind Samariába vivé.
+2Chr.25.25 | Éle pedig Amásia a Joás fija, a Júda Királya, minekutánna meghala Joás a Joákház fija az Izráel Királya, tizenöt esztendeig.
+2Chr.25.26 | Amásiának pedig több lett dolgai elsők és utolsók, avagy nincsenek é megíratva a Júda és az Izráel Királyainak könyvökben?
+2Chr.25.27 | Mert attól fogva, hogy Amásia az Úrtól elszakada, mikor Jérusálemben ellene támadtak volna, Lákisba szalada: és küldének utánna Lákisba, és ugyan ott megölék őtet.
+2Chr.25.28 | És elhozák onnét lovakon, és eltemeték őtet az ő attyai között, Júdának városában.
+
+2Chr.26.1 | Akkor előhozván az egész Júda nemzeetsége Uzziást, (ki tizenhat esztendős vala,) Királlyá tevék őtet az ő attya Amásia helyett.
+2Chr.26.2 | Ez építé meg Elótot, mellyet Júdának megvőn, minekutánna Amásia Király megholt volna az ő attyaival egybe.
+2Chr.26.3 | Tizenhat esztendős korában kezdett vala uralkodni, és ötvenkét esztendeig uralkodék Jérusálemben: az ő annyának neve Jékólia vala, Jérusálemből való.
+2Chr.26.4 | És cselekedék az Úr előtt kedves dolgot mind a szerint, a mint az ő attya Amásia cselekedett vala.
+2Chr.26.5 | És keresi vala az Istent Zakariás Próféta idejében, ki az Isteni látásokban tudós vala, valamíg pedig az Úr keresé, jó előmenetelt adott néki Isten;
+2Chr.26.6 | Mert kimenvén hadakozék a Filiszteusok ellen; és a Gáth kerítését, a Jabné kerítését, és az Asdód kerítését letöré, és épite városokat Asdódban, és a Filiszteusok tartományában.
+2Chr.26.7 | És megsegéllé őtet az Isten a Filiszteusok ellen és az Arábiabeliek ellen, kik lakoznak vala Gúr mezején és Hamennimban.
+2Chr.26.8 | Adának az Ammoniták az Uzziásnak ajándékot, és kiméne az ő híre neve szintén Égyiptomig; mert felette igen felnevekedett vala az ő hatalma;
+2Chr.26.9 | Mert építe Uzziás tornyokat Jérusálemben a szegelet kapu felett: a völgy kapja felett és a szegeletek felett, és igen megerősítteté azokat.
+2Chr.26.10 | A pusztában is tornyokat raka, és sok kútakat ása: mert sok nyája vala mind a völgyekben, mind a térföldön, és majorkodó szolgái, vinczelérei a hegyekben és a Kárméluson: mivelhogy a majorkodásnak szeretője vala.
+2Chr.26.11 | Vala pedig Uzziásnak hadakozó népe is, harczra kimehető seregenként, a szerint a mint meg volt számláltatva Jéhiel Iródeák által, a Maaséja Tiszttartó által, a Hananiás parancsolatjából, ki vala a Király Fejedelmei közzűl egy.
+2Chr.26.12 | A cselédek Fejedelmeinek mindenestől fogva való számok, az erősek közzűl, kétezer és hatszáz vala.
+2Chr.26.13 | És ezeknek birodalmokban valának igen erős hadakozók háromszázezeren, hétezeren és ötszázan, kik vitézi módon forgolódnak vala, hogy a Királyt megsegéllenék ellenségei ellen.
+2Chr.26.14 | Készíte pedig az ő hadának Uzziás paizsokat, kopjákat, sisakokat, pánczélokat, 1veket, és parittyába való köveket.
+2Chr.26.15 | Készítse annakfelette Jérusálemben nagy mesterséges hadakozó szerszámokat, mellyek lennének a tornyok tetejében, és a kőfalnak szegeletein, nyilaknak és nagy köveknek kihajigálásokra. És az ő híre neve mindenfelé kiméne, mivelhogy csudaképen forgatná magát, míg igen megerősödnék.
+2Chr.26.16 | Mikor pedig immár e képen megerősödött volna: magában felfuvalkodék, míg magát megfertéztetné, és vétkezék az ő Ura Istene ellen: az Úr telmplomába béméne, hogy a füstölő oltáron füstölne.
+2Chr.26.17 | Béméne pedig ő utánna Azárisá Pap, és vele az Úr Papjai nyolczvanan, igen erősek.
+2Chr.26.18 | És ellene állának Uzziás Királynak, és mondának néki: Uzziás! nem te dolgod az Úrnak füstölni, hanem az Áron Pap fijaié, kik arra szenteltettek. Menj ki e szent helyből; mert igen vétkezél: tisztességedre nem lészen az Úr Istentől.
+2Chr.26.19 | És megharaguvék Uzziás, kinek kezében vala a füstölő szerszám hogy füstölne, és mikor e képen haragudnék a Papokra, bélpoklosság támada a homlokán ugyan a Papok előtt az Úr házában, a füstölő oltár előtt.
+2Chr.26.20 | És mikor tekintett volna ő reá Azáriás a Főpap, és vele mind a több Papok: láták a bélpoklosságot az ő homlokán; és hamar elüzék őtet onnét, és kénszeríték kimenni; mert az Úr megverte vala őtet.
+2Chr.26.21 | És lőn Uzziás Király mind halála napjáig bélpoklos: és lakik vala egy magának való szabados házban mint bélpoklos; mert az Úr házából kivettetett vala. Jótám pedig az ő fija bírja vala a Király házát, és ítéletet tészen vala a föld népének.
+2Chr.26.22 | Uzziásnak pedig első és utolsó dolgait megírta Ésaiás Próféta, az Ámos fija.
+2Chr.26.23 | És meghala Uzziás az ő attyaival egybe, és eltemeték őtet az ő attyai között a Királyok temetőmezején: mert ezt mondják vala felőle; bélpoklos volt. És uralkodék Jótám az ő fija helyette.
+
+2Chr.27.1 | Huszonöt esztendős vala Jótám, mikor uralkodni kezde, és tizenhat esztendeig uralkodék Jérusálemben; az ő annyának neve Jérusa vala, a Sádók leánya.
+2Chr.27.2 | És cselekedék kedves dolgot az Úr előtt, mint szintén az ő attya Uzziás cselekedett vala, csak hogy az Úr templomába bé nem megyen vala; de a község még vétkezik vala.
+2Chr.27.3 | Ő építé meg az Úr házának felső kapuját, a vár kerítésén is sokat építe.
+2Chr.27.4 | Annakfelette a Júda hegyes földén városokat építe és a szép ligetes erdőkön palotákat és tornyokat rakata.
+2Chr.27.5 | Ő is hadakozék az Ammon fijainak Királyok ellen, kikeet megvere: és adának néki az Ammon fijai azon esztendőben száz tálentom ezüstöt, és tízezer véke búzát, tízezer véka árpát is. Ezt fizették néki az Ammon fijai a második és harmadik esztendőben is.
+2Chr.27.6 | Megerősödék azért Jótám; mert az ő útain viseli vala az ő Ura Istene előtt.
+2Chr.27.7 | Jótámnak pedig több dolgait, miden hadakozásait és útait, ímé megírták az Izráel és a Júda Királyainak könyvökben.
+2Chr.27.8 | Huszonöt esztendős korában kezdett vala uralkodni, és tizenhat esztendeig uralkodék Jérusálemben.
+2Chr.27.9 | És elaluvék Jótám az ő attyaival, és eltemeték őtet a Dávid városában; és uralkodék Akház az ő fija helyette.
+
+2Chr.28.1 | Húsz esztendős vala Akház mikor uralkodni kezde, és tizenhat esztendeig uralkodék Jérusálemben, és nem cselekedék kedves dolgot az Úr előtt, mint Dávid az ő attya;
+2Chr.28.2 | Hanem jára az Izráel Királyainak útjokon, és öntött bálványokat csináltata a Baál tisztességére.
+2Chr.28.3 | Annakfelette temjéneze is a Hinnom fijának völgyében: fijait is megégeté tűzben a Pogányoknak utálatosságok szerint, kiket az Úr az Izráel fijai elől kiüzött vala.
+2Chr.28.4 | Áldozék és temjéneze a hegyek tetején is, a halmokon is és minden zöld fa alatt.
+2Chr.28.5 | Ezokáért az ő Ura Istene adá őtet a Siriabeli Király kezébe, és őtet igen megverék, és fogva vivének ő tőle sok foglyokat, kiket Damaskusba vivének. Annakfelette az Izráel Királya kezébe is adattaték, és az is őtet igen megveré;
+2Chr.28.6 | Mert Pékah a Rémália fija Júdában egy nap levága száz húszezer embert, mind az erőssét; mivelhogy az ő Eleiknek Urokat Isteneket hátrahagyták vala.
+2Chr.28.7 | Annakfelette az Efraimbeli hatalmas Zikri megölé Maásiát a Király fiját, Azrikámot is az ő házának gondviselőjét, Elkánát is, ki a Király után második vala.
+2Chr.28.8 | Fogva vivének ismét az Izráel fijai az ő attyokfiai közzűl, kétszázezer asszonyt, fiakat, leányokat, és nagy sok jószágot kóborlának el tőlök, és azzal a nyereséggel mennek vala Samariába.
+2Chr.28.9 | Vala pedig Samariában az Úrnak Prófétája, kinek neve Obed, ki eleibe menvén a hadnak, a melly Samariába megyen vala, monda a hadnak: Ímé mivelhogy a ti atyáitok Urának Istenének haragja a Júda ellen felgerjedett, aért adta őket kezetekbe; és ti sokat levágátok közzűlök a ti nagy búsulástokban, melly szintén az égig felhata.
+2Chr.28.10 | És immár most arról gondolkodtok, hogy a Júdának és Jérusálemnek fijait magatok alá vessétek, hogy néktek szolgáitok és szolgálóleányitok legyenek. A vagy nem teszitek é ezzel magatokat a ti Uratoknál Istenteknél bűnösökké?
+2Chr.28.11 | Azért halljátok meg szómat: vigyétek vissza a ti atyátokfiai közzűl való foglyokat, kiket ide hoztatok; mert ha ezt nem mívelitek, az Úrnak nagy haragja lészen rajtatok.
+2Chr.28.12 | Akkor felkelének az Efraimból való Főrendeknek férjfiai, tudniillik Azáriás a Jóhanán fija, Berékiás a Mesillemót fija, Ezékiás a Sallum fija, és Amása a Hadlai fija, azok ellen, kik a viadalból jőnek vala.
+2Chr.28.13 | És mondának nékik: Ne hozzátok ide bé a foglyokat; mert felette igen nagy bűn lészen ez, a mit akartok mívelni, és ezzel a mi bűneinket és vétkeinket megsokasítjátok; mert e nélkűl is sok bűnünk vagyon, és az Úrnak haragja vagyon az Izráelen.
+2Chr.28.14 | A had azért a foglyokat, és a nyereséget ugyan ott elhagyák a Fejedelmek előtt, és az egész gyülekezet előtt.
+2Chr.28.15 | És felállának a megneveztetett személyek és fogák a foglyokat, és a kik mezítelenek valának közzűlök, felöltözteték a nyereségből: felöltözteték, mondom, azokat, sarukat is adának lábaikra; ételt és italt is adának nékik; meg is kenék őket és elvivék szamarakon a betegeseket, és vivék őket a pálmafáknak városába Jérikhóba az ő attyokfiaihoz; azután ők megtérének Samariába.
+2Chr.28.16 | Az időben külde Akház Király az Assiriabeli Királyhoz, hogy lennének néki segítséggel.
+2Chr.28.17 | Mert még az Edomeusok is eljöttek vala, és a Júda népe közzűl sokat levágának és rabokat fogának:
+2Chr.28.18 | A Filiszteusok is mind ellepék a lapáczon való városokat, és Júdának dél felől való részét és megvevék Bethsémest, Ajalont, Gederótot, Sókot is és annak faluit: Timnát és annak faluit, Gimzót és annak faluit, és ott laknak vala:
+2Chr.28.19 | Mert az Úr megalázta vala Júdát Akházért az Izráel Királyáért: mert a Júdát elhajtota vala, hogy vétkeznék az Úr ellen.
+2Chr.28.20 | Eljöve azért ő hozzá Tiglát-Pilnéser Assirának Királya, ki őtet megszorongatá, és nem erősíté őtet;
+2Chr.28.21 | Mert Akház az Úr házát, a Királyét, a Fejedelmekét megfosztá, és az Assiriabeli Kirlynak ada ajándékot; de ugyan nem lőn segítséggel néki;
+2Chr.28.22 | Valamikor pedig az Úr őtet megszorongatja vala, annál inkább vétkezik vala az Úr ellen; ugyanaz vala Akház Király:
+2Chr.28.23 | Mert a Damaskusbeli isteneknek áldozik vala, a kik őtet megverték vala, ezt mondván: Mivelhogy a Siriabeli Királyoknak istenei igen segéllik őket; azért én is azoknak áldozom, hogy segéljenek engemet is: holott mind néki, mind az egész Izráelnek azok voltak romlásokra.
+2Chr.28.24 | És öszvehordá Áakház az Isten házának edényeit, és öszvetöré az Isten házának edényeit, és az Úr házának ajtait bezárlá, és oltárokat raka magának Jérusálemnek minden szegeletiben;
+2Chr.28.25 | Júdának minden városaiban is építe oltárokat, hogy az idegen isteneknek temjénezne; és az ő attyainak Urát Istenét e képen haragra felingerlé.
+2Chr.28.26 | Az ő több dolgai pedig és útai mind elsők mind utolsók, ímé meg vagynak írattatva a Júda és az Izráel Királyainak könyvökben.
+2Chr.28.27 | Meghala pedig Akház az ő attyaival, és eltemeték őtet Jérusálem városában; mert nem vivék őtet az Izráel Királyainak koporsóikba. És uralkodék az ő fija Ezékiás ő helyette.
+
+2Chr.29.1 | Ezékiás kezde uralkodni, mikor vona huszonöt esztendős; és uralkodék huszonkilencz esztendeig Jérusálemben; az ő annyának neve vala Abija a Zakariás leánya.
+2Chr.29.2 | És cselekedék kedves dolgot az Úr előtt mind a szerint, a mint Dávid az ő attya cselekedett vala.
+2Chr.29.3 | És az ő királyságának első esztendejében az első hónapban megnyitá az Úr házának ajtait, és azokat megújíttatá.
+2Chr.29.4 | És egybehívatá a Papokat s a Lévitákat, öszvegyüjté őket a napkelet felől való utczában.
+2Chr.29.5 | Mondván nékik: Halljátok meg szómat Léviták: Midjárt magatokat szenteljétek meg, a ti atyáitok Urának Istenének házát is szenteljétek meg, és minden undokságot a szent helyről hordjátok ki;
+2Chr.29.6 | Mert igen vétkeztek a mi atyáink, és a mi Urunk Istenünk előtt gonoszt cselekedvén, hátra hagyták őtet, és az Úr sátorától elforeulván, háttal fordulak ő hozzá.
+2Chr.29.7 | A tornácz ajtait is bezárták, a szövétnekeket is megoldották, a temjénezést is elhagyták; és nem áldoztak égőáldozattal az Izráel Istenének a szent helyen.
+2Chr.29.8 | És ezért volt az Úrnak illyen nagy haragja a Júdán és Jérusálemben; és adata volt őket rabságra és pusztulásra és süvöltsére, a mint ti magatok is látjátok.
+2Chr.29.9 | És ímé a mi atyáink fegyver miatt hullottak el, fijaink, leányink és feleségink fogásgba vitettek e dolgokért.
+2Chr.29.10 | Most azért én elvégeztem magamban, hogy az Izráel Urával Istenével szövetséget szerezzek, hogy haragját tőlünk elfordítsa.
+2Chr.29.11 | Szerelmes fijaim, most ne tévelyegjetek; mert az Úr titeket elválasztott, hogy ő előtte állván, néki szolgáljatok; hogy szolgái legyetek néki, és ő előtte jóillatot szerezzetek.
+2Chr.29.12 | Felkelének azért a Léviták, Máhát az Amásai fija, Jóel az Azárja fija, kik Kéhátiták valának: a Mérári fijai közzűl pedig Kis az Abdi fija, és Azária a Jéhalélel fija, és a Gersoniták közzűl Joah a Zimma fija, és Eden a Joah fija.
+2Chr.29.13 | Az Elisáfán fijai közzűl Simri és Jéhiel; az Asáf fijai közzűl Zakariás és Mattánia.
+2Chr.29.14 | A Hemán fijai közzűl is Jéhiel és Simei: A Jéduton fijai közzűl Semája és Uzziel.
+2Chr.29.15 | Öszvegyüjték az ő attyokfiait is, ki megszenteltetvén, bémenének a Király parancsolatja szerint az Úrnak dolgaira az Úr házának megtisztítására.
+2Chr.29.16 | Mert bémenvén a Papok az Úr házának belső részébe, hogy azt megtisztítanák; kihrdának belőle minden rútságot, mellyet az Úr templomában találának, az Úr házának pitvarába; honnét fogadák a Léviták, hogy kihordanák a Kedron patakába.
+2Chr.29.17 | Elkezdék pedig a megszentelést az első hónapnak első napján, és nyolczadnapon azután bémenének az Úr házának tornáczába, és megszentelék az Úr házát nyolczadnapig, úgy hogy azon első hónapnak tizenhatodik napján elvégeznék.
+2Chr.29.18 | Bémenének azért Ezékiás Királyhoz, és mondának: Megtisztítottuk mindenestől az Úr házát, az egészen égőáldozatnak oltárát is, minden hozzá tartozó edényekkel egybe, a szent asztalt is, minden szerszámaival.
+2Chr.29.19 | Minden egyéb szerszámokat is mellyeket Akház Király az ő királyságában elhagyott volt, mikor Isten ellen vétekezett volna, megkészítettünk és megszenteltünk: és ímé mind az Úr oltára előtt vagynak.
+2Chr.29.20 | Jó reggel azért felkele Ezékiás Király és öszvegyüjté a városbeli Fejedelmeket, és felméne az Úr házába.
+2Chr.29.21 | És vivének fel hét tulkot és hét kost, hét bárányt és hét kecskebakot a bűnért való áldozatra az országért, a szent hajlékért, és Júdáért; és megparancsolá az Áron fijainak a Papoknak, hogy megáldoznák az Úr oltárán.
+2Chr.29.22 | Megölék azért a tukokt, és a Papok azoknak véreket vévén, elhinték az oltárra; hasonlatosképen megölvén a kosokat, elhinték azoknak véreket az oltárra; a bárányokat is megölvén, azoknak is véreket az oltárra hinték.
+2Chr.29.23 | Utólszor előhozák a bűnért való kecskebakokat is a Király előtt és a Gyülekezet előtt, és kezeket rájok tevék.
+2Chr.29.24 | Minekutánna a Papok azokat megölték volna, megtisztíták azoknak vérekkel az oltárt az egész Izráelnek megtisztulására: mert mind az egész Izráelért parancsolta vala a Király, hogy lenne az egészen megégetendő áldozat, és a bűnért való áldozat.
+2Chr.29.25 | És hagyá a Lévitákat az Úr házában czimbalmokkal, náblumokkal és hegedűkkel, Dávidnak és Gádnak a Király Prófétájának, és Nátán Prófétának parancsolatjok szerint; mert ez az Úrtól volt megmondatva az ő Prófétái által.
+2Chr.29.26 | Előállának azért azok a Léviták a Dávid zengő szerszámaival; a Papok is a trombitákkal.
+2Chr.29.27 | És megparancsolá Ezékiás, hogy egészen égőáldozatot áldoznának az oltáron. Mikor pedig az áldozat elkezdeték: az Úrnak trombitákkal való éneklése is akkor kezdeték bizonyos énekekkel, és Dávidnak az Izráel Királyának szerszámaival.
+2Chr.29.28 | Azonközbe az egész Gyülekezet imádkohzik vala, mikor az énekesek énekelnének, és a torombitások trombitálnának mind addig, míg az egészen égőáldozat elvégeztetnék.
+2Chr.29.29 | És immár hogy elvégezték volna az áldozatokat; a Király és mindnyájan a vele valók leborúlván arczal, imádkozának.
+2Chr.29.30 | És megparancsolá Ezékiás Király és a Fejedelmek a Lévitáknak, hogy az Urat dícsérnék a Dávid és az Asáf Próféta dícséreteivel: kik mikor nagy örömmel dícsérték volna az Urat, meghajtván magokat, imádák az Istent.
+2Chr.29.31 | Azután szóla és monda Ezékiás: Immár a ti szogálatotokat az Úrnak szenteltétek, azért immár jöjjetek elő, és hozzatok áldozatokat és háláadásnak áldozatit az Úr házába. Azért az egész Gyülekezet hoza bűnért való áldozatokat, és háláadásnak áldozatit, és kiki az ő akaratja szerint egészen égőáldozatokat.
+2Chr.29.32 | És az áldozatra való barmoknak számok, mellyeket a Gyülekezet hozott vala, e volt: hetven tulok, száz kos, kétszáz bárány. Mind ezek az Úrnak egészen megégetendő áldozatjára valók voltak.
+2Chr.29.33 | Egyéb áldozatra szenteltetett barmoknak számok ez: Hatszáz tulok, háromezer juh.
+2Chr.29.34 | De mivelhogy a Papok kevesen valának, és nem valának elégségesek az áldozatra való minden állatoknak elszerzésére: annakokáért az ő attyokfiai a Léviták segélléneknékik mind addig, míg azt a munkát elvégeznék, és míg a több Papok magokat megszentelnék; mert a Lévitáknak szívek tisztább vala a magok megszentelésére, hogynem mint a Papoknak.
+2Chr.29.35 | Ennekfelette az egészen égőáldozatok bőséggel voltak a háláadásra való áldozatoknak kövérivel egybe, és az egészen égőáldozatnak italiáldozatival. És e képen helyére állaták az Úr házának szolgálatját.
+2Chr.29.36 | Örvendeze azért felette igen Ezékiás, és ő vele mind az egész Gyülekezet, hogy az Isten tiszteletét helyére állatta volna; mert igen hirtelen lőn e dolog.
+
+2Chr.30.1 | Elkülde pedig Ezékiás az egész Izráel népéhez és Júdához: Efraimnak és Manassénak íra leveleket is, hogy jönnének el az Úr házához Jérusálembe, hogy az Izráel Urának Istenének a húsvétibárányt megkészitenék.
+2Chr.30.2 | A Király pedig és a Fejedelmek tanáfsot tatának a Jérusálembeli egész Gyülekezettel egye, hogy a Húsvétnak Innepét a második hónapban szentelnék meg:
+2Chr.30.3 | Mert azt mikor semmiképen véghez nem vihették, mivelhogy a Papok kevesen szentetettek volna meg, a nép is nem gyült volna fel Jérusálembe.
+2Chr.30.4 | És e végzés igen tetszék mind a Királynak, mind az egész Gyülekezetnek.
+2Chr.30.5 | És ezt végezék, hogy megkiáltanák egész Izráelben Beersebától fogva mind Dánig, hogy az Izráel Urának Istenének Húsvétinnepe megszentelésére eljőnének Jérusálembe, mert sok időtől fogva nem szentelték volna meg a szerint, a mint a törvényben meg volt írva.
+2Chr.30.6 | Elmenének azért a posták a Király levelével és a Fejedelmekével, az egész Izráelnek és Júdának földökre, és a Király parancsolatjából ezt mondják vala: Izráelnek fijai! térjetek meg Ábrahámnak, Izsáknak és Izráelnek Urához Istenéhez, ő is megtér hozzátok, kik megmaradtatok az Assiriabeli Királyoknak kezektől.
+2Chr.30.7 | Ne is legyetek ollyanok, mint a ti atyáitok és atyátokfiai, kik vétkeztek volt az ő attyaiknak Ura Istene ellen és elpusztította őket, a mint magatok is látjátok.
+2Chr.30.8 | Most meg ne keményítsétek nyakaitokat mint a ti atyáitok; adjátok az Úrnak kezeteket, és bémenvén az ő Szenthelyébe, mellyet megszentelt örökké, szolgáljatok a ti Uratoknak Istenteknek, és elfodul rólatok haragja;
+2Chr.30.9 | Mert hogyha ti megtéréndetek az Úrhoz; a ti atyátokfiai és fijaitok kétség nélkűl kedvet találnak azoknál, a kik őket fogva elvitték, hogy ez ő földökre megtérjenek; mert igen irgalmas és kegyelmes a ti Uratok Istentek, el sem fordítja orczáját tőletek, ha ő hozzá megtéréndetek.
+2Chr.30.10 | Mikor pedig a posták városról városra mennének az Efraim és a Manasse földén mind Zebulonig, nevetik és csúfolják vala őket:
+2Chr.30.11 | Mindazáltal némellyek az Áser Manasé és a Zebulon nemzetségéből megalázák magokat, és eljövének Jérusálembe.
+2Chr.30.12 | Júdában is ezt cselekedé az Istennek keze, adván beléjek egy akaratot, hogy engednének a Király parancsolatjának és a Fejedelmekéne, az Úr beszéde szerint.
+2Chr.30.13 | Sok nép gyüle azért Jérusálembe, hogy a kovásztalan kenyereknek Innepét megszentelnék a második hónapban, gyüle mondom sok nép reá.
+2Chr.30.14 | Felkelének pedig és elronták az oltárokat, mellyek valának Jérusálemben, és minden temjénező oltárokat elrontának és a Kedron patakába hányának.
+2Chr.30.15 | Azután megáldozák a húsvétibárányt a második hónap tieznnegyedik napján. Minekutánna pedig a több Papok és Léviták megpirulván, magokat megszentelték volna; egészen égőáldozattal áldozának az Úr házában;
+2Chr.30.16 | És kiki mind álla az ő helyére az ő szokások szerint, és Mózesnek az Isten emberének törvénye szerint, és a Papok a Léviták kezekből elvevén a vért elhintik vala azt.
+2Chr.30.17 | Mivelhogy pedig nagy sokan valának a Gyülekezetben, kik magokat meg nem szentelték vala; azokáért a Léviták forgolódnak vala a húsvétibárányoknak megölésekben, minden tisztátalanért, hogy azokat megszentelnék az Úrnak;
+2Chr.30.18 | Mert nagy része a népnek, sokan az Efraimból, Manasséból, Issakhárból és Zebulonból magokat meg nem szentelték volt, mikor megennék a húsvétibárányt, nem a szerint, a mint meg volt írattatva: de könyörge Ezékiás a sokaságért mondván: A kegyes Úr tisztítsa meg azt;
+2Chr.30.19 | Valaki az ő szívét készítette az Úr Istennek az ő attyainak Istenének megkeresésére: ha szintén nem volna is megtisztíttatva a mint a szent tisztaság kívánná.
+2Chr.30.20 | Meghallgatá pedig az Úr Ezékiást, és a népnek megkegyelmeze.
+2Chr.30.21 | Megszentelék azért az Izráel fijai, kik Jérusálemben találtatának a kovásztalan kenyereknek Innepét hét napig nagy örömmel, és dícsérik vala az Urat minden napon a Léviták és a Papok, az Úr erejét éneklőszerszámokkal.
+2Chr.30.22 | És szóla Ezékiás szívek szerint minden Lévitáknak, kik tudósok és jó szívvel valának az Úrhoz: Annakokáért evének az Innepen hét napon, áldozván háláadó-áldozatokkal, és dícsérvén az ő attyaiknak Urát Istenét.
+2Chr.30.23 | Tanácsot tarta pedig az egész Gyülekezet, hogy mégis hetednapig szentelné az Innepet; és hét napot szentelének nagy vígassággal;
+2Chr.30.24 | Mert Ezékiás a Júda Királya ada a Gyülekezetnek ezer tulkot, és hétezer juhot, a Fejedelmek is adának a Gyülekezetnek ezer tulkot, és tízezer juhot: a Papok is pedig immár nagy sokan magokat megszentelték vala.
+2Chr.30.25 | Nagy örömben vala azért az egész Júda Gyülekezete, a Papok és a Léviták és azoknak egész Gyülekezete, a kik Izráelből oda mentek vala, mind az idegenek, kik az Izráel földéről jöttek vala, mind a Júdában lakozók.
+2Chr.30.26 | És volt nagy vígasság Jérusálemben: Mert a Dávid Izráel Királya fijának Salamonnak idejétől fogva nem volt ehez hasonló Innep Jérusálemben.
+2Chr.30.27 | Ezekután felállának a Papok és a Léviták, és megáldák a Gyülekezetet: és meghallgattaték az ő szavok, és felhata az ő könyörgések mennybe az Isten szentséges lakhelyébe.
+
+2Chr.31.1 | Mikor pedig immár elvégezték volna ezeket: kiméne mind az egész Izráel népe, a ki találtathaték Júdának városaiban, és eltörék a bálványokat és a berkeket kivágák: és elronták a kápolnákat és az oltárokat egész Júdából, Benjáminból, Efraimból és Manasséból, míg mind elvéteznék: azután visszatérének az Izráel minden fijai, kiki az ő örökségébe és városaiba.
+2Chr.31.2 | Továbbá Ezékiás a Papokat és a Lévitákat elrendelé az ő oszlások szerint, kit-kit mind az ő szolgálatja szerint, a Papokat és a Lévitákat a tüzes áldozatokra, és a háláadó-áldozatokra, hogy szolgálnának és hálákat adnának, és dícsérnék az Istent az Úr táborának kapuiban.
+2Chr.31.3 | A Király részét is elrendelé, hogy ő sajátjából adna a tüzes áldozatokra, min reggeli, mind estvéli tüzes áldozatokra, a szombatnapoknak, a hónapok első napjainak, az Innepeknek tüzes áldozatira, a mint meg volna írattatva az Úr törvényében.
+2Chr.31.4 | Meghagyá a népeknek is, a Jérusálemben lakozóknak, hogy megadnák a Papoknak és a Lévitáknak részeket, hogy az Úr törvényének véghezvitelében serényebbek lennének.
+2Chr.31.5 | Melly dolognak híre mikor elment volna: az Izráel fijai, a búzának, a bornak és olajnak, a méznek és minden mezei vetésnek zsengéjét bőséggel megadák: és mindenből a tizedeet nagy bőséggel meghozák.
+2Chr.31.6 | Az Izráel fijai is és a Júda fijai, kik lakoznak vala a Júda városaiban, ők is elhozák a barmokból és juhokból a tizedet: és a szent tizedeket is, mellyek az ő Uroknak Isteneknek szenteltettek vala; és asztagokba rakák.
+2Chr.31.7 | A harmadik hónapban kezdék az asztagokat rakni, és a hetedik hónapban végezék el.
+2Chr.31.8 | Oda menvén pedig Ezékiás és a Fejedelmek, láták az asztagokat: és áldák az Urat, és az ő népét az Izráelt.
+2Chr.31.9 | Megkérdé pedig Ezékiás a Papokat és a Lévitákat az asztagok felől.
+2Chr.31.10 | Kinek felelvén Azáriás a Főpap, a Sádók nemzetségéből való, monda: Miolta az Úr házába kezdék az ajándékokat hozni: eleget ettünk, meg is maradt sok benne; mert az Úr megáldotta az ő népét, és a megmaradt sokaságot is.
+2Chr.31.11 | Meghagyá pedig Ezékiás, hogy az Úr házában csinálnának tárházakat; és megcsinálák.
+2Chr.31.12 | Béhordák azért a zsengéket, a tizedeket, az Istennek szenteltetteket is nagy hívséggel, és vala ezeknek gondviselője Konáni Lévita, és második, ennek attyafia, Simei.
+2Chr.31.13 | Jéhiel pedig és Azáriás, Náhát, Asáel, Jérimot, Józabá, Eliel, Ismákia, Máhát és Benája, gondviselők valának. Konániának és ennek attyafiának Simeinek birodalma altt, az Ezékiás Király parancsolatjából és Azáriáséból, ki az Isten házának főgondviselője vala.
+2Chr.31.14 | Kóré Lévita pedig a Jemma fija, ki ajtónálló vala napkelet felől, gondviselője vala az Istennek szabad akarat szerint való ajándékinak, hogy osztogatná az Úrnak ajándékit, és a szentséges állatokat.
+2Chr.31.15 | Ő mellette valának pedig ezek: Eden, Minjámin, Jésua, Semája, Amária, és Sekánia a Papok városaiban, nagy hívséggel; hogy az ő attyokfiainak oszlások szerint, mind nagynak, mind kicsinynek egyaránt sáfárkodnának.
+2Chr.31.16 | (Az ő nemzetségekben való férjfiú magzatokon kivűl, kik volnának három ezstendősök és nagyobbak) mindennek, valaki az Úr házába bémegyen vala a nappali szolgálatra, az ő szolgálatjok, rendtartások, és oszlások szerint.
+2Chr.31.17 | Hogy sáfárkodnának, mondom, a Papi nemzetségnek az ő attyaiknak házok szerint; a Lévitáknak is, a kik húsz esztendősök és fellebb valók volnának, az ő rendtartások és oszlások szerint.
+2Chr.31.18 | És ezeknek nemzetségeknek, minden apró magzatjaiknak, feleségeiknek, fijaiknak és leányaiknak és az egész gyülekezetnek, minekutánna a szent állatokról való gondviselés tisztibe szentelték volna magokat.
+2Chr.31.19 | Az Áron fijainak is, és a Papoknak az ő városaikhoz tartozó hostátokban, minden városban valának bizonyos nevű emberek, hogy anának minden férjfiú magnak részt kik a Papok közzűl volnának, azonképen a Lévitáknak is egész nemzetségeknek.
+2Chr.31.20 | És így cselekedék Ezékiás egész Júdában: A mi jó, igaz és állandó vala az ő Ura Istene előtt, azt míveli vala.
+2Chr.31.21 | Az Úr háza szolgálatjának minden dolgában pedig, mellyet elkezdett vala, a törvényben és parancsolatokban keresi vala az ő Istenét; és mivelhogy tiszta szívéből míveli vala azt, annakokáért jó szerencsés volt.
+
+2Chr.32.1 | Ezekután, és ennek elvégezések után eljöve Sénakhérib az Assiriabeli Király, és béméne Júdába, és megszállá az erős városokat; és elgondolá hogy azokat letöretné, és magához foglalná.
+2Chr.32.2 | Mikor pedig Ezékiás meglátta volna, hogy Sénakhérib eljött volna, és Jérusálemet meg akarná szállani;
+2Chr.32.3 | Tanácsot tarta az ő Fejedelmeivel, és Főembereivel, hogy a városon kivűl való forrásokat bétöltenék; és segítséggel lőnnek néki e dologban;
+2Chr.32.4 | Mert öszvegyülvén a sokaság, bédugának minden kútfejet, és az országnak közepén folyó patakot, mondván: Mivelhogy az Assiriai Királyok reánk jőnek, ne talljanak bő vizet.
+2Chr.32.5 | És megerősödvén, megépíté a városnak leromlott egész kerítését, mellyen rakata tornyokat, kivűl pedig más kőfalat is, a Millót is, a Dávid városában megerősíté: ennekfelette szerze sok fegyvert és sok paizst.
+2Chr.32.6 | Hadnagyokat is válogat a ahadakozó nép közibe; és gyüjté őket magháoz a város kapujának utczájára, és szóla nékik szívek szerint, e képen:
+2Chr.32.7 | Erősek legyetek és bátorságosok, semmit se féljetek, meg se rettenjetek az Assiriai Királytól, és a vele való egész sokaságtól; mert velünk többen vagynak, hogynem ő vele.
+2Chr.32.8 | Ő vele testi erősség vagyon: velünk pedig a mi Urunk Istenünk, hogy megsegéljen minket és érettünk hadakozzék. És megbátorodék a nép, ezt hallván Ezékiástól a Júda Királyától.
+2Chr.32.9 | Ezekután elküldé szolgáit Sénakhérib az Assiriai Király Jérusálembe, (ő pedig vala akkor Lákisnak ellenében minden hadával) Ezékiáshoz a Júda Királyához, és az egész Júdához, melly vala Jérusálemben, mondván:
+2Chr.32.10 | Ezt mondja Sénakhérib az Assiriai Király: Kihez biztok, hogy Jérusálemben maradtok a megszállásnak idején?
+2Chr.32.11 | Avagy nem Ezékiás áltatott é el titeket, hogy titeket éhséggel és szomjúsággal megöljön? mondván: A mi Urunk Istenünk megszabadít minket az Assiriabeli Király kezéből!
+2Chr.32.12 | Avagy nem Ezékiás vesztette é el az ő magasságbeli otárait? és meghagyta Júdának és a Jérusálem népének, ezt mondván: Csak egy oltár előtt imádkozzatok, és csak azon temjénezzetek.
+2Chr.32.13 | A vagy nem tudjátok é, mit míveltem mind én s mind az én atyáim e földnek minden népeivel? Valyon e föld pogányainak isteneik megszabadíthatták é az én kezemből az ő földöket?
+2Chr.32.14 | És vallyon mellyik volt a pogányonak istenei közzűl, mellyeket az én Eleim elvesztettek, a ki az én kezemből az ő népét megszabadíthatta volna, hogy a ti Istenetek is, az én kezemből titeket megzabadíthatna?
+2Chr.32.15 | Most azért Ezékiás titeket el ne hittessen; és nem csalogasson titeket e féle dologgal, ne hidjetek néki; mert ha semmi népnek és országnak Istene az ő népét az én kezemből és az én atyáim kezekből ki nem szabadíthatta; sokkal inkább a ti isteneitek meg nem szabadíthatnak titeket az én kezemből!
+2Chr.32.16 | Ennekfelette is az ő szolgái sokat szólának az Úr Isten ellen, és Ezékiás ellen, az ő szolgája ellen.
+2Chr.32.17 | Levelet is íra, az Izráelnek Urát Istenét káromlással illetvén, és szolván ellene illyen módon: A mint e földön lakozó népeknek istenei meg nem szabadíthatták az ő népeket az én kezemből; e képen az Ezékiás Istene az ő népét kezemből ki nem szabadíthatja.
+2Chr.32.18 | Kiáltnak vala pedig nagy felszóval Zsidó nyelven Jérusálem népe ellen, melly vala a kerítésen, hogy őket megrettentenék és megháborítanák, hogy a várost megvennék.
+2Chr.32.19 | És úgy szólának a Jérusálem Istene ellen, mint e földön való Pogányoknak isteneik felől, mellyek emberi kézzel csináltattak.
+2Chr.32.20 | Akkor Ezékiás Király könyörge, és ő vele Ésaiás Próféta az Ámos fija e káromlásért, és felkiáltának az égre.
+2Chr.32.21 | És elbocsátá az Úr az ő Angyalát, ki megöle minden erőseket, a Hadnagyot és a Fejedelmet az Assiriai Király táborában, és nagy szégyennel megtére az ő földébe. Bémenvén pedig az ő Istene kápolnájába, ugyan ott az ő saját fijai fegyverrel ölék meg őtet.
+2Chr.32.22 | Megszabadítá azért az Úr Ezékiást és a Jérusálem népét Sénakhéribtől az Assiriai Királytól, és mind a több ellenségtől; és elvivé azokat, a kik őtet megkörnyékezték vala.
+2Chr.32.23 | És sokan ajándékokat hoznak vala Jérusálembe az Úrnak, Ezékiásnak is a Júda Királyának drága szép ajándékokat; és az ő hire-neve naggyá lőn minden Pogányok szemei előtt azután.
+2Chr.32.24 | Az időben Ezékiás esék, halálos betegségbe; és könyörge az Úrnak, ki néki szólván, csudát ada néki.
+2Chr.32.25 | De nem cselekedék Ezékiás az ő hozzá való jótétemény szerint; mert magában felfuvalkodék, mellyért Istennek is lőn haragja ő rajta, Júdán, és Jérusálemen.
+2Chr.32.26 | Megalázá pedig magát Ezékiás, az ő kevélységét elhagyván, a Jérusálemiekkel egybe: és míg éle Ezékiás, az Úr haragja rájok nem szálla.
+2Chr.32.27 | Mert vala Ezékiásnak nagy gazdagsága és dicsősége; mert sok kincset gyüjtött vala magának; ezüstöt, aranyat, drágaköveket, és drágafűszerszámokat, paizsokat, és mindenféle drága s kivánatos szerszámokat.
+2Chr.32.28 | Országa jövedelmének, tudniillik, gabonának, bornak, olajnak, tárházakat és mindenféle baromnak istállókat szép renddel szerzett vala.
+2Chr.32.29 | Városokat is építe magának és mindenféle barmoknak sokaságát szerze: mert az Isten néki igen nagy gazdagságot adott vala.
+2Chr.32.30 | Ennekfelette Ezékiás dugá bé a Gihon folyásának felző fejét, és elfordítá azt a föld alatt a Dávid városának napnyugot felől való része felé; és minden dolgában igen szerencsés vala Ezékiás;
+2Chr.32.31 | De mivelhogy a Babilóniabeli Fejedelmek követeivel megbarátkozék, kik ő hozzá küldettek vala, hogy hadakoznának a csudáról, melly lett vala a földön; Isten őtet elhagyta vala, hogy megkisétené őtet, és meglátná, mi volna az ő szívében.
+2Chr.32.32 | Ezékiásnak pedig több lett dolgai és jótéteményei ímé meg vagynak írva az Ésaiás Prófétának, az Ámós fijának látásában, és a Júda az Izráel Királyainak könyvökben.
+2Chr.32.33 | Meghala pedig Ezékiás az ő attyaival, és eltemeték őtet a Dávid fijainak koporsóikon felűl, és mind az egész Júda és Jérusálem nagy tisztességet tőnnek néki az ő halálának idején; és uralkodék Manassse, az ő fija helyette.
+
+2Chr.33.1 | Tizenkét esztendős vala Manasse, mikor uralkodni kezdett volt, és ötvenöt esztendeig uralkodott Jérusálemben.
+2Chr.33.2 | Fselekedék pedig gonoszúl az Úr szemei előtt a Pogányoknak utálatosságok szerint, kiket az Úr az Izráel fijai elől kiüzött vala.
+2Chr.33.3 | Mert a magas oltárokat ismét megépíté, mellyeket Ezékiás az ő attya az előtt elrontott vala; és oltárokat emele a bálványoknak, berkeket is plántála, és tisztelé az égnek minden seregeit, és szolgála azoknak.
+2Chr.33.4 | Oltárokat raka az Úr házában is, mellyről az Úr mondotta vala: Jérusálemben lészen az én nevem örökké.
+2Chr.33.5 | Rakata, mondom, oltárokat az égnek minden seregeinek, az Úr házának mindkét pitvariban.
+2Chr.33.6 | Fijait is átvitte a tűzön a Hinnom fijának völgyénbe: és az időnek forgásához hallgat vala, jövendőmondásokkal, varázslásokkal, és szemfényvesztésekkel él vala, ördöngösöket és jövendőmondókat szerzett vala magának: Sok egyéb gonoszságnak is találója vala az Úr szemei előtt, hogy őtet haragra felindítaná.
+2Chr.33.7 | A faragott bálványt, mellyet csináltatott vala, felemelé az Úr házában, mellyrőlmondott vala Isten Dávidnak, és az ő fijának Salamonnak: E házban és Jérusálemben, mellyet választottam az Izráelnek minden nemzetségei közzűl, helyheztetem az én nevemet mind örökké;
+2Chr.33.8 | És nem üzöm ki az Izráelt e földről, mellyet adtam volt a ti atyáitoknak; de így, ha ők is mind megtartándjátok, a mellyeket nékik Mózes által parancsoltam, minden törvényemet, czeremóniáimat és ítéletimet.
+2Chr.33.9 | Nagy botránkozással lőn azért Manasse Júdának és Jérusálemnek, több gnsozságot cselekedvén a Pogányoknál, kiket az Úr kigyomlált vala az Izráel fijai elől.
+2Chr.33.10 | És noha megszólította vala az Úr Manassét, és az ő népét; de hallani sem akarák.
+2Chr.33.11 | Rájok hozá azért az Úr az Assiriabeli Király seregének Hadnagyait, kik Manassét megfogák, és vasba vervén, megkötözék őtet két lánczczal, és Babilóniába vivék.
+2Chr.33.12 | Mikor pedig volna nagy erős fogságban: az ő Urához Istenéhez felfohászkodék, és magát igen megalázá az ő attyainak Istene előtt.
+2Chr.33.13 | És könyörge néki: és megkegyelmeze néki, ésmeghallgatván könyörgését, meghozá őket Jérusálembe az ő országába. Akkor esmére meg Manasse, hogy az Úr volna az igaz Isten.
+2Chr.33.14 | Ezekután a Dávid városa kivűl való kerítést megépíté, Gihonnak napnyugot felől való része felé, a pataktól fogva a halkupa bémeneteléig, Ofelt is körűlvéteté magas kerítéssel és vete seregek hadnagyait Júdnak minden erős városaiba.
+2Chr.33.15 | És elrontván az idegen isteneket és a bálványt az Úr házából, és minden oltárokat, mellyeket rakatott vala az Úr házának hegyén, és Jérusálemben: kihányatá azokat a városon kivűl.
+2Chr.33.16 | Megépíté pedig az Úr oltárát, és áldozék rajta engesztelő és háláadó-áldozatokkal, és megparancsolá a Júdának hogy szolgálnának az Izráel Urának Istenének.
+2Chr.33.17 | Mindazáltalmég akor a nép áldozik vala a magasságokon: de csak az ő Urának Istenének.
+2Chr.33.18 | Manassénak pedig több lett dolgai, Istenéhez való könyörgése: a Prófétáknak is intések, kik szólnak vala néki az Izráel Urának Istenének képében, ímé, meg vagynak íratva az Izráel Királyainak históriái között.
+2Chr.33.19 | Az ő könyörgése pedig, és az Isten mint kegyelmezett volt meg néki és minden bűne és az ő nagy vétke; és a helyek, mellyekben magas oltárokat rakott volt, berkeket és báványokat állatott volt, minekelőtte megalázta volna magát: ímé meg vagynak íratva a Hózai beszédei között.
+2Chr.33.20 | És meghala Manasse az ő attyaival és eltemeték őtet az ő házában: és uralkodék Amon az ő fija helyette.
+2Chr.33.21 | Huszonkét esztendős vala Amon, mikor uralkodni kezdett vala: és két esztendeig uralkodék vala Jérusálemben.
+2Chr.33.22 | És cselekedék nagy bűnt az Úr előtt mint szintén az ő attya Manasse cselekedett vala: mert minden bálványoknak, mellyeket az ő attya Manasse szerzett vala, áldozik vala Amon, és azoknak szolgál vala.
+2Chr.33.23 | Meg sem alázá magát az Úr előtt mint az ő attya Manasse, hanem inkább neveli vala Amn a bűnt.
+2Chr.33.24 | Pártot ütének pedig aző szolgái ő ellene, és őtet ugyan házában megölék.
+2Chr.33.25 | A földnek pedig népe levágá mind azokat, a kik Amon Király ellen támadtak vala, és Királlyá tevé a földnek népe Jósiást az ő fiját helyette.
+
+2Chr.34.1 | Nyolcz esztendős vala Jósiás, mikor uralkodni kezdett volt, és uralkodott harminczegy esztendeig Jérusálemben.
+2Chr.34.2 | És cselekedék jó dolgot az Úr előtt, s jára az ő attyának Dávidnak útain, nem hajol vala sem jobbkéz felé sem balkéz felé:
+2Chr.34.3 | Mert az ő királyságának nyolczadik esztendejében, mikor még gyermek volna, kezdé keresni aző attyának Dávidnak Istenét: tizenkettődik esztendejében pedig a Júdát és Jérusálemet kezdé megtisztítani a magas oltároktól és berkektől, a bálványoktól és öntött képektől.
+2Chr.34.4 | Leronták ő előtte a Baálimok oltárait is, és azokon való faképeket lehányatá: a berkeket is mind a bálványokkal és öntött képekkel egyetembe öszverontatá és apróra töreté, és elhinteté azoknak porát azonak temetőhelyeken, a kik az előtt azoknak áldoztak vala.
+2Chr.34.5 | A Papok csontjai is megégeté azoknak oltárain és megtisztítá a Júdát és Jérusálemet.
+2Chr.34.6 | Manassénak, Elfraimnak és Simeonnak városaiban is, mind Nafthaliig, köröskörűl mindeneket elronta.
+2Chr.34.7 | Lehányatá azért az oltárokat, a berkeket, és a bálványokat öszverontván, mind porrá téteté, és minden faképeket kiveszte Izráelnek minden földéből, azután megtére Jérusálembe.
+2Chr.34.8 | Királyságának pedig tizennyolczadik esztendejében, minekutánna a földet és a házat megtisztítá: elküldé Sáfánt az Asália fiját, és Maaséját a város Fejedelmét, és Joát a Joákház fiját a Kanczelláriust az ő Ura Istene házának megépítésére.
+2Chr.34.9 | Kik Hilkiáshoz a Főpaphoz menvén, az Isten házában való pénzt, mellyet gyűjtöttek vala a Manasse, Efraim és a megmaradott egész Izráel fijaitól, az egész Júdától, és Benjámintól: kézhez adák az ajtónálló Léviták, mikor megtértek Jérusálembe.
+2Chr.34.10 | Adák, mondom, a pénzt a mivesekhez látóknak kezekbe, kik az Úr házának gondviselői valának, és abból fizetnek vala a miveseknek a gondviselők, azoknak, a kik munkálkodnak vala az Úrnak házán, hogy annak romlását megépítenék, és megerősítenék a házat.
+2Chr.34.11 | És adának pénzt az ácsoknak és a kőmiveseknek, hogy vennének faragott köveket, és foglalni való fákat és gerendáknak valókat a házaknak megépítésére, mellyeket elrontottak vala a Júda Királyai.
+2Chr.34.12 | Kik nagy hívséggel mivelnek vala az ő dolgokban, kiken pallérkodnak vala, Jáhát és Obádia Léviták, a Mérári fijai közzűl valók: és Zakairás, Mésullám a Kéhátiták fijai közzűl valók, kik szorgalmaztatják vala őket. E Léviták közzűl pedig mindenik az éneklő szerszámokhoz jól tud vala.
+2Chr.34.13 | A teherhordozókon pedig (mert kénszerítők valának a miveseken mindenféle dolgoban) pallérkodnak vala a Léviták közzűl rendelt Íródeákok, igazgatók, és ajtónállók.
+2Chr.34.14 | Továbbá mikor kihoznák az Úr házába bégyüjtött pénzt: Megtalálá Hilkia pap az Úr törvény könyvét, mellyet Mózes által kiadott volt.
+2Chr.34.15 | Szóla pedig Hilkia, és monda Sáfánnak az Íródeáknak: A törvénykönyvet megtalálám az Úr házában. És adá Hilkia a könyvet Sáfánnak.
+2Chr.34.16 | Vivé pedig Sáfán a könyvet a Királynak, a dolgot is megbeszélé néki, mondván: Valamit bíztál a te szolgáidra, abban híven eljárnak;
+2Chr.34.17 | Mert az Úr házában talltatott pénzt egybetakarítván, adák azt a palléroknak és a míveseknek kezekbe.
+2Chr.34.18 | Megjelenté annakfelette Sáfán Íródeák a Királynak mondván: Hilkia Pap nékem egy könyvet ada: és elolvasa benne Sáfán a Király előtt.
+2Chr.34.19 | Mikor pedig a Király hallotta volna a törvénynek beszédit: ruháit meghasogatá.
+2Chr.34.20 | És parancsola a Király Hilkia Papnak, és Ahikámnak a Sáfán fijának, Abdonnak a Mika fijának, és az Íródeáknak Sáfánnak, és Asájának a Király szolgájának, mondván:
+2Chr.34.21 | Menjetek el, és kérdjétek meg az urat én képemben, és az Izráelnek és a Júdának maraékai képében, e megtaláltatott könyvnek beszédei felől: mert az Úrnak nagy haragja vagyon, a melly mi reánk szállott, azért hogy a mi atyáink nem tartották meg a Úrnak beszédét, hogy mind a szerint cselekedtek volna, a mint e könyvben meg volt iratva.
+2Chr.34.22 | Elméne azér Hilkia és a Király embere Húlda Prófétaasszonyhoz a Sallum feleségéhez, ki Thókéhát fija vala, ki Hasrának a ruhák gondviselőjének fija vala: (ez asszony pedig lakik vala Jérusálemben a másodrészen) és úgy szólának néki.
+2Chr.34.23 | Ki monda nékik: Így szól az Izráel Ura Istene: Mondjátok meg a férjfiúnak, a ki titeket hozzám küldött.
+2Chr.34.24 | Ezt mondja az Úr: Ímé én veszedelmet hozok e helyre, és a rajta lakozókra, azaz, mind az átkokat, mellyek meg vagynak iratva a könyvben, mellyet olvastak a Júda Királya előtt:
+2Chr.34.25 | Mivelhogy elhagytak engemet, és az idegen isteneknek temjéneztek hogy engemet felgerjesztenének haragra, az ő kezeiknek minden cselekedeti által: mellyért az én haragom gerjedett ez helyre, és el sem oltatik.
+2Chr.34.26 | A Júda Királyának pedig, ki titeket küldött, hogy az Urat megkérdjétek, így szóljatok: Így szól az Izráelnek Ura Istene: E beszédekre, mellyeket hallottál:
+2Chr.34.27 | Mivelhogy a te szíved meglágyula, és magadat megalázád az Isten előtt, mikor hallád az ő beszédeit e helye ellen és ennek lakosia ellen;mivelhogy, mondom, magadat megalázád előttem, és ruháidat meghasogatád, sírál is előttem: én is téged meghallgattalak, ezt mondja az Úr.
+2Chr.34.28 | Ímé én téged e te atyáid közzé takarítlak, és tételetel a te koporsódba békességben, és nem látják a te szemeid a veszedelmet, mellyet én hozok ez helyre, és ennek lakóira. Kik ezt e szerint a Királynak megbeszélék.
+2Chr.34.29 | Akkor a Király elküldé, és öszvegyüjteté a Júdának és Jérusálemnek minden Véneit.
+2Chr.34.30 | És felméne a Király az Úr házába, és ő vele a Júdának minden férjfiai és Jérusálemnek lakosai, tudniillik a Papok, a Léviták, és az egész község nagytól fogva kicsinyig: És elolvasá fülök hallására a Szövetség könyvének minden beszédeit, mellyet találtak vala az Úr házában.
+2Chr.34.31 | Azután felállván a Király az ő helyében, fogadást tőn az Úr előtt, hogy ő az Urat követné és hogy parancsolatit, bizonyságtételeit és szerzéseit teljes szívéből és teljes lelkéből megőrizné, cselekedvén a Szövetségnek beszédeit, mellyek megírattak abban a könyben.
+2Chr.34.32 | És felfogadtatá e dolgot minden Jérusálembeliekkel, és mind a Benjáminból valókkal: és cselekedének a Jérusálembeliek az Istennek, az ő attyaik Istenének szövesége szerint.
+2Chr.34.33 | Akkor kiveszte Jósiás mindenutálatos bálványokat, mellyek valának az Izráel fijainak minden földökben, és kénszeríte mindent, valaki találtatik vala Izráelben, hogy szolgálna az ő Urának Istenének: és az ő egész életében el nem szakadának az ő attyaiknak Urától Istenétől.
+
+2Chr.35.1 | Megszentelé annakfelette Jósiás Jérusálemben a Husvétinnepet az Úrnak: és megölék a husvétibárányt tizennegyedik napján az első hónapnak.
+2Chr.35.2 | És a Papokat elrendelé az ő helyekre őrízni; kiket igen inte, hogy az Úr házában hívséggel szolgálnának.
+2Chr.35.3 | És megparancsolá a Lévitáknak, kik az egész Izráelért az Úr előtt a szent állatokat elkészítik vala: Helyheztessétek, úgymond, azokat a szent láda eleibe a házban, mellyet készített volt Salamon a Dávid fija, az Izráel Királya: nem kell most az Isten ládáját vállatokon hordoznotok. Most azért szolgáljátok a ti Uratoknak Istenteknek, és az ő népének az Izráelnek.
+2Chr.35.4 | És készítsétek el magatokat a ti atyai cseléditek szerint: és a ti oszlástok szerint, a mint Dávid az Izráel Királya elrendelte volt, és megírta az ő fija Salamon.
+2Chr.35.5 | És szolgáljatok a szent helyben a ti atyátokfiainak, kik a nép közzűl valók, az atyai cselédeknek rendjek szerint; és a Léviták atyai házoknak oszlása szerint.
+2Chr.35.6 | És a Husvétibárányt úgy öljétek meg: és minekutánna megszentelitek magatokat, készítsétek el azt a ti atyátokfiainak, hogy az úrnak Mózes által tett beszéde szerint cselekedjetek.
+2Chr.35.7 | Ada pedig Jósiás az ő népének juhokat, bárányokat és gödölyéket, mind ezeket a húsvéti áldozatokra; mindennek valaki ott találtatik vala, szám szerint harminczezeret, és háromezer tulkokat; ezek mind a Királyéból valának.
+2Chr.35.8 | Az ő Fejedelmei is szabad akaratjokból, a községnek, a Papoknak és a Lévitáknak adakozának: Hilkia, Zakariás és Jéhiel az Isten házának Fejedelmei adának a Papoknak a Húsvétáldozatira kétezer és hatszáz juhokat, és háromszáz tulkokat.
+2Chr.35.9 | Konánia pedig és Semája, és Nétanéel az ő attyafiai, Hasábia, Jéhiel és Józabád a Léviták Fejedelmei, adának a Lévitáknak a Húsvét áldozatira ötezer juhokat és ötszáz tulkokat.
+2Chr.35.10 | Elkészítvén azért mindeneket, a Papok állának az ő helyekre, a Léviták is az ő oszlások szerint, a Király parancsolatja szerint.
+2Chr.35.11 | Megölék azért a husvétibárányt: a Papok a Léviták kezéből vévén a vérét; elhintik vala azt: a Léviták pedig az áldozatra valóknak vonják vala le bőröket.
+2Chr.35.12 | És külön választák az égőáldozatra valókat hogy megadnák azokat a népnek, az ő attyai cselédeknek oszlása szerint, hogy áldoznának az Úrnak, a mint a Mózes könyvében meg volna iratva; azonképen a tulkokból is elválaszták.
+2Chr.35.13 | És megsüték a husvétibárányt a szokás szerint; a megszenteltetett állatokat pedig megfőzék fazekakban, vasfazekakban és üstökben: és nagy hamarsággal adák az egész községnek.
+2Chr.35.14 | Ezekután magoknak a Papoknak is elkészíték a husvétibárányt: Mert a Papok az Áron fijai valának foglalatosok az égőáldozatoknak és a kövérségeknek áldozásában mind éjszakáig; azért a Léviták készítének vala mind magoknak s mind a Papoknak az Áron fijainak.
+2Chr.35.15 | Annakfelette az éneklők is, az Asáf fijai állanak vala az ő rendekben, Dávidnak, Asáfnak, Hémánnak, és Jédutunnak a Király Prófétájának parancsolatjok szerint: az ajtónállók is mindenik kapun; nem szabad vala onnan eltávozniok, hanem az ő attyafiai a több Léviták készítnek vala nékik.
+2Chr.35.16 | És elvégezék azon napon az Úrnak egész tiszteletit, a husvétibárányt megkészítvén, és égőáldozatokkal áldozván az Úrnak oltárán, a Jósiás Király parancsolatja szerint.
+2Chr.35.17 | Megszentelék azést az Izráel fijai, a kik jelen lehetének, a Húsvét Innepét az időben, és a kovász nélkül való kenyereknek Innepét hetednapig.
+2Chr.35.18 | És nem szenteltek ehhez hasonló Húsvétot Izráelben, a Sámuel Próféta idejétől fogva: az Izráel Királyi közzűl is, csak egy is nem szentelt hasonló Húsvétot ahoz, mellyet Jósiás szentele a Papokkal a Lévitákkal, az egész Júdának, Izráelnek és Jérusálem lakosainak jelenlétekben.
+2Chr.35.19 | Lőn pedig a Húsvétiinnepnek tisztelete a Jósiás Király birodalmának tizennyolczadik esztendejében.
+2Chr.35.20 | Mind ezekután, hogy az Isten házát Jósiás hlyreállítá; felindúla Nékó az Égyiptom Királya, hogy az Eufrátes mellett való Kárkemis várost megszállaná; kinek Jósiás eleibe méne.
+2Chr.35.21 | És noha követeket külde ő hozzá Nékó, ezt mondván: Mi közöm vagyon te hozzád nékem, Júda Királya? Mert én most nem reád megyek, hanem az én országomnak ellenségére, és Isten parancsolta, hogy siessek; ne tusakodjál az Isten ellen, ki én velem vagyon, hogy el ne veszessen téged;
+2Chr.35.22 | Mindazáltal Jósiás el nem tére ő előle, hanem hogy megütköznék vele, öltözetit megváltoztatá, és nem engede a Nékó beszédeinek, mellyek az Isten szájából származtak vala. Reáméne azért, hogy a Megiddó mezején vele megütköznék.
+2Chr.35.23 | Hol mikor az ívesek nyilakat bocsátottak volna Jósiás Királyra, monda a Király az ő szolgáinak: Vigyetek ki engem innét: mert igen megsebesedém.
+2Chr.35.24 | Levevén azért őtet az ő szolgái a szekérből, helyhezteték őtet az ő második szekerébe, és vivék Jérusálembe: és meghala, és eltemetteték az ő attyai koporsóikban, kinek halálán egész Júdának és Jérusálemnek népe igen sira.
+2Chr.35.25 | Jerémiás is siratá Jósiást, és siralmas énekkel siratják vala őtet minden éneklő férjfiakés asszonyok mind e mai napig, kiknek éneklések ímé meg vagynak íratva a Jerémiás Siralmaiban.
+2Chr.35.26 | Jósiásnak pedig több lett dolgai és kegyelmességei, a mint az Úrnak törvényében meg vagyon írva:
+2Chr.35.27 | Mind első és mind utolsó dolgai ímé meg vagynak íratva az Izráel és Júda Királyainak könyvökben.
+
+2Chr.36.1 | És előhozá a föld népe Joákházt a Jósiás fiját, és Királlyá választá őtet az attya helyett Jérusálemben.
+2Chr.36.2 | Huszonhárom esztendős vala Joákház, mikor uralkodni kezde, és három hónapig uralkodék Jérusálemben:
+2Chr.36.3 | És az Égyiptombeli Király őtet a Jérusálembeli Királyságtól megfosztá, és vete a földre adót, száz tálentom ezüstöt és egy tálentom aranyar.
+2Chr.36.4 | De a Király tevé az Égyiptombeli Király Eliákimot az ő attyafiát Júdán és Jérusálemen; és nevét elváltoztatván, nevezé őtet Joákimnak; és a Joákházt az ő attyafiát Nékó elvive Égyiptomba.
+2Chr.36.5 | Huszonöt esztendős vala Joákim, mikor uralkodni kezde, és tizenegy ezstendeig uralkodék Jérusálemben; és cselekedék gonoszságot az ő Ura Istene előtt.
+2Chr.36.6 | Felindula pedig ő ellene Nabukonodozor a Babilóniai Király, és kettős békót vete lábaira, hogy Babilóniába vinné őtet.
+2Chr.36.7 | Az Úr házában való edényekben is elvitt vala Nabukonodozor Babilóniába, és helyhezteté azokat az ő templomába, Babiloniában.
+2Chr.36.8 | Joákimnak pedig több dolgai, és utálatos cselekedetei, és a mellyek ő benne találtattak, ímé meg vagynak íratva az Izráel és Júda Királyainak könyvökben: és uralkodék helyette Joákin az ő fija.
+2Chr.36.9 | Nyolczesztendős korában kezdett uralkodni Joákim, és három hónapig és tíz napig uralkodék Jérusálemben; és cselekedék utálatos dolgot az Úr előtt.
+2Chr.36.10 | Az esztendőnek pedig forgásában elkülde Nabukonodozor Király érette, és viteté őtet Babilóniába, az Úr házabeli drágalátos edényekkel egyetemben, és választá helyette Királlyá Sédékiást az ő attyafiát, Júdában és Jérusálemben.
+2Chr.36.11 | Huszonegy esztendős korában kezde uralkodni Sédékiás, és uralkodék tizenegy esztendeig Jérusálemben.
+2Chr.36.12 | És cselekedék utálatos dolgot az ő Ura Istene előtt; és meg nem tudá magát alázni Jerémiás Próféta előtt, ki az Úr képében szól vala néki.
+2Chr.36.13 | De még Nabukonodozor Királynak is ellene támada, a ki őtet az Isten nevére megesküdtette vala, és megkeményítvén nyakát, szívét is megkeményíté, hogy az Izráelnek Urához Istenéhez meg ne térne.
+2Chr.36.14 | A Papifejedelmek is fejenként a községgel öregbíték a bűnt a pogányoknak minden utálatosságok szerint: és megfertézteték az Úr házát, mellyet megszentelt vala Jérusálemben.
+2Chr.36.15 | És mikor az ő attyaiknak Ura Istene küldene hozzájok az ő Prófétáit jó idején: mert kedvez vala az ő népének és aző lakhlyének.
+2Chr.36.16 | Azok az Isten Prófétáit csak csúfolják vala, és az ő beszédeit megútálván, azt mondják vala: hogy megcsalatnának az ő Prófétáitól; míglen az Úrnak haragja felgerjedne az ő népe ellen, melly ellen senki nem állhatna.
+2Chr.36.17 | És reájok hozá a Káldeusok Királyát, ki levágá a népnek ifjait az ő szenthajlékjoknál: nem kedveze az ifjaknak, a gyenge szűzeknek; a vén és igen koros embereknek . mind egyig kezébe adá őket.
+2Chr.36.18 | 18. Végezetre az Isten házának mindenféle edényeit, nagyokat, kicsinyeket, és az Úr házabeli kincsét, a Király kincsét, a Fejedelmek kincsét: mind ezeket Babilóniába viteté.
+2Chr.36.19 | Az Isten házát is meggyujták, Jérusálemnek is kerítéseit leronták, palotáit mind elégeték, és minden benne való drága szerszámokat elvesztenének.
+2Chr.36.20 | És a fegyvertől a kik megmaradtak vala; Babilóniába vivé, és voltak néki és az ő fijainak szolgái mind addig, míg a Persiai birodalom feltámadna.
+2Chr.36.21 | Hogy az Úr beszéde bételjesednék, melly Jerémiás által meg volt mondatva: míg a föld az ő szombatit megszentelné, és megnyugovék a föld az ő pusztaságának egész idején, hogy bételnének a hetven esztendők.
+2Chr.36.22 | A Persiai Czírus Királynak pedig első esztendejében, hogy beteljesednék az Úr beszéde, melly Jerémiás által mondatott: az Úr felindítá Czírusnak a Persiai Királynak szívét, ki meghirdetteté az ő egész birodalmában, és írásával ugyanazont bizonyítá, mondván:
+2Chr.36.23 | Ezt mondja Czírus a Persiai Király: Az Úr a mennynek Istene e földnek minden országait nékem adta, és ő megparancsolta nékem, hogy az ő házát megépítsem Jérusálemben, melly vagyon Júda földén: A ki azért az ő népe közzűl akarja építeni azt, az ő Ura Istene legyen azzal; és menjen fel hazájába.

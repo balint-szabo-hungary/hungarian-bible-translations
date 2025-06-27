@@ -1,0 +1,124 @@
+Song.1.1 | Énekek éneke, melly Salamontól szereztetett.
+Song.1.2 | Csókoljon meg engem az ő szájának csókjaival: mert a te szerelmeid jobbak a bornál.
+Song.1.3 | A te drága kenetid jók illatozásra; a te neved elterjedett, mint a drága kenet; azért szeretnek téged a leányzók.
+Song.1.4 | Vonj engemet, és te utánnad futunk! Mikor béviszen engem a Király az ő ágyasházába; örvendezünk és vígadunk te benned, előszámláljuk a te szerelmidet, mellyek jobbak a bornál: igazságot beszélnek, a kik téged szeretnek.
+Song.1.5 | Fekete vagyok, de szép vagyok Jérusálem leányai: hasonlatos vagyok a sátorban lakozó Kédárénusokhoz, de a Salamon sátroában lakozókhoz is hasonlatos vagyok.
+Song.1.6 | Ne nézzetek engem, hogy én feketeszinű vagyok, hogy a nap sütött engemet: hogy az én atyámnak fijai ellenem megharagudván, idegen szőlőknek őrizőjévé tettek engemet, hogy a magam szőlőjét nem őriztem.
+Song.1.7 | Mond meg nékem, te, kit az én lelkem szeret, hol legelteted, és hol nyugotod a te juhaidat délben: mert miért vonnám fel sátoromat a te társaidnak juhaiknál?
+Song.1.8 | Mivelhogy nem tudod, óh asszonyok között legszebb ! jöjj ki, ne kövesd annak a nyájnak nyomdokát, és örizzed a te kecskéidet a pásztoroknak sátoraik akörül.
+Song.1.9 | A Faraó szekereiben való lovakhoz hasonlítlak tégedet én Mátkám.
+Song.1.10 | Szépek a te orczáid, mintegy drágaköveknek rendivel, a te nayakad ékes aranyalánczokkal.
+Song.1.11 | Aranyékességet csinálunk tenéked, ezüstből csinált gyöngyökkel.
+Song.1.12 | Mikor a Király én mellettem ül, nárdusnak jóillatja származik ő tőle..
+Song.1.13 | Ollyan az én Szerelmesem nékem mint egy kötés mirha, melly az én kebeleim között hál.
+Song.1.14 | Mint az Engedi szőlőiben a cziprus, ollyan nékem az én szerelmesem!
+Song.1.15 | Ímé szép vagy én Mátkám, ímé szép vagy, a te szemeid ollyanok mint a galamboknak szemeik.
+Song.1.16 | Ímé te is szép vagy én Szerelmesem, és gyönyörűséges vagy és a mi nyoszolyánk zöldellő.
+Song.1.17 | A mi házainknak gerendási czédrusfákból valók, és a mi mulatóhelyeink cziprusokból.
+
+Song.2.1 | Én Sáronnak rózsája vagyok és gyöngyvirág.
+Song.2.2 | Mint a liliom a tövisek között: ollyan az én Mátkám a leányok között.
+Song.2.3 | Mint az almafa az erőnek fái közuött: Ollyan az én Szerelmesem az ifjak között. Az ő árnyékában felette igen kívánok ülni: mert az ő gyümölcse gyönyörűséges az én ínyemnek.
+Song.2.4 | Béviszen engemet a lakodalomnak helyére, és zászló helyett vagyon ő nála az én hozzám való szerelme.
+Song.2.5 | Erősítsetek engemet borral, és jóillatú almákkal tápláljatok, mert beteg vagyok a szerelem miatt.
+Song.2.6 | Az ő balkeze az én fejem alatt vagyon, és jobbkezével megölelt engemet.
+Song.2.7 | Kénszerítlek titeket, Jérusálemnek leányai, a vadkecskékre, és a mezőnek szarvasaira; fel ne költsétek és fel ne serkentsétek az én szerelmemet, a míg akarja.
+Song.2.8 | Az én Szerelmesemnek szavát hallom, ímé ő, ímhol jő, sietvén ím ez hegyeken, vígadozván ím ez halmokon!
+Song.2.9 | Hasonlatos az én Szerelmesem az őzhöz, vagy a szarvasoknak fijához, ímé ő áll a mi falunkon túl, néz az ablakokról, és mutogatja magát a rostélyokról.
+Song.2.10 | Szólván az én Szerelmesem nékem, monda: Kelj fel én Mátkám., én szépem és jöszte.
+Song.2.11 | Mert ímé a tél elmult, az eső elmult és elment.
+Song.2.12 | Szép virágok látatnak a földön, az éneklésnek ideje eljött és a gerliczének szava hallatik a mi földünkön.
+Song.2.13 | A figefa megérlelte első gyümölcsét, és a virágzó szőlők jóillatot adnak; kelj fel én Mátkám, én szépem, és jöjj hozzám!
+Song.2.14 | Én Galambom, ki lakozol ímé e kősziklának hasadékiban, és a magas kőszálnak hasadékában, mutasd meg nékem a te orczádat, hadd halljama a te szódat; mert a te szód gyönyörűséges, és a te tekintetes ékes!
+Song.2.15 | Fogjátok meg nekünk a rókákat, a rókafijakat, kik a szőlőket elpusztítják; mert a mi szőlőink virágokban vagynak.
+Song.2.16 | Az én Szerelmesem enyim, és is övé vagyok, ki a liliomok között legeltet.
+Song.2.17 | Míglen megjelenik ama nap és ez árnyékok elmulnak; térj meg, és hasonló légy én Szerelmesem az őzhöz, vagy a szarvasoknak fijához, kik lakoznak a Béther hegyein.
+
+Song.3.1 | Az én ágyasházamban éjjel leresvén azt, kit szeret az én lelkem, keresvén őtet, mikor meg nem találtam volna, mondék:
+Song.3.2 | Immár felkelek, és eljárom a várost, a szorosakon, és az utczákon keresem azt, kit szeret az én lelkem; de keresvén őtet nem találám meg.
+Song.3.3 | Megtalálván engemet az őrizúkm kik a várost kerülik vala, mondék nékik: Láttátok é azt, kit az én lelkem szeret?
+Song.3.4 | Alig mentem vala el azoktól, mikor megtalálám azt, kit az én lelkem szeret: megragadám őtet, hogy el ne bocsátanám; mígnem bévinném őtet az én anyámnak házába, és az én szülőmnek ágyasházába.
+Song.3.5 | Kénszerítelek titeket, Jérusálemnek leányai, a vadkecskékre, és a mezőnek szarvasaira, fel ne költsétek és fel ne serkentsétek az én szerelmemet valamíg ő akarja.
+Song.3.6 | Kicsoda amaz, ki feljő a pusztából, mint a mirhának, tömjénnek, és a Patikáriusnak minden jóillatú porának füstinek oszlopa?
+Song.3.7 | Ímé ez a Salamonnak ágya, melly körül vagynak az Izráelnek erősei közzűl hatvan erős férjfiak!
+Song.3.8 | Mindnyájan fegyverfogók, a hadakozásban bölcsek, kinek-kinek oldalán fegyvere, az éjszakának félelme ellen.
+Song.3.9 | A hálóágy, mellyet csinált magának Salamon Király a Libánus fáiból.
+Song.3.10 | Mellynek oszlopait ezüstből csinálta, ágyát aranyból, leplét bársonyból, mellynek belső része mintegy megpádimentomoztatott szeretettel a Jérusálemnek leányitól megékesíttetett.
+Song.3.11 | Jöjjetek ki, és nézzétek Sionnak leányai Salamon Királyt a koronában, mellyet szerzett néki az ő annya, az ő Mátkája eljegyzésének napjára, és az ő szíve vígasságának napjára.
+
+Song.4.1 | Ímé szép vagy én Mátkám, ímé szép vagy, a te szemeid ollyanok mint a galambok szemei a te hajadon kivül: a te hajad hasonlatos a kecskéknek nyájához, mellyek a Gileád hegyéről lenyírik a füvet.
+Song.4.2 | A te fogaid hasonlatosak a szépen megnyiretett juhoknak seregéhez, mellyek a feredőből feljönnek, mellyek mindkettősőket ellenek, és nincsenek azok között meddő.
+Song.4.3 | Mint a vers czérna a te ajakid ollyanok, és a te beszéded ékes: mint a pomagránátnak darabja, ollyan a te két vakszemed a te hajadnak fonatékja között.
+Song.4.4 | Hasonló a te nyakad a Dávid tornyához, melly építtetett fegyveres háznak, mellyben ezer paizsok fügesztettek fel, mind az erős vitézeknek paizsai.
+Song.4.5 | A te két emlőd hasonló a vadkecskének kettős fijához, mellyek a liliomok között legelnek.
+Song.4.6 | Míg eljő ama nap, és elmulnak az árnyékok, elmegyek a mirhának hegyére, és tömjénnek halmára.
+Song.4.7 | Mindenestől szép vagy én Mátkám, és semmi szeplő nincsen te benned!
+Song.4.8 | Én velem a Libánusról óh én Jegyesem, és velem a Libánusról eljöjj, nézz az Amanának hegyéről, a Sénirnek és Hermonnak tetejéről, az oroszlánoknak barlangjokból, a párduczoknak hegyéről.
+Song.4.9 | Megsebesítetted az én szívemet én Hugom, én Jegyesem, megsebesítetted az én szívemet a te szemeidnek egy tekintésével, a te nyakadon való egy aranylánczczal!
+Song.4.10 | Melly igen szépek a te szerelmeid én Hugom, én Jegyesem; melly igen jók a te szerelmeid! jobbak a bornál, és a te keneteidnek illatja, drágább minden fűszerszámoknál!
+Song.4.11 | Színméz csepeg a te ajakidról, óh én Jegyesem, méz és téj vagyon a te nyelved alatt, és a te ruháidnak illajta, mint a Libánusnak illatja.
+Song.4.12 | Ollyan vagy mint a bérekesztett kert, én Hugom, én Jegyesem! mint a béfoglaltatott forrás, és pecsételtetett kútfő!
+Song.4.13 | A te csemetéid pomagránátnak, ugymint almás kertnek csemetéi, édes gyümölcsökkel egybe, cziprusok nárdusokkal egybe.
+Song.4.14 | Nárdus és sáfrány, jóillatú nád és fahéj, mindenféle temjéntermő fákkal, mirha és áloes, minden drága fűszerszámokkal.
+Song.4.15 | Óh kerteknek forrása, élő vizeknek kútfeje, mellyek folynak a Libánusról;
+Song.4.16 | Serkenj fel északi szél, és jöjj el déliszél, fújj az én kertemre, hogy folyjanak annak drága illatú szerszámai, jöjjön el az én Szerelmesem, az ő kertébe, és egye annak gyönyörűséges gyümölcsét..
+
+Song.5.1 | Bémenvén az én kertembe, én Hugom, én Jegyesem. leszedem az én mirhámat, az én drága fűszerszámommal, eszem sz én lépesmézemet az én mézemmel, iszom az én boromat az én tejemmel; Egyetek barátim, igyatok, és részegedjetek meg, szerelmeseim!
+Song.5.2 | Én elaludtam vala, jóllehet lelkemben vigyázok vala, és ímé az én szerelmesemnek szava, ki zörget vala mondván: Nyisd meg nékem szerelmes Hugom, én Mátkám, én Galambom, én Tökéletesem; mert az én fejem megrakodott harmattal, az én hajam az éjszakának harmatjával!
+Song.5.3 | Felelek én: Levetettem ruhámat, hogyhogy öltözhetném fel? Megmostam lábaimat, mimódon keverném azokat a porba.
+Song.5.4 | Az én szerelmesem kezét benyujtjá az ajtónak hasadékán, és az én belső részeim megindulának én bennem.
+Song.5.5 | Felkelék én, hogy az én Szerelmesemnek megnyitnám, és az én kezeimről mirha csepeg vala, és az én ujjaimról választott drága mirha, melly az ajtónak zárát elfolyta vala.
+Song.5.6 | Megnyitám az én Szerelmesemnek: de az én Szerelmesem elmenvén elvonta magát; az én lelkem megindult vala a vele való beszédem miatt, kereém őtet, de nem találám meg, kiáltám őtet, de nem felele nékem!
+Song.5.7 | Megtalálának engem az őrizők, kik a várost kerülik, emgverének engem, megsebesítének engem, elvevék az én fedelemet tőlem a kőfalnak őrizői.
+Song.5.8 | Kénszerítelek titeket Jérusálemnek leányai, ha megtaláljátok az én Szerelmesemet, mit mondatok néki? Ezt: hogy én a szerelem miatt beteg vagyok!
+Song.5.9 | Micsoda vagyon a te Szerelmesedben, egyéb szerelmesek felett óh asszonyoknak szépe? micsoda vagyon a te szerelmesedben, egyéb szerelmesek felett, hogy minket illyen igen kénszerítesz?
+Song.5.10 | Az én szerelmesem fejér és piros, tízezernél szebb.
+Song.5.11 | Az ő feje mint a választott drága megtisztíttatott arany, fodor haja, fekete mint a hollónak.
+Song.5.12 | Az ő szemei mint a vízfolyás mellett való galamboknak szemei, mellyek téjben mosattak meg, mintha bé foglalták volna.
+Song.5.13 | Az ő orczái hasonlatosok a drága füveknek táblájához, a felnevekedett szép plántákhoz, az ő ajakai a liliomhoz hasonlók, mellyekről drága olaj foly.
+Song.5.14 | Az ő kezében vagynak aranygyűrük, mellyekbe foglaltattak hiaczintusszínű drágakövek: az ő hasa ollyan mint a zafirral megrakott elefánttetemnek fejérsége.
+Song.5.15 | Az ő szárai mint a tiszta arany fundamentomon álló márványkőből csinált oszlopok; az ő tekinteti mint a Libánusé; tetszetes mint a czédrusfa.
+Song.5.16 | Az ő inye édességes, és ő mindenestől fogva kívánatos! Ez az én Szerelmesem és ez az én Barátom, óh Jérusálemnek leányai!
+Song.5.17 | Hová ment a te Szerelmesed, óh asszyonyoknak szépe? hová fordult a te Szerelmesed, hogy keressük őtet te veled együtt?
+Song.5.18 | Az én Szerelmesem elment az ő kertébe, a drága füveknek táblái közzé, hogy lakozzék a kertekben, és liliomokat szedjen.
+Song.5.19 | Én az én Szerelmesemé vagyok, és az én Szerelmesem enyim, ki a liliomok között legeltet.
+
+Song.6.1 | Szép vagy én Mátkám, mint Tirsa városa, ékes vagy, mint Jérusálem, rettenetes, mint a zászlós tábor.
+Song.6.2 | Nézz én reám a te szemeiddel ellenembe, hogy azok engemet megvidámítsanak.A te hajad ollyan, mint a kecskék seregének gyapja, mellyek Gileádról lenyírik a füvet.
+Song.6.3 | A te fogaid hasonlatosok a juhok nyájához, mellyek feljőnek a vízből, mellyek mindkettősöket ellenek, és meddő azok között nincsen.
+Song.6.4 | Mint a pomagránát darabja a te két vakszemed, a te béfont hajaid között.
+Song.6.5 | Ha hatvan Királynéasszony volna is, és nyolczvan ágyas és számtalan leányzók:
+Song.6.6 | Az én egyetlenegy Galambomat, az én Tökéletesemet, ki az ő annyának egyetlenegye, az ő annyának szerelmese, mihelyt a leányok meglátják, boldognak mondják őtet a Királynéasszonyok és az ágyasok és dícsérik őtet, mondván:
+Song.6.7 | Kicsoda amaz, a ki úgy láttatik mintegy hajnal, szép mint a hold, tiszta mint a nap, rettenetes mint a zászlós tábor?
+Song.6.8 | A megtisztíttatott kertekbe mentem vala alá, hogy a völgynek szép zöldségét látnám; hogy megnézném ha virágoznék a szőlő, és a pomagránátfák kifakadtak?
+Song.6.9 | Nem néztem vala még mind azokat meg, az én elmém ültete engemet az én engedelmes népemnek szekerébe.
+Song.6.10 | Térj meg, térj meg, óh Sulamitból való! térj meg, térj meg, hogy nézzünk tégedet! Mit néztek a Sulamitban? mint egy tábori seregnek rendit!
+
+Song.7.1 | Óh melly szépek a te lábaid a sarukban, óh Fejedelem leánya! A te tomporodnak kerületei ollyanok, mint a mesterember kezétől csináltatott kösöntyűk;
+Song.7.2 | A te köldököd mint a szép kerekded csésze, melly soha nem szűkölködik nedvesség nélkül; a te hasad mint a liliomokkal megkeríttetett gabonaasztag.
+Song.7.3 | A te két emlőd ollyan mint a vadkecskének kettős fijai.
+Song.7.4 | A te nyakad mint az elefánttetemből csinált torony; a te szemeid mint az Esbonbeli halastók, a sok népű kapunál; a te orrod hasonlatos a Libánus tornyához, melly néz Damaskus felé.
+Song.7.5 | A mi a te fejedre tétetett, hasonló a Kármelhez, és a te hajad fonatékja ollyan mint a szederjes bársony: akármelly Király is megköttetnék az ő járásiban!
+Song.7.6 | Melly igen szép vagy és melly ékes, oh én gyönyörűséges Szerelmem!
+Song.7.7 | A te magasságod hasonlatos a pálmafához, és a te emlőid a szőlőgerézdekhez.
+Song.7.8 | Azt mondám: Felhágok a pálmafára, megfogom annak ágait: és lésznek a te emlőid, mint a szőlőnek gerézdei, és a te orrodnak illatja, mint az almának.
+Song.7.9 | És a te ínyed mint a jóillatú bor, melly gyönyörűségesen és egyenesen mozog, melly miatt az aluvóknak ajakaik is szólnak.
+Song.7.10 | Én az én Szerelmesemé vagyok, és engemet kíván ő!
+Song.7.11 | Nó, én szerelmesem, menjünk ki a mezőre, mulassunk a falukban.
+Song.7.12 | Felkelvén menjünk a szőlőkbe, lássuk meg, ha virágzik a szőlő, ha kimutatta magát a szőlőszem, ha kifakadtak a pomagránátfák: ott közlöm az én szerelmimet veled.
+Song.7.13 | A mandragórák illatoznak, és a mi ajtónk előtt vagynak minden drágalátos gyümölcsök, ók és ujak, mellyeket óh én Szerelmesem, néked megtartottam!
+
+Song.8.1 | Vajha lennél nékem én atyámfia, hogy szopnád az én anyámnak emlőjét, hogy téged kivűl találván megcsókolnálak; én is nem utáltatnám meg:
+Song.8.2 | Elvinnélek és bévinnélek tégedet az én anyámnak házába, ki engemet tanít: adnék néked drágafűvel megcsinált bort, és pomagránátnak levét;
+Song.8.3 | Az ő balkeze lészen az én fejem alatt, és jobbkezével megölel engemet.
+Song.8.4 | Kénszer1tlek titeket, Jérusálemnek leányai, mondjátok meg, miért költenétek és miért serkentenétek fel az én szerelmemet, mígnem ő akarja?
+Song.8.5 | Kicsoda ez a ki feljő a pusztából, ki az ő szerelmeséhez támaszkodott? Az almafa alatt költöttelek fel tégedet, ott fogadott tégedet a te anyád, ott fogadott a ki téged szült!
+Song.8.6 | Tégy engemet mintegy pecsétet a te szívedre, mintegy bélyeget a te karodra: mert erős a szeretet mint a halál, kemény, mint a koporsó, a buzgó szerelem, annak szenei tűzesek, mint a sebes láng.
+Song.8.7 | Sok vizek el nem olthatnák e szeretetet; a folyóvizek is nem boríthatnák azt el: ha az ember minden házabeli marháját adná is e szeretetért, mégis megvetnék azt.
+Song.8.8 | Kicsiny Hugunk vagyon nékünk, kinek nincsen még emlője; mit cselekedjünk a mi Hugunk felől a napon, melyen arról szót tesznek.
+Song.8.9 | Mikor kőfalt kell épitenünk, épitsünk azon ezüstből palotát; ha pedig ajtót csinálunk, csináljuk azt czédrus deszkákból.
+Song.8.10 | Mikor én ollyan lészek mint a kőfal, és az én emlőim, mint a tornyok; akkor ő előtte békességet nyerek.
+Song.8.11 | Szőlője volt Salamonnak kövér helyén, adja az ő szőlőjét a pásztoroknak, kiki azok közzűl annak gyümölcséért hoz ezer-ezer ezüst siklust.
+Song.8.12 | Az én szőlőmre, melly én reám néz, nékem gondom lészen: az ezer siklusok Salamon, tiéid legyenek, a kétszáz siklusok annak gyümölcsének őrizőié.
+Song.8.13 | Óh te, ki lakozol a kertekben! A te társaidnak, kik a te szódra figyelmeznek; hirdess engemet!
+Song.8.14 | Jöjj hozzán én Szerelmesem, és légy hasonlatos a vadkecskéhez, vagy a szarvasnak fijához, a drága fűveknek hegyein!

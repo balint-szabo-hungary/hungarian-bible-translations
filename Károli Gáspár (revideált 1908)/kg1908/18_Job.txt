@@ -1,0 +1,1111 @@
+Job.1.1 | Vala Úz földén egy ember, a kinek Jób vala a neve. Ez az ember feddhetetlen, igaz, istenfélő vala és bűn-gyűlölő.
+Job.1.2 | Születék pedig néki hét fia és három leánya.
+Job.1.3 | És vala az ő marhája: hétezer juh, háromezer teve és ötszáz igabarom és ötszáz szamár; cselédje is igen sok vala, és ez a férfiú nagyobb vala keletnek minden fiánál.
+Job.1.4 | Eljártak vala pedig az ő fiai [egymáshoz] és vendégséget szerzének otthon, kiki a maga napján. Elküldtek és meghívták vala az ő három hugokat is, hogy együtt egyenek és igyanak velök.
+Job.1.5 | Mikor pedig a vendégség napjai sorra lejártak vala, elkülde értök Jób és megszentelé őket, és jóreggel felserkene és áldozik vala égőáldozattal mindnyájuk száma szerint; mert ezt mondja vala Jób: Hátha vétkeztek az én fiaim és gonoszt gondoltak az Isten ellen az ő szivökben! Így cselekedik vala Jób minden napon.
+Job.1.6 | Lőn pedig egy napon, hogy eljövének az Istennek fiai, hogy udvaroljanak az Úr előtt; és eljöve a Sátán is közöttök.
+Job.1.7 | És monda az Úr a Sátánnak: Honnét jösz? És felele a Sátán az Úrnak és monda: Körülkerültem és át meg át jártam a földet.
+Job.1.8 | És monda az Úr a Sátánnak: Észrevetted-é az én szolgámat, Jóbot? Bizony nincs hozzá hasonló a földön: feddhetetlen, igaz, istenfélő, és bűngyűlölő.
+Job.1.9 | Felele pedig az Úrnak a Sátán, és monda: Avagy ok nélkül féli-é Jób az Istent?
+Job.1.10 | Nem te vetted-é körül őt magát, házát és mindenét, a mije van? Keze munkáját megáldottad, marhája igen elszaporodott e földön.
+Job.1.11 | De bocsássad csak rá a te kezedet, verd meg mindazt, a mi az övé, avagy nem átkoz-é meg szemtől-szembe téged?!
+Job.1.12 | Az Úr pedig monda a Sátánnak: Ímé, mindazt, a mije van, kezedbe adom; csak ő magára ne nyujtsd ki kezedet. És kiméne a Sátán az Úr elől.
+Job.1.13 | Lőn pedig egy napon, hogy az ő fiai és leányai esznek és bort isznak vala az ő elsőszülött bátyjoknak házában.
+Job.1.14 | És követ jöve Jóbhoz, és monda: Az ökrök szántanak, a szamarak pedig mellettök legelésznek vala.
+Job.1.15 | De a Sabeusok rajtok ütének és elhajták azokat, a szolgákat pedig fegyverrel ölék meg. Csak én magam szaladék el, hogy hírt adjak néked.
+Job.1.16 | Még szól vala ez, mikor jöve egy másik, és monda: Istennek tüze esék le az égből, és megégeté a juhokat és a szolgákat, és megemészté őket. Csak én magam szaladék el, hogy hírt adjak néked.
+Job.1.17 | Még ez is szól vala, mikor jöve egy másik, és monda: A Káldeusok három csapatot alkotának és ráütének a tevékre, és elhajták azokat; a szolgákat pedig fegyverrel ölék meg, csak én magam szaladék el, hogy hírt adjak néked.
+Job.1.18 | Még ez is szól vala, mikor jöve egy másik, és monda: A te fiaid és leányaid esznek és bort isznak vala az ő elsőszülött bátyjoknak házában;
+Job.1.19 | És ímé nagy szél támada a puszta felől, megrendíté a ház négy szegeletét, és rászakada az a gyermekekre és meghalának. Csak én magam szaladék el, hogy hírt adjak néked.
+Job.1.20 | Akkor felkele Jób, megszaggatá köntösét, megberetválá a fejét, és a földre esék és leborula.
+Job.1.21 | És monda: Mezítelen jöttem ki az én anyámnak méhéből, és mezítelen térek oda, vissza. Az Úr adta, az Úr vette el. Áldott legyen az Úrnak neve!
+Job.1.22 | Mindezekben nem vétkezék Jób, és Isten ellen semmi illetlent nem cselekedék.
+
+Job.2.1 | Lőn pedig, hogy egy napon eljövének az Istennek fiai, hogy udvaroljanak az Úr előtt. Eljöve a Sátán is közöttök, hogy udvaroljon az Úr előtt.
+Job.2.2 | És monda az Úr a Sátánnak: Honnét jösz? És felele a Sátán az Úrnak, és monda: Körülkerültem és át meg átjártam a földet.
+Job.2.3 | Monda pedig az Úr a Sátánnak: Észrevetted-é az én szolgámat, Jóbot? Bizony nincs a földön olyan, mint ő; feddhetetlen, igaz, istenfélő, bűngyűlölő. Még erősen áll a ő feddhetetlenségében, noha ellene ingereltél, hogy ok nélkül rontsam meg őt.
+Job.2.4 | És felele a Sátán az Úrnak, és monda: Bőrt bőrért; de mindent a mije van, odaad az ember az életéért.
+Job.2.5 | Azért bocsásd ki csak a te kezedet, és verd meg őt csontjában és testében: avagy nem átkoz-é meg szemtől-szembe téged?
+Job.2.6 | Monda pedig az Úr a Sátánnak: Ímé kezedbe van ő, csak életét kiméld.
+Job.2.7 | És kiméne a Sátán az Úr elől, és megveré Jóbot undok fekélylyel talpától fogva a feje tetejéig.
+Job.2.8 | És vőn egy cserepet, hogy azzal vakarja magát, és így ül vala a hamu közepett.
+Job.2.9 | Monda pedig ő néki az ő felesége: Erősen állasz-é még mindig a te feddhetetlenségedben? Átkozd meg az Istent, és halj meg!
+Job.2.10 | Ő pedig monda néki: Úgy szólsz, mint szól egy a bolondok közül. Ha már a jót elvettük Istentől, a rosszat nem vennők-é el? Mindezekben sem vétkezék Jób az ő ajkaival.
+Job.2.11 | Mikor pedig meghallá Jóbnak három barátja mind ezt a nyomorúságot, a mely esett vala rajta: eljöve mindenik az ő lakó helyéből: a témáni Elifáz, a sukhi Bildád és a naamai Czófár; és elvégezék, hogy együtt mennek be, hogy bánkódjanak vele és vigasztalják őt.
+Job.2.12 | És a mint ráveték szemöket távolról, nem ismerék meg őt, és fenhangon zokognak vala; azután pedig megszaggatá kiki a maga köntösét, és port hintének fejökre ég felé.
+Job.2.13 | És ülének vele hét napon és hét éjszakán a földön, és nem szóla egyetlen egy szót egyik sem, mert látják vala, hogy igen nagy az ő fájdalma.
+
+Job.3.1 | Ezután megnyitá Jób az ő száját, és megátkozá az ő napját.
+Job.3.2 | És szóla Jób, és monda:
+Job.3.3 | Veszszen el az a nap, a melyen születtem, és az az éjszaka, a melyen azt mondták: fiú fogantatott.
+Job.3.4 | Az a nap legyen sötétség, ne törődjék azzal az Isten onnét felül, és világosság ne fényljék azon.
+Job.3.5 | Tartsa azt fogva sötétség és a halál árnyéka; [a] felhő lakozzék rajta, nappali borulatok tegyék rettenetessé.
+Job.3.6 | Az az éjszaka! Sűrű sötétség fogja be azt; ne soroztassék az az esztendőnek napjaihoz, ne számláltassék a hónapokhoz.
+Job.3.7 | Az az éjszaka! Legyen az magtalan, ne legyen örvendezés azon.
+Job.3.8 | Átkozzák meg azt, a kik a nappalt átkozzák, a kik bátrak felingerelni a leviathánt.
+Job.3.9 | Sötétüljenek el az ő estvéjének csillagai; várja a világosságot, de az ne legyen, és ne lássa a hajnalnak pirját!
+Job.3.10 | Mert nem zárta be az én anyám méhének ajtait, és nem rejtette el szemeim elől a nyomorúságot.
+Job.3.11 | Mért is nem haltam meg fogantatásomkor; mért is ki nem multam, mihelyt megszülettem?
+Job.3.12 | Mért vettek fel engem térdre, és mért az emlőkre, hogy szopjam?!
+Job.3.13 | Mert most feküdném és nyugodnám, aludnám és akkor nyugton pihenhetnék -
+Job.3.14 | Királyokkal és az ország tanácsosaival, a kik magoknak kőhalmokat építenek.
+Job.3.15 | Vagy fejedelmekkel, a kiknek aranyuk van, a kik ezüsttel töltik meg házaikat.
+Job.3.16 | Vagy mért nem lettem olyan, mint az elásott, idétlen gyermek, mint a világosságot sem látott kisdedek?
+Job.3.17 | Ott a gonoszok megszünnek a fenyegetéstől, és ott megnyugosznak, a kiknek erejök ellankadt.
+Job.3.18 | A foglyok ott mind megnyugosznak, nem hallják a szorongatónak szavát.
+Job.3.19 | Kicsiny és nagy ott [egyenlő,] és a szolga az ő urától szabad.
+Job.3.20 | Mért is ad [Isten] a nyomorultnak világosságot, és életet a keseredett szivűeknek?
+Job.3.21 | A kik a halált várják, de nem jön az, és szorgalmasabban keresik mint az elrejtett kincset.
+Job.3.22 | A kik nagy örömmel örvendeznek, vigadnak, mikor megtalálják a koporsót.
+Job.3.23 | A férfiúnak, a ki útvesztőbe jutott, és a kit az Isten bekerített köröskörül.
+Job.3.24 | Mert kenyerem gyanánt van az én fohászkodásom, és sóhajtásaim ömölnek, mint habok.
+Job.3.25 | Mert a mitől remegve remegtem, az jöve reám, és a mitől rettegtem, az esék rajtam.
+Job.3.26 | Nincs békességem, sem nyugtom, sem pihenésem, mert nyomorúság támadt reám.
+
+Job.4.1 | És felele a témáni Elifáz, és monda:
+Job.4.2 | Ha szólni próbálunk hozzád, zokon veszed-é? De hát ki bírná türtőztetni magát a beszédben?
+Job.4.3 | Ímé sokakat oktattál, és a megfáradott kezeket megerősítetted;
+Job.4.4 | A tántorgót a te beszédeid fentartották, és a reszkető térdeket megerősítetted;
+Job.4.5 | Most, hogy rád jött [a sor], zokon veszed; hogy téged ért [a baj,] elrettensz!
+Job.4.6 | Nem bizodalmad-é a te istenfélelmed, s nem reménységed- é utaidnak becsületessége?
+Job.4.7 | Emlékezzél, kérlek, ki az, a ki elveszett ártatlanul, és hol töröltettek el az igazak?
+Job.4.8 | A mint én láttam, a kik hamisságot szántanak és gonoszságot vetnek, ugyanazt aratnak.
+Job.4.9 | Az Istennek lehelletétől elvesznek, az ő haragjának szelétől elpusztulnak.
+Job.4.10 | Az oroszlán ordítása, a sakál üvöltése, és az oroszlán-kölykök fogai megsemmisülnek.
+Job.4.11 | Az agg oroszlán elvész, ha nincs martaléka, a nőstény oroszlán kölykei elszélednek.
+Job.4.12 | Szó lopódzék hozzám, s valami nesz üté meg abból fülemet.
+Job.4.13 | Éjjeli látásokon való töprengések között, mikor mély álom fogja el az embereket.
+Job.4.14 | Félelem szálla rám, és rettegés, s megreszketteté minden csontomat.
+Job.4.15 | Valami szellem suhant el előttem, s testemnek szőre felborzolódék.
+Job.4.16 | Megálla, de ábrázatját föl nem ismerém, egy alak vala szemeim előtt, mély csend, és [ilyen] szót hallék:
+Job.4.17 | Vajjon a halandó igaz-é Istennél: az ő teremtője előtt tiszta-é az ember?
+Job.4.18 | Ímé az ő szolgáiban sem bízhatik és az ő angyalaiban is talál hibát:
+Job.4.19 | Mennyivel inkább a sárházak lakosaiban, a kiknek fundamentumok a porban van, és könnyebben szétnyomhatók a molynál?!
+Job.4.20 | Reggeltől estig gyötrődnek, s a nélkül, hogy észrevennék, elvesznek örökre.
+Job.4.21 | Ha kiszakíttatik belőlök sátoruk kötele, nem halnak-é meg, és pedig bölcsesség nélkül?
+
+Job.5.1 | Kiálts csak! Van-é, a ki felelne néked? A szentek közül melyikhez fordulsz?
+Job.5.2 | Mert a bolondot boszúság öli meg, az együgyűt pedig buzgóság veszti el.
+Job.5.3 | Láttam, hogy egy bolond gyökerezni kezdett, de nagy hamar megátkoztam szép hajlékát.
+Job.5.4 | Fiai messze estek a szabadulástól: a kapuban megrontatnak, mert nincs, a ki kimentse őket.
+Job.5.5 | A mit learatnak néki, az éhező eszi meg, a töviskerítésből is elviszi azt, kincseiket tőrvetők nyelik el.
+Job.5.6 | Mert nem porból támad a veszedelem s nem földből sarjad a nyomorúság!
+Job.5.7 | Hanem nyomorúságra születik az ember, a mint felfelé szállnak a parázs szikrái.
+Job.5.8 | Azért én a Mindenhatóhoz folyamodnám, az Istenre bíznám ügyemet.
+Job.5.9 | A ki nagy, végére mehetetlen dolgokat művel, és csudákat, a miknek száma nincsen.
+Job.5.10 | A ki esőt ad a földnek színére, és a mezőkre vizet bocsát.
+Job.5.11 | Hogy az alázatosokat felmagasztalja, és a gyászolókat szabadulással vidámítsa.
+Job.5.12 | A ki semmivé teszi a csalárdok gondolatait, hogy szándékukat kezeik véghez ne vihessék.
+Job.5.13 | A ki megfogja a bölcseket az ő csalárdságukban, és a hamisak tanácsát hiábavalóvá teszi.
+Job.5.14 | Nappal sötétségre bukkannak, és délben is tapogatva járnak, mint éjszaka.
+Job.5.15 | A ki megszabadítja a fegyvertől, az ő szájoktól, és az erősnek kezéből a szegényt;
+Job.5.16 | Hogy legyen reménysége a szegénynek, és a hamisság befogja az ő száját.
+Job.5.17 | Ímé, boldog ember az, a kit Isten megdorgál; azért a Mindenhatónak büntetését meg ne utáljad!
+Job.5.18 | Mert ő megsebez, de be is kötöz, összezúz, de kezei meg is gyógyítanak.
+Job.5.19 | Hat bajodból megszabadít, és a hetedikben sem illet a veszedelem téged.
+Job.5.20 | Az éhínségben megment téged a haláltól, és a háborúban a fegyveres kezektől.
+Job.5.21 | A nyelvek ostora elől rejtve leszel, és nem kell félned, hogy a pusztulás rád következik.
+Job.5.22 | A pusztulást és drágaságot neveted, és a fenevadaktól sem félsz.
+Job.5.23 | Mert a mezőn való kövekkel is frigyed lesz, és a mezei vad is békességben lesz veled.
+Job.5.24 | Majd megtudod, hogy békességben lesz a te sátorod, s ha megvizsgálod a te hajlékodat, nem találsz benne hiányt.
+Job.5.25 | Majd megtudod, hogy a te magod megszaporodik, és a te sarjadékod, mint a mezőn a fű.
+Job.5.26 | Érett korban térsz a koporsóba, a mint a maga idején takaríttatik be a learatott gabona.
+Job.5.27 | Ímé ezt kutattuk mi ki, így van ez. Hallgass erre, jegyezd meg magadnak.
+
+Job.6.1 | Jób pedig felele, és monda:
+Job.6.2 | Oh, ha az én bosszankodásomat mérlegre vetnék, és az én nyomorúságomat vele együtt tennék a fontba!
+Job.6.3 | Bizony súlyosabb ez a tenger fövenyénél; azért balgatagok az én szavaim.
+Job.6.4 | Mert a Mindenható nyilai vannak én bennem, a melyeknek mérge emészti az én lelkemet, és az Istennek rettentései ostromolnak engem.
+Job.6.5 | Ordít-é a vadszamár a zöld füvön, avagy bőg-é az ökör az ő abrakja mellett?
+Job.6.6 | Vajjon ízetlen, sótalan étket eszik-é az ember; avagy kellemes íze van-é a tojásfehérnek?
+Job.6.7 | Lelkem iszonyodik érinteni is; olyanok azok nékem, mint a megromlott kenyér!
+Job.6.8 | Oh, ha az én kérésem teljesülne, és az Isten megadná, amit reménylek;
+Job.6.9 | És tetszenék Istennek, hogy összetörjön engem, megoldaná kezét, hogy szétvagdaljon engem!
+Job.6.10 | Még akkor lenne valami vigasztalásom; újjonganék a fájdalomban, a mely nem kimél, mert nem tagadtam meg a Szentnek beszédét.
+Job.6.11 | Micsoda az én erőm, hogy várakozzam; mi az én végem, hogy türtőztessem magam?!
+Job.6.12 | Kövek ereje-é az én erőm, avagy az én testem aczélból van-é?
+Job.6.13 | Hát nincsen-é segítség számomra; avagy a szabadulás elfutott-é tőlem?!
+Job.6.14 | A szerencsétlent barátjától részvét illeti meg, még ha elhagyja is a Mindenhatónak félelmét.
+Job.6.15 | Atyámfiai hűtlenül elhagytak mint a patak, a mint túláradnak medrükön a patakok.
+Job.6.16 | A melyek szennyesek a jégtől, a melyekben [olvadt] hó hömpölyög;
+Job.6.17 | Mikor átmelegülnek, elapadnak, a hőség miatt fenékig száradnak.
+Job.6.18 | Letérnek útjokról a vándorok; felmennek a sivatagba [utánok] és elvesznek.
+Job.6.19 | Nézegetnek utánok Téma vándorai; Sébának utasai bennök reménykednek.
+Job.6.20 | Megszégyenlik, hogy bíztak, közel mennek és elpirulnak.
+Job.6.21 | Így lettetek ti most semmivé; látjátok a nyomort és féltek.
+Job.6.22 | Hát mondtam-é: adjatok nékem [valamit,] és a ti jószágotokból ajándékozzatok meg engem?
+Job.6.23 | Szabadítsatok ki engem az ellenség kezéből, és a hatalmasok kezéből vegyetek ki engem?
+Job.6.24 | Tanítsatok meg és én elnémulok, s a miben tévedek, értessétek meg velem.
+Job.6.25 | Oh, mily hathatósak az igaz beszédek! De mit ostoroz a ti ostorozásotok?
+Job.6.26 | Szavak ostorozására készültök-é? Hiszen a szélnek valók a kétségbeesettnek szavai!
+Job.6.27 | Még az árvának is néki esnétek, és [sírt] ásnátok a ti barátotoknak is?!
+Job.6.28 | Most hát tessék néktek rám tekintenetek, és szemetekbe csak nem hazudom?
+Job.6.29 | Kezdjétek újra kérlek, ne legyen hamisság. Kezdjétek újra, az én igazságom még mindig áll.
+Job.6.30 | Van-é az én nyelvemen hamisság, avagy az én ínyem nem veheti-é észre a nyomorúságot?
+
+Job.7.1 | Nem rabszolga élete van-é az embernek a földön, és az ő napjai nem olyanok-é, mint a béresnek napjai?
+Job.7.2 | A mint a szolga kívánja az árnyékot, és a mint a béres reményli az ő bérét:
+Job.7.3 | Úgy részesültem én keserves hónapokban, és nyomorúságnak éjszakái jutottak számomra.
+Job.7.4 | Ha lefekszem, azt mondom: mikor kelek föl? de hosszú az estve, és betelek a hánykolódással [reggeli] szürkületig.
+Job.7.5 | Testem férgekkel van fedve és a pornak piszokjával; bőröm összehúzódik és meggennyed.
+Job.7.6 | Napjaim gyorsabbak voltak a vetélőnél, és most reménység nélkül tünnek el.
+Job.7.7 | Emlékezzél meg, hogy az én életem csak egy lehellet, és az én szemem nem lát többé jót.
+Job.7.8 | Nem lát engem szem, a mely rám néz; te rám [veted] szemed, de már nem vagyok!
+Job.7.9 | A felhő eltünik és elmegy, így a ki leszáll a [sír]ba, nem jő fel [többé].
+Job.7.10 | Nem tér vissza többé az ő hajlékába, és az ő helye nem ismeri őt többé.
+Job.7.11 | Én sem tartóztatom hát meg az én számat; szólok az én lelkemnek fájdalmában, és panaszkodom az én szívemnek keserűségében.
+Job.7.12 | Tenger vagyok-é én, avagy czethal, hogy őrt állítasz ellenem?
+Job.7.13 | Mikor azt gondolom, megvigasztal engem az én nyoszolyám, megkönnyebbíti panaszolkodásomat az én ágyasházam:
+Job.7.14 | Akkor álmokkal rettentesz meg engem és látásokkal háborítasz meg engem;
+Job.7.15 | Úgy, hogy inkább választja lelkem a megfojtatást, inkább a halált, mint csontjaimat.
+Job.7.16 | Utálom! Nem akarok örökké élni. Távozzál el tőlem, mert nyomorúság az én életem.
+Job.7.17 | Micsoda az ember, hogy őt ily nagyra becsülöd, és hogy figyelmedet fordítod reá?
+Job.7.18 | Meglátogatod őt minden reggel, és minden szempillantásban próbálod őt.
+Job.7.19 | Míglen nem fordítod el tőlem szemedet, nem távozol csak addig is tőlem, a míg nyálamat lenyelem?
+Job.7.20 | Vétkeztem! Mit cselekedjem én néked, oh embereknek őrizője? Mért tettél ki czéltáblául magadnak? Mért legyek magamnak is terhére.
+Job.7.21 | És mért nem bocsátod meg vétkemet és nem törlöd el az én bűnömet? Hiszen immár a porban fekszem, és ha keresel engem, nem leszek.
+
+Job.8.1 | Akkor felele a sukhi Bildád, és monda:
+Job.8.2 | Meddig szólasz még efféléket, és lesz a te szádnak beszéde sebes szél?
+Job.8.3 | Elforgatja-é Isten az ítéletet, avagy a Mindenható elforgatja-é az igazságot?
+Job.8.4 | Ha a te fiaid vétkeztek ellene, úgy az ő gonoszságuk miatt vetette el őket.
+Job.8.5 | De ha te az Istent buzgón keresed, és a Mindenhatóhoz [bocsánatért] könyörögsz;
+Job.8.6 | Ha tiszta és becsületes vagy, akkor legott felserken éretted, és békességessé teszi a te igazságodnak hajlékát.
+Job.8.7 | És ha előbbi állapotod szegényes volt, ez utáni állapotod boldog lesz nagyon.
+Job.8.8 | Mert kérdezd meg csak az azelőtti nemzedéket, és készülj csak fel az ő atyáikról való tudakozódásra!
+Job.8.9 | Mert mi csak tegnapiak vagyunk és semmit nem tudunk, mert a mi napjaink csak árnyék e földön.
+Job.8.10 | Nem tanítanak-é meg azok téged? Nem mondják-é meg néked, és nem beszélik-é meg szívök szerint néked?!
+Job.8.11 | Felnövekedik-é a káka mocsár nélkül, felnyúlik-é a sás víz nélkül?
+Job.8.12 | Még gyenge korában, ha fel nem szakasztják is, minden fűnél elébb elszárad.
+Job.8.13 | Ilyenek az ösvényeik mindazoknak, a kik Istenről elfeledkeznek, és a képmutatónak reménysége [is ]elvész.
+Job.8.14 | Mivel szétfoszol bizakodása, és bizodalma olyan lesz, mint a pókháló.
+Job.8.15 | Házára támaszkodik, és nem áll meg; kapaszkodik belé, és nem marad meg.
+Job.8.16 | Bő nedvességű ez a napfényen [is,] és ágazata túlnő a kertjén.
+Job.8.17 | Gyökerei átfonódnak a kőhalmon; átfúródnak a szikla-rétegen.
+Job.8.18 | Ámha kiirtják helyéről, megtagadja ez őt: Nem láttalak!
+Job.8.19 | Ímé ez az ő pályájának öröme! És más hajt ki a porból.
+Job.8.20 | Ímé az Isten nem veti meg az ártatlant, de a gonoszoknak sem ád előmenetelt.
+Job.8.21 | Még betölti szádat nevetéssel, és ajakidat vigassággal.
+Job.8.22 | Gyűlölőid szégyenbe öltöznek, és a gonoszok sátora megsemmisül.
+
+Job.9.1 | Felele pedig Jób, és monda:
+Job.9.2 | Igaz, jól tudom, hogy így van; hogyan is lehetne igaz a halandó ember Istennél?
+Job.9.3 | Ha perelni akarna ő vele, ezer közül egy sem felelhetne meg néki.
+Job.9.4 | Bölcs szívű és hatalmas erejű: ki szegülhetne ellene, hogy épségben maradjon?
+Job.9.5 | A ki hegyeket mozdít tova, hogy észre se veszik, és megfordítja őket haragjában.
+Job.9.6 | A ki kirengeti helyéből a földet, úgy hogy oszlopai megrepedeznek.
+Job.9.7 | A ki szól a napnak és az fel nem kél, és bepecsételi a csillagokat.
+Job.9.8 | A ki egymaga feszítette ki az egeket, és a tenger hullámain tapos.
+Job.9.9 | A ki teremtette a gönczölszekeret, a kaszás csillagot és a fiastyúkot és a délnek titkos tárait.
+Job.9.10 | A ki nagy dolgokat cselekszik megfoghatatlanul, és csudákat megszámlálhatatlanul.
+Job.9.11 | Ímé, elvonul mellettem, de nem látom, átmegy előttem, de nem veszem észre.
+Job.9.12 | Ímé, ha elragad [valamit,] ki akadályozza meg; ki mondhatja néki: Mit cselekszel?
+Job.9.13 | Ha az Isten el nem fordítja az ő haragját, alatta meghajolnak Ráháb czinkosai is.
+Job.9.14 | Hogyan felelhetnék hát én meg ő néki, és lelhetnék vele szemben szavakat?
+Job.9.15 | A ki, ha szinte igazam volna, sem felelhetnék néki; kegyelemért könyörögnék ítélő birámhoz.
+Job.9.16 | Ha segítségül hívnám és felelne is nékem, még sem hinném, hogy szavamat fülébe vevé;
+Job.9.17 | A ki forgószélben rohan meg engem, és ok nélkül megsokasítja sebeimet.
+Job.9.18 | Nem hagyna még lélekzetet se vennem, hanem keserűséggel lakatna jól.
+Job.9.19 | Ha erőre kerülne a dolog? Ímé, ő igen erős; és ha ítéletre? Ki tűzne ki én nékem napot?
+Job.9.20 | Ha igaznak mondanám magamat, a szájam kárhoztatna engem; ha ártatlannak: bűnössé tenne engemet.
+Job.9.21 | Ártatlan vagyok, nem törődöm lelkemmel, útálom az életemet.
+Job.9.22 | Mindegy ez! Azért azt mondom: elveszít ő ártatlant és gonoszt!
+Job.9.23 | Ha ostorával hirtelen megöl, neveti a bűntelenek megpróbáltatását.
+Job.9.24 | A föld a gonosz kezébe adatik, a ki az ő biráinak arczát elfedezi. Nem így van? Kicsoda hát ő?
+Job.9.25 | Napjaim gyorsabbak valának a kengyelfutónál: elfutának, nem láttak semmi jót.
+Job.9.26 | Ellebbentek, mint a gyorsan járó hajók, miként zsákmányára csap a keselyű.
+Job.9.27 | Ha azt mondom: Nosza elfelejtem panaszomat, felhagyok haragoskodásommal és vidám leszek:
+Job.9.28 | Megborzadok az én mindenféle fájdalmamtól; tudom, hogy nem találsz bűntelennek engem.
+Job.9.29 | Rossz ember vagyok én! Minek fáraszszam hát magamat hiába?
+Job.9.30 | Ha hóvízzel mosakodom is meg, ha szappannal mosom is meg kezeimet:
+Job.9.31 | Akkor is a posványba mártanál engem és az én ruháim is útálnának engem.
+Job.9.32 | Mert nem ember ő, mint én, hogy néki megfelelhetnék, [és] együtt pörbe állanánk.
+Job.9.33 | Nincs is közöttünk igazlátó, a ki kezét közbe vethesse kettőnk között!
+Job.9.34 | Venné csak el rólam az ő veszszejét, és az ő rettentésével ne rettegtetne engem:
+Job.9.35 | Akkor szólanék és nem félnék tőle: mert nem így vagyok én magammal!
+
+Job.10.1 | Lelkemből útálom az életemet, megeresztem felőle panaszomat; szólok az én lelkem keserűségében.
+Job.10.2 | Azt mondom az Istennek: Ne kárhoztass engem; add tudtomra, miért perlesz velem?!
+Job.10.3 | Jó-é az néked, hogy nyomorgatsz, hogy megútálod kezednek munkáját, és a gonoszok tanácsát támogatod?
+Job.10.4 | Testi szemeid vannak-é néked, és úgy látsz-é te, a mint halandó lát?
+Job.10.5 | Mint a halandónak napjai, olyanok-é a te napjaid, avagy a te éveid, mint az embernek napjai?
+Job.10.6 | Hogy az én álnokságomról tudakozol, és az én vétkem után kutatsz.
+Job.10.7 | Jól tudod te azt, hogy én nem vagyok gonosz, még sincs, a ki kezedből kiszabadítson!
+Job.10.8 | Kezeid formáltak engem és készítének engem egészen köröskörül, és mégis megrontasz engem?!
+Job.10.9 | Emlékezzél, kérlek, hogy mint valami agyagedényt, úgy készítettél engem, és ismét porrá tennél engem?
+Job.10.10 | Nem úgy öntél-é engem, mint a tejet és mint a sajtot, megoltottál engem?
+Job.10.11 | Bőrrel és hússal ruháztál fel engem, csontokkal és inakkal befedeztél engem.
+Job.10.12 | Életet és kegyelmet szerzettél számomra, és a te gondviselésed őrizte az én lelkemet.
+Job.10.13 | De ezeket elrejtetted a te szívedben, és tudom, hogy ezt tökélted el magadban:
+Job.10.14 | Ha vétkezem, mindjárt észreveszed rajtam, és bűnöm alól nem mentesz föl engem.
+Job.10.15 | Ha istentelen vagyok, jaj nékem; ha igaz vagyok, sem emelem föl fejemet, eltelve gyalázattal, de tekints nyomorúságomra!
+Job.10.16 | Ha pedig felemelkednék az, mint oroszlán kergetnél engem, és ismét csudafájdalmakat bocsátanál reám.
+Job.10.17 | Megújítanád a te bizonyságidat ellenem, megöregbítenéd a te boszúállásodat rajtam; váltakozó és állandó sereg volna ellenem.
+Job.10.18 | Miért is hoztál ki engem anyámnak méhéből? Vajha meghaltam volna, és szem nem látott volna engem!
+Job.10.19 | Lettem volna, mintha nem is voltam volna; anyámnak méhéből sírba vittek volna!
+Job.10.20 | Hiszen kevés napom van még; szünjék meg! Forduljon el tőlem, hadd viduljak fel egy kevéssé,
+Job.10.21 | Mielőtt oda megyek, honnét nem térhetek vissza: a sötétségnek és a halál árnyékának földébe;
+Job.10.22 | Az éjféli homálynak földébe, a mely olyan, mint a halál árnyékának sürű setétsége; hol nincs rend, és a világosság olyan, mint a sürű setétség.
+
+Job.11.1 | Felele a Naamából való Czófár, és monda:
+Job.11.2 | A sok beszédre ne legyen-é felelet? Avagy a csácsogó embernek legyen-é igaza?
+Job.11.3 | Fecsegéseid elnémítják az embereket, és csúfolódol is és ne legyen, a ki megszégyenítsen?!
+Job.11.4 | Azt mondod: Értelmes az én beszédem, tiszta vagyok a te szemeid előtt.
+Job.11.5 | De vajha szólalna meg maga az Isten, és nyitná meg ajkait te ellened!
+Job.11.6 | És jelentené meg néked a bölcsességnek titkait, hogy kétszerte többet ér az az okoskodásnál, és tudnád meg, hogy az Isten még el is engedett néked a te bűneidből.
+Job.11.7 | Az Isten mélységét elérheted-é, avagy a Mindenhatónak tökéletességére eljuthatsz-é?
+Job.11.8 | Magasabb az égnél: mit teszel tehát? Mélyebb az alvilágnál; hogy ismerheted meg?
+Job.11.9 | Hosszabb annak mértéke a földnél, és szélesebb a tengernél.
+Job.11.10 | Ha megtapos, elzár és ítéletet tart: ki akadályozhatja meg?
+Job.11.11 | Mert ő jól ismeri a csalárd embereket, látja az álnokságot, még ha nem figyelmez is arra!
+Job.11.12 | És értelmessé teheti a bolond embert is, és emberré szülheti a vadszamár csikóját is.
+Job.11.13 | Ha te a te szívedet felkészítenéd, és kezedet felé terjesztenéd;
+Job.11.14 | Ha a hamisságot, a mely a te kezedben van, távol tartanád magadtól, és nem lakoznék a te hajlékodban gonoszság;
+Job.11.15 | Akkor a te arczodat fölemelhetnéd szégyen nélkül, erős lennél és nem félnél;
+Job.11.16 | Sőt a nyomorúságról is elfelejtkeznél, és mint lefutott vizekről, úgy emlékeznél arról.
+Job.11.17 | Ragyogóbban kelne időd a déli fénynél, és az éjféli sötétség is olyan lenne, mint a [kora] reggel.
+Job.11.18 | Akkor bíznál, mert volna reménységed; és ha széttekintenél, biztonságban aludnál.
+Job.11.19 | Ha lefeküdnél, senki föl nem rettentene, sőt sokan hizelegnének néked.
+Job.11.20 | De a gonoszok szemei elepednek, menedékök eltünik előlök, és reménységök: a lélek kilehellése!
+
+Job.12.1 | Felele erre Jób, és monda:
+Job.12.2 | Bizonyára ti magatok vagytok a nép, és veletek kihal a bölcseség!
+Job.12.3 | Nékem is van annyi eszem, mint néktek, és nem vagyok alábbvaló nálatok, és ki ne tudna ilyenféléket?
+Job.12.4 | Kikaczagják a saját barátai azt, mint engem, a ki Istenhez kiált és meghallgatja őt. Kikaczagják az igazat, az ártatlant!
+Job.12.5 | A szerencsétlen megvetni való, gondolja, a ki boldog; ez vár azokra, a kiknek lábok roskadoz.
+Job.12.6 | A kóborlók sátrai csendesek és bátorságban vannak, a kik ingerlik az Istent, és a ki kezében hordja Istenét.
+Job.12.7 | Egyébiránt kérdezd meg csak a barmokat, majd megtanítanak, és az égnek madarait, azok megmondják néked.
+Job.12.8 | Avagy beszélj a földdel és az megtanít téged, a tengernek halai is elbeszélik néked.
+Job.12.9 | Mindezek közül melyik nem tudja, hogy az Úrnak keze cselekszi ezt?
+Job.12.10 | A kinek kezében van minden élő állatnak élete, és minden egyes embernek a lelke.
+Job.12.11 | Nemde nem a fül próbálja-é meg a szót, és az íny kóstolja meg az ételt?
+Job.12.12 | A vén emberekben van-é a bölcseség, és az értelem a hosszú életben-é?
+Job.12.13 | Ő nála van a bölcseség és hatalom, övé a tanács és az értelem.
+Job.12.14 | Ímé, a mit leront, nem épül föl az; ha valakire rázárja [az ajtót,] nem nyílik föl az.
+Job.12.15 | Ímé, ha a vizeket elfogja, kiszáradnak; ha kibocsátja őket, felforgatják a földet.
+Job.12.16 | Ő nála van az erő és okosság; övé az eltévelyedett és a ki tévelygésre visz.
+Job.12.17 | A tanácsadókat fogságra viszi, és a birákat megbolondítja.
+Job.12.18 | A királyok bilincseit feloldja, és övet köt derekukra.
+Job.12.19 | A papokat fogságra viszi, és a hatalmasokat megbuktatja.
+Job.12.20 | Az ékesen szólótól eltávolítja a beszédet és a vénektől elveszi a tanácsot.
+Job.12.21 | Szégyent zúdít az előkelőkre, és a hatalmasok övét megtágítja.
+Job.12.22 | Feltárja a sötétségből a mélységes titkokat, és a halálnak árnyékát is világosságra hozza.
+Job.12.23 | Nemzeteket növel fel, azután elveszíti őket; nemzeteket terjeszt ki messzire, azután elűzi őket.
+Job.12.24 | Elveszi eszöket a föld népe vezetőinek, és úttalan pusztában bujdostatja őket.
+Job.12.25 | És világtalan setétben tapogatóznak, és tántorognak, mint a részeg.
+
+Job.13.1 | Ímé, mindezeket látta az én szemem, hallotta az én fülem és megértette.
+Job.13.2 | A mint ti tudjátok, úgy tudom én is, és nem vagyok alábbvaló nálatok.
+Job.13.3 | Azonban én a Mindenhatóval akarok szólani; Isten előtt kivánom védeni ügyemet.
+Job.13.4 | Mert ti hazugságnak mesterei vagytok, és mindnyájan haszontalan orvosok.
+Job.13.5 | Vajha legalább mélyen hallgatnátok, az még bölcseségtekre lenne.
+Job.13.6 | Halljátok meg, kérlek, az én feddőzésemet, és figyeljetek az én számnak pörlekedéseire.
+Job.13.7 | Az Isten kedvéért szóltok-é hamisságot, és ő érette szóltok-é csalárdságot?
+Job.13.8 | Az ő személyére néztek-é, ha Isten mellett tusakodtok?
+Job.13.9 | Jó lesz-é az, ha egészen kiismer benneteket, avagy megcsalhatjátok-é őt, a mint megcsalható az ember?
+Job.13.10 | Keményen megbüntet, ha titkon vagytok is személyválogatók.
+Job.13.11 | Az ő fensége nem rettent-é meg titeket, a tőle való félelem nem száll-é rátok?
+Job.13.12 | A ti emlékezéseitek hamuba írott példabeszédek, a ti menedékváraitok sárvárak.
+Job.13.13 | Hallgassatok, ne bántsatok: hadd szóljak én, akármi essék is rajtam.
+Job.13.14 | Miért szaggatnám fogaimmal testemet, és miért szorítanám markomba lelkemet?
+Job.13.15 | Ímé, megöl engem! Nem reménylem; hiszen csak utaimat akarom védeni előtte!
+Job.13.16 | Sőt az lesz nékem segítségül, hogy képmutató nem juthat elébe.
+Job.13.17 | Hallgassátok meg figyelmetesen az én beszédemet, vegyétek füleitekbe az én mondásomat.
+Job.13.18 | Ímé, előterjesztem ügyemet, tudom, hogy nékem lesz igazam.
+Job.13.19 | Ki az, a ki perelhetne velem? Ha most hallgatnom kellene, úgy kimulnék.
+Job.13.20 | Csak kettőt ne cselekedj velem, szined elől akkor nem rejtőzöm el.
+Job.13.21 | Vedd le rólam kezedet, és a te rettentésed ne rettentsen engem.
+Job.13.22 | Azután szólíts és én felelek, avagy én szólok hozzád és te válaszolj.
+Job.13.23 | Mennyi bűnöm és vétkem van nékem? Gonoszságomat és vétkemet add tudtomra!
+Job.13.24 | Mért rejted el arczodat, és tartasz engemet ellenségedül?
+Job.13.25 | A letépett falevelet rettegteted-é, és a száraz pozdorját üldözöd-é?
+Job.13.26 | Hogy ily [sok] keserűséget szabtál reám, és az én ifjúságomnak vétkét örökölteted velem?!
+Job.13.27 | Hogy békóba teszed lábaimat, vigyázol minden én utamra, és vizsgálod lábomnak nyomait?
+Job.13.28 | Az pedig elsenyved, mint a redves fa, mint ruha, a melyet moly emészt.
+
+Job.14.1 | Az asszonytól született ember rövid életű és háborúságokkal bővelkedő.
+Job.14.2 | Mint a virág, kinyílik és elhervad, és eltünik, mint az árnyék és nem állandó.
+Job.14.3 | Még az ilyen ellen is felnyitod-é szemeidet, tennen magaddal törvénybe állítasz-é engem?
+Job.14.4 | Ki adhat tisztát a tisztátalanból? Senki.
+Job.14.5 | Nincsenek-é meghatározva napjai? Az ő hónapjainak számát te tudod; határt vetettél néki, a melyet nem hághat át.
+Job.14.6 | Fordulj el azért tőle, hogy nyugodalma legyen, hogy legyen napjában annyi öröme, mint egy béresnek.
+Job.14.7 | Mert a fának van reménysége; ha levágják, ismét kihajt, és az ő hajtásai el nem fogynak.
+Job.14.8 | Még ha megaggodik is a földben a gyökere, és ha elhal is a porban törzsöke:
+Job.14.9 | A víznek illatától kifakad, ágakat hajt, mint a csemete.
+Job.14.10 | De ha a férfi meghal és elterül; ha az ember kimúlik, hol van ő?
+Job.14.11 | Mint a víz kiapad a tóból, a patak elapad, kiszárad:
+Job.14.12 | Úgy fekszik le az ember és nem kél fel; az egek elmúlásáig sem ébrednek, nem költetnek föl az ő álmukból.
+Job.14.13 | Vajha engem a holtak országában tartanál; rejtegetnél engemet addig, a míg elmúlik a te haragod; határt vetnél nékem, azután megemlékeznél rólam!
+Job.14.14 | Ha meghal az ember, vajjon feltámad-é? [Akkor] az én hadakozásom minden idejében reménylenék, míglen elkövetkeznék az én elváltozásom.
+Job.14.15 | Szólítanál és én felelnék néked, kivánkoznál a te kezednek alkotása után.
+Job.14.16 | De most számlálgatod az én lépéseimet, és nem nézed el az én vétkeimet!
+Job.14.17 | Gonoszságom egy csomóba van lepecsételve, és hozzáadod bűneimhez.
+Job.14.18 | Még a hegy is szétomlik, ha eldől; a szikla is elmozdul helyéről;
+Job.14.19 | A köveket lekoptatja a víz, a földet elsodorja annak árja: az ember reménységét is úgy teszed semmivé.
+Job.14.20 | Hatalmaskodol rajta szüntelen és ő elmegy; megváltoztatván az arczát, úgy bocsátod el őt.
+Job.14.21 | Ha tisztesség éri is fiait, nem tudja; ha megszégyenülnek, nem törődik velök.
+Job.14.22 | Csak őmagáért fáj még a teste, és a lelke is őmagáért kesereg.
+
+Job.15.1 | Majd felele a Témánból való Elifáz és monda:
+Job.15.2 | Vajjon a bölcs felelhet-é [ilyen] szeles tudománynyal, és megtöltheti-é a hasát keleti széllel?
+Job.15.3 | Vetekedvén oly beszéddel, a mely nem használ, és oly szavakkal, a melyekkel semmit sem segít.
+Job.15.4 | Te már semmivé akarod tenni az [Isten] félelmét is; és megkevesbíted az Isten előtt való buzgólkodást is!
+Job.15.5 | Mert gonoszságod oktatja a te szádat, és a csalárdok nyelvét választottad.
+Job.15.6 | A te szád kárhoztat téged, nem én, és a te ajakaid bizonyítanak ellened.
+Job.15.7 | Te születtél-é az első embernek; elébb formáltattál-é, mint a halmok?
+Job.15.8 | Az Isten tanácsában hallgatóztál-é, és a bölcseséget magadhoz ragadtad-é?
+Job.15.9 | Mit tudsz te, a mit mi nem tudunk, és mit értesz olyat, a mi nálunk nem volna meg?
+Job.15.10 | Ősz is, agg is van közöttünk, jóval idősebb a te atyádnál.
+Job.15.11 | Csekélységek-é előtted Istennek vigasztalásai, és a beszéd, a mely szeliden bánt veled?
+Job.15.12 | Merre ragadt téged a szíved, és merre pillantottak a te szemeid?
+Job.15.13 | Hogy Isten ellen fordítod a te haragodat, és ilyen szavakat eresztesz ki a szádon?
+Job.15.14 | Micsoda a halandó, hogy tiszta lehetne, és hogy igaz volna, a ki asszonytól születik?
+Job.15.15 | Ímé, még az ő szenteiben sem bízok, az egek sem tiszták az ő szemében:
+Job.15.16 | Mennyivel kevésbbé az útálatos és a megromlott ember, a ki úgy nyeli a hamisságot, mint a vizet?!
+Job.15.17 | Elmondom néked, hallgass rám, és a mint láttam, úgy beszélem el;
+Job.15.18 | A mit a bölcsek is hirdettek, és nem titkoltak el, mint atyáiktól valót;
+Job.15.19 | A kiknek egyedül adatott vala a föld, és közöttük idegen nem megy vala.
+Job.15.20 | Az istentelen kínozza önmagát egész életében, és az erőszakoskodó előtt is rejtve van az ő esztendeinek száma.
+Job.15.21 | A félelem hangja [cseng] az ő füleiben; a békesség [ide]jén tör rá a pusztító!
+Job.15.22 | Nem hiszi, hogy kijut a sötétségből, mert kard hegyére van ő kiszemelve.
+Job.15.23 | Kenyér után futkos, hogy hol volna? Tudja, hogy közel van hozzá a sötétség napja.
+Job.15.24 | Háborgatják őt a nyomorúság és rettegés; leverik őt, mint valami háborúra felkészült király.
+Job.15.25 | Mert az Isten ellen nyujtotta ki kezét, és erősködött a Mindenható ellen;
+Job.15.26 | [Kinyujtott] nyakkal rohant ellene, domború pajzsainak fellege alatt.
+Job.15.27 | Mivel befedezte az arczát kövérséggel, és hájat borított tomporára;
+Job.15.28 | És lakozott elrombolt városokban; lakatlan házakban, a melyek dűlőfélben vannak:
+Job.15.29 | Meg nem gazdagodik, vagyona meg nem marad, jószága nem lepi el a földet.
+Job.15.30 | Nem menekül meg a setétségtől, sarjadékát láng perzseli el, és szájának lehelletétől pusztul el.
+Job.15.31 | Ne higyjen a hívságnak, a ki megcsalatott, mert hívság lészen annak jutalma.
+Job.15.32 | Nem idejében telik el [élete,] és az ága ki nem virágzik.
+Job.15.33 | Lehullatja, mint a szőlővessző az ő egresét, elhányja, mint az olajfa az ő virágát.
+Job.15.34 | Mert a képmutató házanépe meddő, és tűz emészti meg az ajándékból való sátrakat.
+Job.15.35 | Nyomorúságot fogan, álnokságot szül, és az ő méhök csalárdságot érlel.
+
+Job.16.1 | Felele pedig Jób, és monda:
+Job.16.2 | Efféle dolgokat sokat hallottam. Nyomorult vigasztalók vagytok ti mindnyájan!
+Job.16.3 | Vége lesz-é már a szeles beszédeknek, avagy mi ingerel téged, hogy [így] felelsz?
+Job.16.4 | Én is szólhatnék úgy mint ti, csak volna a ti lelketek az én lelkem helyén! Szavakat fonhatnék össze ellenetek; csóválhatnám miattatok a fejemet;
+Job.16.5 | Erősíthetnélek titeket [csak] a szájammal és ajakim mozgása kevesbítené [fájdalmatokat.]
+Job.16.6 | Ha szólnék is, nem kevesbbednék a keserűségem; ha veszteglek is: micsoda távozik el tőlem?
+Job.16.7 | Most pedig már fáraszt engemet. Elpusztítád egész házam népét.
+Job.16.8 | Hogy összenyomtál engem, ez bizonyság lett; felkelt ellenem az én ösztövérségem is, szemtől-szembe bizonyít ellenem.
+Job.16.9 | Haragja széttépett és üldöz engem. Fogait csikorgatta rám, ellenségemként villogtatja felém tekintetét.
+Job.16.10 | Feltátották ellenem szájokat, gyalázatosan arczul csapdostak engem, összecsődültek ellenem.
+Job.16.11 | Adott engem az Isten az álnoknak, és a gonoszok kezébe ejte engemet.
+Job.16.12 | Csendességben valék, de szétszaggata engem; nyakszirten ragadott és szétzúzott engem, czéltáblává tűzött ki magának.
+Job.16.13 | Körülvettek az ő íjászai; veséimet meghasítja és nem kimél; epémet a földre kiontja.
+Job.16.14 | Rést rés után tör rajtam, és rám rohan, mint valami hős.
+Job.16.15 | Zsák-ruhát varrék az én [fekélyes] bőrömre, és a porba fúrtam be az én szarvamat.
+Job.16.16 | Orczám a sírástól kivörösödött, szempilláimra a halál árnyéka [szállt;]
+Job.16.17 | Noha erőszakosság nem tapad kezemhez, és az én imádságom tiszta.
+Job.16.18 | Oh föld, az én véremet el ne takard, és ne legyen hely az én kiáltásom számára!
+Job.16.19 | Még most is ímé az égben van az én bizonyságom, és az én tanuim a magasságban!
+Job.16.20 | Csúfolóim a saját barátaim, azért az Istenhez sír fel az én szemem,
+Job.16.21 | Hogy ítélje meg az embernek Istennel, és az ember fiának az ő felebarátjával való dolgát.
+Job.16.22 | Mert a kiszabott esztendők letelnek, és én útra kelek és nem térek vissza.
+Job.16.23 | Lelkem meghanyatlott, napjaim elfogynak, vár rám a sír.
+
+Job.17.1 | Még mindig csúfot űznek belőlem! Szemem az ő patvarkodásuk között virraszt.
+Job.17.2 | Kezest magadnál rendelj, kérlek, nékem; [különben] ki csap velem kezet?
+Job.17.3 | Minthogy az ő szívöket elzártad az értelem elől, azért nem is magasztalhatod fel őket.
+Job.17.4 | A ki prédává juttatja barátait, annak fiainak szemei elfogyatkoznak.
+Job.17.5 | Példabeszéddé tőn engem a népek előtt, és ijesztővé lettem előttök.
+Job.17.6 | A bosszúság miatt szemem elhomályosodik, és minden tagom olyan, mint az árnyék.
+Job.17.7 | Elálmélkodnak ezen a becsületesek, és az ártatlan a képmutató ellen támad.
+Job.17.8 | Ám az igaz kitart az ő útján, és a tiszta kezű ember még erősebbé lesz.
+Job.17.9 | Nosza hát, térjetek ide mindnyájan; jőjjetek, kérlek, úgy sem találok bölcset köztetek.
+Job.17.10 | Napjaim elmulának, szívemnek kincsei: terveim meghiusulának.
+Job.17.11 | Az éjszakát nappallá változtatják, és a világosság csakhamar sötétséggé lesz.
+Job.17.12 | Ha reménykedem is, a sír [már] az én házam, a sötétségben vetettem az én ágyamat.
+Job.17.13 | A sírnak mondom: Te vagy az én atyám; a férgeknek pedig: Ti vagytok az én anyám és néném.
+Job.17.14 | Hol tehát az én reménységem, ki törődik az én reménységemmel?
+Job.17.15 | Leszáll az majd a sír üregébe, velem együtt nyugoszik a porban.
+
+Job.18.1 | Felele pedig a sukhi Bildád, és monda:
+Job.18.2 | Mikor akartok a beszédnek véget vetni? Értsétek meg [a dolgot], azután szóljunk.
+Job.18.3 | Miért állíttatunk barmoknak, és miért vagyunk tisztátalanok a ti szemeitekben?
+Job.18.4 | Te éretted, a ki szaggatja lelkét haragjában, vajjon elhagyattatik-é a föld, és felszakasztatik-é a kőszikla helyéről?
+Job.18.5 | Sőt inkább a gonoszok világa kialuszik, és nem fénylik az ő tüzöknek szikrája.
+Job.18.6 | A világosság elsötétedik az ő sátorában, szövétneke kialszik felette.
+Job.18.7 | Erős léptei aprókká lesznek, saját tanácsa rontja meg őt.
+Job.18.8 | Mert lábaival hálóba bonyolódik, és ó-verem felett jár.
+Job.18.9 | A sarka tőrbe akad, és kelepcze fogja meg őt.
+Job.18.10 | Hurok rejtetett el a földbe ellene, és zsineg az ő [szokott] ösvényén.
+Job.18.11 | Mindenfelől félelmek rettentik őt, és üldözik őt léptennyomon.
+Job.18.12 | Éhség emészti fel az ő erejét, és nyomorúság leselkedik oldala mellett.
+Job.18.13 | Megemészti testének izmait, megemészti izmait a halál zsengéje.
+Job.18.14 | Eltünik sátorából az ő bátorsága, és a félelmek királyához folyamodik ő.
+Job.18.15 | Az lakik sátorában, a ki nem az övé, és hajlékára kénkövet szórnak.
+Job.18.16 | Alant elszáradnak gyökerei, és felülről levágatik az ága.
+Job.18.17 | Emlékezete elvész a földről, még az utczákon sem marad fel a neve.
+Job.18.18 | A világosságról a sötétségbe taszítják, a föld kerekségéről elüldözik őt.
+Job.18.19 | Sem fia, sem unokája nem lesz az ő népében, és semmi maradéka az ő tanyáján.
+Job.18.20 | Az ő pusztulásától megborzadnak, a kik következnek és rettegés fogja el a most élő embereket.
+Job.18.21 | Ilyenek az álnok embernek hajlékai, és ilyen annak lakóhelye, a ki nem tiszteli Istent.
+
+Job.19.1 | Felele pedig Jób, és monda:
+Job.19.2 | Meddig búsítjátok még a lelkemet, és kínoztok engem beszéddel?
+Job.19.3 | Tízszer is meggyaláztatok már engem; nem pirultok, hogy így erősködtök ellenem?
+Job.19.4 | Még ha csakugyan tévedtem is, tévedésem énmagamra hárul.
+Job.19.5 | Avagy csakugyan pöffeszkedni akartok ellenem, és feddődni az én gyalázatom felett?
+Job.19.6 | Tudjátok meg hát, hogy Isten alázott meg engem, és az ő hálójával ő vett engem körül.
+Job.19.7 | Ímé, kiáltozom az erőszak miatt, de meg nem hallgattatom, segélyért kiáltok, de nincsen igazság.
+Job.19.8 | Utamat úgy elgátolta, hogy nem mehetek át rajta, és az én ösvényemre sötétséget vetett.
+Job.19.9 | Tisztességemből kivetkőztetett, és fejemnek koronáját elvevé.
+Job.19.10 | Megronta köröskörül, hogy elveszszek, és reménységemet, mint a fát, letördelé.
+Job.19.11 | Felgerjesztette haragját ellenem, és úgy bánt velem, mint ellenségeivel.
+Job.19.12 | Seregei együtt jövének be és utat csinálnak ellenem, és az én sátorom mellett táboroznak.
+Job.19.13 | Atyámfiait távol űzé mellőlem, barátaim egészen elidegenedtek tőlem.
+Job.19.14 | Rokonaim visszahúzódtak, ismerőseim pedig elfelejtkeznek rólam.
+Job.19.15 | Házam zsellérei és szolgálóim idegennek tartanak engem, jövevény lettem előttök.
+Job.19.16 | Ha a szolgámat kiáltom, nem felel, még ha könyörgök is néki.
+Job.19.17 | Lehelletem idegenné lett házastársam előtt, s könyörgésem az én ágyékom magzatai előtt.
+Job.19.18 | Még a kisdedek is megvetnek engem, ha fölkelek, ellenem szólnak nékem.
+Job.19.19 | Megútált minden meghitt emberem; a kiket szerettem, azok is ellenem fordultak.
+Job.19.20 | Bőrömhöz és húsomhoz ragadt az én csontom, csak fogam húsával menekültem meg.
+Job.19.21 | Könyörüljetek rajtam, könyörüljetek rajtam, oh ti barátaim, mert az Isten keze érintett engem!
+Job.19.22 | Miért üldöztök engem úgy, mint az Isten, és mért nem elégesztek meg a testemmel?
+Job.19.23 | Oh, vajha az én beszédeim leirattatnának, oh, vajha könyvbe feljegyeztetnének!
+Job.19.24 | Vasvesszővel és ónnal örökre kősziklába metszetnének!
+Job.19.25 | Mert én tudom, hogy az én megváltóm él, és utoljára az én porom felett megáll.
+Job.19.26 | És miután ezt a bőrömet megrágják, testem nélkül látom meg az Istent.
+Job.19.27 | A kit magam látok meg magamnak; az én szemeim látják meg, nem más. Az én veséim megemésztettek én bennem;
+Job.19.28 | Mert ezt mondjátok: Hogyan fogjuk őt üldözni! [látva,] hogy a dolog gyökere én bennem rejlik.
+Job.19.29 | Féljetek a fegyvertől, mert a fegyver a bűnök miatt való büntetés, hogy megtudjátok, hogy van ítélet!
+
+Job.20.1 | Felele pedig a Naamából való Czófár, és monda:
+Job.20.2 | Mindamellett az én gondolataim feleletre kényszerítenek engem, és e miatt nagy az izgatottság bennem.
+Job.20.3 | Hallom gyalázatos dorgáltatásomat, de az én értelmes lelkem megfelel majd értem.
+Job.20.4 | Tudod-é azt, hogy eleitől fogva, mióta az embert e földre helyheztette,
+Job.20.5 | Az istentelenek vígassága rövid ideig tartó, és a képmutató öröme egy szempillantásig való?
+Job.20.6 | Ha szinte az égig érne is az ő magassága, és a felleget érné is a fejével:
+Job.20.7 | Mint az emésztete, úgy vész el örökre, és a kik látták, azt mondják: Hol van ő?
+Job.20.8 | Mint az álom, úgy elrepül és nem találják őt; eltünik, mint az éjjeli látomás.
+Job.20.9 | A szem, a mely rá ragyogott, nem [látja] többé, és az ő helye sem törődik már vele.
+Job.20.10 | Fiai a szegények kedvében járnak, és kezei visszaadják az ő rablott vagyonát.
+Job.20.11 | Csontjai, ha megtelnek is ifjú erővel, de vele együtt roskad az a porba.
+Job.20.12 | Ha édes az ő szájában a gonoszság, és elrejti azt az ő nyelve alá;
+Job.20.13 | És kedvez annak és ki nem veti azt, hanem ott tartogatja ínyei között:
+Job.20.14 | Az ő étke elváltozik az ő gyomrában, vipera mérgévé lesz a belében.
+Job.20.15 | Gazdagságot nyelt el, de kihányja azt, az ő hasából kiűzi azt az Isten.
+Job.20.16 | A viperának mérgét szopta és a siklónak fulánkja öli meg őt,
+Job.20.17 | [Hogy] ne lássa a folyóvizeket, a tejjel és mézzel folyó patakokat.
+Job.20.18 | A mit [másoktól] szerzett, vissza kell adnia, nem nyelheti el, ép így az ő cserébe kapott vagyonát is, hogy ne örvendezhessen annak.
+Job.20.19 | Mert megrontotta és ott hagyta a szegényeket, házat rabolt, de nem építi meg azt.
+Job.20.20 | Mivel gyomra nem tudott betelni, nem is mentheti meg semmi drágaságát.
+Job.20.21 | Az ő falánksága elől semmi sem maradt meg, azért nem lesz tartós az ő jóléte.
+Job.20.22 | Mikor teljes az ő bősége, akkor is szükséget lát, és mindenféle nyomorúság támad reá.
+Job.20.23 | Mikor meg akarja tölteni a hasát, reá bocsátja haragjának tüzét, és azt önti rá étele gyanánt.
+Job.20.24 | Mikor vasból csinált fegyver elől fut, aczélból csinált íj veri át.
+Job.20.25 | Kihúzza és az kijön a testéből és kivillan az epéjéből; rettegés támad felette.
+Job.20.26 | Mindenféle titkos sötétség van az ő vagyonán; fúvás nélkül való tűz emészti meg őt; elpusztíttatik az is, a mi sátrában megmaradt.
+Job.20.27 | Megjelentik álnokságát az egek, és a föld ellene támad.
+Job.20.28 | Házának jövedelme eltünik, szétfoly az az ő haragjának napján.
+Job.20.29 | Ez a gonosz ember fizetése Istentől, és az ő beszédének jutalma a Mindenhatótól.
+
+Job.21.1 | Felele pedig Jób, és monda:
+Job.21.2 | Jól hallgassátok meg az én beszédemet, és legyen ez a ti vigasztalástok [helyett.]
+Job.21.3 | Szenvedjetek el engem, a míg szólok, azután gúnyoljátok ki beszédemet.
+Job.21.4 | Avagy én embernek panaszolkodom-é? Miért ne volna hát keserű a lelkem?
+Job.21.5 | Tekintsetek reám és álmélkodjatok el, és tegyétek kezeteket szátokra.
+Job.21.6 | Ha visszaemlékezem, mindjárt felháborodom, és reszketés fogja el testemet.
+Job.21.7 | Mi az oka, hogy a gonoszok élnek, vénséget érnek, sőt még meg is gyarapodnak?
+Job.21.8 | Az ő magvok előttök nő fel ő velök, és az ő sarjadékuk szemeik előtt.
+Job.21.9 | Házok békességes a félelemtől, és az Isten vesszeje nincsen ő rajtok.
+Job.21.10 | Bikája folyat és nem terméketlen, tehene megellik és el nem vetél.
+Job.21.11 | Kieresztik, mint nyájat, kisdedeiket, és ugrándoznak az ő magzataik.
+Job.21.12 | Dobot és hárfát ragadnak, és örvendeznek a síp zengésének.
+Job.21.13 | Jóllétben töltik el napjaikat, és egy pillanat alatt szállnak alá a sírba;
+Job.21.14 | Noha azt mondják Istennek: Távozzál el tőlünk, mert a te utaidnak tudásában nem gyönyörködünk!
+Job.21.15 | Micsoda a Mindenható, hogy tiszteljük őt, és mit nyerünk vele, ha esedezünk előtte?
+Job.21.16 | Mindazáltal az ő javok nincsen hatalmukban, azért a gonoszok tanácsa távol legyen tőlem!
+Job.21.17 | Hányszor aluszik el a gonoszok szövétneke, és jő rájok az ő veszedelmök! [Hányszor] osztogatja részöket haragjában.
+Job.21.18 | Olyanok lesznek, mint a pozdorja a szél előtt, és mint a polyva, a melyet forgószél ragad el.
+Job.21.19 | Isten az ő fiai számára tartja fenn annak büntetését. Megfizet néki, hogy megérzi majd.
+Job.21.20 | Maga látja meg a maga veszedelmét, és a Mindenható haragjából iszik.
+Job.21.21 | Mert mi gondja van néki házanépére halála után, ha az ő hónapjainak száma letelt?!
+Job.21.22 | Ki taníthatja Istent bölcseségre, hisz ő ítéli meg a magasságban levőket is!
+Job.21.23 | Ez meghal az ő teljes boldogságában, egészen megelégedetten és nyugodtan;
+Job.21.24 | Fejőedényei tejjel vannak tele, csontjainak velője nedvességtől árad.
+Job.21.25 | Amaz elkeseredett lélekkel hal meg, mert nem élhetett a jóval.
+Job.21.26 | Együtt feküsznek a porban, és féreg lepi őket.
+Job.21.27 | Ímé, jól tudom a ti gondolatitokat és a hamisságokat, a melyekkel méltatlankodtok ellenem;
+Job.21.28 | Mert ezt mondjátok: Hol van ama főembernek háza, hol van a gonoszok lakozásának sátora?
+Job.21.29 | Avagy nem kérdeztétek-é meg azokat, a kik [sokat] utaznak és jeleiket nem ismeritek-é?
+Job.21.30 | Bizony a veszedelemnek napján elrejtetik a gonosz, a haragnak napján kiszabadul.
+Job.21.31 | Kicsoda veti szemére az ő útját, és a mit cselekedett, kicsoda fizet meg néki azért?
+Job.21.32 | Még ha a sírba vitetik is ki, a sírdomb felett is él.
+Job.21.33 | Édesek lesznek néki a sírnak hantjai, és maga után vonsz minden embert, a mint számtalanok [mentek el] előtte.
+Job.21.34 | Hogyan vigasztalnátok hát engem hiábavalósággal? Feleselésetek igazságtalanság marad.
+
+Job.22.1 | Felele pedig a Témánból való Elifáz, és monda:
+Job.22.2 | Az Istennek használ-é az ember? Sőt önmagának használ az okos!
+Job.22.3 | Gyönyörűségére van-é az a Mindenhatónak, ha te igaz vagy; avagy nyereség-é, hogy feddhetetlenül jársz?
+Job.22.4 | A te [isteni] félelmedért fedd-é téged, és [azért] perel-é veled?
+Job.22.5 | Avagy nem sok-é a te gonoszságod, és nem véghetetlen-é a te hamisságod?
+Job.22.6 | Hiszen zálogot vettél a te atyádfiától méltatlanul, és a szegényeket mezítelenekké tetted.
+Job.22.7 | Az eltikkadtnak vizet sem adtál inni, és az éhezőtől megtagadtad a kenyeret.
+Job.22.8 | A ki hatalmas volt, azé vala az ország, és a ki nagytekintélyű volt, az lakik vala rajta.
+Job.22.9 | Az özvegyeket üres kézzel bocsátottad el, és az árváknak karjai eltörettek.
+Job.22.10 | Azért vett körül téged a veszedelem, és rettegtet téged hirtelen való rettegés;
+Job.22.11 | Avagy a setétség, hogy ne láthass, és a vizek árja, a mely elborít!
+Job.22.12 | Hát nem olyan magas-é Isten, mint az egek? És lásd, a csillagok is ott fent mily igen magasak!
+Job.22.13 | És mégis azt mondod: Mit tud az Isten; megítélheti-é, a mi a homály mögött van?
+Job.22.14 | Sűrű felhők leplezik el őt és nem lát, és az ég körületén jár.
+Job.22.15 | Az ősvilág ösvényét követed-é, a melyen az álnok emberek jártak;
+Job.22.16 | A kik időnap előtt ragadtattak el, és alapjokat elmosta a víz?!
+Job.22.17 | A kik azt mondják vala Istennek: Távozzál el tőlünk! És mit cselekedék velök a Mindenható?
+Job.22.18 | Ő pedig megtöltötte házaikat jóval. De az istentelenek tanácsa távol legyen tőlem.
+Job.22.19 | Látják ezt az igazak és örülnek rajta, az ártatlan pedig csúfolja őket:
+Job.22.20 | Valósággal kigyomláltatott a mi ellenségünk, és az ő maradékjokat tűz emészti meg!
+Job.22.21 | Bízd csak azért magadat ő reá és légy békességben: ezekből jó származik reád.
+Job.22.22 | Végy csak oktatást az ő szájából, és vésd szívedbe az ő beszédeit!
+Job.22.23 | Ha megtérsz a Mindenhatóhoz, megépíttetel, [és] az álnokságot távol űzöd a te sátorodtól.
+Job.22.24 | Vesd a porba a nemes érczet, és a patakok kavicsába az ofiri aranyat:
+Job.22.25 | És akkor a Mindenható lesz a te nemes érczed és a te ragyogó ezüstöd.
+Job.22.26 | Bizony akkor a Mindenhatóban gyönyörködöl, és a te arczodat Istenhez emeled.
+Job.22.27 | Hozzá könyörögsz és meghallgat téged, és lefizeted fogadásaidat.
+Job.22.28 | Mihelyt valamit elgondolsz, sikerül az néked, és a te utaidon világosság fénylik.
+Job.22.29 | Hogyha megaláznak, felmagasztalásnak mondod azt, és ő az alázatost megtartja.
+Job.22.30 | Megszabadítja a nem ártatlant is, és pedig a te kezeidnek tisztaságáért szabadul meg az.
+
+Job.23.1 | Felele pedig Jób, és monda:
+Job.23.2 | Még most is keserű az én beszédem; súlyosabb rajtam a csapás, ha panaszkodom.
+Job.23.3 | Oh ha tudnám, hogy megtalálom őt, elmennék szinte az ő székéig.
+Job.23.4 | Elébe terjeszteném ügyemet, számat megtölteném mentő erősségekkel.
+Job.23.5 | Hadd tudnám meg, mely szavakkal felelne nékem; hadd érteném meg, mit szólana hozzám.
+Job.23.6 | Vajjon erejének nagy volta szerint perelne-é velem? Nem; csak figyelmezne reám!
+Job.23.7 | Ott egy igaz perelne ő vele; azért megszabadulhatnék birámtól örökre!
+Job.23.8 | Ámde kelet felé megyek és nincsen ő, nyugot felé és nem veszem őt észre.
+Job.23.9 | Bal kéz felől cselekszik, de meg nem foghatom; jobb kéz felől rejtőzködik és nem láthatom.
+Job.23.10 | De ő jól tudja az én utamat. Ha megvizsgálna engem, úgy kerülnék ki, mint az arany.
+Job.23.11 | Lábam az ő nyomdokát követte; utát megőriztem és nem hajoltam el.
+Job.23.12 | Az ő ajakinak parancsolatától sem tértem el; szájának beszédeit többre becsültem, mint életem táplálékát.
+Job.23.13 | Ő azonban [megmarad] egy mellett. Kicsoda téríthetné el őt? És a mit megkiván lelke, azt meg is teszi.
+Job.23.14 | Bizony végbe viszi, a mi felőlem elrendeltetett, és ilyen még sok van ő nála.
+Job.23.15 | Azért rettegek az ő színe előtt, és ha csak rá gondolok is, félek tőle.
+Job.23.16 | Mert Isten félemlítette meg az én szívemet, a Mindenható rettentett meg engem.
+Job.23.17 | Miért is nem pusztultam el e sötétség előtt, vagy miért nem takarta el előlem e homályt?!
+
+Job.24.1 | Miért is nem titkolja el a Mindenható az ő [büntetésének] idejét, és miért is nem látják meg az őt ismerők az ő [ítéletének] napjait?!
+Job.24.2 | A határokat odább tolják, a nyájat elrabolják és legeltetik.
+Job.24.3 | Az árvák szamarát elhajtják, [és] az özvegynek ökrét zálogba viszik.
+Job.24.4 | Lelökik az útról a szegényeket, [és] a föld nyomorultjai együtt lappanganak.
+Job.24.5 | Ímé, mint a vad szamarak a sivatagban, úgy mennek ki munkájukra élelmet keresni; a puszta ad nékik kenyeret fiaik számára.
+Job.24.6 | A mezőn a más vetését aratják, és a gonosznak szőlőjét szedik.
+Job.24.7 | Mezítelenül hálnak, testi ruha nélkül, még a hidegben sincs takarójuk.
+Job.24.8 | A hegyi zápor csurog le rólok, s hajlékuk nem lévén, a sziklát ölelik.
+Job.24.9 | Elszakítják az emlőtől az árvát, és a szegényen levőt zálogba viszik.
+Job.24.10 | Mezítelenül járnak, ruha nélkül, és éhesen vonszolják a kévét.
+Job.24.11 | Az ő kerítéseik közt ütik az olajat, és tapossák a kádakat, de szomjuhoznak.
+Job.24.12 | A városból haldoklók rimánkodnak, a megsebzettek lelke kiált, de Isten nem törődik e méltatlansággal.
+Job.24.13 | Ezek pártot ütöttek a világosság ellen, utait nem is ismerik, nem ülnek annak ösvényein.
+Job.24.14 | Napkeltekor fölkel a gyilkos, megöli a szegényt és szűkölködőt, éjjel pedig olyan, mint a tolvaj.
+Job.24.15 | A paráznának szeme pedig az alkonyatot lesi, mondván: Ne nézzen szem reám, és arczára álarczot teszen.
+Job.24.16 | Setétben tör be a házakba; nappal elzárkóznak, nem szeretik a világosságot.
+Job.24.17 | Sőt inkább a reggel nékik olyan, mint a halálnak árnyéka, mert megbarátkoztak a halál árnyékának félelmeivel.
+Job.24.18 | Könnyen siklik tova a víz színén, birtoka átkozott a földön, nem tér a szőlőkbe vivő útra.
+Job.24.19 | Szárazság és hőség nyeli el a hó vizét, a pokol azokat, a kik vétkeznek.
+Job.24.20 | Elfelejti őt az anyaméh, féregnek lesz édességévé, nem emlékeznek róla többé, és összetörik, mint a reves fa,
+Job.24.21 | A ki megrontotta a meddőt, a ki nem szül, és az özvegygyel jót nem tett.
+Job.24.22 | De megtámogatja erejével a hatalmasokat; felkel az, pedig nem bízott már az élethez.
+Job.24.23 | Biztonságot ad néki, hogy támaszkodjék, de szemei vigyáznak azoknak útjaira.
+Job.24.24 | Magasra emelkednek, egy kevés idő és már nincsenek! Alásülylyednek, mint akárki és elenyésznek; és levágattatnak, mint a búzakalász.
+Job.24.25 | Avagy nem így van-é? Ki hazudtolhatna meg engem, és tehetné semmivé beszédemet?
+
+Job.25.1 | Felele pedig a Sukhból való Bildád, és monda:
+Job.25.2 | Hatalom és fenség az övé, a ki békességet szerez az ő magasságaiban.
+Job.25.3 | Van-é száma az ő sereginek, és kire nem kél fel az ő világossága?
+Job.25.4 | Hogy-hogy lehetne igaz a halandó Isten előtt, hogyan lehetne tiszta, a ki asszonytól született?
+Job.25.5 | Nézd a holdat, az sem ragyogó, még a csillagok sem tiszták az ő szemei előtt.
+Job.25.6 | Mennyivel kevésbé a halandó, a ki féreg, és az embernek fia, a ki hernyó.
+
+Job.26.1 | Jób pedig felele, és monda:
+Job.26.2 | Bezzeg jól segítettél a tehetetlenen, meggyámolítottad az erőtelen kart!
+Job.26.3 | Bezzeg jó tanácsot adtál a tudatlannak, és sok értelmet tanusítottál!
+Job.26.4 | Kivel beszélgettél, és kinek a lelke jött ki belőled?
+Job.26.5 | A halottak is megremegnek [tőle;] a vizek alatt levők és azok lakói is.
+Job.26.6 | Az alvilág mezítelen előtte, és eltakaratlan a holtak országa.
+Job.26.7 | Ő terjeszti ki északot az üresség fölé és függeszti föl a földet a semmiség fölé.
+Job.26.8 | Ő köti össze felhőibe a vizeket úgy, hogy a felhő alattok meg nem hasad.
+Job.26.9 | Ő rejti el királyi székének színét, felhőjét fölibe terítvén.
+Job.26.10 | Ő szab határt a víz színe fölé - a világosságnak és setétségnek elvégződéséig.
+Job.26.11 | Az egek oszlopai megrendülnek, és düledeznek fenyegetéseitől.
+Job.26.12 | Erejével felriasztja a tengert, és bölcseségével megtöri Ráhábot.
+Job.26.13 | Lehelletével megékesíti az eget, keze átdöfi a futó kígyót.
+Job.26.14 | Ímé, ezek az ő útainak részei, de mily kicsiny rész az, a mit meghallunk abból! Ám az ő hatalmának mennydörgését ki érthetné meg?
+
+Job.27.1 | Jób pedig folytatá az ő beszédét, monda:
+Job.27.2 | Él az Isten, a ki az én igazamat elfordította, és a Mindenható, a ki keserűséggel illette az én lelkemet,
+Job.27.3 | Hogy mindaddig, a míg az én lelkem én bennem van, és az Istennek lehellete van az én orromban;
+Job.27.4 | Az én ajakim nem szólnak álnokságot, és az én nyelvem nem mond csalárdságot!
+Job.27.5 | Távol legyen tőlem, hogy igazat adjak néktek! A míg lelkemet ki nem lehelem, ártatlanságomból magamat ki nem tagadom.
+Job.27.6 | Igazságomhoz ragaszkodom, róla le nem mondok; napjaim miatt nem korhol az én szívem.
+Job.27.7 | Ellenségem lesz olyan, mint a gonosz, és a ki ellenem támad, mint az álnok.
+Job.27.8 | Mert micsoda reménysége lehet a képmutatónak, hogy telhetetlenkedett, ha az Isten mégis elragadja az ő lelkét?
+Job.27.9 | Meghallja-é kiáltását az Isten, ha eljő a nyomorúság reá?
+Job.27.10 | Vajjon gyönyörködhetik-é a Mindenhatóban; segítségül hívhatja-é mindenkor az Istent?
+Job.27.11 | Megtanítlak benneteket Isten dolgaira; a mik a Mindenhatónál vannak, nem titkolom el.
+Job.27.12 | Ímé, ti is mindnyájan látjátok: miért van hát, hogy hiábavalósággal hivalkodtok?!
+Job.27.13 | Ez a gonosz embernek osztályrésze Istentől, és a kegyetlenek öröksége a Mindenhatótól, a melyet elvesznek:
+Job.27.14 | Ha megsokasulnak is az ő fiai, a kardnak [sokasulnak meg,] és az ő magzatai nem lakhatnak jól kenyérrel sem.
+Job.27.15 | Az ő maradékai dögvész miatt temettetnek el, és az ő özvegyeik meg sem siratják.
+Job.27.16 | Ha mint a port, úgy halmozná is össze az ezüstöt, és úgy szerezné is össze ruháit, mint a sarat:
+Job.27.17 | Összeszerezheti [ugyan,] de az igaz ruházza magára, az ezüstön pedig az ártatlan osztozik.
+Job.27.18 | Házát pók módjára építette föl, és olyanná, mint a csősz-csinálta kunyhó.
+Job.27.19 | Gazdagon fekszik le, mert nincsen kifosztva; felnyitja szemeit és semmije sincsen.
+Job.27.20 | Meglepi őt, mint az árvíz, a félelem, éjjel ragadja el a zivatar.
+Job.27.21 | Felkapja őt a keleti szél és elviszi, elragadja őt helyéről.
+Job.27.22 | [Nyilakat] szór reá és nem kiméli; futva kell futnia keze elől.
+Job.27.23 | Csapkodják felette kezeiket, és kisüvöltik őt az ő lakhelyéből.
+
+Job.28.1 | Bizony az ezüstnek bányája van, és helye az aranynak, a hol tisztítják.
+Job.28.2 | A vasat a földből hozzák elő, a követ pedig érczczé olvasztják.
+Job.28.3 | Határt vet [az ember] a setétségnek, és átkutatja egészen és végig a homálynak és a halál árnyékának kövét.
+Job.28.4 | Aknát tör távol a lakóktól: mintha lábukról is megfelejtkeznének, alámerülnek és lebegnek emberektől messze.
+Job.28.5 | Van föld, a melyből kenyér terem, alant pedig fel van forgatva, mintegy tűz által;
+Job.28.6 | Köveiben zafir található, göröngyeiben arany van.
+Job.28.7 | Van ösvény, a melyet nem ismer a sas, sem a sólyom szeme nem látja azt.
+Job.28.8 | Nem tudják azt büszke vadak, az oroszlán sem lépked azon.
+Job.28.9 | Ráveti kezét [az ember] a kovakőre, a hegyeket tövükből kiforgatja.
+Job.28.10 | A sziklákban tárnákat hasít, és minden drága dolgot meglát a szeme.
+Job.28.11 | Elköti a folyók szivárgását, az elrejtett dolgot pedig világosságra hozza.
+Job.28.12 | De a bölcseség hol található, és az értelemnek hol van a helye?
+Job.28.13 | Halandó a hozzá vivő utat nem ismeri, az élők földén az nem található.
+Job.28.14 | A mélység azt mondja: Nincsen az bennem; a tenger azt mondja: én nálam sincsen.
+Job.28.15 | Színaranyért meg nem szerezhető, ára ezüsttel meg nem fizethető.
+Job.28.16 | Nem mérhető össze Ofir aranyával, nem drága onikszszal, sem zafirral.
+Job.28.17 | Nem ér fel vele az arany és gyémánt, aranyedényekért be nem cserélhető.
+Job.28.18 | Korall és kristály említni sem való; a bölcseség ára drágább a gyöngyöknél.
+Job.28.19 | Nem ér fel vele Kúsnak topáza, színaranynyal sem mérhető össze.
+Job.28.20 | A bölcseség honnan jő tehát, és hol van helye az értelemnek?
+Job.28.21 | Rejtve van az minden élő szemei előtt, az ég madarai elől is fedve van.
+Job.28.22 | A pokol és halál azt mondják: [Csak] hírét hallottuk füleinkkel!
+Job.28.23 | Isten tudja annak útját, ő ismeri annak helyét.
+Job.28.24 | Mert ő ellát a föld határira, ő lát mindent az ég alatt.
+Job.28.25 | Mikor a szélnek súlyt szerzett, és a vizeket mértékre vette;
+Job.28.26 | Mikor az esőnek határt szabott, és mennydörgő villámoknak útat:
+Job.28.27 | Akkor látta és kijelentette azt, megalapította és meg is vizsgálta azt.
+Job.28.28 | Az embernek pedig mondá: Ímé az Úrnak félelme: az a bölcseség, és az értelem: a gonosztól való eltávozás.
+
+Job.29.1 | Jób pedig folytatá az ő beszédét, és monda:
+Job.29.2 | Oh, vajha olyan volnék, mint a hajdani hónapokban, a mikor Isten őrzött engem!
+Job.29.3 | Mikor az ő szövétneke fénylett fejem fölött, [s] világánál jártam a setétet;
+Job.29.4 | A mint java-korom napjaiban valék, a mikor Isten gondossága borult sátoromra!
+Job.29.5 | Mikor még a Mindenható velem volt, [és] körültem voltak gyermekeim;
+Job.29.6 | Mikor lábaimat [édes] tejben mostam, és mellettem a szikla olajpatakokat ontott;
+Job.29.7 | Mikor a kapuhoz mentem, fel a városon; a köztéren székemet fölállítám:
+Job.29.8 | Ha megláttak az ifjak, félrevonultak, az öregek is fölkeltek [és ]állottak.
+Job.29.9 | A fejedelmek abbahagyták a beszédet, és tenyeröket szájukra tették.
+Job.29.10 | A főemberek szava elnémult, és nyelvök az ínyökhöz ragadt.
+Job.29.11 | Mert a mely fül hallott, boldognak mondott engem, és a mely szem látott, bizonyságot tett én felőlem.
+Job.29.12 | Mert megmentém a kiáltozó szegényt, és az árvát, a kinek nem volt segítsége.
+Job.29.13 | A veszni indultnak áldása szállt reám, az özvegynek szívét megörvendeztetém.
+Job.29.14 | Az igazságot magamra öltém és az is magára ölte engem; palást és süveg gyanánt volt az én ítéletem.
+Job.29.15 | A vaknak én szeme valék, és a sántának lába.
+Job.29.16 | A szűkölködőknek én atyjok valék, az ismeretlennek ügyét is jól meghányám-vetém.
+Job.29.17 | Az álnoknak zápfogait kitördösém, és fogai közül a prédát kiütém vala.
+Job.29.18 | Azt gondoltam azért: fészkemmel veszek el, és mint a homok, megsokasodnak napjaim.
+Job.29.19 | Gyökerem a víznek nyitva lesz, és ágamon hál meg a harmat.
+Job.29.20 | Dicsőségem megújul velem, és kézívem erősebbé lesz kezemben.
+Job.29.21 | Hallgattak és figyeltek reám, és elnémultak az én tanácsomra.
+Job.29.22 | Az én szavaim után nem szóltak többet, [s harmatként] hullt []rájok beszédem.
+Job.29.23 | Mint az esőre, úgy vártak rám, és szájukat tátották, mint tavaszi záporra.
+Job.29.24 | Ha rájok mosolyogtam, nem bizakodtak el, és arczom derüjét nem sötétíték be.
+Job.29.25 | [Örömest] választottam útjokat, mint főember ültem [ott;] úgy laktam [ott,] mint király a hadseregben, mint a ki bánkódókat vigasztal.
+
+Job.30.1 | Most pedig nevetnek rajtam, a kik fiatalabbak nálam a kiknek atyjokat az én juhaimnak komondorai közé sem számláltam volna.
+Job.30.2 | Mire való lett volna nékem még kezök ereje is? Rájok nézve a vénség elveszett!
+Job.30.3 | Szükség és éhség miatt összeaszottak, a kik a kopár földet futják, a sötét, sivatag pusztaságot.
+Job.30.4 | A kik keserű füvet tépnek a bokor mellett, és rekettyegyökér a kenyerök.
+Job.30.5 | Az emberek közül kiűzik őket, úgy hurítják őket, mint a tolvajt.
+Job.30.6 | Félelmetes völgyekben kell lakniok, a földnek és szikláknak hasadékaiban.
+Job.30.7 | A bokrok között ordítanak, a csalánok alatt gyülekeznek.
+Job.30.8 | Esztelen legények, sőt becstelen fiak, a kiket kivertek az országból.
+Job.30.9 | És most ezeknek lettem gúnydalává, nékik levék beszédtárgyuk!
+Job.30.10 | Útálnak engem, messze távoznak tőlem, és nem átalanak pökdösni előttem.
+Job.30.11 | Sőt leoldják kötelöket és bántalmaznak engem, és a zabolát előttem kivetik.
+Job.30.12 | Jobb felől ifjak támadnak ellenem, gáncsot vetnek lábaimnak, és ösvényt törnek felém, hogy megrontsanak.
+Job.30.13 | Az én útamat elrontják, romlásomat öregbítik, nincsen segítség ellenök.
+Job.30.14 | Mint valami széles résen, úgy rontanak elő, pusztulás között hömpölyögnek [ide].
+Job.30.15 | Rettegések fordultak ellenem, mint vihar űzik el tisztességemet, boldogságom eltünt, mint a felhő.
+Job.30.16 | Mostan azért enmagamért ontja ki magát lelkem; nyomorúságnak napjai fognak meg engem.
+Job.30.17 | Az éjszaka meglyuggatja csontjaimat bennem, és nem nyugosznak az én inaim.
+Job.30.18 | A sok erőlködés miatt elváltozott az én ruházatom; úgy szorít engem, mint a köntösöm galléra.
+Job.30.19 | A sárba vetett engem, hasonlóvá lettem porhoz és hamuhoz.
+Job.30.20 | Kiáltok hozzád, de nem felelsz; megállok és [csak] nézel reám!
+Job.30.21 | Kegyetlenné változtál irántam; kezed erejével harczolsz ellenem.
+Job.30.22 | Felemelsz, szélnek eresztesz engem, és széttépsz engem a viharban.
+Job.30.23 | Hiszen tudtam, hogy visszatérítesz engem a halálba, és a minden élő gyülekező házába;
+Job.30.24 | De a roskadóban levő ne nyujtsa-é ki kezét? Avagy ha veszendőben van, ne kiáltson-é segítségért?
+Job.30.25 | Avagy nem sírtam-é azon, a kinek kemény napja volt; a szűkölködő miatt nem volt-é lelkem szomorú?
+Job.30.26 | Bizony jót reméltem és rossz következék, világosságot vártam és homály jöve.
+Job.30.27 | Az én bensőm forr és nem nyugoszik; megrohantak engem a nyomorúságnak napjai.
+Job.30.28 | Feketülten járok, de nem a nap hősége miatt; felkelek a gyülekezetben [és] kiáltozom.
+Job.30.29 | Atyjok fiává lettem a sakáloknak, és társokká a strucz madaraknak.
+Job.30.30 | Bőröm feketül[ten hámlik le] rólam, és csontom elég a hőség miatt.
+Job.30.31 | Hegedűm sírássá változék, sípom pedig jajgatók szavává.
+
+Job.31.1 | Szövetségre léptem szemeimmel, és hajadonra mit sem ügyeltem.
+Job.31.2 | És mi volt jutalmam Istentől felülről; vagy örökségem a Mindenhatótól a magasságból?
+Job.31.3 | Avagy nem az istentelent illeti-é romlás, és nem a gonosztevőt-é veszedelem?
+Job.31.4 | Avagy nem láthatta-é utaimat, és nem számlálhatta-é meg lépéseimet?
+Job.31.5 | Ha én csalárdsággal jártam, vagy az én lábam álnokságra sietett:
+Job.31.6 | Az ő igazságának mérlegével mérjen meg engem, és megismeri Isten az én ártatlanságomat!
+Job.31.7 | Ha az én lépésem letért az útról és az én lelkem követte szemeimet, vagy kezeimhez szenny tapadt:
+Job.31.8 | Hadd vessek én és más egye meg, és tépjék ki az én maradékaimat gyökerestől!
+Job.31.9 | Ha az én szívem asszony után bomlott, és leselkedtem az én felebarátomnak ajtaján:
+Job.31.10 | Az én feleségem másnak őröljön, és mások hajoljanak rája.
+Job.31.11 | Mert gyalázatosság volna ez, és birák elé tartozó bűn.
+Job.31.12 | Mert tűz volna ez, a mely pokolig emésztene, és minden jövedelmemet tövestől kiirtaná.
+Job.31.13 | Ha megvetettem volna igazát az én szolgámnak és szolgálómnak, mikor pert kezdtek ellenem:
+Job.31.14 | Mi tevő lennék, ha felkelne az Isten, és ha meglátogatna: mit felelnék néki?
+Job.31.15 | Nem az teremtette-é őt is, a ki engem teremtett anyám méhében; nem egyugyanaz formált-é bennünket anyánk ölében?
+Job.31.16 | Ha a szegények kivánságát megtagadtam, és az özvegy szemeit epedni engedtem;
+Job.31.17 | És ha falatomat egymagam ettem meg, és az árva abból nem evett;
+Job.31.18 | Hiszen ifjúságom óta, mint atyánál nevekedett nálam, és anyámnak méhétől kezdve vezettem őt!
+Job.31.19 | Ha láttam a ruhátlant veszni indulni, és takaró nélkül a szegényt;
+Job.31.20 | Hogyha nem áldottak engem az ő ágyékai, és az én juhaim gyapjából fel nem melegedett;
+Job.31.21 | Ha az árva ellen kezemet felemeltem, mert láttam a kapuban az én segítségemet;
+Job.31.22 | A lapoczkájáról essék ki a vállam, és a forgócsontról szakadjon le karom!
+Job.31.23 | Hiszen [úgy] rettegtem Isten csapásától, és fensége előtt tehetetlen valék!
+Job.31.24 | Ha reménységemet aranyba vetettem, és azt mondtam az olvasztott aranynak: Én bizodalmam!
+Job.31.25 | Ha örültem azon, hogy nagy a gazdagságom, és hogy sokat szerzett az én kezem;
+Job.31.26 | Ha néztem a napot, mikor fényesen ragyogott, és a holdat, mikor méltósággal haladt,
+Job.31.27 | És az én szívem titkon elcsábult, és szájammal megcsókoltam a kezemet:
+Job.31.28 | Ez is biró elé tartozó bűn volna, mert ámítottam volna az Istent oda fent!
+Job.31.29 | Ha örvendeztem az engem gyűlölőnek nyomorúságán, és ugráltam örömömben, hogy azt baj érte;
+Job.31.30 | (De nem engedtem, hogy szájam vétkezzék azzal, hogy átkot kérjek az ő lelkére!)
+Job.31.31 | Ha nem mondták az én sátorom cselédei: Van-é, a ki az ő húsával jól nem lakott?
+Job.31.32 | (A jövevény nem hált az utczán, ajtóimat az utas előtt megnyitám.)
+Job.31.33 | Ha emberi módon eltitkoltam vétkemet, keblembe rejtve bűnömet:
+Job.31.34 | Bizony akkor tarthatnék a nagy tömegtől, rettegnem kellene nemzetségek megvetésétől; elnémulnék [és] az ajtón sem lépnék ki!
+Job.31.35 | Oh, bárcsak volna valaki, a ki meghallgatna engem! Ímé, ez a végszóm: a Mindenható feleljen meg nékem; és írjon könyvet ellenem az én vádlóm.
+Job.31.36 | Bizony én azt a vállamon hordanám, és korona gyanánt a fejemre tenném!
+Job.31.37 | Lépteimnek számát megmondanám néki, mint egy fejedelem, úgy járulnék hozzá!
+Job.31.38 | Ha földem ellenem kiáltott és annak barázdái együtt siránkoztak;
+Job.31.39 | Ha annak termését fizetés nélkül ettem, vagy gazdájának lelkét kioltottam:
+Job.31.40 | Búza helyett tövis teremjen és árpa helyett konkoly! Itt végződnek a Jób beszédei.
+
+Job.32.1 | Miután ez a három ember megszünt vala felelni Jóbnak, mivel ő igaz vala önmaga előtt:
+Job.32.2 | Haragra gerjede Elihu, a Barakeél fia, a ki Búztól való vala, a Rám nemzetségéből. Jób ellen gerjedt föl haragja, mivel az igazabbnak tartotta magát Istennél.
+Job.32.3 | De felgerjedt haragja az ő három barátja ellen is, mivelhogy nem találják vala el a feleletet, mégis kárhoztatják vala Jóbot.
+Job.32.4 | Elihu azonban várakozott a Jóbbal való beszéddel, mert amazok öregebbek valának ő nála.
+Job.32.5 | De mikor látta Elihu, hogy nincs felelet a három férfiú szájában, akkor gerjede föl az ő haragja.
+Job.32.6 | És felele a Búztól való Elihu, Barakeél fia, és monda: Napjaimra nézve én még csekély vagyok, ti pedig élemedett emberek, azért tartózkodtam és féltem tudatni veletek véleményemet.
+Job.32.7 | Gondoltam: Hadd szóljanak a napok; és hadd hirdessen bölcseséget az évek sokasága!
+Job.32.8 | Pedig a lélek az az emberben és a Mindenható lehellése, a mi értelmet ad néki!
+Job.32.9 | Nem a nagyok a bölcsek, és nem a vének értik az ítéletet.
+Job.32.10 | Azt mondom azért: Hallgass reám, hadd tudassam én is véleményemet!
+Job.32.11 | Ímé, én végig vártam beszédeiteket, figyeltem, a míg okoskodtatok, a míg szavakat keresgéltetek.
+Job.32.12 | Igen ügyeltem reátok és ímé, Jóbot egyikőtök sem czáfolá meg, sem beszédére meg nem felelt.
+Job.32.13 | Ne mondjátok azt: Bölcseségre találtunk, Isten győzheti meg őt és nem ember!
+Job.32.14 | Mivel én ellenem nem intézett beszédet, nem is a ti beszédeitekkel válaszolok hát néki.
+Job.32.15 | Megzavarodának és nem feleltek többé; kifogyott belőlök a szó.
+Job.32.16 | Vártam, de nem szóltak, csak álltak és nem feleltek többé.
+Job.32.17 | Hadd feleljek hát én is magamért, hadd tudassam én is véleményemet!
+Job.32.18 | Mert tele vagyok beszéddel; unszolgat engem a bennem levő lélek.
+Job.32.19 | Ímé, bensőm olyan, mint az [új] bor, a melynek nyílása nincsen; miként az új tömlők, [csaknem] szétszakad.
+Job.32.20 | Szólok tehát, hogy levegőhöz jussak; felnyitom ajkaimat, és felelek.
+Job.32.21 | Nem leszek személyválogató senki iránt; nem hizelkedem egy embernek sem;
+Job.32.22 | Mert én hizelkedni nem tudok; könnyen elszólíthatna engem a teremtőm!
+
+Job.33.1 | No azért halld meg csak Jób az én szavaimat, és vedd füledbe minden beszédemet!
+Job.33.2 | Ímé, megnyitom már az én szájamat, és a beszéd nyelvem alatt van már.
+Job.33.3 | Igaz szívből [származnak] beszédeim, tiszta tudományt hirdetnek ajkaim.
+Job.33.4 | Az Istennek lelke teremtett engem, és a Mindenhatónak lehellete adott nékem életet.
+Job.33.5 | Ha tudsz, czáfolj meg; készülj fel ellenem és állj elő!
+Job.33.6 | Ímé, én szintúgy Istené vagyok, mint te; sárból formáltattam én is.
+Job.33.7 | Ímé, a tőlem való félelem meg ne háborítson; kezem nem lészen súlyos rajtad.
+Job.33.8 | Csak az imént mondtad fülem hallatára, hallottam a beszédnek hangját:
+Job.33.9 | Tiszta vagyok, fogyatkozás nélkül: mocsoktalan vagyok, bűn nincsen bennem.
+Job.33.10 | Ímé, vádakat talál ki ellenem, ellenségének tart engem!
+Job.33.11 | Békóba veti lábaimat, és őrzi minden ösvényemet.
+Job.33.12 | Ímé, ebben nincsen igazad - azt felelem néked - mert nagyobb az Isten az embernél!
+Job.33.13 | Miért perelsz vele? Azért, hogy egyetlen beszédedre sem felelt?
+Job.33.14 | Hiszen szól az Isten egyszer vagy kétszer is, de nem ügyelnek rá!
+Job.33.15 | Álomban, éjjeli látomásban, mikor mély álom száll az emberre, és mikor ágyasházokban szenderegnek;
+Job.33.16 | Akkor nyitja meg az emberek fülét, és megpecsételi megintetésökkel.
+Job.33.17 | Hogy eltérítse az embert a [rossz] cselekedettől, és elrejtse a kevélységet a férfi elől.
+Job.33.18 | Visszatartja lelkét a romlástól, és életét hogy azt fegyver ne járja át.
+Job.33.19 | Fájdalommal is bünteti az ő ágyasházában, és csontjainak szüntelen való háborgásával.
+Job.33.20 | Úgy, hogy az ő ínye undorodik az ételtől, és lelke az ő kedves ételétől.
+Job.33.21 | Húsa szemlátomást aszik le róla; csontjai, a melyeket látni nem lehetett, kiülnek.
+Job.33.22 | És lelke közelget a sírhoz, s élete a halál angyalaihoz.
+Job.33.23 | Ha van mellette magyarázó angyal, egy az ezer közül, hogy az emberrel tudassa kötelességét;
+Job.33.24 | És [az Isten] könyörül rajta, és azt mondja: Szabadítsd meg őt, hogy ne szálljon a sírba; váltságdíjat találtam!
+Job.33.25 | Akkor teste fiatal, erőtől duzzad, újra kezdi ifjúságának napjait.
+Job.33.26 | Imádkozik Istenhez és ő kegyelmébe veszi, hogy az ő színét nézhesse nagy örömmel, és az embernek visszaadja az ő igazságát.
+Job.33.27 | Az emberek előtt énekel és mondja: Vétkeztem és az igazat elferdítettem vala, de nem e szerint fizetett meg nékem;
+Job.33.28 | Megváltotta lelkemet a sírba szállástól, és egész valóm a világosságot nézi.
+Job.33.29 | Ímé, mindezt kétszer, háromszor cselekszi Isten az emberrel,
+Job.33.30 | Hogy megmentse lelkét a sírtól, hogy világoljon az élet világosságával.
+Job.33.31 | Figyelj Jób, [és] hallgass meg engem; hallgass, hadd szóljak én!
+Job.33.32 | Ha van mit mondanod, czáfolj meg; szólj, mert igen szeretném a te igazságodat.
+Job.33.33 | Ha [pedig] nincs, hallgass meg engem, hallgass és megtanítlak téged a bölcseségre!
+
+Job.34.1 | És szóla Elihu, és monda:
+Job.34.2 | Halljátok meg bölcsek az én szavaimat, és ti tudósok hajtsátok hozzám füleiteket!
+Job.34.3 | Mert a fül próbálja meg a szót, mint az íny kóstolja meg az ételt.
+Job.34.4 | Keressük csak magunk az igazságot, értsük meg magunk között, mi a jó?
+Job.34.5 | Mert Jób azt mondá: Igaz vagyok, de Isten megtagadja igazságomat.
+Job.34.6 | Igazságom ellenére kell hazugnak lennem; halálos nyíl [talált] hibám nélkül!
+Job.34.7 | Melyik ember olyan, mint Jób, a ki iszsza a csúfolást, mint a vizet.
+Job.34.8 | És egy társaságban forog a gonosztevőkkel, és az istentelen emberekkel jár!
+Job.34.9 | Mert azt mondja: Nem használ az az embernek, ha Istennel békességben él.
+Job.34.10 | Azért, ti tudós emberek, hallgassatok meg engem! Távol legyen Istentől a gonoszság, és a Mindenhatótól az álnokság!
+Job.34.11 | Sőt inkább, a mint cselekszik az ember, úgy fizet néki, és kiki az ő útja szerint találja meg, a mit keres.
+Job.34.12 | Bizonyára az Isten nem cselekszik gonoszságot, a Mindenható el nem ferdíti az igazságot!
+Job.34.13 | Kicsoda bízta reá a földet és ki rendezte az egész világot?
+Job.34.14 | Ha csak ő magára volna gondja, lelkét és lehellését magához vonná:
+Job.34.15 | Elhervadna együtt minden test és az ember visszatérne a porba.
+Job.34.16 | Ha tehát van eszed, halld meg ezt, [és] a te füledet hajtsd az én beszédeimnek szavára!
+Job.34.17 | Vajjon, a ki gyűlöli az igazságot, kormányozhat-é? Avagy az ellenállhatatlan igazat kárhoztathatod-é?
+Job.34.18 | A ki azt mondja a királynak: Te semmirevaló! És a főembereknek: Te gonosztevő!
+Job.34.19 | A ki nem nézi a fejedelmek személyét és a gazdagot a szegénynek fölibe nem helyezteti; mert mindnyájan az ő kezének munkája.
+Job.34.20 | Egy pillanat alatt meghalnak; éjfélkor felriadnak a népek és elenyésznek, a hatalmas [is] eltűnik kéz nélkül!
+Job.34.21 | Mert ő szemmel tartja mindenkinek útját, és minden lépését jól látja.
+Job.34.22 | Nincs setétség és nincs a halálnak árnyéka, a hova elrejtőzhessék a gonosztevő;
+Job.34.23 | Mert nem sokáig kell szemmel tartania az embert, hogy az Isten elé kerüljön ítéletre!
+Job.34.24 | Megrontja a hatalmasokat vizsgálat nélkül, és másokat állít helyökbe.
+Job.34.25 | Ekképen felismeri cselekedeteiket, és éjjel is ellenök fordul és szétmorzsoltatnak.
+Job.34.26 | Gonosztevők gyanánt tapodja meg őket olyan helyen, a hol látják.
+Job.34.27 | A kik azért távoztak el, és azért nem gondoltak egyetlen útjával sem,
+Job.34.28 | Hogy a szegény kiáltását hozzájok juttatja, és ő a nyomorultak kiáltását meghallja.
+Job.34.29 | Ha ő nyugalmat ád, ki kárhoztatja őt? Ha elrejti arczát, ki láthatja meg azt? Akár nép elől, akár ember elől egyaránt;
+Job.34.30 | Hogy képmutató ember ne uralkodjék, és ne legyen tőre a népnek.
+Job.34.31 | Bizony az Istenhez így való szólani: Elszenvedem, nem leszek rossz többé;
+Job.34.32 | A mit át nem látok, arra te taníts meg engemet; ha gonoszságot cselekedtem, többet nem teszem!
+Job.34.33 | Avagy te szerinted fizessen-é [csak azért], mert ezt megveted, [és] hogy te szabd meg és nem én? Nos, mit tudsz? Mondd!
+Job.34.34 | Az okos emberek azt mondják majd nékem, és a bölcs férfiú, a ki reám hallgat:
+Job.34.35 | Jób tudatlanul szól, és szavai megfontolás nélkül valók.
+Job.34.36 | Óh, bárcsak megpróbáltatnék Jób mind végiglen, a miért úgy felel, mint az álnok emberek!
+Job.34.37 | Mert vétkét gonoszsággal tetézi, csapkod közöttünk, és Isten ellen szószátyárkodik.
+
+Job.35.1 | Tovább is felele Elihu, és monda:
+Job.35.2 | Azt gondolod-é igaznak, ha így szólsz: Az én igazságom nagyobb, mint Istené?
+Job.35.3 | Hogyha ezt mondod: Mi hasznod belőle? Mivel várhatok többet, mintha vétkezném?
+Job.35.4 | Én megadom rá néked a feleletet, és barátaidnak te veled együtt.
+Job.35.5 | Tekints az égre és lásd meg; és nézd meg a fellegeket, milyen magasan vannak feletted!
+Job.35.6 | Hogyha vétkezel, mit tehetsz ellene; ha megsokasítod bűneidet, mit ártasz néki?
+Job.35.7 | Ha igaz vagy, mit adsz néki, avagy mit kap a te kezedből?
+Job.35.8 | Az olyan embernek [árt] a te gonoszságod, mint te vagy, és igazságod az ilyen ember fiának [használ.]
+Job.35.9 | A sok erőszak miatt kiáltoznak; jajgatnak a hatalmasok karja miatt;
+Job.35.10 | De egy sem mondja: Hol van Isten, az én teremtőm, a ki hálaénekre indít éjszaka;
+Job.35.11 | A ki többre tanít minket a mezei vadaknál, és bölcsebbekké tesz az ég madarainál?
+Job.35.12 | Akkor azután kiálthatnak, de ő nem felel a gonoszok kevélysége miatt;
+Job.35.13 | Mert a hiábavalóságot Isten meg nem hallgatja, a Mindenható arra nem tekint.
+Job.35.14 | Hátha még azt mondod: Te nem látod őt; az ügy előtte van és te reá vársz!
+Job.35.15 | Most pedig, mivel nem büntet haragja, és nem figyelmez a nagy álnokságra:
+Job.35.16 | Azért tátja fel Jób hívságra a száját, [és] szaporítja a szót értelem nélkül.
+
+Job.36.1 | És folytatá Elihu, és monda:
+Job.36.2 | Várj még egy kevéssé, majd felvilágosítlak, mert az Istenért még van mit mondanom.
+Job.36.3 | Tudásomat messzünnen veszem, és az én teremtőmnek igazat adok.
+Job.36.4 | Mert az én beszédem bizonyára nem hazugság; tökéletes tudású [ember áll] melletted.
+Job.36.5 | Ímé, az Isten hatalmas, még sem vet meg semmit; hatalmas az ő lelkének ereje.
+Job.36.6 | Nem tartja meg a gonosznak életét, de a szegénynek igaz törvényt teszen.
+Job.36.7 | Nem veszi le az igazról szemeit, sőt a királyok mellé, a trónba ülteti őket örökre, hogy felmagasztaltassanak.
+Job.36.8 | És ha békókba veretnek, és fogva tartatnak a nyomorúság kötelein:
+Job.36.9 | Tudtokra adja cselekedetöket, és vétkeiket, hogyha elhatalmaztak [rajtok].
+Job.36.10 | Megnyitja füleiket a feddőzésnek és megparancsolja, hogy a vétekből megtérjenek:
+Job.36.11 | Ha engednek és szolgálnak néki, napjaikat jóban végzik el, és az ő esztendeiket gyönyörűségekben.
+Job.36.12 | Ha pedig nem engednek, fegyverrel veretnek által, és tudatlanságban múlnak ki.
+Job.36.13 | De az álnok szívűek haragot táplálnak, nem kiáltanak, mikor megkötözi őket.
+Job.36.14 | Azért ifjúságukban hal meg az ő lelkök, és életök a paráznákéhoz hasonló.
+Job.36.15 | A nyomorultat megszabadítja az ő nyomorúságától, és a szorongattatással megnyitja fülöket.
+Job.36.16 | Téged is kiszabadítana az ínség torkából tág mezőre, a hol nincs szorultság, és asztalod étke kövérséggel lenne rakva;
+Job.36.17 | De ha gonosz ítélettel vagy tele, úgy utolérnek az ítélet és igazság.
+Job.36.18 | Csakhogy a harag ne ragadjon téged csúfkodásra, és a nagy váltságdíj se tántorítson el.
+Job.36.19 | Ad-é valamit a te gazdagságodra? Sem aranyra, sem semmiféle erőfeszítésre!
+Job.36.20 | Ne kívánjad az éjszakát, a mely népeket mozdít ki helyökből.
+Job.36.21 | Vigyázz! ne pártolj a bűnhöz, noha azt a nyomorúságnál jobban szereted.
+Job.36.22 | Ímé, mily fenséges az Isten az ő erejében; kicsoda az, a ki úgy tanítson, mint ő?
+Job.36.23 | Kicsoda szabta meg az ő útjait, vagy ki mondhatja [azt]: Igazságtalanságot cselekedtél?
+Job.36.24 | Legyen rá gondod, hogy magasztaljad az ő cselekedetét, a melyről énekelnek az emberek!
+Job.36.25 | Minden ember azt szemléli; a halandó távolról is látja.
+Job.36.26 | Ímé, az Isten fenséges, mi nem ismerhetjük őt! esztendeinek száma sem nyomozható ki.
+Job.36.27 | Hogyha magához szívja a vízcseppeket, ködéből mint eső cseperegnek alá,
+Job.36.28 | A melyet a fellegek [özönnel] öntenek, és hullatnak le temérdek emberre.
+Job.36.29 | De sőt értheti-é valaki a felhő szétoszlását, az ő sátorának zúgását?
+Job.36.30 | Ímé, szétterjeszti magára az ő világosságát, és ráborítja a tengernek gyökereit.
+Job.36.31 | Mert ezek által ítéli meg a népeket, ád eledelt bőségesen.
+Job.36.32 | Kezeit elborítja villámlással, és kirendeli a lázadó ellen.
+Job.36.33 | Az ő dörgése ad hírt felőle, mint a barom a közeledő viharról.
+Job.36.34 | Ezért remeg az én szívem, és csaknem kiszökik helyéből.
+
+Job.37.1 | Halljátok meg figyelmetesen az ő hangjának dörgését, és a zúgást, a mely az ő szájából kijön!
+Job.37.2 | Az egész ég alatt szétereszti azt, és villámát is a földnek széléig.
+Job.37.3 | Utána hang zendül, az ő fenségének hangjával mennydörög, s nem tartja vissza azt, ha szava megzendült.
+Job.37.4 | Isten az ő szavával csudálatosan mennydörög, és nagy dolgokat cselekszik, úgy hogy nem érthetjük.
+Job.37.5 | Mert azt mondja a hónak: Essél le a földre! És a zápor-esőnek és a zuhogó zápornak: [Szakadjatok].
+Job.37.6 | Minden ember kezét lepecsétli, hogy megismerje minden halandó, hogy az ő műve.
+Job.37.7 | Akkor a vadállat az ő tanyájára húzódik, és az ő barlangjában marad.
+Job.37.8 | Rejtekéből előjön a vihar, és az északi szelektől a fagy.
+Job.37.9 | Isten lehellete által támad a jég, és szorul össze a víznek szélessége.
+Job.37.10 | Majd nedvességgel öntözi meg a felleget, s áttöri a borulatot az ő villáma.
+Job.37.11 | És az köröskörül forog az ő vezetése alatt, hogy mindazt megtegyék, a mit parancsol nékik, a föld kerekségének színén.
+Job.37.12 | Vagy ostorul, ha földjének úgy kell, vagy áldásul juttatja azt.
+Job.37.13 | Vedd ezt füledbe Jób, állj meg és gondold meg az Istennek csudáit.
+Job.37.14 | Megtudod-é, mikor rendeli azt rájok az Isten, hogy villanjon az ő felhőjének villáma?
+Job.37.15 | Tudod-é, hogy miként lebegnek a felhők, [vagy] a tökéletes tudásnak csudáit [érted-é?]
+Job.37.16 | Miképen melegülnek át ruháid, mikor nyugton van a föld a déli széltől?
+Job.37.17 | Vele együtt terjesztetted-é ki az eget, a mely szilárd, mint az aczéltükör?
+Job.37.18 | Mondd meg nékünk, mit szóljunk néki? A setétség miatt semmit sem kezdhetünk.
+Job.37.19 | Elbeszélik-é néki, ha szólok? Ha elmondaná valaki: bizony vége volna!
+Job.37.20 | Néha nem látják a napot, bár az égen ragyog; de szél fut át [rajta] és kiderül.
+Job.37.21 | Észak felől arany[színű világosság] támad, Isten körül félelmetes dicsőség.
+Job.37.22 | Mindenható! Nem foghatjuk meg őt; nagy az ő hatalma és ítélő ereje, és a tiszta igazságot el nem nyomja.
+Job.37.23 | Azért rettegjék őt az emberek; a [kevély] bölcsek közül nem lát ő egyet sem.
+
+Job.38.1 | Majd felele az Úr Jóbnak a forgószélből és monda:
+Job.38.2 | Ki az, a ki elhomályosítja az örök rendet tudatlan beszéddel?
+Job.38.3 | Nosza övezd fel, mint férfiú derekadat, én majd kérdezlek, te meg taníts engem!
+Job.38.4 | Hol voltál, mikor a földnek alapot vetettem? Mondd meg, ha tudsz valami okosat!
+Job.38.5 | Ki határozta meg mértékeit, ugyan tudod-é; avagy ki húzta el felette a mérő zsinórt?
+Job.38.6 | Mire bocsátották le oszlopait, avagy ki vetette fel szegeletkövét;
+Job.38.7 | Mikor együtt örvendezének a hajnalcsillagok, és Istennek minden fiai vigadozának?
+Job.38.8 | És [kicsoda] zárta el ajtókkal a tengert, a mikor előtünt, az anyaméhből kijött;
+Job.38.9 | Mikor ruházatává a felhőt tevém, takarójául pedig a sürű homályt?
+Job.38.10 | Mikor reávontam törvényemet, zárat és ajtókat veték eléje:
+Job.38.11 | És azt mondám: Eddig jőjj és ne tovább; ez itt ellene áll kevély habjaidnak!
+Job.38.12 | Parancsoltál-é a reggelnek, a mióta megvagy? Kimutattad-é a hajnalnak a helyét?
+Job.38.13 | Hogy belefogózzék a földnek széleibe, és lerázassanak a gonoszok róla.
+Job.38.14 | Hogy átváltozzék mint a megpecsételt agyag, és előálljon, mint egy ruhában.
+Job.38.15 | Hogy a gonoszoktól elvétessék világosságuk, és a fölemelt kar összetöressék?
+Job.38.16 | Eljutottál-é a tenger forrásáig, bejártad-é a mélységnek fenekét?
+Job.38.17 | Megnyíltak-é néked a halálnak kapui; a halál árnyékának kapuit láttad-é?
+Job.38.18 | Áttekintetted-é a föld szélességét, mondd meg, ha mindezt jól tudod?
+Job.38.19 | Melyik út [visz] oda, hol a világosság lakik, és a sötétségnek hol van a helye?
+Job.38.20 | Hogy visszavinnéd azt az ő határába, és hogy megismernéd lakása útjait.
+Job.38.21 | Tudod te ezt, hiszen már akkor megszülettél; napjaidnak száma nagy!
+Job.38.22 | Eljutottál-é a hónak tárházához; vagy a jégesőnek tárházát láttad-é?
+Job.38.23 | A mit fentartottam a szükség idejére, a harcz és háború napjára?
+Job.38.24 | Melyik út [visz oda], a hol szétoszlik a világosság, és szétterjed a keleti szél a földön?
+Job.38.25 | Ki hasított nyílást a záporesőnek, és a mennydörgő villámnak útat?
+Job.38.26 | Hogy aláessék az ember nélkül való földre, a pusztaságra, holott senki sincsen;
+Job.38.27 | Hogy megitasson pusztát, sivatagot, és hogy sarjaszszon zsenge pázsitot?
+Job.38.28 | Van-é atyja az esőnek, és ki szülte a harmat cseppjeit?
+Job.38.29 | Kinek méhéből jött elő a jég, és az ég daráját kicsoda szülte?
+Job.38.30 | [Miként] rejtőznek el a vizek mintegy kő [alá,] és [mint] zárul be a mély vizek színe?
+Job.38.31 | Összekötheted-é a fiastyúk szálait; a kaszáscsillag köteleit megoldhatod-é?
+Job.38.32 | A hajnalcsillagot előhozhatod-é az ő idejében, avagy a gönczölszekeret forgathatod-é fiával együtt?
+Job.38.33 | Ismered-é az ég törvényeit, vagy te határozod-é meg uralmát a földön?
+Job.38.34 | Felemelheted-é szavadat a felhőig, hogy a vizeknek bősége beborítson téged?
+Job.38.35 | Kibocsáthatod-é a villámokat, hogy elmenjenek, vagy mondják-é néked: Itt vagyunk?
+Job.38.36 | Ki helyezett bölcseséget a setét felhőkbe, vagy a tüneményeknek ki adott értelmet?
+Job.38.37 | Ki számlálta meg a bárányfelhőket bölcseséggel, és ki üríti ki az égnek tömlőit;
+Job.38.38 | Mikor a por híg sárrá változik, és a göröngyök összetapadnak?
+
+Job.39.1 | Vadászol-é prédát a nőstény oroszlánnak, és az oroszlánkölykök éhségét kielégíted-é;
+Job.39.2 | Mikor meglapulnak tanyáikon, [és] a bokrok közt lesben vesztegelnek?
+Job.39.3 | Ki szerez a hollónak eledelt, mikor a fiai Istenhez kiáltoznak; kóvályognak, mert nincs mit enniök?
+Job.39.4 | Tudod-é a kőszáli zergék ellésének idejét; megvigyáztad-é a szarvasok fajzását?
+Job.39.5 | Megszámláltad-é a hónapokat, a meddig vemhesek; tudod-é az ellésök idejét?
+Job.39.6 | [Csak] összegörnyednek, elszülik magzataikat, vajudásaiktól []megszabadulnak.
+Job.39.7 | Fiaik meggyarapodnak, a legelőn nagyranőnek, elszélednek és nem térnek vissza hozzájok.
+Job.39.8 | Ki bocsátotta szabadon a vadszamarat, ki oldozta el e szamárnak kötelét,
+Job.39.9 | A melynek házául a pusztát rendelém, és lakóhelyéül a sósföldet?
+Job.39.10 | Kineveti a városbeli sokadalmat, nem hallja a hajtsár kiáltozását.
+Job.39.11 | A hegyeken szedeget, az ő legelőjén mindenféle zöld [gazt] felkeres.
+Job.39.12 | Akar-é szolgálni néked a bölény? Avagy meghál-é a te jászolodnál?
+Job.39.13 | Oda kötheted a bölényt a barázdához kötelénél fogva? Vajjon boronálja-é a völgyeket utánad?
+Job.39.14 | Bízhatol-é benne, mivelhogy nagy az ereje, és munkádat hagyhatod-é reá?
+Job.39.15 | Hiszed-é róla, hogy vetésedet behordja, és szérűdre betakarítja?
+Job.39.16 | Vígan [leng] a struczmadár szárnya: vajjon az eszterág szárnya és tollazata-é az?
+Job.39.17 | Hiszen a földön hagyja tojásait, és a porral költeti ki!
+Job.39.18 | És elfeledi, hogy a láb eltiporhatja, és a mezei vad eltaposhatja azokat.
+Job.39.19 | Fiaival oly keményen bánik, mintha nem is övéi volnának; ha fáradsága kárba vész, nem bánja;
+Job.39.20 | Mert Isten a bölcseséget elfeledtette vele, értelmet pedig nem adott néki.
+Job.39.21 | De hogyha néki ereszkedik, kineveti a lovat és lovagját.
+Job.39.22 | Te adsz-é erőt a lónak, avagy a nyakát sörénynyel te ruházod-é fel?
+Job.39.23 | Felugraszthatod-é, mint a sáskát? Tüsszögése dicső, félelmetes!
+Job.39.24 | [Lábai] vermet ásnak, örvend erejének, a fegyver elé rohan.
+Job.39.25 | Neveti a félelmet; nem remeg, nem fordul meg a fegyver elől;
+Job.39.26 | Csörög rajta a tegez, ragyog a kopja és a dárda:
+Job.39.27 | Tombolva, nyihogva kapálja a földet, és nem áll veszteg, ha trombita zeng.
+Job.39.28 | A trombitaszóra nyerítéssel felel; messziről megneszeli az ütközetet, a vezérek lármáját és a csatazajt.
+Job.39.29 | A te értelmed miatt van-é, hogy az ölyv repül, [és] kiterjeszti szárnyait dél felé?
+Job.39.30 | A te rendelésedre száll-é fent a sas, és rakja-é fészkét a magasban?
+Job.39.31 | A kősziklán lakik és tanyázik, a sziklák párkányain és bércztetőkön.
+Job.39.32 | Onnét kémlel enni való után, messzire ellátnak szemei.
+Job.39.33 | Fiai vért szívnak, és a hol dög van, mindjárt ott [terem.]
+Job.39.34 | Szóla továbbá az Úr Jóbnak, és monda:
+Job.39.35 | A ki pert kezd a Mindenhatóval, czáfolja meg, és a ki az Istennel feddődik, feleljen néki!
+Job.39.36 | És szóla Jób az Úrnak, és monda:
+Job.39.37 | Ímé, én parányi vagyok, mit feleljek néked? Kezemet a szájamra teszem.
+Job.39.38 | Egyszer szóltam, de már nem szólok, avagy kétszer, de nem teszem többé!
+
+Job.40.1 | Ekkor szóla az Úr Jóbnak a forgószélből, és monda:
+Job.40.2 | Nosza! övezd fel, mint férfi, derekadat; én kérdezlek, te pedig taníts engem!
+Job.40.3 | Avagy semmivé teheted-é te az én igazságomat; kárhoztathatsz-é te engem azért, hogy te igaz légy?
+Job.40.4 | És van-é ugyanolyan karod, mint az Istennek, mennydörgő hangon szólasz- é, mint ő?
+Job.40.5 | Ékesítsd csak fel magadat fénynyel és méltósággal, ruházd fel magadat dicsőséggel és fenséggel!
+Job.40.6 | Öntsd ki haragodnak tüzét, és láss meg minden kevélyt és alázd meg őket!
+Job.40.7 | Láss meg minden kevélyt és törd meg őket, és a gonoszokat az ő helyükön tipord le!
+Job.40.8 | Rejtsd el őket együvé a porba, orczájukat kösd be mélységes sötéttel:
+Job.40.9 | Akkor én is dicsőítlek, hogy megtartott téged a te jobbkezed!
+Job.40.10 | Nézd csak a behemótot, a melyet én teremtettem, a miként téged is, fűvel él, mint az ökör!
+Job.40.11 | Nézd csak az erejét az ő ágyékában, és az ő erősségét hasának izmaiban!
+Job.40.12 | Kiegyenesíti farkát, mint valami czédrust, lágyékának inai egymásba fonódnak.
+Job.40.13 | Csontjai érczcsövek, lábszárai, mint a vasrudak.
+Job.40.14 | Az Isten alkotásainak remeke ez, az ő teremtője adta meg néki fegyverét.
+Job.40.15 | Mert füvet teremnek számára a hegyek, és a mező minden vadja ott játszadozik.
+Job.40.16 | Lótuszfák alatt heverész, a nádak és mocsarak búvóhelyein.
+Job.40.17 | Befedezi őt a lótuszfák árnyéka, [és] körülveszik őt a folyami fűzfák.
+Job.40.18 | Ha árad is a folyó, nem siet; bizton van, ha szájához a Jordán csapna is.
+Job.40.19 | Megfoghatják-é őt szemei láttára, vagy átfúrhatják-é az orrát tőrökkel?!
+
+Job.41.1 | Kihúzhatod-é a leviáthánt horoggal, leszoríthatod-é a nyelvét kötéllel?
+Job.41.2 | Húzhatsz-é gúzst az orrába, az állát szigonynyal átfurhatod-é?
+Job.41.3 | Vajjon járul-é elődbe sok könyörgéssel, avagy szól-é hozzád sima beszédekkel?
+Job.41.4 | Vajjon frigyet köt-é veled, hogy fogadd őt örökös szolgádul?
+Job.41.5 | Játszhatol-é vele, miként egy madárral; gyermekeid kedvéért megkötözheted-é?
+Job.41.6 | Alkudozhatnak-é felette a társak, vagy a kalmárok közt feloszthatják-é azt?
+Job.41.7 | Tele rakhatod-é nyársakkal a bőrét, avagy szigonynyal a fejét?
+Job.41.8 | Vesd rá a kezedet, de megemlékezzél, hogy a harczot nem ismételed.
+Job.41.9 | Ímé, az ő reménykedése csalárd; [puszta] látása is halálra ijeszt!
+Job.41.10 | Nincs oly merész, a ki őt felverje. Ki hát az, a ki velem szállna szembe?
+Job.41.11 | Ki adott nékem elébb, hogy azt visszafizessem? A mi az ég alatt van, mind enyém!
+Job.41.12 | Nem hallgathatom el testének részeit, erejének mivoltát, alkotásának szépségét.
+Job.41.13 | Ki takarhatja fel ruhája felszínét; két sor foga közé kicsoda hatol be?
+Job.41.14 | Ki nyitotta fel orczájának ajtait? Fogainak sorai körül rémület [lakik!]
+Job.41.15 | Büszkesége a csatornás pajzsok, összetartva [mintegy] szorító pecséttel.
+Job.41.16 | Egyik szorosan a másikhoz lapul, hogy közéje levegő se megy.
+Job.41.17 | Egyik a másikhoz tapad, egymást tartják, egymástól elszakadhatatlanok.
+Job.41.18 | Tüsszentése fényt sugároz ki, és szemei, mint a hajnal szempillái.
+Job.41.19 | A szájából szövétnekek jőnek ki, [és] tüzes szikrák omlanak ki.
+Job.41.20 | Orrlyukaiból gőz lövel elő, mint a forró fazékból és üstből.
+Job.41.21 | Lehellete meggyujtja a holt szenet, és a szájából láng lövel elő.
+Job.41.22 | Nyakszirtjén az erő tanyáz, előtte félelem ugrándozik.
+Job.41.23 | Testének részei egymáshoz tapadtak; kemény önmagában és nem izeg-mozog.
+Job.41.24 | Szíve kemény, mint a kő, oly kemény, mint az alsó malomkő.
+Job.41.25 | Hogyha felkél, hősök is remegnek; ijedtökben veszteg állnak.
+Job.41.26 | Ha éri is a fegyver, nem áll meg benne, [legyen bár] dárda, kopja vagy kelevéz.
+Job.41.27 | Annyiba veszi a vasat, mint a pozdorját, az aczélt, mint a korhadt fát.
+Job.41.28 | A nyíl vesszője el nem űzi őt, a parittyakövek pozdorjává változnak rajta.
+Job.41.29 | Pozdorjának tartja a buzogányütést is, és kineveti a bárd suhogását.
+Job.41.30 | Alatta éles cserepek vannak; mint szeges borona hentereg az iszap felett.
+Job.41.31 | Felkavarja a mély vizet, mint a fazekat, a tengert olyanná teszi, mint a festékedény.
+Job.41.32 | Maga után világos ösvényt hagy, azt hinné [valaki,] a tenger megőszült.
+Job.41.33 | Nincs e földön hozzá hasonló, a mely úgy teremtetett, hogy ne rettegjen.
+Job.41.34 | Lenéz minden nagy állatot, ő a király minden ragadozó felett.
+
+Job.42.1 | Jób pedig felele az Úrnak, és monda:
+Job.42.2 | Tudom, hogy te mindent megtehetsz, és senki téged el nem fordíthat attól, a mit elgondoltál.
+Job.42.3 | Ki az - mondod - a ki gáncsolja az örök rendet tudatlanul? Megvallom azért, hogy nem értettem; csodadolgok ezek nékem, és fel nem foghatom.
+Job.42.4 | Hallgass hát, kérlek, én hadd beszéljek; én kérdezlek, te pedig taníts meg engem!
+Job.42.5 | Az én fülemnek hallásával hallottam felőled, most pedig szemeimmel látlak téged.
+Job.42.6 | Ezért hibáztatom [magam] és bánkódom a porban és hamuban!
+Job.42.7 | Miután pedig e szavakat mondotta vala az Úr Jóbnak, szóla a Témánból való Elifáznak: Haragom felgerjedt ellened és két barátod ellen, mert nem szóltatok felőlem igazán, mint az én szolgám, Jób.
+Job.42.8 | Most azért vegyetek magatokhoz hét tulkot és hét kost, és menjetek el az én szolgámhoz Jóbhoz, és áldozzatok magatokért égőáldozatot; Jób pedig, az én szolgám, imádkozzék ti érettetek; mert csak az ő személyére tekintek, hogy retteneteset ne cselekedjem veletek, mivelhogy nem szóltatok felőlem igazán, mint az én szolgám Jób.
+Job.42.9 | Elmenének azért a Témánból való Elifáz, a Sukhból való Bildád és a Naamából való Czófár, és úgy cselekedének, a miképen mondotta vala nékik az Úr, és az Úr tekinte Jóbnak személyére.
+Job.42.10 | Azután eltávolítá Isten Jóbról a csapást, miután imádkozott vala az ő barátaiért, és kétszeresen visszaadá az Úr Jóbnak mindazt, a mije volt.
+Job.42.11 | És beméne hozzá minden fiútestvére és minden leánytestvére és minden előbbi ismerőse, és evének ő vele együtt kenyeret az ő házában; sajnálkozának felette és vigasztalák őt mindama nyomorúság miatt, a melyet az Úr reá bocsátott vala, és kiki ada néki egy-egy pénzt, és kiki egy-egy aranyfüggőt.
+Job.42.12 | Az Úr pedig jobban megáldá a Jób [életének] végét, mint kezdetét, mert lőn néki tizennégyezer juha, hatezer tevéje, ezer igás ökre és ezer szamara.
+Job.42.13 | És lőn néki hét fia és három leánya.
+Job.42.14 | És az elsőnek neve vala Jémima, a másodiké Kecziha, a harmadiké Kéren- Happuk.
+Job.42.15 | És nem találtatnak vala olyan szép leányok, mint a Jób leányai, abban az egész tartományban, és az ő atyjok örökséget is ada nékik az ő fiútestvéreik között.
+Job.42.16 | Jób pedig él vala ezután száznegyven esztendeig, és látja vala az ő fiait és unokáit negyedízig.
+Job.42.17 | És meghala Jób jó vénségben és betelve az élettel.

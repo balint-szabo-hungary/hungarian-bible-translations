@@ -1,0 +1,1034 @@
+Acts.1.1 | Első könyvemet Teofilus, mindazokról a dolgokról írtam, amelyeket Jézus cselekedett és tanított
+Acts.1.2 | mindama napig, amelyen felvitetett, miután parancsolatokat adott a Szentlélek által az apostoloknak, akiket kiválasztott,
+Acts.1.3 | Ezeknek az ő szenvedése után sok jel által meg is mutatta, hogy él, mert negyven napon át megjelent nekik és szólt az Isten országára tartozó dolgokról.
+Acts.1.4 | És mikor együtt volt velük, meghagyta nekik, hogy ne menjenek el Jeruzsálemből, hanem várják meg az Atya ígéretét: amelyet hallottatok tőlem,
+Acts.1.5 | hogy János ugyan vízzel keresztelt, ti azonban nem sok idő múlva Szentlélekkel fogtok megkereszteltetni.
+Acts.1.6 | Mikor tehát összegyűltek, megkérdezték: Uram, nemde ebben az időben állítod helyre a királyságot Izrael számárat
+Acts.1.7 | Szólt pedig nekik: Nem a ti dolgotok tudni az időket és alkalmakat, amelyeket az Atya a maga hatalmába helyezett.
+Acts.1.8 | Hanem amikor a Szentlélek eljön rátok, vesztek erőt és tanúim lesztek nekem, mind Jeruzsálemben, mind az egész Júdeában és Samáriában, egészen a föld végső határáig.
+Acts.1.9 | És mikor ezeket mondta, szemük láttára felemeltetett és felhő fogta be őt szemük elől.
+Acts.1.10 | És amint tekintetüket az égre függesztették a távozó után, íme két férfiú állott meg mellettük fehér ruhában,
+Acts.1.11 | akik meg is szólaltak: Galileai férfiak, mit álltok itt a mennybe nézve? Ez a Jézus, aki tőletek felvitetett a mennybe, úgy jön el, amint őt a mennybe felmenni láttátok.
+Acts.1.12 | Akkor visszatértek Jeruzsálembe az Olajfák hegyéről, amely Jeruzsálem mellett van egy szombatnapi járó földre.
+Acts.1.13 | És mikor bementek, felmentek a felső szobába, ahol szállva voltak: Péter és János és Jakab és András, Fülöp és Tamás, Bertalan és Máté, Jakab, az Alfeus fia és Simon, a zélóta és Júdás, a Jakab fia.
+Acts.1.14 | Ezek mindnyájan egy szívvel-lélekkel buzgólkodtak az imádkozásban az asszonyokkal és Máriával, Jézus anyjával, és az ő testvéreivel együtt.
+Acts.1.15 | És azokban a napokban felállott Péter az atyafiak között, — mintegy százhúsz főnyi sokaság volt együtt — és így szólt:
+Acts.1.16 | Atyámfiai, férfiak, be kellett teljesednie az Írásnak, amelyet a Szentlélek megjövendölt Dávid szája által Júdás felől, aki vezetőjük lett azoknak, akik Jézust elfogták.
+Acts.1.17 | Mert közénk számláltatott és osztályosa volt ennek a szolgálatnak.
+Acts.1.18 | Ez mezőt szerzett gonoszsága béréből és hanyatthomlok lezuhant, és úgy megszakadt középen, hogy minden belső része kifordult.
+Acts.1.19 | És ez tudomására jutott mindazoknak, akik Jeruzsálemben laknak, úgy-hogy ezt a mezőt tulajdon nyelvükön Akeldamának, azaz Vérmezőnek nevezték el.
+Acts.1.20 | Mert meg van írva a Zsoltárok könyvében: Legyen az ő lakóhelye puszta és ne legyen lakó abban! — és: Tisztét más vegye át.
+Acts.1.21 | Szükséges tehát, hogy azok közül a férfiak közül, akik minden időben velünk voltak, míg az Úr Jézus köztünk járt,
+Acts.1.22 | János keresztségétől kezdve addig a napig, amelyen ő felvitetett tőlünk, ezek közül egy velünk együtt az ő feltámadásának tanúja legyen.
+Acts.1.23 | Kijelöltek kettőt: Józsefet, akit Barsabásnak hívtak akinek mellékneve Jusztus volt, és Mátyást.
+Acts.1.24 | És így imádkoztak: Te, Uram, aki mindenkinek szívét ismered, mutasd meg e kettő közül az egyiket, akit kiválasztottál,
+Acts.1.25 | hogy elnyerje ennek a szolgálatnak és apostolságnak osztályrészét, amelytől Júdás elpártolt, hogy az őt megillető helyre jusson.
+Acts.1.26 | "Sorsot vetettek azért rájuk és a sors Mátyásra esett; és a tizenegy apostolhoz soroltatott."
+
+Acts.2.1 | És mikor a pünkösd napja eljött, mindnyájan együtt voltak egy helyen.
+Acts.2.2 | Ekkor nagy hirtelenséggel az égből mintegy sebesen zúgó szélnek zendülése támadt, és eltöltötte az egész házat, ahol ültek.
+Acts.2.3 | És mintegy tüzes nyelvek jelentek meg előttük, melyek megoszlottak és közülök mindegyikre leszállott egy.
+Acts.2.4 | Ekkor megteltek mindnyájan Szentlélekkel és kezdtek szólni más nyelveken, amint a Lélek adta nekik szólniuk.
+Acts.2.5 | Tartózkodtak pedig Jeruzsálemben zsidók, istenfélő férfiak, minden nép közül, amelyek az ég alatt vannak.
+Acts.2.6 | Mikor pedig ez a zúgás lett, a sokaság összefutott és zavarba jött, mivel mindegyik a maga nyelvén hallotta őket szólani.
+Acts.2.7 | Mindnyájan megdöbbentek és csodálkoztak, és ezt mondták egymásnak: Nemde, mindnyájan galileabeliek ezek, akik szólnak?
+Acts.2.8 | Hogyan halljuk hát őket kiki közülünk a saját nyelvén, amelyben születtünk?
+Acts.2.9 | Pártusok és médek és elámiták és akik Mezopotámiában lakunk, Júdeában és Kappadóciában, Pontusban és Ázsiában,
+Acts.2.10 | Frigiában és Pamfiliában, Egyiptomban és Líbia tartományaiban, amely Ciréne mellett van, és a római jövevények mind zsidók, mind prozeliták,
+Acts.2.11 | krétaiak és arabok, halljuk, amint beszélik a mi nyelvünkön az Isten felséges dolgait.
+Acts.2.12 | És mindnyájan megdöbbentek és tanácstalanok voltak, és ezt mondták egymásnak: vajjon mi lesz ebből?
+Acts.2.13 | Mások pedig csúfolódva mondták: Édes bortól részegedtek meg.
+Acts.2.14 | Péter azonban előállott a tizeneggyel, felemelte szavát és így szólt nekik: Zsidó férfiak és ti mindnyájan, akik Jeruzsálemben laktok, vegyétek tudomásul és hallgassátok meg az én beszédeimet.
+Acts.2.15 | "Mert nem részegek ezek, amint gondoljátok; hiszen a napnak harmadik órája van;"
+Acts.2.16 | hanem ez az, amit megmondott Jóel próféta:
+Acts.2.17 | "És lesz az utolsó napokban, — ezt mondja az Isten, — kitöltök az én Lelkemből mindenkire; és prófétálnak fiaitok és leányaitok, és ifjaitok látásokat látnak és véneitek álmokat álmodnak."
+Acts.2.18 | Sőt az én szolgáimra és szolgálóleányaimra is árasztok azokban a napokban az én Lelkemből, és prófétálnak.
+Acts.2.19 | És csodákat teszek fenn az égben és jeleket lenn a földön: vért, tüzet és füstfellegeket.
+Acts.2.20 | A nap sötétséggé változik és a hold vérré, mielőtt eljön az Úrnak ama nagy és fényes napja,
+Acts.2.21 | És lesz, hogy mindenki, aki az Úr nevét segítségül hívja, megtartatik.
+Acts.2.22 | Izraelita férfiak, halljátok meg e beszédeket: A názáreti Jézust, azt a férfiút, aki előttetek Istentől bizonyságot nyert hatalmas cselekedetek, csodatételek és jelek által, amelyeket ő általa, cselekedett az Isten köztetek, — amint magatok is tudjátok, —
+Acts.2.23 | azt, aki az Isten elvégzett tanácsából és rendeléséből nektek kiadatott, az istentelenek keze által keresztre feszítettétek és megöltétek.
+Acts.2.24 | Őt az Isten feltámasztotta, megoldotta a halál fájdalmait, mivel lehetetlen is volt, hogy az őt fogva tartsa.
+Acts.2.25 | Mert Dávid azt mondja róla: Magam előtt láttam az Urat mindenkor, mert ő nekem jobb kezem felől van, hogy meg ne tántorodjam.
+Acts.2.26 | "Ezért örvendezett az én szívem és vigadott az én nyelvem; ezenfelül testem is majd reménységben nyugszik."
+Acts.2.27 | Mert nem hagyod az én lelkemet a sírban és nem fogod engedni, hogy a te Szented rothadást lásson.
+Acts.2.28 | "Megismertetted velem az élet útjait; örömmel töltesz be majd engem a te orcád előtt."
+Acts.2.29 | Atyámfiai, férfiak, szabad nyíltan szólanom hozzátok Dávid pátriárkáról, hogy meghalt és el is temették és sírja mind e mai napig nálunk van.
+Acts.2.30 | Mivel ő próféta volt és tudta, hogy az Isten neki esküvel fogadta, hogy majd azt ülteti az ő királyi székébe, aki az ő ágyékának gyümölcséből való,
+Acts.2.31 | ezt előre látva, szólott a Krisztus feltámadásáról, hogy ő sem hagyatott a sírban, sem teste rothadást nem látott.
+Acts.2.32 | Ezt a Jézust feltámasztotta az Isten, aminek mi mindnyájan tanúi vagyunk.
+Acts.2.33 | Miután tehát Isten jobbja által felmagasztaltatott és a megígért Szentlelket az Atyától elnyerte, amint ti most látjátok és halljátok, kitöltötte azt.
+Acts.2.34 | Mert nem Dávid ment fel a mennybe, hiszen ő maga mondja: Szólott az Úr az én Uramnak: Ülj az én jobbom felől,
+Acts.2.35 | míg ellenségeidet lábad alá vetem zsámolyul.
+Acts.2.36 | Tudja meg hát Izrael egész háza bizonyossággal, hogy Úrrá és Krisztussá tette őt az Isten: azt a Jézust, akit ti megfeszítettetek.
+Acts.2.37 | Mikor pedig ezeket hallották, mintha szíven találták volna őket, így szóltak Péternek és a többi apostolnak: Mit cselekedjünk, atyámfiai, férfiak?
+Acts.2.38 | Péter pedig azt mondta nekik: Térjetek meg és keresztelkedjetek meg mindnyájan a Jézus Krisztus nevére, bűneitek bocsánatára, és veszitek a Szentlélek ajándékát.
+Acts.2.39 | Mert nektek szól az ígéret és a ti gyermekeiteknek, és mind azoknak, akik messze vannak, valakiket csak elhív magának az Úr, a mi Istenünk.
+Acts.2.40 | Sok más beszéddel is tanúbizonyságot tett és így intette őket: Mentsétek ki magatokat e gonosz nemzedékből!
+Acts.2.41 | "Akik tehát örömest vették az ő beszédét, megkeresztelkedtek; és hozzájuk csatlakozott azon a napon mintegy háromezer lélek."
+Acts.2.42 | És állhatatosak voltak az apostolok tanításában, a közösségben, a kenyér megtörésében és az imádkozásban.
+Acts.2.43 | "És minden lélekben félelem támadt; az apostolok pedig sok csodát és jelet tettek."
+Acts.2.44 | Mindazok pedig, akik hittek, együtt voltak és mindenük közös volt,
+Acts.2.45 | és birtokaikat és vagyonukat eladták. Azokat szétosztották mindenkinek aszerint, amint kinek-kinek szüksége volt.
+Acts.2.46 | És minden nap egy akarattal, állhatatosan a templomban voltak és a kenyeret házanként megtörték. Nagy örömmel és tiszta szívvel részesültek az eledelben,
+Acts.2.47 | és dicsérték az Istent és az egész nép előtt kedvességet találtak. Az Úr pedig napról-napra gyarapította az egyházat azokkal, akik üdvösséget nyertek.
+
+Acts.3.1 | Péter és János együtt mentek fel a templomba, az imádkozás órájára, kilenc órakor.
+Acts.3.2 | És egy férfit hoztak oda, aki születésétől fogva sánta volt. Ezt naponta oda szokták vinni a templomnak úgynevezett Ékes-kapujába, hogy a templomba menőktől alamizsnát kérjen.
+Acts.3.3 | Mikor ez látta, hogy Péter és János be akar menni a templomba, alamizsnát kért tőlük.
+Acts.3.4 | Ekkor Péter Jánossal együtt rátekintett és így szólt: Nézz ránk.
+Acts.3.5 | Ő tehát figyelmesen rájuk nézett abban a reményben, hogy valamit kap tőlük.
+Acts.3.6 | De Péter azt mondta: Ezüstöm és aranyom nincs, de amim van, azt adom neked: a Názáreti Jézus Krisztus nevében, — járj!
+Acts.3.7 | És jobbkezénél fogva felemelte, és azonnal megerősödött a lába és a bokája.
+Acts.3.8 | Felszökött, talpra állott és járt. Majd bement velük a templomba és dicsérte az Istent járkálva, szökellve.
+Acts.3.9 | És az egész nép látta őt, hogy jár és dicséri az Istent,
+Acts.3.10 | és felismerték, hogy ez volt az, aki alamizsnáért ült a templom Ékes-kapujában. És megteltek csodálkozással és megdöbbenéssel afelett, ami vele történt.
+Acts.3.11 | Miközben pedig ő állandóan Péter és János nyomában volt, az egész nép megdöbbenve összefutott hozzájuk az oszlopcsarnokba, amelyet Salamonénak neveznek.
+Acts.3.12 | Ennek láttára pedig Péter így szólt a néphez: Izrael férfiai, mit csodálkoztok ezen, vagy mit néztek úgy ránk, mintha tulajdon erőnkkel vagy kegyességünkkel műveltük volna azt, hogy ő járjon.
+Acts.3.13 | Ábrahám, Izsák és Jákob Istene, a mi atyáink Istene, megdicsőítette az ő Fiát, Jézust, akit ti elárultatok és megtagadtatok Pilátus előtt, bár ő ítéletével el akarta bocsátani.
+Acts.3.14 | Ti azonban azt a Szentet és Igazat megtagadtátok és azt kívántátok, hogy egy gyilkost bocsásson szabadon nektek,
+Acts.3.15 | az élet fejedelmét pedig megöltétek, azt, akit az Isten feltámasztott a halottak közül. Ennek mi tanúi vagyunk.
+Acts.3.16 | És az ő nevébe vetett hit által erősítette meg ő maga ezt, akit ti láttok és ismertek, és a tőle kapott hit adta vissza épségét, mindnyájatok szeme láttára.
+Acts.3.17 | De most, atyámfiai, tudom, hogy tudatlanságból cselekedtetek, mint a ti vezetőitek is.
+Acts.3.18 | Az Isten pedig így töltötte be mindazt, amit eleve hirdetett minden próféta szája által, hogy az ő Krisztusának szenvednie kell.
+Acts.3.19 | Tartsatok bűnbánatot és térjetek meg, hogy eltöröltessenek a ti bűneitek s így eljöjjenek az enyhülés napjai az Úrtól,
+Acts.3.20 | és elküldje Jézust, akit Krisztusul rendelt nektek
+Acts.3.21 | és akit az égnek kell magába fogadnia mindaddig, míg minden újjá nem teremtetik, amiről szól az Isten az ő szent prófétáinak szája által eleitől fogva.
+Acts.3.22 | Mert Mózes ezt mondta: Prófétát támaszt nektek az Úr, a ti Istenetek, atyátokfiai közül, mint engem: mindenben őt hallgassátok, amit csak mond nektek.
+Acts.3.23 | Lesz pedig, hogy minden lélek, amely nem hallgat arra a prófétára, ki fog irtatni a nép közül.
+Acts.3.24 | De a próféták is mindnyájan Sámueltől és a következőktől fogva, akik csak szóltak, e napokról jövendöltek.
+Acts.3.25 | Ti vagytok a prófétáknak és a szövetségnek fiai, amelyet Isten kötött a mi atyáinkkal, amikor így szólt Ábrahámnak: És a te magodban megáldatnak a föld nemzetségei mindnyájan.
+Acts.3.26 | Az Isten az ő Fiát elsősorban nektek támasztotta fel és elküldte őt, aki megáld titeket azáltal, hogy mindegyikőtök megtér a bűneiből.
+
+Acts.4.1 | Míg azonban ők a néphez szóltak, odaléptek hozzájuk a papok és a templomi őrség parancsnoka meg a szadduceusok.
+Acts.4.2 | Nehezteltek ugyanis amiatt, hogy a népet tanítják és hirdetik a Jézusban a halottak közül való feltámadást.
+Acts.4.3 | És rájuk vetették a kezüket és őrizetbe vették őket másnapig. Mert már este volt.
+Acts.4.4 | Sokan pedig azok közül, akik hallgatták az igét, hittek. Így lett a férfiak száma mintegy ötezer.
+Acts.4.5 | Másnap pedig összegyűltek a főembereik, véneik és írástudóik Jeruzsálemben,
+Acts.4.6 | és Annás, a főpap, és Kajafás és János és Sándor s mind, akik a főpapi családból valók voltak.
+Acts.4.7 | És mikor őket középre állították, tudakozták tőlük: Micsoda hatalommal vagy micsoda név által cselekedtétek ti ezt?
+Acts.4.8 | Akkor Péter, Szentlélekkel megtelve, így felelt nekik: Ti, főemberei a népnek és ti vének, (A 8. versben a vének szó helyett egyes kéziratokban ez olvasható: Izraelnek vénei.)
+Acts.4.9 | ha minket e mai napon egy beteg emberen való jótétemény miatt vallattok, hogy miáltal gyógyult meg ez:
+Acts.4.10 | vegyétek tudomásul mindnyájan ti és Izrael egész népe, hogy a názáreti Jézus Krisztus neve által, akit ti megfeszítettetek, de akit Isten feltámasztott a halottak közül, ő általa áll előttetek ez az ember épségben.
+Acts.4.11 | Ez az a kő, amelyet ti, az építők megvetettetek, amely a szegelet fejévé lett.
+Acts.4.12 | "És nincs senkiben másban üdvösség; mert nem adatott emberek között az ég alatt más név, amely által kellene megtartatnunk."
+Acts.4.13 | Mikor pedig látták Péternek és Jánosnak hitvalló bátorságát és megértették, hogy írástudatlan és egyszerű emberek, csodálkoztak. Fel is ismerték őket, hogy Jézussal voltak.
+Acts.4.14 | Mikor azonban látták, hogy a meggyógyult ember ott áll velük együtt, semmit sem szólhattak ellenük.
+Acts.4.15 | Mikor pedig kiküldték őket a gyűlésből, így tanácskoztak maguk között:
+Acts.4.16 | Mit cselekedjünk ezekkel az emberekkel? Mert hogy nyilvánvaló csoda történt általuk, ezt Jeruzsálem valamennyi lakosa tudja és mi sem tagadhatjuk.
+Acts.4.17 | "De hogy tovább ne terjedjen a nép között, fenyegessük meg őket, hogy többé egy embernek se szóljanak a Jézus nevében;"
+Acts.4.18 | Beszólították tehát őket és megparancsolták nekik, hogy egyáltalán ne szóljanak és ne tanítsanak Jézus nevében.
+Acts.4.19 | Péter és János azonban azt felelték nekik: Döntsétek el ti magatok, vajjon helyes-e az Isten előtt, ha inkább rátok hallgatunk, mint Istenre?
+Acts.4.20 | Mert nem tehetjük, hogy amiket láttunk és hallottunk, azokról ne szóljunk.
+Acts.4.21 | "Amazok pedig nem találtak semmi módot, miként büntessék meg azokat; ezért újból megfenyegették és szabadon bocsátották őket a nép miatt, mert mindnyájan dicsőítették az Istent azért, ami történt."
+Acts.4.22 | Mert negyven évesnél idősebb volt az az ember, akin a gyógyításnak ez a csodája történt.
+Acts.4.23 | Miután pedig szabadon bocsátották őket, elmentek az övéikhez és elbeszélték mindazt, amit a papi fejedelmek és vének mondtak nekik.
+Acts.4.24 | Mikor pedig ezek hallották, egy szívvel-lélekkel felemelték szavukat az Istenhez és szóltak: Urunk, te teremtetted az eget, a földet, a tengert és mindent, ami azokban van.
+Acts.4.25 | Te mondtad a mi atyánknak, Dávidnak, a te szolgádnak szájával a Szentlélek által: Miért zúgolódnak a pogányok és gondolnak hiábavalókat a népek?
+Acts.4.26 | Felkeltek a föld királyai és a fejedelmek összegyűltek az Úr ellen és az ő Krisztusa ellen.
+Acts.4.27 | Mert valóban összegyűltek Heródes és Poncius Pilátus a pogányokkal és Izrael népével e városban a te szent Fiad, a Jézus ellen, akit te felkentél,
+Acts.4.28 | hogy vigyék mindazt, amikről a te kezed és tanácsod eleve elvégezte, hogy megtörténjenek.
+Acts.4.29 | Most azért, Urunk, tekints az ő fenyegetéseikre és add meg a te szolgáidnak, hogy teljes bátorsággal hirdessék a te igédet,
+Acts.4.30 | nyújtsd ki kezedé gyógyításra, hogy jelek is és csodák is történjenek a te szent Fiadnak, a Jézusnak neve által.
+Acts.4.31 | És miután könyörögtek, megrendült az a hely, ahol összegyűltek és megteltek mindnyájan Szentlélekkel, és az Isten igéjét bátorsággal hirdették.
+Acts.4.32 | A hivők sokaságának pedig szíve-lelke egy volt és senki semmi vagyonát nem mondta a magáénak, hanem mindenük közös volt.
+Acts.4.33 | És az apostolok nagy erővel tettek bizonyságot az Úr Jézus feltámadásáról és nagy kegyelem volt mindnyájukon.
+Acts.4.34 | Mert szűkölködő sem volt közöttük senki. Mert mindazok, akiknek szántóföldjük és házaik voltak, azokat eladták, az eladottak árát pedig elhozták,
+Acts.4.35 | és letették az apostolok lábainál, azután elosztották kinek-kinek, amint arra szüksége volt.
+Acts.4.36 | József is, akit az apostolok Barnabásnak neveztek el (ami lefordítva ezt jelenti: Vigasztalás fia), ez a ciprusi származású lévita,
+Acts.4.37 | mivel mezeje volt, azt eladta, a pénzt elhozta és az apostolok lábainál letette.
+
+Acts.5.1 | Egy ember azonban, név szerint Anániás, Szatírával, az ő feleségével eladta birtokát,
+Acts.5.2 | ám feleségének is tudtával . annak árából félretett. Azután egy részét, elvitte és letette az apostolok lábai elé.
+Acts.5.3 | Péter azonban így szólt: Anániás, miért foglalta el a Sátán a te szívedet, hogy hazudjál a Szentléleknek és a szántóföld árából félretégy ?
+Acts.5.4 | Nemde, ha el nem adod, neked maradt volna meg, és miután eladtad, nem a te hatalmadban volt-e az ára? Miért, hogy ezt cselekedted szívedben? Nem embereknek hazudtál, hanem az Istennek.
+Acts.5.5 | Mikor e szavakat Anániás meghallotta, lerogyott és meghalt. És mindazokban, akik ezt hallották, nagy félelem támadt.
+Acts.5.6 | Az ifjak pedig felkeltek, begöngyölték őt, azután kivitték és eltemették.
+Acts.5.7 | Mintegy három óra múlva a felesége, a történtekről mit-sem tudva, bement.
+Acts.5.8 | Szólt pedig neki Péter: Mondd meg nekem, vájjon ennyiért adtátok el a földet? Ő. pedig azt válaszolta: Igen, ennyiért.
+Acts.5.9 | Péter erre így szólt neki: Miért beszéltetek, össze, hogy az Úr Lelkét megkísértsétek? Íme, az ajtó előtt vannak azoknak lábai, akik eltemették a te férjedet és kivisznek téged.
+Acts.5.10 | És azonnal összerogyott lábainál és meghalt. Mikor az ifjak bejöttek, halva találták őt. Ekkor kivitték és eltemették a férje mellé.
+Acts.5.11 | És nagy félelem támadt az egész gyülekezetben és mindazokban, akik ezeket hallották.
+Acts.5.12 | Az apostolok keze által pedig sok jel és csoda történt a nép között. És mindnyájan egy akarattal Salamon oszlopcsarnokában tartózkodtak.
+Acts.5.13 | A többiek közül azonban senki sem mert közéjük elegyedni. De a nép dicsérte őket
+Acts.5.14 | és egyre inkább gyarapították számukat azok, akik hittek az Úrban, férfiak és nők seregestül,
+Acts.5.15 | úgyannyira, hogy az utcákra hordták ki a betegeket és hordozható ágyakra és fekvőhelyekre rakták le, hogy az arra elhaladó Péternek legalább az árnyéka ráessék valamelyikükre.
+Acts.5.16 | És a szomszéd városok sokasága is Jeruzsálembe gyűlt, hozva betegeket és tisztátalan lelkektől gyötörteket, akik mind meggyógyultak.
+Acts.5.17 | Akkor előállott a főpap és mind, akik vele voltak, azaz a szadduceusok pártja, és megteltek irigységgel.
+Acts.5.18 | És rávetették kezüket az apostolokra és közös tömlöcbe vetették őket.
+Acts.5.19 | De az Úr angyala éjtszaka megnyitotta a tömlöc ajtaját, kihozta őket, és így szólt:
+Acts.5.20 | Menjetek el, álljatok ki és hirdessétek a templomban a népnek ennek az Életnek minden beszédét.
+Acts.5.21 | Azok pedig ennek hallatára jókor reggel bementek a templomba és tanítottak. Mikor azután a főpap és akik vele voltak, megérkeztek, összehívták a tanácsot és Izrael népéből a vének gyűlését és elküldtek a tömlöcbe, hogy azokat elő hozzák.
+Acts.5.22 | De mikor a törvényszolgák odamentek, nem találták őket a tömlöcben. Visszatérve tehát jelentették:
+Acts.5.23 | "A tömlöcöt ugyan nagy gondossággal bezárva találtuk, az őrök is ott álltak kívül az ajtó előtt; mikor azonban az ajtót kinyitottuk, bent senkit sem találtunk."
+Acts.5.24 | Amint pedig meghallották e szavakat, a templomőrség parancsnoka és a papi fejedelmek zavarban voltak azok miatt, hogy vajjon mi lesz ebből.
+Acts.5.25 | Eljött pedig valaki, és hírül adta nekik: íme azok a férfiak, akiket tömlöcbe vetettetek, a templomban állanak és tanítják a népet.
+Acts.5.26 | Ekkor elment a parancsnok a törvényszolgákkal s előhozták őket, de erőszak nélkül. Féltek ugyanis a néptől, hogy megkövezi őket.
+Acts.5.27 | Előhozták pedig őket, odaállították a tanács elé és megkérdezte tőlük a főpap:
+Acts.5.28 | Szigorú paranccsal meghagytuk nektek, hogy ne tanítsatok a Jézus nevében és íme betöltöttétek egész Jeruzsálemet tanításotokkal és ránk akarjátok hárítani ennek az embernek a vérét.
+Acts.5.29 | Péter azonban és az apostolok így feleitek: Istennek kell inkább engedelmeskedni, mint az embereknek.
+Acts.5.30 | A mi atyáink Istene feltámasztotta Jézust, akit ti fára függesztve megöltetek.
+Acts.5.31 | Ezt az Isten fejedelemmé és megváltóvá emelte jobbjával, hogy Izraelnek megtérést és bűnbocsánatot adjon.
+Acts.5.32 | És mi vagyunk a tanúi ezeknek az eseményeknek és a Szentlélek is, akit az Isten adott azoknak, akik neki engedelmeskednek.
+Acts.5.33 | Mikor pedig ezeket hallották, fogaikat csikorgatták és arról tanácskoztak, hogy megölik őket.
+Acts.5.34 | Felkelt azonban a tanácsban egy farizeus, névszerint Gamáliel, az egész nép előtt tisztelt törvénytudó és megparancsolta, hogy egy kis időre vezessék ki az embereket.
+Acts.5.35 | És így szólt hozzájuk: Izraelita férfiak, vegyétek jól fontolóra, hogy mit akartok ezekkel az emberekkel cselekedni.
+Acts.5.36 | Mert kevés idővel ezelőtt felkelt Teudás, és azt állította, hogy ő valaki. Körülbelül négyszáz ember csatlakozott hozzá. Őt megölték és mindazok, akik követték, szétszóródtak és semmivé lettek.
+Acts.5.37 | Ezután felkelt a galileai Júdás az összeírás idején és sok népet maga után csábított. Ez is elveszett és mindazok, akik hozzá szegődtek, szétszóródtak.
+Acts.5.38 | Most is azt tanácsolom nektek, ne bántsátok ezeket az embereket, és hagyjatok nekik békét. Mert ha embertől van ez a tanács vagy ez a dolog, semmivé lesz.
+Acts.5.39 | Ha ellenben Istentől van, ti nem veszthetitek el őket, — hogy esetleg isten ellen harcolóknak is ne találtassatok.
+Acts.5.40 | Engedtek azért neki és miután előszólították az apostolokat, megverették őket és megparancsolták, hogy Jézus nevében ne szóljanak azután szabadon bocsátották őket.
+Acts.5.41 | Ők tehát örömmel távoztak a tanács elől, hogy méltóknak ítéltettek arra, hogy az ő nevéért gyalázatot szenvedjenek.
+Acts.5.42 | És minden nap a templomban és házanként nem szűntek meg tanítani és hirdetni Jézust, a Krisztust.
+
+Acts.6.1 | Azokban a napokban pedig, mikor a tanítványok száma gyarapodott, a görögül beszélő zsidók között zúgolódás támadt a héberek ellen, hogy a közülük való özvegyasszonyokat mellőzik a mindennapi szolgálatnál.
+Acts.6.2 | Ezért a tizenkettő összegyűjtötte a tanítványok sokaságát és így szólt: Nem helyes, hogy mi az Isten igéjét elhanyagoljuk az asztalok körül való szolgálatért.
+Acts.6.3 | Válasszatok azért, atyámfiai, magatok közül hét férfit, akiknek jó bizonyságuk van, akik telve annak Lélekkel és bölcsességgel, hogy rájuk bízzuk ezt a feladatot.
+Acts.6.4 | Mi pedig állandóan az imádkozással és az igehirdetés szolgálatával foglalatoskodunk.
+Acts.6.5 | És helyeselte ezt a beszédet az egész sokaság, és ekkor kiválasztották Istvánt, aki hittel és Szentlélekkel teljes férfiú volt, Fülöpöt, Prohorust, Nikánort, Tiniont, Pármenást és Nikolaust, aki antiókhiai prozelita volt:
+Acts.6.6 | ezeket az apostolok elé állították és ők, miután imádkoztak, rájuk tették a kezüket.
+Acts.6.7 | És az Isten igéje terjedt és a tanítványok száma erősen gyarapodott Jeruzsálemben. És a papok közül is nagyon sokan engedelmeskedtek a hitnek.
+Acts.6.8 | István pedig, aki teljes volt kegyelemmel és erővel, nagy csodákat és jeleket cselekedett a nép között.
+Acts.6.9 | Előállottak azonban némelyek azok közül, akik a szabadosok, ciréneiek, alexandriaiak, ciliciaiak és ázsia-beliek zsinagógájához tartoztak és vitatkoztak Istvánnal.
+Acts.6.10 | De nem állhattak ellene annak a bölcsességnek és Léleknek, amellyel beszélt.
+Acts.6.11 | Akkor felbujtottak néhány embert, akik így szóltak: Hallottuk, hogy ő káromló beszédeket mondott Mózes ellen és az Isten ellen.
+Acts.6.12 | És fellázították a népet, a véneket és az írástudókat és rárohanva, magukkal ragadták őt és a tanács elé vitték.
+Acts.6.13 | Hamis tanúkat is állítottak, akik ezt mondták: Ez az ember nem szűnik meg káromló beszédeket mondani e szent hely és a törvény ellen.
+Acts.6.14 | Mert hallottuk, mikor azt mondta: az a názáreti Jézus lerontja ezt a helyet és megváltoztatja azokat a szokásokat, amelyeket Mózes hagyott reánk.
+Acts.6.15 | Ekkor a tanácsban ülők mindnyájan rátekintettek és olyannak látták az arcát, mint egy angyalét.
+
+Acts.7.1 | Szólott pedig a főpap: Csakugyan így van ez?
+Acts.7.2 | Ő pedig ezt mondta: Férfiak, atyámfiai és atyák, halljátok meg! A dicsőség Istene megjelent a mi atyánknak, Ábrahámnak, mikor Mezopotámiában tartózkodott, mielőtt áttelepedett Háránba,
+Acts.7.3 | és így szólt neki: Menj ki a te földedről és a te nemzetséged közül és jöjj arra a földre, amelyet mutatok neked.
+Acts.7.4 | "Akkor kiment a kaldeusok földjéről, áttelepedett Háránba; és onnét, miután az atyja meghalt, Isten kihozta őt erre a földre, amelyen ti most laktok."
+Acts.7.5 | "És nem adott neki abban egy talpalatnyi örökséget sem; és azt ígérte, hogy neki adja azt birtokul és az ő magvának ő utána, holott nem volt gyermeke."
+Acts.7.6 | Úgy szólt pedig az Isten, hogy az ő magva zsellér lesz idegen földön és szolgálat alá vetik és nyomorgatják négyszáz esztendeig.
+Acts.7.7 | De azt a népet, amelynek szolgálnak, én megítélem, — mondta az Isten — és ezek után kijönnek és szolgálnak nekem ezen a helyen.
+Acts.7.8 | És adta neki a körülmetélés szövetségét. Így született az ő fia, Izsák,, akit körülmetélt nyolcadnapra, és Izsák fia Jákob és Jákobé a tizenkét pátriárka.
+Acts.7.9 | A pátriárkák pedig irigységből eladták Józsefet Egyiptomba, de az Isten vele volt
+Acts.7.10 | és megszabadította őt minden nyomorúságából és adott neki kedvességet és bölcsességet Egyiptom királya, a fáraó, előtt. Ez kormányzóul rendelte őt Egyiptom és az ő egész háza fölé.
+Acts.7.11 | Azután éhínség következett Egyiptom és Kánaán egész földjére és nagy nyomorúság, úgyhogy a mi atyáink nem találtak eledelt.
+Acts.7.12 | Mikor pedig meghallotta Jákob, hogy Egyiptomban még van élelem, elküldte először a mi atyáinkat.
+Acts.7.13 | A második alkalommal megismertette magát József az Ő testvéreivel, úgyhogy ismeretessé lett József származása a fáraó előtt.
+Acts.7.14 | És József érte küldött és magához hívatta atyját, Jákobot és egész, hetvenöt lélekből álló nemzetségét.
+Acts.7.15 | "Így ment le Jákob Egyiptomba; ott halt meg ő és a mi atyáink."
+Acts.7.16 | Onnan Sikembe vitték és ott helyezték el abba a sírba, amelyet Ábrahám vásárolt ezüst pénzen Einmór fiaitól Sikemben.
+Acts.7.17 | Mikor pedig elközelgett az ígéret ideje, amelyet Isten esküvel ígért Ábrahámnak, megnövekedett a nép és megsokasodott Egyiptomban,
+Acts.7.18 | amíg csak más király nem támadt Egyiptomban, aki nem ismerte Józsefet.
+Acts.7.19 | Ez a mi nemzetségünkkel álnokul bánt, sanyargatta a mi atyáinkat, hogy magzataikat kitegyék, hogy azok ne maradjanak életben.
+Acts.7.20 | Akkor született Mózes, aki kedves volt az Isten előtt. Ezt három hónapig atyja házában tartották.
+Acts.7.21 | Mikor pedig kitették, a fáraó leánya magához vette és felnevelte őt saját fiaként.
+Acts.7.22 | És megtanították Mózest az egyiptomiak minden bölcsességére, úgyhogy hatalmas volt beszédeiben és cselekedeteiben.
+Acts.7.23 | Mikor pedig negyvenedik évét betöltötte, arra indította a szíve, hogy meglátogassa atyjafiait, az izraelitákat.
+Acts.7.24 | És mikor látta, hogy az egyiket bántalmazzák, megvédte azt és megölte az egyiptomit, bosszút állott azért, akit bántalommal illettek.
+Acts.7.25 | "És azt gondolta, hogy atyjafiai majd megértik, hogy Isten az ő keze által ad nekik szabadulást; de azok nem értették meg."
+Acts.7.26 | "Másnap meg olyankor jelent meg közöttük, mikor összevesztek és békességre intette őket: Férfiak, ti atyafiak vagytok; miért bántjátok egymást?"
+Acts.7.27 | De az, aki az ő felebarátját bántalmazta, így utasította őt el: Ki tett téged fejedelemmé és bíróvá közöttünk?
+Acts.7.28 | Csak nem akarsz engem is megölni, mint ahogy megölted tegnap az egyiptomit?
+Acts.7.29 | E beszédre Mózes elmenekült és jövevény lett Midián földjén, ahol két fia született.
+Acts.7.30 | És negyven esztendő elteltével megjelent neki a Sinai hegy pusztájában az Úr angyala a csipkebokor tüzes lángjában.
+Acts.7.31 | Mikor meglátta Mózes, elcsodálkozott ezen a látomáson. De mikor odament, hogy megszemlélje, így hangzott az Úr szava hozzá:
+Acts.7.32 | Én vagyok a te atyáidnak Istene, Ábrahámnak Istene, Izsáknak Istene és Jákobnak Istene. Mózes pedig megrémült és nem mert odanézni.
+Acts.7.33 | Az Úr pedig így szólt neki: Oldozd le lábadról sarudat, mert a hely, amelyen állasz, szent föld.
+Acts.7.34 | Jól láttam népemnek nyomorúságát Egyiptomban, hallottam sóhajtozásukat és azért szállottam le, hogy megszabadítsam őket. Most azért jöjj: elküldelek téged Egyiptomba.
+Acts.7.35 | Ezt a Mózest, akit megtagadtak e szavakkal: Ki tett téged fejedelemmé és bíróval ezt az Isten fejedelmül és szabadítóul küldte angyal keze által, aki megjelent neki a csipkebokorban.
+Acts.7.36 | Ez hozta ki őket, csodákat és jeleket tett Egyiptom földjén és a Vörös-tengeren és a pusztában negyven esztendeig.
+Acts.7.37 | Ez az a Mózes, aki Izrael fiainak ezt mondta: Prófétát támaszt majd nektek az Isten atyátok fiai közül olyat, mint én.
+Acts.7.38 | Ez az, aki ott volt a gyülekezettel a pusztában a Sinai hegyen vele beszélő angyallal és a mi atyáinkkal, aki élő igéket vett, hogy velünk közölje.
+Acts.7.39 | A mi atyáink nem akartak engedelmeskedni neki, hanem eltaszították maguktól és szívükben Egyiptom felé fordultak.
+Acts.7.40 | És ezt mondták Áronnak: Készíts nekünk isteneket, akik előttünk járjanak, mert nem tudjuk, mi történt ezzel a Mózessel, aki minket Egyiptom földjéről kihozott.
+Acts.7.41 | És borjúképet készítettek azokban a napokban és áldozatot vittek a bálványnak és gyönyörködtek kezük alkotásaiban.
+Acts.7.42 | Az Isten pedig elfordult és odaadta őket, hogy szolgáljanak az ég seregének, amint meg van írva a próféták könyvében: Vájjon áldozati barmokat és áldozatokat hoztatok-e nekem negyven esztendeig a pusztában, Izrael házal
+Acts.7.43 | Sőt inkább hordoztátok a Mólok sátorát és a ti isteneteknek, Romfának csillagát, a képéket, amelyeket készítettetek, hogy azokat imádjátok: elviszlek azért titeket Babilonon túl.
+Acts.7.44 | A tanúbizonyság sátora pedig a mi atyáinknál volt a pusztában, amint parancsolta az, aki azt mondta Mózesnek, hogy azt ama mintára készítse, amelyet látott.
+Acts.7.45 | Ezt a mi atyáink átvették, be is hozták Józsuával, mikor hatalmukba vették a pogányok földjét, akiket kiűzött az Isten a mi atyáink színe elől. így volt ez egészen Dávidnak napjaiig.
+Acts.7.46 | Ez kegyelmet talált az Isten előtt és könyörgött, hogy hajlékot találhasson Jákob Istenének.
+Acts.7.47 | Házat azonban Salamon épített neki.
+Acts.7.48 | De a Magasságos nem kézzel csinált templomban lakik, amint a próféta mondja:
+Acts.7.49 | A menny az én királyi székem, a föld pedig lábam zsámolya. Milyen házat építhettek nekem? azt mondja az Úr. Vagy melyik az én nyugalmam helye?
+Acts.7.50 | Nem az én kezem alkotta-e mindezeket?
+Acts.7.51 | Kemény nyakú és körülmetéletlen szívű és fülű emberek, ti mindenkor ugyanúgy ellene szegültök a Szentléleknek, mint atyáitok.
+Acts.7.52 | A próféták közül kit nem üldöztek a ti atyáitok? És megölték azokat, akik előre hirdették annak az igaznak eljövetelét, akinek most árulóivá és gyilkosaivá lettetek ti,
+Acts.7.53 | akik a törvényt angyalok rendelésére vettétek és mégsem tartottátok meg.
+Acts.7.54 | Mikor pedig ezeket hallották, nagy haragra lobbantak szívükben és fogaikat csikorgatták ellene.
+Acts.7.55 | Ő azonban teljes volt Szentlélekkel, a mennyre függesztette tekintetét, látta Isten dicsőségét és Jézust Istennek jobbja felől állani,
+Acts.7.56 | és szólt: íme látom a megnyílt eget és az Ember Fiát Isten jobbja felől állani.
+Acts.7.57 | "Ekkor azok hangosan kiáltoztak, fülüket bedugták és egyakarattal rárohantak;"
+Acts.7.58 | majd kiűzték őt a városból, és megkövezték. A tanúk pedig felsőruháikat egy Saul nevű ifjú lábához rakták le.
+Acts.7.59 | Így kövezték meg Istvánt, aki imádkozott és ezt mondta: Uram, Jézus, vedd magadhoz az én lelkemet!
+Acts.7.60 | Majd térdre esve, hangosan így kiáltott: Uram, ne tulajdonítsd nekik ezt a bűnt! És amikor ezt mondotta, elaludt.
+
+Acts.8.1 | Saul pedig szintén helyeselte az ő megölését. És azon a napon nagy üldözés támadt a jeruzsálemi gyülekezet ellen, úgyhogy az apostolokat kivéve mindnyájan szétszóródtak Júdea és Samária vidékeire.
+Acts.8.2 | Istvánt pedig kegyes férfiak eltemették és nagyon megsiratták.
+Acts.8.3 | Saul pedig pusztította az egyházat, házról házra járt, elővonszolt férfiakat, nőket és tömlöcbe vetette azokat.
+Acts.8.4 | Azok tehát szétszóródtak, elmentek, és hirdették az igét.
+Acts.8.5 | Fülöp pedig lement Samária egyik városába, és hirdette nekik a Krisztust.
+Acts.8.6 | És a sokaság szívvel-lélekkel figyelt azokra, amiket Fülöp mondott, mikor hallotta és látta a jeleket, amelyeket cselekedett.
+Acts.8.7 | Mert sokakból, akikben tisztátalan lelkek voltak, azok nagy kiáltozással kimentek. Sok gutaütött és sánta pedig meggyógyult,
+Acts.8.8 | és nagy öröm támadt abban a városban.
+Acts.8.9 | Egy Simon nevű ember már régebben varázslással foglalkozott abban a városban és megigézte Samária népét, mert valami rendkívül nagynak állította magát.
+Acts.8.10 | "Kicsinytől nagyig mindenki figyelt rá és azt mondták: Ez az Istennek ama „csodaereje"", amelyet ,,nagy”-nak mondanak."
+Acts.8.11 | Azért figyeltek rá, mivel már jó ideje ámította őket varázslásával.
+Acts.8.12 | De miután hittek Fülöpnek, aki az Isten országáról és a Jézus Krisztus nevéről szóló evangéliomot hirdette, megkeresztelkedtek, mind a férfiak, mind a nők.
+Acts.8.13 | És Simon maga is hitt, megkeresztelkedett, állhatatosan Fülöppel maradt és csodálkozott, látva a jeleket és nagy csodákat, amelyek történtek.
+Acts.8.14 | Mikor pedig a Jeruzsálemben levő apostolok meghallották, hogy Samária befogadta az Isten igéjét, elküldöttek hozzájuk Pétert és Jánost.
+Acts.8.15 | Mikor ezek lementek, könyörögtek értük, hogy vegyenek Szentlelket.
+Acts.8.16 | Mert még senkire közülük nem szállott rá, csak meg voltak keresztelve az Úr Jézus nevére.
+Acts.8.17 | Akkor kezüket rájuk tették, és azok vették a Szentlelket.
+Acts.8.18 | Mikor pedig látta Simon, hogy a Szentlélek az apostolok kézrátétele által adatik, pénzt kínált nekik,
+Acts.8.19 | és azt mondta: Adjátok nekem is ezt a hatalmat, hogy akire ráteszem a kezem, Szentlelket vegyen.
+Acts.8.20 | De Péter így szólt neki: Vesszen a pénzed veled együtt, mivel azt gondoltad, hogy az Isten ajándéka pénzen megvehető.
+Acts.8.21 | Nincs neked részed, sem örökséged ebben a dologban, mert a szíved nem tiszta az Isten előtt.
+Acts.8.22 | Térj meg azért ebből a gonoszságodból és kérd az Urat, talán megbocsátja szíved gondolatát.
+Acts.8.23 | Mert látom, hogy keserű méregben és az álnokság kötelékében leledzel.
+Acts.8.24 | Simon pedig ezt felelte: Könyörögjetek értem az Úrnak, hogy semmi ne jöjjön rám azokból, amiket mondtatok.
+Acts.8.25 | Azok tehát, miután bizonyságot tettek és hirdették az Úr igéjét, visszafordultak Jeruzsálembe és a samaritánusok sok falujában prédikálták az evangéliumot.
+Acts.8.26 | Az Úr angyala pedig így szólt Fülöpnek: Kelj fel és menj dél felé, arra az útra, amely Jeruzsálemből Gázába megy alá. Járatlan ez.
+Acts.8.27 | Ekkor felkelt és elment. És íme volt egy szerecsen férfi, a szerecsenek királyasszonyának, a kandakénak udvari főembere és egész kincstárának felügyelője, aki felment imádkozni Jeruzsálembe.
+Acts.8.28 | Ez visszatérőben kocsiján ült és Ésaiás prófétát olvasta.
+Acts.8.29 | Szólt pedig a Lélek Fülöpnek: Menj oda és csatlakozzál ehhez a kocsihoz.
+Acts.8.30 | Fülöp ekkor odafutott és hallotta, amint Ésaiás prófétát olvasta és megkérdezte: vajjon érted-e, amit olvasol?
+Acts.8.31 | Ő pedig ezt válaszolta: Hogyan érteném, ha valaki meg nem magyarázza nekem? És kérte Fülöpöt, hogy szálljon fel és üljön melléje.
+Acts.8.32 | Az írásnak az a szakasza pedig, amelyet olvasott, ez volt: Mint juh, mészárszékre vitetett, és mint ahogyan a bárány néma az ő nyírója előtt, úgy nem nyitotta meg száját,
+Acts.8.33 | Mikor megalázta magát, ítélete elvétetett róla. Az ő nemzetségét pedig ki sorolja fel? Mert elvétetik a földről az ő élete.
+Acts.8.34 | Ekkor az udvari főember így szólt Fülöpnek: Kérlek, kiről mondja ezt a próféta? Magáról vagy másvalakiről?
+Acts.8.35 | Fülöp pedig megnyitotta száját, és elkezdve ezen az íráson, hirdette neki Jézust.
+Acts.8.36 | Amint így az úton tovább haladtak, vízhez értek. És szólt az udvari főember: ímhol a víz! Mi gátol engem, hogy megkeresztelkedjem?
+Acts.8.37 | Fülöp pedig azt mondta: Ha teljes szívedből hiszel, akkor lehet. Az pedig így válaszolt: Hiszem, hogy Jézus Krisztus az Isten Fia.
+Acts.8.38 | "És megállíttatta a kocsit és mind a ketten leszálltak a vízbe, Fülöp és az udvari főember; és megkeresztelte őt."
+Acts.8.39 | De mikor a vízből kiléptek, az Úr Lelke elragadta Fülöpöt, úgyhogy az udvari főember nem látta többé, és továbbment az útján örömmel.
+Acts.8.40 | Fülöp pedig egyszerre csak Azótusba került és szertej árva, hirdette az evangéliomot minden városnak, míg Cézáreába nem ért.
+
+Acts.9.1 | Saul pedig még fenyegetéstől és öldökléstől lihegve az Úr tanítványai ellen, elment a főpaphoz,
+Acts.9.2 | és leveleket kért tőle Damaskusba a zsinagógákhoz, hogy ha olyanokat talál, akik ennek az útnak követői, akár férfiakat, akár nőket, fogva vigye Jeruzsálembe.
+Acts.9.3 | És amint ment, történt, hogy közeledett Damaskushoz és nagy hirtelen mennyei világosság sugározta őt körül.
+Acts.9.4 | És földre esve, szót hallott, amely ezt mondta neki: Saul, Saul, miért üldözöl engem?
+Acts.9.5 | És így felelt: Kicsoda vagy, Uram? Ő pedig ezt mondta: Én vagyok Jézus, akit te üldözöl. (Az 5. vers végére egyes fordításokba a 26. rész 14. verséből még beírták: Nehéz neked az ösztöke ellen rugódoznod.)
+Acts.9.6 | De kelj fel, menj be a városba és majd megmondják neked, mit kell cselekedned.
+Acts.9.7 | A vele utazó férfiak pedig némán álltak, mivel hallották ugyan a szót, de senkit sem láttak.
+Acts.9.8 | "Saul pedig felkelt a földről, de mikor szemét kinyitotta, semmit sem látott; ezért kézenfogva vezették be Damaskusba."
+Acts.9.9 | És három napig nem látott, nem evett és nem ivott.
+Acts.9.10 | Volt pedig egy tanítvány Damaskusban, névszerint Anániás, akihez az Úr így szólt látomásban: Anániás! Ő pedig ezt mondta: Íme, itt vagyok, Uram,
+Acts.9.11 | "Az Úr pedig így szólt neki: Kelj fel, menj el az Egyenes utcába és Júdás házában kérdezősködjél egy Saul nevű tárzusi ember felől; mert íme ő imádkozik,"
+Acts.9.12 | és látomásban úgy látta, hogy egy Anániás nevű férfi jön be és teszi rá a kezét, hogy újból lásson.
+Acts.9.13 | Anániás azonban ezt felelte: Uram, sok embertől hallottam e férfi felől, mennyi gonoszságot művelt Jeruzsálemben a te szentjeid ellen.
+Acts.9.14 | És itt is meghatalmazása van a papi fejedelmektől, hogy mindazokat megkötözze, akik a te nevedet segítségül hívják.
+Acts.9.15 | Szólt pedig neki az Úr: Menj el, mert ő választott edényem, hogy hordozza az én nevemet a pogányok és királyok és Izrael fiai előtt.
+Acts.9.16 | Mert én megmutatom majd neki, mennyit kell szenvednie az én nevemért.
+Acts.9.17 | Ekkor Anániás elment és belépve a házba, rátette a kezét és ezt mondta: Atyámfia, Saul, az Úr küldött engem, Jézus, aki megjelent neked az úton, amelyen jöttél, hogy újból láss és megteljesedjél Szentlélekkel.
+Acts.9.18 | És egyszerre mintha pikkelyek estek volna le szeméről, újból látott. Ekkor felkelt és megkeresztelkedett.
+Acts.9.19 | És miután evett, megerősödött. Ezután néhány napig a damaskusi tanítványokkal volt.
+Acts.9.20 | És azonnal hirdette a zsinagógákban Jézust, hogy ő az Isten Fia,
+Acts.9.21 | És mindnyájan megdöbbentek, akik hallották és szóltak: Nem ez-é az, aki pusztította Jeruzsálemben azokat, akik ezt a nevet hívják segítségül és ide is azért jött, hogy fogva vigye őket a papi fejedelmekhez?
+Acts.9.22 | Saul azonban mindjobban megteljesedett erővel és zavarba hozta a damaskusi zsidókat, mert erősen bizonyította, hogy ez a Krisztus.
+Acts.9.23 | Több nap elteltével. azonban a zsidók tanácsot tartottak, hogy megöljék.
+Acts.9.24 | Saulusnak azonban tudomására jutott az ő fondorlatuk. És őrizték a kapukat éjjel-nappal, hogy megöljék.
+Acts.9.25 | A tanítványok pedig éjjel magukhoz vették őt és alábocsátották a kőfalon, kosárban eresztve le.
+Acts.9.26 | "Mikor pedig Saul Jeruzsálembe érkezett, a tanítványokhoz próbált csatlakozni; de mindnyájan féltek tőle, mivel nem hitték, hogy ő tanítvány."
+Acts.9.27 | Barnabás azonban maga mellé vette őt, elvitte az apostolokhoz és elbeszélte nekik, hogyan látta az úton az Urat, miként beszélt vele és mimódon tanított Damaskusban nagy bátorsággal a Jézus nevében.
+Acts.9.28 | És ki- és bejáratos volt köztük Jeruzsálemben.
+Acts.9.29 | "Nagy bátorsággal tanított az Úr nevében, és beszélt, sőt vitázott a görögül beszélő zsidókkal; azok pedig igyekeztek őt megölni."
+Acts.9.30 | Mikor azonban ezt az atyafiak megtudták, levitték őt Cézáreába és elküldték Tárzusba.
+Acts.9.31 | Az egyháznak tehát egész Júdeában, Galileában és Samáriában békessége volt és épült. Az Úr félelmében járt és a Szentlélek vigasztalása által egy re gyarapodott.
+Acts.9.32 | Történt pedig, hogy Péter, miután mindnyájukat sorra járta, elment a Liddában lakó szentekhez is.
+Acts.9.33 | Talált pedig ott egy Éneás nevű embert, aki nyolc esztendő óta ágyban feküdt gutaütötten.
+Acts.9.34 | És szólt neki Péter: Éneás, meggyógyít téged a Jézus Krisztus. Kelj fel, vesd meg magad az ágyadat. És nyomban felkelt.
+Acts.9.35 | És látták őt mindnyájan a Liddában és Sárónban lakók, akik megtértek az Úrhoz.
+Acts.9.36 | Joppéban pedig volt egy nőtanítvány, névszerint Tábita, ami lefordítva ezt jelenti: Dorkás, azaz: zerge. Ez gazdag volt jócselekedetekben és alamizsnákban, amelyeket osztogatott.
+Acts.9.37 | "Azokban a napokban pedig megbetegedett és meghalt; és miután megmosták, kiterítették a felső szobában."
+Acts.9.38 | Lidda pedig közel volt Joppéhoz, és mikor a tanítványok hallották, hogy Péter ott van, két férfit küldtek hozzá azzal a kéréssel: Jöjj késedelem nélkül hozzánk!
+Acts.9.39 | Ekkor Péter felkelt és elment velük. Mihelyt odaért, felvezették őt a felső szobába és eléje álltak az özvegyasszonyok mindnyájan, sírva mutogatták a ruhákat és öltözeteket, amelyeket Dorkás készített, amíg velük együtt volt.
+Acts.9.40 | Péter pedig mindenkit kiküldött, azután térdre esett és imádkozott. Majd a holttesthez fordulva így szólt: Tábita, kelj fel! Az pedig felnyitotta szemét és mikor meglátta Pétert, felült.
+Acts.9.41 | Ez odanyújtotta neki a kezét, talpra állította, beszólította a szenteket és özvegyeket és élve vezette őt eléjük.
+Acts.9.42 | És tudomást szerzett erről az egész Joppe, és sokan hittek az Úrban.
+Acts.9.43 | Ezután több napig ott maradt Joppéban egy Simon nevű tímárnál.
+
+Acts.10.1 | Volt pedig Cézáreában egy Kornélius nevű férfiú, százados, az úgynevezett itáliai csapatból.
+Acts.10.2 | Ez kegyes és istenfélő ember volt egész házanépével együtt, sok alamizsnát osztogatott a népnek és szüntelen könyörgött Istenhez.
+Acts.10.3 | Ez az ember világosan látta látomásában a napnak mintegy kilencedik órája körül, hogy az Isten angyala bemegy hozzá és ezt mondja neki: Kornélius!
+Acts.10.4 | Ő pedig rátekintett és megrémültén így szólt: Mit kívánsz, Uram? Az pedig így válaszolt neki: A te imádságaid és alamizsnáid felszálltak Isten elé emlékeztetőül.
+Acts.10.5 | Most azért küldj Joppéba embereket és hívasd magadhoz Simont, akit Péternek hívnak.
+Acts.10.6 | Egy Simon nevű tímárnál van szálláson, akinek háza a tengerparton van.
+Acts.10.7 | Amint pedig elment az angyal, aki vele beszélt, szólított kettőt a szolgái közül és egy kegyes katonát azok közül, akik hűségesen szolgálták.
+Acts.10.8 | És miután mindent elmondott nekik, elküldötte őket Joppéba.
+Acts.10.9 | Másnap pedig, míg azok úton voltak és közeledtek a városhoz, felment Péter a ház felső részére imádkozni, hat óra tájban.
+Acts.10.10 | Közben azonban megéhezett és enni kívánt. De míg az ételt készítették, elragadtatás szállta meg,
+Acts.10.11 | és látta, hogy az ég megnyílik és valami nagy lepedőhöz hasonló edényféle, négy sarkánál fogva lebocsátva, ereszkedik a földre.
+Acts.10.12 | Ebben ott volt a föld mindenféle négylábú csúszó-mászó állata és az égi madarak.
+Acts.10.13 | "Majd szó hangzott őhozzá: Kelj fel, Péter; vágd le és egyél!"
+Acts.10.14 | Péter azonban így szólt: Semmiképpen sem, Uram, mert én soha semmiféle közönségeset vagy tisztátalant nem ettem
+Acts.10.15 | És ismét szó hangzott hozzá másodszor is: Amit az Isten tisztává tett, azt te ne tartsd tisztátalannak.
+Acts.10.16 | Ez pedig három ízben történt így s azután az edény azonnal felvitetett az égbe.
+Acts.10.17 | Amint pedig Péter magában tűnődött, hogy mi lehet az a látomás, amelyet látott, íme a férfiak, akiket Kornélius küldött, megtudakolták Simon házát, ott álltak a kapu előtt.
+Acts.10.18 | És bekiáltva, kérdezősködtek, hogy vajjon Simon, akit Péternek hívnak, ott van-e szálláson.
+Acts.10.19 | És míg Péter a látomás felől gondolkodott, így szólt hozzá a Lélek: Íme, három férfi keres téged.
+Acts.10.20 | Kelj fel azért, menj le és minden habozás nélkül menj el velük, mert én küldtem őket.
+Acts.10.21 | Péter tehát lement a férfiakhoz és így szólt hozzájuk: Íme, én vagyok az, akit kerestek. Mi járatban vagytok?
+Acts.10.22 | Ők pedig szóltak: Kornélius százados, igaz és istenfélő férfiú, aki mellett az egész zsidó nép jó bizonyságot tesz, egy szent angyaltól azt az utasítást kapta, hogy hívasson téged a házához és meghallgassa, ami mondanivalód van.
+Acts.10.23 | Péter pedig behívta és szállásra fogadta őket. Másnap pedig felkelt Péter és elment velük, sőt a joppéi atyafiak közül is velük mentek némelyek.
+Acts.10.24 | Így jutottak el másnap Cézáreába. Kornélius pedig összegyűjtötte rokonait és jóbarátait, és már várta őket
+Acts.10.25 | És amint Péter belépett, Kornélius eléje ment és imádattal borult lábához.
+Acts.10.26 | Péter azonban felemelte és ezt mondta: Kelj fel. én magam is ember vagyok.
+Acts.10.27 | És beszélgetve vele, bement és sok embert talált ott együtt,
+Acts.10.28 | akiknek ezt mondta: Ti tudjátok, menynyire tilalmas zsidónak más nemzetbelivel barátkozni, vagy ahhoz bemenni. De nekem az Isten megmutatta, hogy senkit se mondjak közönséges vagy tisztátalan embernek.
+Acts.10.29 | Ezért el is jöttem ellenmondás nélkül, mivel hívtál. Kérdeni tehát: miért hívattatok engem?
+Acts.10.30 | "És Kornélius így szólt: Negyednapja körülbelül ebben az órában, kilenc órakor, imádkoztam a házamban; és íme egy férfiú állott meg előttem fényes ruhában,"
+Acts.10.31 | aki ezt mondta: Kornélius, a te imádságod meghallgattatásra talált és alamizsnáid az Isten színe előtt emlékezetben vannak.
+Acts.10.32 | Küldj el azért Joppéba és hívasd magadhoz Simont, akit Péternek hívnak. Ez Simon tímár házában van szálláson a tengerparton. (A 32. vers végén egyes kéziratokban még ez olvasható: Ő, miután eljön, szól neked.)
+Acts.10.33 | Ezért azonnal elküldtem hozzád és te jól tetted, hogy eljöttél. Most tehát mi mindnyájan az Isten színe előtt állunk, hogy meghallgassuk mindazt, amit az Úr parancsolt neked.
+Acts.10.34 | Péter pedig megnyitotta száját és ezt mondta: Most értem igazán, hogy nem személyválogató az Isten,
+Acts.10.35 | hanem minden nemzetben kedves előtte, aki féli őt és igazságot cselekszik.
+Acts.10.36 | Ismeritek az igét, amelyet Izrael fiainak küldött, amikor békességet hirdetett a Jézus Krisztus által — ő mindeneknek Ura!
+Acts.10.37 | Ti tudjátok azt, ami történt az egész Júdeában, Galileától kezdve ama keresztség után, amelyet János hirdetett.
+Acts.10.38 | "Hogyan kente fel Isten a názáreti Jézust Szentlélekkel és hatalommal, és hogyan járt szerte jót téve és meggyógyítva mindenkit, aki az ördög hatalma alatt volt; mert az Isten volt vele."
+Acts.10.39 | És mi vagyunk tanúi mindannak, amit ő mind a zsidók tartományában, mind Jeruzsálemben cselekedett. Őt megölték, fára feszítették, —
+Acts.10.40 | de az Isten feltámasztotta harmadnapra és megadta neki, hogy nyilván megjelenjék,
+Acts.10.41 | nem az egész népnek, hanem az Istentől előre választott tanúknak, nekünk, akik együtt ettünk és ittunk vele, miután feltámadott a halottak közül.
+Acts.10.42 | És ő megparancsolta nekünk, hogy hirdessük a népnek és tegyünk bizonyságot, hogy ő az Istentől rendelt bírája élőknek és holtaknak.
+Acts.10.43 | Erről a próféták mind bizonyságot tesznek, hogy bűneinek bocsánatát veszi az ő neve által mindenki, aki hisz őbenne.
+Acts.10.44 | Mikor még Péter ezt a beszédet mondta, leszállt a Szentlélek mindazokra, akik hallgatták az igét.
+Acts.10.45 | És csodálkoztak a zsidóságból való hívek, mindazok, akik Péterrel együttjöttek, hogy a pogányokra is kitöltetett a Szentlélek ajándéka.
+Acts.10.46 | Mert hallották, hogy nyelveken beszélnek és magasztalják az Istent. Akkor Péter így szólt:
+Acts.10.47 | Vájjon megtagadhatja-e valaki a vizet ezektől, hogy meg ne keresztelkedjenek, holott éppúgy vették a Szentlelket, mint mi?
+Acts.10.48 | És megparancsolta, hogy keresztelkedjenek meg a Jézus Krisztus nevében. Akkor kérték, hogy maradjon náluk néhány napig
+
+Acts.11.1 | Meghallották azonban az apostolok és a Júdeában levő atyafiak, hogy a pogányok is befogadták az Isten beszédét.
+Acts.11.2 | Mikor azért felment Péter Jeruzsálembe, vitába szálltak vele a zsidók közül valók, akik ezt mondták:
+Acts.11.3 | Körülmetéletlen emberekhez mentél be és együttettél velük.
+Acts.11.4 | Ekkor Péter sorjában magyarázni kezdte nekik a történteket:
+Acts.11.5 | Én Joppe városában imádkoztam, mikor elragadtatásban látomást láttam, valami nagy lepedőhöz hasonló alászálló edényfélét, amely négy sarkánál fogva leeresztetett az égből s egészen hozzám ért le.
+Acts.11.6 | Amikor közelebbről megnéztem, láttam abban a föld négylábú állatait, a vadakat, a csúszómászókat és az égi madarakat.
+Acts.11.7 | Majd szót is hallottam, amely azt mondta nekem: Kelj fel, Péter, vágd le és egyél!
+Acts.11.8 | Én azonban szóltam: Semmiképpen sem, Uram, mert még soha közönséges vagy tisztátalan nem került a számba.
+Acts.11.9 | De a szó másodízben is így felelt nekem az égből: Amit az Isten tisztává tett, azt te ne tartsd tisztátalannak.
+Acts.11.10 | "Ez pedig három ízben történt; majd ismét felvonatott az egész az égbe."
+Acts.11.11 | És íme hamarosan három férfi érkezett a házhoz, amelyben voltam, akiket Cézáreából küldtek hozzám.
+Acts.11.12 | Szólt pedig nekem a Lélek, hogy menjek el velük minden habozás nélkül. De eljött velem ez a hat atyafi is, akikkel bementünk annak a férfiúnak házába.
+Acts.11.13 | Ő pedig elbeszélte nekünk, hogyan látta, amint az angyal megállott az ő házában és azt mondta neki: Küldj el Joppéba és hívasd magadhoz Simont, akit Péternek hívnak.
+Acts.11.14 | Ő olyan igéket hirdet neked, amelyek által mind te, mind a te egész házadnépe üdvözültök.
+Acts.11.15 | Mikor pedig elkezdtem beszólni, leszállt rájuk a Szentlélek, amint ránk is leszállt kezdetben.
+Acts.11.16 | Ekkor eszembe jutott az Úr szava, aki megmondta: János ugyan vízzel keresztelt, ti azonban Szentlélekkel fogtok megkereszteltetni.
+Acts.11.17 | Ha tehát az Isten ugyanazt az ajándékot adta nekik, mint nekünk is, akik hivőkké lettünk az Úr Jézus Krisztusban, — ki vagyok én, hogy az Istent ebben megakadályozhattam volnál
+Acts.11.18 | Ezek hallatára azután megnyugodtak és dicsőítették az Istent, és ezt mondták: E szerint hát a pogányoknak is adott az Isten megtérést az életre.
+Acts.11.19 | Azok pedig, akik szétszóródtak az Istvánért támadt üldözés miatt, eljutottak Feniciáig, Ciprusig és Antiókhiáig, de senkinek sem prédikálták az igét, csak a zsidóknak.
+Acts.11.20 | Volt azonban közöttük néhány ciprusi és cirénei férfiú, akik mikor Antiókhiába lementek, prédikáltak a görögöknek is, hirdetve az Úr Jézust.
+Acts.11.21 | És az Úr keze velük volt, úgyhogy nagy sokaság tért meg az Úrhoz, és lett hivővé.
+Acts.11.22 | Elhatott pedig a hír felőlük a jeruzsálemi gyülekezet fülébe. És kiküldték Barnabást egész Antiókhiáig.
+Acts.11.23 | Mikor ez odaért és látta az Isten kegyelmét, örvendezett és intette mindnyájukat, hogy állhatatos szívvel maradjanak meg az Úrban.
+Acts.11.24 | Mert derék ember volt, Szentlélekkel és hittel teljes. És nagy sokaság csatlakozott az Úrhoz.
+Acts.11.25 | Ekkor Barnabás elment Tárzusba, hogy felkeresse Sault és mikor rátalált, elvitte őt Antiókhiába.
+Acts.11.26 | Így történt, hogy ők egy egész esztendeig forgolódtak a gyülekezetben és nagy sokaságot tanítottak. És a tanítványokat először Antiókhiában nevezték keresztyéneknek.
+Acts.11.27 | Ezidőtájban pedig próféták jöttek le Jeruzsálemből Antiókhiába.
+Acts.11.28 | Közülök az egyik, névszerint Agabus, előállott és a Lélek által megjövendölte, hogy az egész földkerekségen éhínség lesz, amely meg is lett Klaudius császár idejében.
+Acts.11.29 | A tanítványok pedig elhatározták, hogy a szerint, amint kinek-kinek közöttük módjában áll, küldenek valamit segítségül a Júdeában lakó atyafiaknak.
+Acts.11.30 | Ezt meg is tették, és elküldték a vénekhez Barnabás és Saul keze által.
+
+Acts.12.1 | Abban az időben pedig Heródes király kegyetlenkedni kezdett némelyekkel a gyülekezetből valók közül.
+Acts.12.2 | Így megölette fegyverrel Jakabot, János testvérét.
+Acts.12.3 | És. mivel látta, hogy ez tetszik a zsidóknak, még tovább ment és elfogatta Pétert is (akkor éppen a kovásztalan kenyerek napjai voltak).
+Acts.12.4 | Mikor elfogatta, tömlöcbe vetette őt és átadta négy-négy katonából álló négyes őrségnek, hogy őrizzék. Húsvét után akarta őt a nép elé vezettetni.
+Acts.12.5 | "Pétert tehát a fogságban őrizték; a gyülekezet pedig buzgón imádkozott érte az Istenhez."
+Acts.12.6 | Mikor pedig Heródes elő akarta őt vezettetni, azon az éjtszakán Péter két katona között aludt, megkötözve két lánccal. És őrök őrizték az ajtó előtt a tömlöcöt.
+Acts.12.7 | És, íme az Úr angyala odalépett hozzá és fény ragyogott fel a börtönben és meglökve Péter oldalát, felkeltette őt, és azt mondta: Kelj fel hamar. És leestek a láncok a kezéről.
+Acts.12.8 | És szólt neki az angyal: övezd fel magadat és kösd fel saruidat, — és úgy cselekedett. Azután így szólt neki: Vedd fel a felsőruhádat és kövess engem!
+Acts.12.9 | Ekkor kiment és követte őt. És nem tudta, hogy valóság az, ami az angyal által történik, hanem azt hitte, hogy látomást lát.
+Acts.12.10 | És mikor átmentek az első őrsön, majd a másodikon, eljutottak a vaskapuhoz, amely a városba visz. Ez magától megnyílt előttük, és amikor kimentek, végighaladtak egy utcán és az angyal hirtelen eltávozott tőle.
+Acts.12.11 | És Péter magához térve, ezt mondta: Most tudom igazán, hogy az Úr küldte el angyalát és szabadított meg engem Heródes kezéből és mindattól, amit várt az egész zsidó nép.
+Acts.12.12 | És amikor ezt megértette, elment a Márknak is nevezett János anyjának, Máriának házához. Itt sokan voltak együtt és imádkoztak.
+Acts.12.13 | "És mikor zörgetett a kapun, egy Rodé nevű szolgálóleány ment oda, hogy hallgatódzzék;"
+Acts.12.14 | és megismerte Péter hangját, de örömében nem nyitotta ki a kaput, hanem befutva, hírül adta, hogy Péter áll a kapu előtt.
+Acts.12.15 | Azok pedig így szóltak neki: Elment az eszed, ő azonban erősítette, hogy úgy van. Ekkor azok így szóltak: Az ő angyala az.
+Acts.12.16 | "Péter közben egyre zörgetett; mikor kinyitották a kaput, meglátták őt és megdöbbentek."
+Acts.12.17 | Miután pedig kezével hallgatást intett nekik, elbeszélte előttük, hogyan hozta ki őt az Úr a tömlöcből. És szólt: Adjátok tudtára ezeket Jakabnak és az atyafiaknak. Majd eltávozva, más helyre ment.
+Acts.12.18 | Mikor pedig megvirradt, nem kis riadalom támadt a katonák között, hogy mi történt Péterrel.
+Acts.12.19 | Heródes pedig mikor kerestette őt és nem találta, vallatóra fogta az őröket és megparancsolta, hogy végezzék ki azokat. Akkor Júdeából lement Cézáreába, és ott időzött
+Acts.12.20 | Heródes pedig ellenséges indulattal volt a tírusiak és szidoniak iránt, de azok egy akarattal elmentek hozzá és minthogy megnyerték Blásztust, a király kamarását, békét kértek, mivel tartományukat a királyéból élelmezték.
+Acts.12.21 | Egy kitűzött napon pedig Heródes királyi ruhába öltözött és trónján ülve, nyilvánosan szólt hozzájuk,
+Acts.12.22 | és a nép felkiáltott: Isten szava ez és nem emberé!
+Acts.12.23 | Az Úr angyala pedig azonnal megverte őt azért, hogy nem Istennek adta a dicsőséget, úgyhogy férgektől emésztve halt meg.
+Acts.12.24 | Az Úr igéje pedig növekedett és terjedt.
+Acts.12.25 | Barnabás és Saul pedig visszatért Jeruzsálemből, miután betöltötték szolgálatukat, és maguk mellé vették Jánost is, akinek mellékneve Márk volt
+
+Acts.13.1 | Volt pedig Antiókhiában, az ottani gyülekezetben néhány próféta és tanító: Barnabás és Simeon, akit Nigernek hívtak és a cirénei Lucius és Manaen, aki Heródes negyedesfejedelemmel együtt nevelkedett és Saul.
+Acts.13.2 | Mikor ezek szolgáltak az Úrnak és böjtöltek, így szólt a Szentlélek: Válasszátok ki nekem Barnabást és Sault arra a munkára, amelyre én őket elhívtam.
+Acts.13.3 | Akkor, miután böjtöltek és imádkoztak és kezüket rájuk tették, elbocsátották őket.
+Acts.13.4 | Ők tehát, miután a Szentlélek kibocsátotta őket, lementek Szeleuciába és onnan elhajóztak Ciprusba.
+Acts.13.5 | És mikor Szalamisba jutottak, hirdették az Isten beszédét a zsidók zsinagógáiban. János is ott volt velük, mint segítőtárs.
+Acts.13.6 | És mintán a szigetet egész Páfusig bejárták, találtak egy varázsló álpróféta zsidót, akinek Barjézus volt a neve.
+Acts.13.7 | Ez Szergius Paulus helytartóval, ezzel az értelmes emberrel volt. Ő magához hívatta Barnabást és Sault, és hallani kívánta az Isten beszédét.
+Acts.13.8 | Elimás, a varázsló azonban, — mert ez a neve lefordítva — ellenkezett velük és igyekezett a helytartót elfordítani a hittől.
+Acts.13.9 | De Saul, aki Pál is, megtelve Szentlélekkel, erősen ránézett és
+Acts.13.10 | így szólt: Te minden álnoksággal és gonoszsággal teljes ördögfajzat, minden igazságnak ellensége, nem szűnsz meg az Úr igaz útait elfordítani?
+Acts.13.11 | Most azért íme, az Úr keze rajtad van, úgyhogy vak leszel és nem látod a napot egy ideig. És azonnal homály és sötétség szállott rá, úgyhogy tapogatódzva keresett vezetőket.
+Acts.13.12 | Mikor a helytartó látta a történteket, hitt, csodálkozva az Úr tanításán.
+Acts.13.13 | Elhajózva pedig Páfusból, Pál és kísérői Pergába, Pamfilia városába értek. János azonban elvált tőlük és hazament Jeruzsálembe.
+Acts.13.14 | Ők pedig Pergából tovább haladva, eljutottak Antiókhiába, Pizidia városába, szombatnapon bementek a zsinagógába és leültek.
+Acts.13.15 | És a törvény és próféták felolvasása után odaküldtek hozzájuk a zsinagóga elöljárói és azt mondták nekik: Atyánkfiai, férfiak, ha van valami intő beszédetek a néphez, szóljatok.
+Acts.13.16 | Ekkor Pál felállt, kezével intett és ezt mondta: Izraelita férfiak és ti, akik félitek az Istent, halljátok meg.
+Acts.13.17 | Ennek a népnek, Izraelnek Istene, kiválasztotta a mi atyáinkat és e népet felemelte, mikor Egyiptom földjén jövevények voltak és kihozta onnan őket hatalmas karja által.
+Acts.13.18 | Azután közel negyven esztendeig elszenvedte őket a pusztában.
+Acts.13.19 | És miután eltörölt hét népet Kánaán földjén, azoknak földjét örökségül adta nekik.
+Acts.13.20 | És azután mintegy négyszázötven esztendeig adott bírákat egészen Sámuel prófétáig.
+Acts.13.21 | De ők ezek után királyt kértek maguknak, és az Isten Sault adta nekik, Kisnek fiát, a Benjámin törzséből való férfiút, negyven esztendeig.
+Acts.13.22 | És mikor őt elvetette, Dávidot támasztotta nekik királyul, akiről bizonyságot is tett és ezt mondta: Megtaláltam Dávidot, Isai fiát, ezt a szívem szerint való férfiút, aki minden akaratomat véghez viszi.
+Acts.13.23 | "Ennek magvából támasztott Isten, az ő ígérete szerint; Izraelnek Megváltót, Jézust,"
+Acts.13.24 | miután János az ő eljövetele előtt a megtérés keresztségét hirdette Izrael egész népének.
+Acts.13.25 | És mikor János már-már bevégezte futását, azt mondta: Nem vagyok az, akinek ti gondoltok engem, hanem íme utánam jön, akinek a saruját nem vagyok méltó, hogy megoldjam.
+Acts.13.26 | Atyámfiai, férfiak, Ábrahám nemzetségének fiai, és akik köztetek félik az Istent, ennek az üdvösségnek beszéde nekünk küldetett.
+Acts.13.27 | Mert akik Jeruzsálemben laknak és vezetőik, nem ismerték őt fel, és azáltal, hogy elítélték, betöltötték a próféták jövendöléseit is, amelyeket minden szombaton felolvasnak.
+Acts.13.28 | És bár semmi halálra való okot nem találtak, azt kérték Pilátustól, hogy ölesse meg.
+Acts.13.29 | És mikor mindazt elvégezték, ami felőle megíratott, a fáról levéve, sírba helyezték
+Acts.13.30 | De az Isten feltámasztotta őt a halottak közül,
+Acts.13.31 | úgyhogy megjelent több napon át azoknak, akik vele együtt mentek fel Galileból Jeruzsálembe, s akik neki tanúi a nép előtt.
+Acts.13.32 | És mi hirdetjük nektek az atyáknak tett ígéretet, hogy ezt az Isten betöltötte a mi fiainknak, támasztotta nekik Jézust,
+Acts.13.33 | "amint a második zsoltárban is meg van írva: Fiam vagy te; ma szültelek téged."
+Acts.13.34 | Hogy pedig feltámasztotta őt a halottak közül, úgyhogy többé nem is kell visszatérnie az enyészetbe, azt így mondta: Nektek adom az üdvösség szent és bizonyos javait, amelyeket Dávidnak ígértem.
+Acts.13.35 | Azért mondja másutt is: Nem engeded, hogy a te Szented rothadást lásson.
+Acts.13.36 | Mert Dávid, miután a maga idejében szolgált az Isten akaratának, elaludt és az ő atyáihoz helyeztetett és rothadást látott.
+Acts.13.37 | De akit az Isten feltámasztott, az nem látott rothadást.
+Acts.13.38 | Vegyétek tehát tudomásul, atyámfiai, férfiak, hogy ő általa hirdettetik nektek a bűnök bocsánata,
+Acts.13.39 | és mindabból, amiből Mózes törvénye által meg nem igazulhattok, ő általa mindenki megigazul, aki hisz.
+Acts.13.40 | Vigyázzatok azért, hogy rajtatok ne essék, amit a próféták megmondták:
+Acts.13.41 | Lássátok meg, ti gúnyolódok és csodálkozzatok, és semmisüljetek meg, mert én olyant cselekszem a ti időtökben, olyant, amit majd nem hisztek el, ha valaki elmondja nektek.
+Acts.13.42 | Mikor pedig kimentek a zsinagógából, kérték őket, hogy a következő szombaton prédikálják nekik ezeket a beszédeket.
+Acts.13.43 | És miután szétoszlott a zsinagóga, a zsidók és az istenfélő prozeliták közül sokan követték Pált és Barnabást, akik szóltak hozzájuk és biztatták őket, hogy maradjanak meg az Isten kegyelmében.
+Acts.13.44 | A következő szombaton azután majdnem az egész város összegyűlt az Isten igéjének hallgatására.
+Acts.13.45 | Mikor pedig látták a zsidók a sokaságot, megteltek irigységgel és annak, amit Pál állított, ellene mondtak és becsmérelték őt.
+Acts.13.46 | Akkor Pál és Barnabás nagy bátorsággal ezt mondták: Szükséges volt, hogy először nektek hirdettessék az Isten igéje, de mivel ti megvetitek azt és nem ítélitek magatokat méltóknak az örök életre, íme a pogányokhoz fordulunk.
+Acts.13.47 | Mert így parancsolta nekünk az Úr: Pogányok világosságául rendeltelek téged, hogy légy üdvösségül a föld határáig.
+Acts.13.48 | "A pogányok pedig ennek hallatára örvendeztek és magasztalták az Úr igéjét; és mindazok, akik az örök életre elválasztattak, hittek."
+Acts.13.49 | így terjedt el az Úr igéje az egész vidéken.
+Acts.13.50 | A zsidók azonban ellenök ingerelték az előkelő istenfélő asszonyokat és a város első embereit és üldözést támasztottak Pál és Barnabás ellen, úgyhogy kiűzték őket határukból.
+Acts.13.51 | Ők pedig lábuk porát lerázták ellenük, elmentek Ikóniumba.
+Acts.13.52 | A tanítványok pedig megteltek örömmel és Szentlélekkel.
+
+Acts.14.1 | Ikóniumban pedig együtt mentek be a zsidók zsinagógájába és úgy prédikáltak, hogy mind a zsidók, mind a pogányok közül nagy sokaság lett hívővé.
+Acts.14.2 | Akik azonban a zsidók közül nem hittek, felingerelték és megkeserítették a pogányok lelkét az atyafiak ellen.
+Acts.14.3 | Mindazáltal sok időt töltöttek ott, bátran prédikálva az Úrban, aki bizonyságot tett az ő kegyelmének beszéde mellett és megadta, hogy jelek és csodák történjenek az ő kezük által.
+Acts.14.4 | De a városnak sok népe meghasonlott, úgyhogy némelyek a zsidók mellett, mások meg az apostolok mellett voltak.
+Acts.14.5 | És mikor a pogányok és zsidók az ő főembereikkel együtt támadást indítottak, hogy bántalmazzák és megkövezzék őket,
+Acts.14.6 | ők ezt megtudták és elmenekültek Likaónia városaiba, Lisztrába és Derbébe és a környező tartományba
+Acts.14.7 | és ott hirdették az evangéliumot.
+Acts.14.8 | És Lisztrában ott ült egy béna lábú ember, aki születésétől fogva sánta volt és sohasem járt.
+Acts.14.9 | Ez hallgatta a prédikáló Pált, aki reá tekintett és látta, hogy van hite, hogy meggyógyul.
+Acts.14.10 | Ezért hangosan így szólt hozzá: Állj a lábadra egyenesen. És felszökött és járt.
+Acts.14.11 | Mikor pedig a sokaság látta, amit Pál cselekedett, így kiáltott likaóniai nyelven: Az istenek jöttek le hozzánk emberi alakban.
+Acts.14.12 | És Barnabást Jupiternek mondták, Pált pedig Merkuriusnak, mivel ő volt a szóvivő.
+Acts.14.13 | Jupiter papja pedig, akinek temploma az ő városuk előtt volt, felkoszorúzott bikákat hajtott a kapukhoz és a sokasággal együtt áldozni akart.
+Acts.14.14 | Mikor azonban meghallották ezt az apostolok, Barnabás és Pál, ruhájukat megszaggatva, a sokaság közé futottak,
+Acts.14.15 | és ezt kiáltották: Férfiak, miért teszitek ezt? Mi is hozzátok hasonló természetű emberek vagyunk és azt az evangéliomot hirdetjük nektek, hogy e hiábavaló dolgoktól térjetek meg az élő Istenhez, aki teremtette az eget, a földet, a tengert és mindent, ami azokban van.
+Acts.14.16 | Engedte, hogy az elmúlt nemzedékekben a pogányok mind a maguk útján járjanak,
+Acts.14.17 | bár nem hagyta magát tanúbizonyság nélkül, mert jóltevőtök volt: adott nektek a mennyből esőt és termő időket, megtöltötte szíveteket eledellel és örömmel.
+Acts.14.18 | Amikor ezeket mondták, nagy-nehezen lecsendesítették a sokaságot, hogy ne áldozzék nekik.
+Acts.14.19 | Antiókhiából és Ikóniumból azonban zsidók jöttek oda, rábeszélték a sokaságot, Páit megkövezték és kivonszolták a városból, abban a hiedelemben, hogy meghalt.
+Acts.14.20 | De mikor körülvették a tanítványok, felkelt és bement a városba. És másnap Barnabással elment Derbébe.
+Acts.14.21 | Majd miután hirdették az evangéliomot annak a városnak és sokakat tanítványokká tettek, visszatértek Lisztrába, Ikóniumba és Antiókhiába,
+Acts.14.22 | erősítették a tanítványok lelkét és intették őket, hogy maradjanak meg a hitben és hogy — sok háborúságon át kell nekünk bejutnunk az Isten országába.
+Acts.14.23 | Miután pedig választottak számukra gyülekezetenkint véneket, imádkozással és böjtöléssel az Úrnak ajánlották őket, akiben hittek.
+Acts.14.24 | És Pizidián átmenve, eljutottak Pamfiliába.
+Acts.14.25 | Majd miután Pergában hirdették az igét, lementek Attáliába.
+Acts.14.26 | És onnan elhajóztak Antiókhiába, ahol az Isten kegyelmébe ajánlották volt őket, arra a munkára, amelyet immár elvégeztek.
+Acts.14.27 | Mikor pedig megérkeztek és a gyülekezetet összehívták, elbeszélték, hogy milyen nagy dolgokat cselekedett velük az Isten és hogy kaput nyitott a pogányoknak a hitre.
+Acts.14.28 | Ott aztán nem kevés időt töltöttek a tanítványokkal.
+
+Acts.15.1 | Némelyek pedig, akik Júdeából jöttek le, így tanították az atyafiakat: Ha Mózes rendtartása szerint körül nem metélkedtek nem üdvözülhettek.
+Acts.15.2 | Mikor azért meghasonlás támadt, Pál és Barnabás pedig nem csekély vitába került velük, úgy határoztak, hogy Pál, Barnabás és közülük némelyek ebben a vitás kérdésben menjenek fel az apostolokhoz és vénekhez Jeruzsálembe.
+Acts.15.3 | Ők tehát, miután a gyülekezet kikísérte őket, átmentek Fenícián és Samárián, ahol elbeszélték a pogányok megtérését, amivel nagy örömet szereztek az összes atyafiaknak.
+Acts.15.4 | Jeruzsálembe érkezve, a gyülekezet, az apostolok és a vének fogadták őket, ők pedig elbeszélték, hogy milyen, nagy dolgokat cselekedett velük az Isten.
+Acts.15.5 | Előálltak azonban némelyek, akik a farizeusok pártjából lettek hívőkké, és azt mondták, hogy körül kell metélni őket és meg kell nekik parancsolni, hogy Mózes törvényét tartsák meg.
+Acts.15.6 | összegyűltek tehát az apostolok és a vének, hogy efelől döntsenek.
+Acts.15.7 | És mikor nagy vita támadt, Péter felkelt és ezt mondta nekik: Atyámfiai, férfiak, ti tudjátok, hogy Isten már régebben engem választott ki közületek, hogy a pogányok az én számból hallják az evangéliom beszédét és higgyenek.
+Acts.15.8 | "És a szíveket ismerő Isten bizonyságot tett mellettük, mert a Szentlelket nekik éppúgy megadta, mint nekünk is;"
+Acts.15.9 | és semmi megkülönböztetést sem tett köztünk és köztük, mert hit által megtisztította az ő szívüket.
+Acts.15.10 | Miért kísértitek tehát most az Istent, hogy a tanítványok nyakába olyan igát tegyetek, amelyet sem atyáink, sem mi el nem hordozhattunk?
+Acts.15.11 | Sőt inkább hisszük, hogy mi is az Úr Jézus Krisztus kegyelme által üdvözülünk, mint azok is.
+Acts.15.12 | "Akkor elhallgatott az egész sokaság; és hallgatták Pált és Barnabást, amint elbeszélték, mennyi jelt és csodát tett az Isten általuk a pogányok között."
+Acts.15.13 | Miután pedig ők elhallgattak, Jakab szólalt meg: Atyámfiai, férfiak, hallgassatok meg engem!
+Acts.15.14 | Simon elbeszélte, hogyan gondoskodott már kezdetben az Isten, hogy a pogányok közül népet szerezzen az ő nevének.
+Acts.15.15 | És ezzel egyeznek a próféták mondásai, amint meg van írva:
+Acts.15.16 | Ezek után visszatérek és felépítem Dávid leomlott sátorát és annak omladékait helyreállítom és ismét felállítom azt,
+Acts.15.17 | hogy a többi ember is keresse az Urat és a pogányok mindnyájan, akikért könyörögnek az én nevemben
+Acts.15.18 | — ezt mondja az Úr, aki mindezeket öröktől fogva tudtul adta.
+Acts.15.19 | Ennélfogva én úgy vélekedem, hogy azok elé, akik a pogányok közül térnek meg, nem szabad nehézséget gördíteni,
+Acts.15.20 | hanem írjuk meg nekik, hogy tartózkodjanak a bálványimádás fertőzésétől, a paráznaságtól, a fulladt állattól és a vértől.
+Acts.15.21 | Mert Mózesnek régi nemzedékek óta városonként megvannak a maga hirdetői, mivel a zsinagógákban minden szombaton olvassák őt.
+Acts.15.22 | Akkor jónak látták az apostolok és a vének az egész gyülekezettel együtt, hogy férfiakat válasszanak maguk közül és elküldjék őket Antiókhiába Pállal és Barnabással: Júdást, akinek mellékneve Barsabás, és Szilást, akik vezetők voltak az atyafiak között.
+Acts.15.23 | És elküldték általuk ezt a levelet: Mi, az apostolok és a vének, a ti atyátokfiai az Antiókhiában, Szíriában és Ciliciában levő, pogányok közül való atyafiaknak, üdvözletünket küldjük!
+Acts.15.24 | Mivel meghallottuk, hogy közülünk egyesek megháborítottak titeket beszédeikkel és feldúlták lelketeket — pedig nekik mi parancsot nem adtunk, —
+Acts.15.25 | jónak láttuk, miután egy értelemre jutottunk, hogy férfiakat válasszunk ki és küldjünk hozzátok szeretteinkkel, Barnabással és Pállal,
+Acts.15.26 | olyan emberekkel, akik az életüket kockáztatták a mi Urunk Jézus Krisztus nevéért.
+Acts.15.27 | Elküldtük azért Júdást és Szilást, akik élőszóval szintén tudtotokra adják ugyanezeket.
+Acts.15.28 | Mert tetszett a Szentléleknek és nekünk, hogy egyéb terhet ne vessünk rátok, csak azt, amik szükségesek, tudniillik:
+Acts.15.29 | hogy tartózkodjatok a bálványoknak áldozott dolgoktól, a vértől, a fulladt állattól és a paráznaságtól, Ha ezektől megóvjátok magatokat, jól teszitek. Éljetek jó egészségben!
+Acts.15.30 | Azok tehát, miután útnak bocsátották őket, elmentek Antiókhiába, összegyűjtötték a hívek seregét és átadták a levelet.
+Acts.15.31 | És mikor elolvasták, örvendeztek az intésen.
+Acts.15.32 | Júdás és Szilás pedig, akik maguk is próféták voltak, sok beszéddel intették és erősítették az atyafiakat.
+Acts.15.33 | Miután pedig bizonyos időt eltöltöttek, elbocsátották őket az atyafiak békességgel azokhoz, akik küldték őket.
+Acts.15.34 | De Szilás jónak látta, hogy ott maradjon.
+Acts.15.35 | Pál és Barnabás ugyancsak Antiókhiában időztek, ahol tanították és prédikálták többedmagukkal az Úr igéjét.
+Acts.15.36 | Néhány nap múlva pedig így szólt Pál Barnabásnak: Menjünk vissza, látogassuk meg atyánkfiait minden városban, amelyben hirdettük az Úr igéjét, és lássuk, hogyan vannak.
+Acts.15.37 | És Barnabás azt akarta, hogy vegyék maguk mellé Jánost, akit Márknak hívnak.
+Acts.15.38 | Pál azonban azt tartotta jónak, hogy ne vegyék maguk mellé azt, aki elszakadt tőlük Pamfiliától fogva és nem ment velük a munkára.
+Acts.15.39 | E miatt meghasonlás támadt közöttük, úgyhogy elszakadtak egymástól, és Barnabás, maga mellé véve Márkot, elhajózott Ciprusba.
+Acts.15.40 | Pál pedig Szilást választotta maga mellé s miután az atyafiak az Úr kegyelmére bízták őt, útnak indult.
+Acts.15.41 | És bejárta Szíriát és Ciliciát, erősítve a gyülekezeteket.
+
+Acts.16.1 | Így jutott el Derbébe és Lisztrába. És íme volt ott egy Timótheus nevű tanítvány, hivő zsidó asszonynak és görög atyának fia,
+Acts.16.2 | akiről jó bizonyságot tettek a Lisztrában és Ikóniumban levő atyafiak.
+Acts.16.3 | Ezt Pál magával akarta vinni. Ezért körülmetélte őt a zsidókért, akik azokon a helyeken voltak. Mert mindnyájan tudták, hogy atyja görög volt.
+Acts.16.4 | És amint átmentek a városokon, meghagyták nekik, hogy tartsák meg a rendeléseket, amelyeket a jeruzsálemi apostolok és vének határoztak.
+Acts.16.5 | A gyülekezetek tehát erősödtek a hitben és gyarapodtak számban naponként.
+Acts.16.6 | Áthaladtak pedig Frígia és Galácia tartományán és mivel a Szentlélek eltiltotta nekik, hogy az igét Ázsiában hirdessék,
+Acts.16.7 | Mízia felé haladva, igyekeztek Bitiniába jutni, de nem eresztette őket Jézus Lelke.
+Acts.16.8 | Áthaladtak tehát Mízián, lementek Tróásba.
+Acts.16.9 | És éjjel látomás jelent meg Pálnak: egy macedón férfi állott előtte, aki kérte őt és ezt mondta: Jöjj át Macedóniába, légy segítségül nekünk!
+Acts.16.10 | Mihelyt pedig a látomást látta, azonnal igyekeztünk elmenni Macedóniába, mert megértettük, hogy odahívott minket az Úr, hogy azoknak prédikáljuk az evangéliomot.
+Acts.16.11 | Elhajóztunk tehát Tróásból, egyenesen Szamotrákéba mentünk és másnap
+Acts.16.12 | onnét pedig Filippibe, amely Macedónia ama részének első városa és római település. És ebben a városban töltöttünk néhány napot.
+Acts.16.13 | És szombatnapon ki mentünk a városon kívül egy folyó mellé, ahol tudomásunk szerint imádkozni szoktak a zsidók és leülve, prédikáltunk az egybegyűlt asszonyoknak.
+Acts.16.14 | És egy Lidia nevű, Tiatira városából való istenfélő bíborárus asszony hallgatott ránk. Ennek az Úr megnyitotta a szívét, hogy figyeljen azokra, amiket Pál mondott.
+Acts.16.15 | Mikor pedig megkeresztelkedett egész házanépével együtt, kért minket: Ha az Úr hű tanítványának ítéltetek engem, jertek az én házamba és maradjatok ott. És unszolt minket.
+Acts.16.16 | Történt pedig, hogy mikor az imádkozás helyére mentünk, egy rabszolgaleány jött velünk szembe, akiben jövendőmondó lélek volt és jövendőmondásával nagy hasznot hajtott gazdáinak.
+Acts.16.17 | Ez követte Pált és minket, és így kiáltott: Ezek az emberek a Magasságos Istennek szolgái, akik nektek az üdvösség útját hirdetik.
+Acts.16.18 | Ezt pedig több napon át művelte. Pált azonban bosszantotta ez és hátrafordulva, így szólt a léleknek: Jézus Krisztus nevében parancsolom neked, hogy menj ki belőle. És kiment abban az órában.
+Acts.16.19 | Mikor pedig gazdái látták, hogy keresetüknek reménye elveszett, megragadták Pált és Szilást, a piacra, a hatóság elé hurcolták,
+Acts.16.20 | azután odavezették a bírákhoz és azt mondták: Ezek az emberek zsidó létükre zavart okoznak városunkban,
+Acts.16.21 | és olyan szokásokat hirdetnek, amelyeket nekünk nem szabad elfogadnunk, sem cselekednünk, mivel rómaiak vagyunk.
+Acts.16.22 | És velük együtt a sokaság is ellenük támadt. A bírák pedig letépették ruhájukat és megbotoztatták őket.
+Acts.16.23 | Miután pedig sok ütést mértek rájuk, tömlöcbe vetették és megparancsolták az őrnek, hogy gondosan őrizze őket.
+Acts.16.24 | Ez, mivel ilyen parancsot kapott, a belső tömlöcbe vetette őket és lábukat kalodába szorította.
+Acts.16.25 | Éjféltájban pedig Pál és Szilás imádkozással és énekkel dicsőítette az Istent. A foglyok pedig hallgatták,
+Acts.16.26 | És hirtelen nagy földrengés támadt, úgyhogy megrendültek a tömlöc alapjai és azonnal megnyílt minden ajtó és mindnyájuknak bilincsei lehullottak.
+Acts.16.27 | És miután az őr felriadt és látta, hogy nyitva vannak a börtönajtók, kivonta kardját, meg akarta magát ölni, mert azt gondolta, hogy a foglyok megszöktek.
+Acts.16.28 | Pál azonban hangosan így kiáltott: Semmi kárt ne tégy magadban, mert mindnyájan itt vagyunk.
+Acts.16.29 | Az pedig világosságot kérve, berohant és remegve borult Pál és Szilás elé
+Acts.16.30 | és miután kihozta őket, így szólt: Uraim, mit kell cselekednem, hogy üdvözüljek?
+Acts.16.31 | Azok pedig szóltak: Higgy az Úr Jézusban és üdvözülsz mind te, mind a te házadnépe.
+Acts.16.32 | És hirdették neki az Isten igéjét és mindazoknak, akik az ő házánál voltak.
+Acts.16.33 | És ő magához vette őket az éjtszakának abban az órájában, megmosta sebeiket és megkeresztelkedett azonnal Ő és az övéi mindnyájan.
+Acts.16.34 | Azután bevezette őket házába, asztalt terített nekik és egész házanépével együtt örvendezett, hogy Istenben hívővé lett.
+Acts.16.35 | Mikor pedig megvirradt, a bírák elküldték a törvényszolgákat ezzel az üzenettel: Bocsásd el azokat az embereket.
+Acts.16.36 | Az őr pedig tudtára adta e szavakat Pálnak: A bírák ideküldtek, hogy bocsássalak el titeket. Most tehát távozzatok és menjetek el békességgel.
+Acts.16.37 | Pál azonban azt mondta nekik: Megbotoztak minket nyilvánosan, ítélet nélkül, holott mi római polgárok vagyunk, és börtönbe vetettek. Most aztán titokban akarnak minket eltávolítani? Nem úgy, hanem jöjjenek ők maguk és vezessenek ki minket.
+Acts.16.38 | A törvényszolgák pedig megmondták a bíráknak ezeket a beszédeket és azok megijedtek, mikor meghallották, hogy ők rómaiak.
+Acts.16.39 | "Azért odamentek, megkövették őket; majd kivezették és kérték, hogy távozzanak a, városból."
+Acts.16.40 | Ahogy a tömlöcöt elhagyták, elmentek Lídiához és mikor látták az atyafiakat, vigasztalták őket és útra keltek.
+
+Acts.17.1 | Miután pedig átmentek Amfipolison és Apollónián, Thessalonikába értek, ahol a zsidóknak zsinagógájuk volt.
+Acts.17.2 | Pál pedig, amint szokása volt, bement hozzájuk és három szombaton át vitatkozott velük az írásokból,
+Acts.17.3 | megmagyarázva és kimutatva, hogy Krisztusnak szenvednie kellett és a halottak közül feltámadnia és hogy ez a Jézus a Krisztus, akit én hirdetek nektek.
+Acts.17.4 | "És némelyek hittek közülük és csatlakoztak Pálhoz és Sziláshoz; úgyszintén az istenfélő görögök közül nagy sokaság és az előkelő asszonyok közül nem kevesen."
+Acts.17.5 | "De a zsidók irigységtől indíttatva, maguk mellé vettek a piaci népségből néhány züllött embert, csődületet támasztottak és felindították a várost; azután felvonulva Jázon háza elé, igyekeztek őket kihozni a nép közé."
+Acts.17.6 | De mikor nem találták őket, Jázont néhány atyafival együtt a város elöljárói elé vonszolták és azt kiáltozták: Ezek a világfelforgatók itt is megjelentek.
+Acts.17.7 | "Ezeket Jázon házába fogadta, pedig mindnyájan a császár parancsai ellen cselekesznek, mivel mást mondanak királynak; Jézust."
+Acts.17.8 | Fel is indították a sokaságot és a város elöljáróit, akik hallották ezeket.
+Acts.17.9 | De mikor kezességet kaptak Jázontól és a többiektől, elbocsátották őket.
+Acts.17.10 | Az atyafiak pedig azonnal, azon az éjtszakán elküldték Pált Szilással együtt Béreába. Mikor odaértek, elmentek a zsidók zsinagógájába.
+Acts.17.11 | Ezek nemesebb lelkűek voltak, mint a thessalonikabeliek, úgyhogy az igét teljes készséggel fogadták, naponként tudakozva az írásokat, hogy úgy vannak-e ezek.
+Acts.17.12 | Sokan hittek tehát közülük, sőt az előkelő görög asszonyok és férfiak közül is nem kevesen.
+Acts.17.13 | Mikor azonban a thessalonikai zsidók megtudták, hogy Pál Béreában is hirdeti az Isten igéjét, elmentek és a sokaságot ott is felindították és fellázították.
+Acts.17.14 | De akkor az atyafiak gyorsan elküldték Pált, mintha a tenger felé menne, Szilás és Timótheus azonban ott maradt.
+Acts.17.15 | Akik pedig elkísérték Pált, elvitték egészen Athénig, majd elmentek Sziláshoz és Timótheushoz azzal a paranccsal, hogy azok minél hamarabb menjenek hozzá.
+Acts.17.16 | Mikor azokat Athénben várta Pál, lelke háborgott, mivel látta, hogy a város tele van bálványokkal.
+Acts.17.17 | Vitázott azért a zsinagógában a zsidókkal és istenfélőkkel és a piacon minden nap azokkal, akikkel éppen találkozott.
+Acts.17.18 | Néhány epikureus és stoikus filozófus is vitatkozott vele. És egyesek így szóltak: Mit akarhat ez a fecsegő mondani? Mások meg: Úgy látszik, hogy idegen istenségek hirdetője. Jézust és a feltámadást hirdette ugyanis nekik.
+Acts.17.19 | Megragadták tehát őt, az Areopágusra vitték s ezt mondták: vajjon megismerhetnők-e, mi az az új tanítás, amelyet hirdetsz?
+Acts.17.20 | Mert a mi fülünknek idegen dolgokat beszélsz: mi tehát meg akarjuk érteni, mik lehetnek ezek.
+Acts.17.21 | Az athéniek pedig mindnyájan és az ott lakó jövevények semmi mással nem törődtek, csakhogy valami újat mondjanak vagy halljanak.
+Acts.17.22 | Előállott pedig Pál az Areopágus közepén és így szólt: Athéni férfiak, úgy látom, hogy ti minden tekintetben nagyon istenfélők vagytok.
+Acts.17.23 | Mert mikor bejártam és szemléltem szentélyeiteket, egy olyan oltárra is akadtam, amelyre ez volt írva: az ISMERETLEN ISTENNEK. Akit tehát ti ismeretlenül tiszteltek, azt hirdetem én nektek.
+Acts.17.24 | Az Isten, aki teremtette a világot és mindazt, ami abban van, mennynek és földnek Ura és nem lakik kézzel csinált templomokban.
+Acts.17.25 | Emberi kéz szolgálatára sem szorul, mintha valami nélkül szűkölködnék, mivel ő ád mindennek életet, leheletet és mindent.
+Acts.17.26 | És az egész emberi nemzetséget egy vérből teremtette, hogy lakjanak az egész föld színén. Meghatározta előre rendelt idejüket és lakozásuk határait,
+Acts.17.27 | hogy keressék az Istent, ha talán kitapinthatnák őt és megtalálhatnák, noha bizony nincs messze egyikünktől sem,
+Acts.17.28 | mert őbenne élünk, mozgunk és vagyunk. A ti költőitek közül is ezt mondták némelyek: ,,Az ő nemzetségéből vagyunk mi is”.
+Acts.17.29 | Mivel tehát az Isten nemzetsége vagyunk, nem szabad azt gondolnunk, hogy az istenség aranyhoz vagy ezüsthöz vagy kőhöz vagy az emberi művészet és elképzelés valamely alkotásához hasonló.
+Acts.17.30 | A tudatlanság időszakát ugyan elnézte az Isten, de most már azt parancsolja minden embernek mindenütt, hogy térjenek meg.
+Acts.17.31 | Mivel meghatározott egy napot, amelyen meg fogja ítélni a föld kerekségét igazságosan egy férfiú által, akit erre rendelt. Megbizonyította ezt mindenki előtt azzal, hogy feltámasztotta őt a halottak közül.
+Acts.17.32 | Mikor azonban a halottak feltámadásáról hallottak, némelyek gúnyolódtak, mások pedig azt mondták: Majd még meghallgatunk téged e felől.
+Acts.17.33 | így távozott Pál közülük.
+Acts.17.34 | "Néhány férfi azonban csat lakozott hozzá, és hívővé lett; ezek között az areopágita Dienes is és egy Damaris nevű asszony és velük együtt mások."
+
+Acts.18.1 | Ezek után Pál Athénből eltávozott és Korinthusba ment.
+Acts.18.2 | Itt egy Akvila nevű pontusi származású zsidóra talált, aki nemrég jött Itáliából, és feleségére, Priszcillára — mivel Klaudius megparancsolta, hogy a zsidók mind távozzanak Rómából és hozzájuk csatlakozott.
+Acts.18.3 | Mivel pedig ugyanazt a mesterséget folytatta, náluk maradt és ott dolgozott. Mesterségükre nézve ugyanis sátorcsinálók voltak.
+Acts.18.4 | Vitatkozott pedig minden szombaton a zsinagógában és igyekezett meggyőzni mind a zsidókat, mind a görögöket.
+Acts.18.5 | Mikor pedig megérkezett Macedóniából Szilás és Timótheus, Pál teljesen az ige hirdetésében foglalatoskodott és bizonyságot tett a zsidók előtt, hogy Jézus a Krisztus.
+Acts.18.6 | De mikor ellenszegültek és káromlásokat mondtak, ruháját megrázta és ezt mondta nekik: Véretek a fejetekre! Én tiszta vagyok: mostantól fogva a pogányokhoz megyek.
+Acts.18.7 | És elköltözött onnét, egy Titius Jusztus nevű istenfélő ember házába, amely szomszédos volt a zsinagógával.
+Acts.18.8 | "Kriszpus pedig, a zsinagógai elöljáró, hitt az Úrban egész házanépével együtt; a korinthusiak közül is sokan, miután hallották, hittek és megkeresztelkedtek."
+Acts.18.9 | Szólt pedig az Úr éjjel látomás által Pálnak: Ne félj, hanem prédikálj és ne hallgass,
+Acts.18.10 | "Mert én veled vagyok és senki sem támad rád, hogy neked ártson; mert nekem sok népem van ebben a városban."
+Acts.18.11 | És ott lakott egy esztendeig és hat hónapig és tanította köztük az Isten igéjét.
+Acts.18.12 | Mikor pedig Gallió lett Ahája helytartója, a zsidók egy akarattal rátámadtak Pálra s a törvényszék elé vitték,
+Acts.18.13 | és ezt mondták: Ez az embereket arra csábítja, hogy törvényellenes módon tiszteljék az Istent.
+Acts.18.14 | Mikor pedig Pál meg akarta nyitni száját, Gallió azt mondta a zsidóknak: Ha valóban valami erőszakról vagy gonosz cselekedetről volna szó, zsidók, megokolt volna, hogy meghallgassalak titeket.
+Acts.18.15 | De mivel tanításról, nevekről és a ti törvényetekről folyik a vita, azt intézzétek el ti magatok, mert én ezekben nem akarok bíró lenni.
+Acts.18.16 | És elűzte őket a törvényszék elől.
+Acts.18.17 | Ekkor valamennyien megragadták Szósztenest, a zsinagógai elöljárót és ütlegelték a törvényszék előtt. Gallió azonban nem törődött vele.
+Acts.18.18 | "Pál pedig még egy jó ideig ott maradt, azután elbúcsúzott az atyafiaktól, Szíriába hajózott és vele együtt Priszcilla és Akvila, miután ő a fejét Kenkreában megnyíratta; mert ez volt a fogadása."
+Acts.18.19 | így jutott Efezusba és azokat otthagyta, ő maga pedig bement a zsinagógába és vitatkozott a zsidókkal.
+Acts.18.20 | Ám mikor arra kérték, hogy hosszabb ideig maradjon náluk, nem volt hajlandó,
+Acts.18.21 | hanem búcsút vett tőlük és azt mondta: Ismét visszajövök hozzátok, ha az Isten akarja. És elhajózott Efezusból.
+Acts.18.22 | És miután Cézáreába ért, felment Jeruzsálembe, köszöntötte a gyülekezetet, és lement Antiókhiába.
+Acts.18.23 | És miután egy darabig ott időzött, elment, rendre bejárta Galácia tartományát és Frigiát, és erősítette a tanítványokat mind.
+Acts.18.24 | Eközben Efezusba érkezett egy Apollós nevű zsidó, alexandriai származású, ékesen szóló férfiú, járatos az írásokban.
+Acts.18.25 | Ez már oktatást nyert az Úr útjáról és miután lélekben buzgó volt, pontosan hirdette és tanította a Jézusra vonatkozó dolgokat, bár csak János keresztségét ismerte.
+Acts.18.26 | És kezdett nagy bátorsággal szólani a zsinagógában. Mikor pedig meghallgatta őt Akvila és Priszcilla, magukhoz vették és még pontosabban kifejtették előtte az Isten útját.
+Acts.18.27 | Majd mikor Ahájába akart átmenni, az atyafiak buzdították és írtak a tanítványoknak, hogy fogadják be. Mikor odaérkezett, nagy segítségükre volt azoknak, akik hívőkké lettek a kegyelem által,
+Acts.18.28 | mert nyilvánosan nagy erővel cáfolta a zsidókat, bizonyítva az írásokból, hogy Jézus a Krisztus
+
+Acts.19.1 | Történt pedig közben, míg Apollós Korinthusban volt, hogy Pál bejárta a felső tartományokat, Efezusba érkezett és mikor néhány tanítványra talált,
+Acts.19.2 | ezt kérdezte tőlük: vajjon vettetek-e Szentlelket, miután hívőkké lettetek? Azok pedig így feleltek neki: Sőt inkább azt sem hallottuk, hogy van-e Szentlélek.
+Acts.19.3 | És szólt nekik: Hát mire keresztelkedtetek meg? Azok pedig azt válaszolták: János keresztségére.
+Acts.19.4 | Szólt pedig Pál: János megtérés keresztségével keresztelt, és azt mondta a népnek, hogy aki utána jön, abban higgyenek, tudniillik a Jézus Krisztusban,
+Acts.19.5 | Mikor pedig ezt hallották, megkeresztelkedtek az Úr Jézus nevére.
+Acts.19.6 | És miután Pál rájuk tette a kezét, Szentlélek szállt rájuk, úgyhogy nyelveken beszéltek és prófétáltak.
+Acts.19.7 | Ezek a férfiak pedig összesen mintegy tizenketten voltak.
+Acts.19.8 | Amikor bement a zsinagógába, bátran beszélt, és három hónapon át vitatkozva igyekezett meggyőzni őket az Isten országára tartozó dolgokról.
+Acts.19.9 | Mikor azonban némelyek megkeményítették magukat, engedetlenek voltak és szidalmazták az Úr útját az egybegyűltek előtt, elvált tőlük és magával vitte a tanítványokat. Ettől fogva mindennap egy bizonyos Tirannus iskolájában prédikált.
+Acts.19.10 | így volt ez két esztendeig, úgyannyira, hogy mindazok, akik Ázsiában laktak, mind zsidók, mind görögök hallgatták az Úr igéjét.
+Acts.19.11 | Isten pedig rendkívüli csodákat cselekedett Pál keze által,
+Acts.19.12 | úgyhogy a betegekhez is elvitték testéről a kendőket vagy kötényeket és azok meggyógyultak a betegségeikből és a gonosz lelkek kimentek belőlük.
+Acts.19.13 | Egyes kóbor zsidó ördögűzők pedig kuruzsolni kezdtek az Úr Jézus nevével olyanokat, akikben gonosz lelkek voltak, és ezt mondták: Kényszerítünk titeket Jézusra. akit Pál prédikál!
+Acts.19.14 | És ezt egy bizonyos Skéva nevű zsidó főpap hét fia művelte.
+Acts.19.15 | De a gonosz lélek így válaszolt: Jézust ismerem, Pálról is tudok, de ti kik vagytok?
+Acts.19.16 | Erre az az ember, akiben a gonosz lélek volt, nekik ugrott, legyűrte őket s annyira hatalmat vett rajtuk, hogy mezítelenül és sebesülten futottak ki abból a házból.
+Acts.19.17 | Ez pedig tudomására jutott mindenkinek, zsidóknak és görögöknek, akik Efezusban laktak, úgyhogy félelem szállott mindnyájukra és magasztalták az Úr Jézus nevét.
+Acts.19.18 | És sokan a hivők közül eljöttek, megvallottak és elbeszélték ördögi mesterkedésüket.
+Acts.19.19 | Sokan pedig azok közül, akik varázslással foglalkoztak, könyveiket összehordtak és mindenki láttára megégették azokat. Amikor a könyvek árát összeszámolták, úgy találták, hogy az ötvenezer ezüstpénz.
+Acts.19.20 | Így az Úr igéje hatalmasan terjedt és megerősödött.
+Acts.19.21 | Ezek után Pál elhatározta a Lélek által, hogy Macedóniát és Aháját bejárva Jeruzsálembe megy és ezt mondta: Miután ott voltam, Rómát is meg kell látnom.
+Acts.19.22 | Elküldött pedig Macedóniába kettőt azok közül, akik neki szolgáltak: Timótheust és Erásztust, ő maga egy ideig Ázsiában maradt
+Acts.19.23 | Támadt azonban abban az időben nem csekély háborúság az Úr útja miatt.
+Acts.19.24 | Mert egy Demeter nevű ötvös, aki ezüstből Diána templomokat készített, s ezáltal a kézműveseknek nem csekély nyereséget adott,
+Acts.19.25 | gyűlésre hívta őket a rokon mesterséget folytatókkal együtt és ezt mondta: Férfiak, tudjátok, hogy a mi jólétünk ebből a mesterségből van.
+Acts.19.26 | De látjátok és halljátok, hogy ez a Pál nemcsak Efezusnak, hanem úgyszólva egész Ázsiának sok népét eláltatta és megtévesztette, mivel azt mondja, hogy nem istenek azok, amelyeket kézzel csinálnak.
+Acts.19.27 | De nemcsak minket fenyeget ez a veszedelem, hogy ez a mesterség hitelét veszti, hanem hogy a nagy istennőnek, Diánának templomát is semmibe veszik, úgyhogy odavész az ő nagysága, pedig egész Ázsia és az egész földkerekség tiszteli.
+Acts.19.28 | Amikor ezeket hallották, elteltek haraggal és így kiáltoztak: Nagy az efezusi Diána!
+Acts.19.29 | És megtelt az egész város izgalommal. És egy akarattal a színházba rohantak, megragadták Gájust és Arisztarkust, Pál útitársait, akik Macedóniából valók voltak.
+Acts.19.30 | Pált azonban, mikor a nép közé akart menni, nem eresztették a tanítványok.
+Acts.19.31 | Néhányan a tartomány főtisztviselői közül is, akik neki barátai voltak, elküldtek hozzá, és kérték őt, hogy ne menjen a színházba.
+Acts.19.32 | Ott ki egyet, ki mást kiáltozott, mert a népgyűlés összezavarodott és a többség azt sem tudta, miért gyűltek össze.
+Acts.19.33 | A tömegből pedig előállították Sándort, minthogy a zsidók őt tuszkolták előre. Sándor pedig kezével intve, védekezni akart a nép előtt.
+Acts.19.34 | Mikor azonban megismerték, hogy zsidó, egyetlen kiáltás tört ki mindnyájukból, amely mintegy két óra hosszáig tartott: Nagy az efezusi Diána!
+Acts.19.35 | Miután pedig a városi jegyző lecsendesítette a sokaságot, így szólt: Efezusi férfiak, ugyan ki az az ember, aki ne tudná, hogy Efezus városa a nagy istennő, Diána templomának és az égből lehullott képének őrizője?
+Acts.19.36 | Mivel tehát ezeknek senki sem mondhat ellent, szükséges, hogy lecsendesedjetek és semmiféle meggondolatlanságot ne cselekedjetek.
+Acts.19.37 | Mert idehoztátok ezeket az embereket, akik sem nem templomrablók, sem a mi istennőnk ellen káromlást nem mondtak.
+Acts.19.38 | Ha tehát Demeternek és kézműves társainak valaki ellen panaszuk van, vannak erre törvényszékek és helytartók: pereljenek azok előtt egymással.
+Acts.19.39 | Ha pedig egyéb dologra nézve van valami panaszotok, a törvényes népgyűlésen majd elintézhetitek.
+Acts.19.40 | Mert félő, hogy lázadással vádolnak minket a mai napért, mivel semmi ok sincs, amivel számot tudnánk adni ezért a csődületért. Ezeket mondva, feloszlatta a gyűlést.
+Acts.19.41 | Összevont szöveg
+
+Acts.20.1 | Miután pedig a zavargás megszűnt, Pál magához hívatta a tanítványokat, intette őket, búcsút vett tőlük és elindult, hogy Macedóniába menjen.
+Acts.20.2 | Amikor pedig bejárta azokat a tartományokat, még sok beszéddel intette őket és Görögországba ment.
+Acts.20.3 | És ott töltött három hónapot. De mivel a zsidók cselt szőttek ellene, mikor Szíriába készült hajózni, úgy döntött, hogy Macedónián át tér vissza.
+Acts.20.4 | "Kísérte pedig őt Ázsiáig a béreai Szopater, Pirrus fia, a thessalonikaiak közül pedig Arisztarkus és Szekundus, a derbéi Gájus és Timótheus; továbbá az ázsiai Tikhikus és Trofimus."
+Acts.20.5 | Ezek előremenve megvártak minket Tróásban.
+Acts.20.6 | Mi pedig a kovásztalan kenyerek napjai után kihajóztunk Filippiből és öt nap múlva hozzájuk érkeztünk Tróásba, ahol hét napot töltöttünk.
+Acts.20.7 | A hét első napján pedig, mikor összegyűltünk a kenyér megtörésére, Pál prédikált nekik és mivel másnap el akart utazni, a tanítást éjfélig nyújtotta.
+Acts.20.8 | Sok lámpás volt pedig abban az emeleti szobában, ahol összegyűltünk.
+Acts.20.9 | Egy Eutihus nevű ifjú mivel Pál sok ideig prédikált, mély álomba merült és az álom úgy elnyomta, hogy leesett a harmadik emeletről és holtan szedték fel.
+Acts.20.10 | Ekkor Pál lement, ráborult és magához ölelve őt, ezt mondta: Ne üssetek zajt, mert a lelke még benne van.
+Acts.20.11 | Azután felment, megtörte a kenyeret, evett és sokáig, egész virradatig beszélgetve, útnak indult.
+Acts.20.12 | Az ifjút pedig élve hozták fel és igen megvigasztalódtak.
+Acts.20.13 | Mi pedig előre mentünk a hajóra, Asszusba eveztünk s ott akartuk felvenni Pált, mivel így rendelkezett és maga gyalog akart jönni,
+Acts.20.14 | Amikor pedig Asszusban összetalálkozott velünk, felvettük őt és Mitilénébe mentünk.
+Acts.20.15 | És onnét elhajóztunk, és másnap Kius magasságába jutottunk. A következő napon pedig áthajóztunk Számusba, — Trogilliumban megszálltunk — és másnap Milétusba mentünk. (A 15. versben gondolatjel közé tett szavak a legrégibb kéziratokban nincsenek meg.)
+Acts.20.16 | Mert Pál elhatározta, hogy Efezus mellett elhajózik, hogy ne kelljen időt töltenie Ázsiában, mivel sietett, hogy lehetőleg pünkösd napjára Jeruzsálemben legyen.
+Acts.20.17 | Milétusból azonban elküldött Efezusba, és magához hívatta a gyülekezet véneit.
+Acts.20.18 | Mikor azután ezek odajöttek hozzá, így szólt hozzájuk: Ti tudjátok, hogy az első naptól fogva, amelyen Ázsiába jöttem, hogyan viselkedtem közöttetek az egész idő alatt,
+Acts.20.19 | hogyan szolgáltam az Úrnak teljes alázatossággal, sok könnyhullatás és kísértés között, amelyek rajtam a zsidók cselvetései miatt estek.
+Acts.20.20 | Semmit abból, ami hasznos, el nem hallgattam, hanem inkább nyilvánosan és házanként hirdettem és tanítottam nektek,
+Acts.20.21 | miközben mind zsidók, mind görögök előtt bizonyságot tettem az Istenhez való megtérés és a mi Urunk Jézus Krisztusban való hit felől.
+Acts.20.22 | És most íme, én a Lélektől kényszerítve megyek Jeruzsálembe és nem tudom, hogy mik következnek ott rám,
+Acts.20.23 | csak azt, hogy a Szentlélek városonként arról tesz bizonyságot nekem, hogy fogság és nyomorúság következik rám.
+Acts.20.24 | De semmivel sem gondolok, sőt még az életem sem drága nekem, csakhogy elvégezhessem futásomat örömmel és azt a szolgálatot, amelyet az Úr Jézustól vettem, hogy bizonyságot tegyek Isten kegyelmének evangéliumáról.
+Acts.20.25 | És most íme, tudom, hogy nem látjátok többé arcomat, ti mindnyájan, akik között az Isten országát prédikálva jártam.
+Acts.20.26 | Azért bizonyságot teszek előttetek a mai napon, hogy én mindenkinek a vérétől tiszta vagyok.
+Acts.20.27 | Mert nem vonakodtam, hogy hirdessem nektek az Isten teljes akaratát.
+Acts.20.28 | Vigyázzatok azért magatokra és az egész nyájra, amelyben a Szentlélek titeket vigyázókká tett az Isten egyházának legeltetésére, amelyet tulajdon vérével szerzett.
+Acts.20.29 | Mert tudom, hogy távozásom után gonosz farkasok jönnek közétek, akik nem kímélik a nyájat.
+Acts.20.30 | Sőt ti magatok közül is támadnak férfiak, akik fonák dolgokat beszéljek, hogy a tanítványokat maguk után vonják.
+Acts.20.31 | Azért legyetek éberek, emlékezzetek meg arról, hogy három esztendeig éjjel-nappal meg nem szűntem könnyhullatással inteni mindenkit.
+Acts.20.32 | És most, atyámfiai, ajánllak titeket az Úrnak és az ő kegyelme igéjének, aki felépíthet és adhatja nektek minden szentekkel egyben az örökséget.
+Acts.20.33 | Senkinek ezüstjét vagy aranyát vagy ruháját nem kívántam,
+Acts.20.34 | sőt magatok tudjátok, hogy mind saját szükségleteimről, mind a velem levőkről ezek a kezek gondoskodtak.
+Acts.20.35 | Mindezekben példát adtam nektek, hogy ily módon munkálkodva kell az erőtlenekről gondoskodni és megemlékezni az Úr Jézus szavairól, mert ő mondta: Jobb adni, mint venni.
+Acts.20.36 | És mikor ezeket elmondta, térdre esve imádkozott mindnyájukkal együtt.
+Acts.20.37 | Ekkor mindnyájan nagy sírásra fakadtak és Pálnak nyakába borulva, csókolgatták őt.
+Acts.20.38 | Különösen azon a mondásán szomorodtak el, hogy többé az ő arcát nem fogják látni. Azután elkísérték a hajóra.
+
+Acts.21.1 | Amint elváltunk tőlük, elindultunk és egyenesen haladva, Kóusba érkeztünk, másnap pedig Ródusba és onnét Patarába.
+Acts.21.2 | Ott találtunk egy Feníciába induló hajót: ebbe beszállva, elhajóztunk.
+Acts.21.3 | És miután megláttuk Ciprust és elhagytuk balkéz felé, Szíriába eveztünk és Tírusban kötöttünk ki, mert a hajó ott rakta ki terhét.
+Acts.21.4 | És amikor megtaláltuk a tanítványokat, ott maradtunk hét napig. Ezek Pálnak a Lélek által azt mondták, hogy ne menjen fel Jeruzsálembe.
+Acts.21.5 | Mikor pedig eltöltöttük azokat a napokat, elindulva folytattuk utunkat és mindenki elkísért bennünket az asszonyokkal és gyermekekkel együtt még a városon is túl. És a tenger partján térdre esve imádkoztunk.
+Acts.21.6 | Azután elbúcsúztunk egymástól, hajóra szálltunk, ők pedig visszatértek övéikhez.
+Acts.21.7 | Amikor a tengeri út végére értünk, Tírusból eljutottunk Ptolemaisba, köszöntöttük az atyafiakat, és náluk maradtunk egy napig.
+Acts.21.8 | Másnap pedig elutaztunk és megérkeztünk Cézáreába, bementünk Fülöp evangélista házába, aki ama hét közül való volt, és nála szálltunk meg.
+Acts.21.9 | Ennek pedig volt négy hajadon leánya, akik prófétáltak.
+Acts.21.10 | Mialatt pedig több napig ott tartózkodtunk, lejött egy Júdeából való próféta, név szerint Agabus.
+Acts.21.11 | Mikor ez hozzánk érkezett, vette a Pál övét, megkötözte vele saját kezét és lábát, és ezt mondta: Így szól a Szentlélek: így kötözik meg a zsidók Jeruzsálemben azt a férfiút, akié ez az öv, és a pogányok kezére adják.
+Acts.21.12 | Mikor pedig ezeket hallottuk, mind mi, mind az odavalók kértük, hogy ne menjen fel Jeruzsálembe,
+Acts.21.13 | de Pál így feledt: Miért teszitek ezt, sírva és szívemet keserítve? Mert én nemcsak megkötöztetni, hanem meghalni is kész vagyok Jeruzsálemben az Úr Jézus nevéért.
+Acts.21.14 | Mikor tehát nem engedett, megnyugodtunk és ezt mondtuk: Legyen meg az Úr akarata!
+Acts.21.15 | E napok után pedig felkészültünk és felmentünk Jeruzsálembe.
+Acts.21.16 | Velünk jött néhány cézáreai tanítvány is, akik elvezettek bizonyos ciprusi Mnázonhoz, egy régi tanítványhoz, hogy ott legyen szállásunk.
+Acts.21.17 | Mikor Jeruzsálembe értünk, örömmel fogadtak minket az atyafiak.
+Acts.21.18 | Másnap pedig Pál velünk együtt bement Jakabhoz és a vének mindnyájan ott voltak.
+Acts.21.19 | Köszöntötte őket és részletesen előadta, amit Isten a pogányok között az ő szolgálata által cselekedett.
+Acts.21.20 | Azok pedig ennek hallatára dicsőítették az Istent és ezt mondták neki: Látod, atyánkfia, mily sok ezer zsidó van, akik hivőkké lettek és mindnyájan buzgólkodnak a törvények megtartásában.
+Acts.21.21 | Felőled pedig azt hallották, hogy te mindazokat a zsidókat, akik a pogányok között vannak, Mózestől való elszakadásra tanítod és azt mondod, hogy ne metéljék körül fiaikat, se a zsidó szokások szerint ne járjanak.
+Acts.21.22 | Mit tegyünk tehát? Mindenesetre meg fogják hallani, hogy ideérkeztél.
+Acts.21.23 | Tedd hát azt, amit neked mondunk. Van közöttünk négy férfi, akik fogadalmat tettek.
+Acts.21.24 | Ezeket vedd magad mellé, menj fel velük tisztulásra és fizess helyettük, hogy megnyírhassák fejüket. így majd mindenki megtudja, hogy semmi sem igaz abból, amit felőled hallott, hanem te magad is úgy élsz, hogy a törvényt megtartod.
+Acts.21.25 | A pogányokból lett hívőknek pedig megírtuk azt a határozatunkat, hogy tartózkodjanak mind a bálványáldozatoktól, mind a vértől, mind a fulladt állattól, mind a paráznaságtól.
+Acts.21.26 | Akkor Pál maga mellé vette azokat a férfiakat és másnap velük együtt megtisztulva, bement a templomba, és bejelentette, hogy mikor telnek le a tisztulás napjai, és mikor mutatják be mindegyikükért az áldozatot.
+Acts.21.27 | Mikor azonban a hét nap már eltelőben volt, az ázsiai zsidók meglátták őt a templomban, ellene ingerelték az egész sokaságot, rávetették a kezüket,
+Acts.21.28 | "és ezt kiáltották: Izraelita férfiak, segítsetek! Ez az ember az, aki mindenkit mindenütt a nép ellen, a törvény ellen és e hely ellen tanít; ezenfelül még görögöket is hozott a templomba, amivel beszennyezte ezt a szent helyet."
+Acts.21.29 | Előbb ugyanis látták vele az efezusi Trofimust a városban, s azt gondolták, hogy Pál bevitte a templomba.
+Acts.21.30 | Felzúdult tehát az egész város, a nép összecsődült, megragadták Pált, kivonszolták a templomból és az ajtókat azonnal bezárták.
+Acts.21.31 | Mikor pedig meg akarták őt ölni, eljutott a híre a katonai csapat ezredeséhez, hogy az egész Jeruzsálem fellázadt.
+Acts.21.32 | Ez azonnal katonákat és századosokat vett maga mellé, és lerohant hozzájuk. Mikor ezek meglátták az ezredest és a katonákat, abbahagyták Pál ütlegelését.
+Acts.21.33 | Ekkor az ezredes odaért, elfogatta őt és megparancsolta, hogy kötözzék meg két lánccal, majd tudakolta, hogy kicsoda és mit cselekedett.
+Acts.21.34 | De ki egyet, ki mást kiáltott a tömeg között és mivel a zajongás miatt nem tudhatott meg semmi bizonyosat, megparancsolta, hogy vigyék a várba.
+Acts.21.35 | Mikor azonban a lépcsőkhöz ért, a katonáknak vinniük kellett a tömeg erőszakoskodása miatt.
+Acts.21.36 | Mert nagy néptömeg követte, kiáltozva: Öld meg őt!
+Acts.21.37 | És mikor már éppen be akarták vinni Pált a várba, így szólt az ezredeshez: Vájjon szabad-e nekem valamit szólnom hozzád? Az pedig szólt: Hát te tudsz görögül?
+Acts.21.38 | Hát nem te vagy az az egyiptomi, aki néhány nappal ezelőtt fellázította és a pusztába vitte ki a négyezer összeesküvőt?
+Acts.21.39 | Pál pedig szólt: Én ugyan tárzusi zsidó vagyok, Cilicia nem ismeretlen városának polgára, de kérlek, engedd meg nekem, hogy szóljak a néphez.
+Acts.21.40 | Mikor aztán megadta az engedélyt, Pál a lépcsőkön állva, intett kezével a népnek és mikor nagy csend lett, megszólalt héber nyelven és ezt mondta:
+
+Acts.22.1 | Atyámfiai, férfiak és atyák, hallgassátok meg beszédemet, amellyel előttetek védekezem.
+Acts.22.2 | Mikor pedig hallották, hogy héber nyelven szól hozzájuk, még jobban elcsendesedtek. És szólt:
+Acts.22.3 | Én zsidó vagyok, a ciliciai Tárzusban születtem, de ebben a városban növekedtem fel Gamáliel lábainál. Az ősi törvény szigorúsága szerint tanítottak, és én is oly buzgón ragaszkodtam az Istenhez, mint ma ti mindnyájan.
+Acts.22.4 | "Ennek a tanításnak a híveit halálra üldöztem, megkötöztem és tömlöcbe vetettem férfiakat is, nőket is;"
+Acts.22.5 | tanúja ennek a főpap is és a vének egész tanácsa, akiktől leveleket is kaptam az atyafiakhoz és elmentem Damaskusba, hogy az odavalókat is fogva hozzam Jeruzsálembe, hogy bűnhődjenek.
+Acts.22.6 | Történt pedig, hogy amint mentem és közeledtem Damaskushoz, déltájban hirtelen nagy mennyei világosság sugárzott körül engem,
+Acts.22.7 | és a földre estem és szót hallottam, amely ezt mondta nekem: Saul, Saul, miért üldözöl engem?
+Acts.22.8 | Én pedig azt feleltem: Kicsoda vagy, uram? És ő így szólt: Én vagyok a názáreti Jézus, akit te üldözöl.
+Acts.22.9 | Akik pedig velem voltak, a világosságot ugyan látták — és megrémültek — de nem hallották annak szavát, aki velem beszélt.
+Acts.22.10 | "Én pedig szóltam: Mit cselekedjem, Uram? Az Ú erre azt mondta nekem: Kelj fel és menj Damaskusba; majd ott megmondják neked mindazt, amit Isten felőled elrendelt, hogy véghez vidd."
+Acts.22.11 | Mivel azonban ama világosság ragyogása miatt nem láttam, a velem levők kézen fogva vezettek és úgy mentem be Damaskusba.
+Acts.22.12 | Egy bizonyos Anániás pedig, aki a törvény szerint kegyes férfiú, kiről az összes ott lakó zsidók jó bizonyságot tesznek,
+Acts.22.13 | eljött hozzám, mellém állott és így szólt: Atyámfia, Saul, láss újból! És én abban a pillanatban megláttam őt.
+Acts.22.14 | Ő pedig szólt: A mi atyáink istene választott ki téged, hogy megismerd az ő akaratát és meglásd amaz Igazat és szót hallj az ő szájából.
+Acts.22.15 | Mert az ő tanúja leszel minden embernél, ama dolgok felől, amiket láttál és hallottál.
+Acts.22.16 | Most tehát miért késel? Kelj fel, keresztelkedjél meg, mosd le a bűneidet, és hívd segítségül az Ú nevét.
+Acts.22.17 | Történt pedig, hogy mikor Jeruzsálembe visszatértem és imádkoztam a templomban, lelkemben elragadtattam
+Acts.22.18 | és láttam őt, aki ezt mondta nekem: Siess és menj ki hamar Jeruzsálemből mert nem fogadják be a felőlem való bizonyságtételedet.
+Acts.22.19 | Ekkor így szóltam: Uram, ők maguk tudják, hogy tömlöcbe vetettem és vertem minden zsinagógában azokat, akik benned hittek.
+Acts.22.20 | És mikor a te mártírodnak, Istvánnak vérét ontották, én is ott álltam, és helyeseltem az ő megölését és őriztem azoknak a ruháját, akik őt megölték.
+Acts.22.21 | És azt mondta nekem: Eredj el, mert messze küldelek téged, a pogányok közé.
+Acts.22.22 | Hallgatták pedig őt eddig a szóig, de most felemelték hangjukat és ezt mondták: Töröld el a föld színéről az ilyent, mert nem szabad neki élnie.
+Acts.22.23 | Mivel pedig kiáltoztak, ruhájukat elhányták és port szórtak a levegőbe,
+Acts.22.24 | az ezredes megparancsolta, hogy vigyék a várba, és meghagyta, hogy korbácsütésekkel vallassák ki őt, hadd tudja meg, miért kiáltoztak úgy ellene.
+Acts.22.25 | Mikor pedig lekötötték szíjakkal, így szólt Pál az ott álló századosnak: vajjon szabad nektek megkorbácsolnotok egy római polgárt, akit még nem ítéltek el?
+Acts.22.26 | Miután pedig ezt meghallotta a százados, elment az ezredeshez és ezt jelentette neki: Mit akarsz tenni? Ez az ember ugyanis római polgár.
+Acts.22.27 | Ekkor az ezredes odament hozzá és ezt mondta neki: Mondd meg nekem, hogy csakugyan római polgár vagy? Ő pedig szólt: Az.
+Acts.22.28 | Az ezredes így felelt: Én nagy összegért vásároltam meg a polgárjogot. Pál pedig azt mondta: Én meg benne is születtem.
+Acts.22.29 | Ekkor nyomban ott hagyták, akik vallatni akarták. Sőt az ezredes is megijedt, mikor megtudta, hogy római polgár és mégis megkötöztette.
+Acts.22.30 | Másnap pedig bizonyosat akart tudni, hogy mivel vádolják a zsidók, feloldoztatta tehát bilincseiből és megparancsolta, hogy a papi fejedelmek az egész tanáccsal együtt üljenek össze. Ekkor Pált lehozatta és eléjük állította.
+
+Acts.23.1 | Ekkor Pál végigtekintett a tanácson és így szólt: Atyámfiai, férfiak, én teljes jó lelkiismerettel szolgáltam az Istennek mind e mai napig.
+Acts.23.2 | Anániás pedig, a főpap, megparancsolta azoknak, akik mellette álltak, hogy üssék szájon.
+Acts.23.3 | Akkor Pál így szólt neki: Megver téged az Isten, te meszelt fal! Itt ülsz, hogy ítélj felettem a törvény szerint és törvényellenesen azt parancsolod, hogy engem verjenek?
+Acts.23.4 | Az ott állók pedig így szóltak: Az Isten főpapját szidalmazod?
+Acts.23.5 | Pál erre azt mondta: Nem tudtam, atyámfiai, hogy főpap. Mert meg van írva: A te népednek fejedelmét ne átkozd!
+Acts.23.6 | Mivel pedig Pál tudta, hogy egyik részük a szadduceusok, másik pedig a farizeusok közül való, így kiáltott a tanács előtt. Atyámfiai férfiak, én farizeus vagyok, farizeusnak a fia a halottak feltámadásának reménysége miatt vádolnak engem.
+Acts.23.7 | Mihelyt pedig ezt mondta: meghasonlás támadt a farizeusok és szadduceusok között és a gyűlés megoszlott.
+Acts.23.8 | Mert a szadduceusok azt állítják, hogy nincs feltámadás, sem angyal, sem lélek, a farizeusok ellenben mind a kettőt vallják.
+Acts.23.9 | Nagy kiáltozás támadt tehát és a farizeuspárti írástudók közül némelyek felálltak és heves vitatkozásban ezt mondták: Semmi rosszat sem találunk ebben az emberben. Hátha Lélek szólt neki vagy angyal? (A 9. vers végén egyes kéziratokban még ez olvasható: Ne tusakodjunk Isten ellen.)
+Acts.23.10 | És mivel nagy meghasonlás támadt, az ezredes attól félve, hogy Pált szétszaggatják, megparancsolta hogy a csapat jöjjön le, ragadja ki közülük és vigye a várba.
+Acts.23.11 | A következő éjtszka pedig az Úr odaállt mellé és ezt mondta: Bízzál, mert amint Jeruzsálemben bizonyságot tettél az én ügyem mellett, úgy kell neked bizonyságot tenned Rómában is.
+Acts.23.12 | Másnap pedig a zsidók összeálltak, átok alatt megfogadták egymásnak, hogy sem nem esznek, sem nem isznak addig, amíg Pált meg nem ölik.
+Acts.23.13 | Többen voltak pedig negyvennél, akik ezt az összeesküvést szőtték.
+Acts.23.14 | Ezek elmentek a papi fejedelmekhez és vénekhez, és ezt mondták: Átok alatt köteleztük magunkat, hogy semmit sem ízlelünk addig, amíg Pált meg nem öljük,
+Acts.23.15 | Most azért a tanáccsal együtt javasoljátok az ezredesnek, hogy holnap hozza le hozzátok, mintha az ügyét alaposabban akarnátok megvizsgálni. Mi pedig készek vagyunk megölni őt, mielőtt ideér.
+Acts.23.16 | Pál nőtestvérének fia azonban meghallotta ezt a cselvetést, elment és amint bejutott a várba, tudtára adta Pálnak.
+Acts.23.17 | Pál pedig az egyik századost magához hivatta és ezt mondta: Vezesd az ezredeshez ezt az ifjút, mert jelenteni akar neki valamit.
+Acts.23.18 | "Az tehát maga mellé vette őt, elvitte az ezredeshez és azt mondta: A fogoly Pál magához; hívatott engem, hogy ezt az ifjút vezessem hozzád, mert mondani akar neked valamit,"
+Acts.23.19 | Az ezredes pedig kézenfogta, félrevonult vele és tudakolta: Mi az, amit nekem jelenteni akarsz?
+Acts.23.20 | Az pedig szólt: A zsidók elhatározták, hogy megkérnek téged, hozasd le Pált holnap a tanács elé, mintha alaposabban meg akarnák vizsgálni az ügyét.
+Acts.23.21 | De te ne engedj nekik, mert közülök több mint negyven férfi les rá, akik átokkal kötelezték magukat, hogy addig sem nem esznek, sem nem isznak, amíg meg nem ölik. Már készen is vannak és várják az üzenetedet.
+Acts.23.22 | Akkor az ezredes elbocsátotta az ifjút és meghagyta neki: Senkinek se szólj arról, hogy ezeket jelentetted nekem.
+Acts.23.23 | "Ezután magához hívatott kettőt a századosok közül és így szólt: Készítsetek fel kétszáz katonát, hogy induljanak Cézáreába, és hetven lovast meg kétszáz dárdást az éjszaka harmadik órájától fogva;"
+Acts.23.24 | és adjanak melléjük nyerges állatokat is. hogy Pált felültetve, biztonságban vigyék Félix helytartóhoz.
+Acts.23.25 | Levelet is írt, amelynek tartalma ez volt:
+Acts.23.26 | Klaudius Liziás a nemes helytartónak, Félixnek üdvözletét küldi.
+Acts.23.27 | Ezt a férfiút a zsidók elfogták és meg akarták ölni, de odamenve csapatommal, kiszabadítottam, mivel megtudtam, hogy római polgár.
+Acts.23.28 | Amikor pedig meg akartam tudni, mivel vádolják, levitettem a tanácsuk elé
+Acts.23.29 | és úgy találtam, hogy az ő törvényük vitás kérdései felől vádolják, de semmi halált vagy fogságot érdemlő vád nincs ellene.
+Acts.23.30 | Minthogy pedig jelentették nekem, hogy a zsidók e férfiú ellen merényletet akarnak elkövetni, azonnal hozzád küldtem őt, meghagyva vádlóinak is, hogy ami panaszuk van ellene, előtted mondják el. Légy jó egészségben!
+Acts.23.31 | A katonák tehát, amint megparancsolták nekik, magukhoz vették Pált és elvitték azon az éjtszakán Antipatrisba.
+Acts.23.32 | Másnap pedig a lovasok kíséretében tovább küldték őt, és visszatértek a várba.
+Acts.23.33 | Amazok pedig Cézáreába érve átadták a levelet a helytartónak, és Pált is eléje állították.
+Acts.23.34 | Mikor pedig a helytartó a levelet elolvasta, megkérdezte, melyik tartományból való és mikor megtudta, hogy Ciliciából,
+Acts.23.35 | azt mondta: Majd akkor hallgatlak ki, ha vádlóid is megérkeznek. És megparancsolta, hogy Heródes palotájában őrizzék.
+
+Acts.24.1 | Öt nap múlva azután lement Anániás főpap a vének közül néhánnyal és egy Tertulus nevű ügyvéddel és panaszt tettek a helytartónál Pál ellen.
+Acts.24.2 | Mikor pedig őt előhívták, Tertulus vádolni kezdte:
+Acts.24.3 | Nemes Félix, hogy általad nagy békességhez jutottunk és gondoskodásod folytán helyes intézkedések történtek e nép érdekében, ezt mi minden tekintetben és mindenütt teljes hálával ismerjük el.
+Acts.24.4 | De hogy sokáig ne tartóztassalak, kérlek, hallgass meg röviden minket a te kegyes jó indulatod szerint.
+Acts.24.5 | Mi ugyanis úgy találtuk, hogy ez az ember maga a pestis és meghasonlást támaszt a földkerekségen levő valamennyi zsidó között és feje a názáretiek eretnekségének.
+Acts.24.6 | A templomot is be akarta szennyezni, de elfogtuk és a mi törvényünk szerint akartuk őt megítélni,
+Acts.24.7 | Liziás ezredes azonban odajött és erőszakkal kivette a kezünkből.
+Acts.24.8 | És azt parancsolta, hogy vádlói hozzád jöjjenek. Ha kihallgatod őt, magad is meggyőződhetsz mindezekről, amikkel vádoljuk.
+Acts.24.9 | E vádhoz csatlakoztak a zsidók is és erősítgették, hogy valóban így van.
+Acts.24.10 | Amikor a helytartó intett Pálnak, hogy beszéljen, ő így felelt: Mivel tudom, hogy te sok esztendő óta bírája vagy ennek a népnek, nagyobb bátorsággal védekezem a magam ügyében.
+Acts.24.11 | Mert megtudhatod, hogy nincs tizenkét napjánál több, amióta feljöttem Jeruzsálembe imádkozni.
+Acts.24.12 | És a templomban sem találtak engem, hogy bárkivel vitatkoztam volna, vagy hogy a népet lázítottam volna, sem a zsinagógákban, sem a városban.
+Acts.24.13 | Azt sem bizonyíthatják rám, amivel most vádolnak.
+Acts.24.14 | Azt azonban megvallom neked, hogy én ama tanítás szerint, amelyet ők eretnekségnek mondanak, úgy szolgálok az én atyáim Istenének, mint aki hiszek mindabban, ami a törvényben és a prófétákban meg van írva.
+Acts.24.15 | Reménységem van ugyanis az Istenben, hogy — amit ezek maguk is várnak, — lesz feltámadásuk mind az igazaknak, mind a hamisaknak.
+Acts.24.16 | Abban gyakorlom pedig magamat, hogy botránkozás nélkül való lelkiismeretem legyen az Isten és emberek előtt mindenkor.
+Acts.24.17 | Sok esztendő múlva pedig eljöttem, hogy az én népemnek alamizsnát és áldozatokat hozzak.
+Acts.24.18 | Eközben és amikor a tisztulási fogadalmat teljesítettem, nem pedig csődületben, sem nem lázadásban talált rám a templomban
+Acts.24.19 | néhány ázsiai zsidó, akiknek ide kellett volna jönniük eléd és itt vádolni, ha valami panaszuk van ellenem.
+Acts.24.20 | Vagy mondják meg ezek maguk, vajjon találtak-e bennem valami törvényellenes cselekedetet, mikor a tanács előtt álltam,
+Acts.24.21 | hacsak ez egyetlen szó tekintetében nem, amelyet közöttük állva kiáltottam: A halottak feltámadása miatt állok most vádlottként előttetek.
+Acts.24.22 | De Félix elhalasztotta ügyüket, mivel pontos tudomása volt erről a tanításról és azt mondta: Mikor Liziás ezredes lejön, akkor fogok dönteni ügyetekben.
+Acts.24.23 | És megparancsolta a századosnak, hogy Pált őrizzék, de enyhébb fogságban legyen és hozzátartozói közül senkit se tiltsanak el attól, hogy szolgáljon neki.
+Acts.24.24 | Néhány nap múlva pedig Félix megjelent feleségével, Druzillával, aki zsidó származású volt, maga elé hívatta Pált és meghallgatta őt a Krisztusban való hit felől.
+Acts.24.25 | De mikor az igazságról, az önmegtartóztatásról és a jövendő ítéletről kezdett beszélni, Félix megrémülve, ezt mondta: Most menj el, de mikor alkalmam lesz, magamhoz hívatlak.
+Acts.24.26 | Egyszersmind pedig azt is remélte, hogy Pál pénzt ad neki. Ezért gyakrabban magához hivatta és elbeszélgetett vele. (A 26. versben egyes kéziratok az első mondat végén hozzáteszik: hogy őt szabadon bocsássa)
+Acts.24.27 | Két esztendő múlva Porcius Fesztus lett Félix utóda. Félix pedig fogságban hagyta Pált, hogy a zsidók kedvében járjon.
+
+Acts.25.1 | Miután Fesztus megérkezett a tartományába, három nap múlva Cézáreából felment Jeruzsálembe.
+Acts.25.2 | Panaszt tettek pedig előtte a papi fejedelmek és a zsidók főemberei Pál ellen és sürgették,
+Acts.25.3 | maguknak azt a kedvezést kérve Pál kárára, hogy hozassa őt Jeruzsálembe, mert lest akartak neki vetni, hogy megölhessék az úton.
+Acts.25.4 | Fesztus azonban azt felelte, hogy Pált Cézáreában őrzik, ő maga pedig hamarosan odautazik.
+Acts.25.5 | Akik azért köztetek — úgymond — főemberek, jöjjenek le velem és ha van valami gonoszság abban az emberben, emeljenek vádat ellene.
+Acts.25.6 | "Miután pedig legfeljebb nyolc vagy tíz napig időzött közöttük, lement Cézáreába; és másnap bírói székbe ült és Pált előhozatta."
+Acts.25.7 | Mikor pedig az megjelent, a Jeruzsálemből leutazott zsidók körülállották és sok súlyos vádat emeltek ellene, amelyeket azonban nem tudtak bizonyítani,
+Acts.25.8 | mivel Pál a maga védelmére ezt felelte: Sem a zsidók törvénye, sem a templom, sem a császár ellen semmit sem vétettem.
+Acts.25.9 | Fesztus azonban a zsidóknak kedveskedni akart és feleletképen azt mondta Pálnak: Akarsz-e Jeruzsálembe felmenni, hogy ebben az ügyben ott ítélkezzem feletted?
+Acts.25.10 | "Pál azonban azt mondta: A császár ítélőszéke előtt állok; itt kell megítéltetnem. A zsidók ellen semmit sem vétettem, amint te magad is jól tudod."
+Acts.25.11 | Mert ha vétkes vagyok, és ha valami halált érdemlőt cselekedtem, nem vonakodom a haláltól. Ha azonban alaptalanok azok, amikkel ezek vádolnak engem, senki engem barátságért kezökbe nem adhat. A császárhoz fellebbezek.
+Acts.25.12 | Ekkor Fesztus miután tanácsával értekezett, így felelt: A császárhoz fellebbeztél, a császár elé fogsz menni.
+Acts.25.13 | Néhány nap múlva pedig Agrippa király és Bernicé érkezett Cézáreába, hogy köszöntsék Fesztust.
+Acts.25.14 | Mikor pedig több napig időztek ott, Fesztus a király előtt szóba hozta Pál ügyét: Van itt egy férfiú, akit Félix hagyott foglyul.
+Acts.25.15 | Mikor Jeruzsálembe mentem, a papi fejedelmek és a zsidók vénei panaszt tettek ellene, kérték az elítéltetését.
+Acts.25.16 | Ezeknek én azt feleltem, hogy rómaiaknak nem szokásuk bárkit is kiszolgáltatni, míg a vádlottat vádlóival nem szembesítik s így alkalmat nem nyer arra, hogy a vád ellen védekezzék.
+Acts.25.17 | Mikor tehát idegyűltek, másnap haladék nélkül az ítélőszékbe ültem és elővezettettem azt a férfiút.
+Acts.25.18 | Ám vádlói mikor előállottak, semmi bűnt sem hoztak fel ellene azok közül, amiket én sejtettem,
+Acts.25.19 | hanem holmi vitás kérdéseik voltak vele, az ő tulajdon babonájuk felől és bizonyos meghalt Jézus felől, akiről Pál azt állította, hogy él.
+Acts.25.20 | Mivel pedig nem tudtam eligazodni ezekben a vitás kérdésekben, megkérdeztem, vajjon akar-e Jeruzsálembe menni, hogy ott ítéltessék meg ezekben.
+Acts.25.21 | Mikor pedig Pál fellebbezett és azt kívánta, hogy tartsák fogva a császár döntéséig, parancsot adtam, hogy őrizzék, amíg a császárhoz küldhetem.
+Acts.25.22 | Agrippa pedig így szólt Fesztusnak: Magam is szeretném hallani ezt az embert. Ő pedig így felelt: Holnap hallani fogod.
+Acts.25.23 | Másnap tehát Agrippa és Bernicé nagy pompával jelent meg és miután bementek a kihallgatási terembe az ezredesekkel és a város főembereivel együtt, Fesztus parancsára előhozták Pált.
+Acts.25.24 | És szólt Fesztus: Agrippa király és ti férfiak mindnyájan, akik velünk együtt itt vagytok! Látjátok ezt az embert, aki miatt az egész zsidóság Jeruzsálemben is, itt is megkeresett engem, azt kiáltozva, hogy ennek nem szabad tovább élnie.
+Acts.25.25 | Én pedig, bár úgy találtam, hogy semmi halált érdemlőt nem cselekedett, de mivel éppen ő maga a császárhoz fellebbezett, úgy döntöttem, hogy elküldöm őt.
+Acts.25.26 | Felőle semmi bizonyost nem tudok írni az én uramnak. Ezért hozattam elétek és kiváltképpen eléd, Agrippa király, hogy a kihallgatás megtörténtével tudjak mit írni.
+Acts.25.27 | Értelmetlen dolognak látszik ugyanis előttem, ha valaki úgy küld foglyot, hogy egyúttal az ellene emelt vádat is nem jelenti
+
+Acts.26.1 | Agrippa pedig így szólt Pálhoz: Megengedjük neked, hogy szólj a magad mentségére. Ekkor Pál kinyújtotta kezét és ekként védekezett:
+Acts.26.2 | Boldognak tartom magamat, Agrippa király, hogy mindarra nézve, amivel a zsidók vádolnak engem, előtted védekezhetem a mai napon,
+Acts.26.3 | mert te nagyon jól ismered a zsidók minden szokását és vitás kérdéseit. Azért kérlek, hallgass meg engem türelmesen.
+Acts.26.4 | Életemet, amely kezdetétől az én népem között Jeruzsálemben folyt le, ifjúságomtól fogva ismerik a zsidók mindnyájan.
+Acts.26.5 | Ők tudják rólam eleitől fogva — ha bizonyságot akarnak tenni —, hogy én mint farizeus a mi vallásunk legszigorúbb pártja szerint éltem.
+Acts.26.6 | Most is ama reménység miatt állok itt bírói eljárás alatt, melyet Isten az ígéretben adott atyáinknak,
+Acts.26.7 | amelyre a mi tizenkét törzsünk Istent éjjel-nappal buzgón szolgálva, reméli, hogy eljut: ezért a reménységért vádolnak engem a zsidók, Agrippa király.
+Acts.26.8 | Miért látszik előttetek hihetetlennek, hogy az Isten halottakat támaszt fel?
+Acts.26.9 | Egykor én is úgy véltem, hogy ama názáreti Jézus neve ellen sok ellenséges dolgot kell cselekednem.
+Acts.26.10 | Meg is cselekedtem Jeruzsálemben, és a szentek közül sokat börtönbe vetettem, miután erre a papi fejedelmektől meghatalmazást nyertem. Sőt mikor megölték őket, szavazatommal hozzájárultam,
+Acts.26.11 | És minden zsinagógában gyakori büntetéssel igyekeztem őket káromlásra kényszeríteni, szerfelett dühöngtem ellenük és egészen az idegen városokig üldöztem őket.
+Acts.26.12 | Mikor ez ügyben éppen úton voltam Damaskus felé a papi fejedelmektől vett meghatalmazással és engedéllyel,
+Acts.26.13 | déltájban az úton úgy láttam, óh király, hogy a mennyből napfénynél is ragyogóbb világosság sugároz körül engem és útitársaimat.
+Acts.26.14 | Mikor pedig mi mindnyájan földre estünk, szót hallottam, amely hozzám szólott és ezt mondta héber nyelven: Saul, Saul, miért üldözöl engem? Nehéz neked az ösztöke ellen rugódoznod.
+Acts.26.15 | Én pedig szóltam: Kicsoda vagy, Uram? Az Úr pedig ezt mondta: Én vagyok Jézus, akit te üldözöl.
+Acts.26.16 | De kelj fel, és állj lábadra, mert azért jelentem meg néked, hogy szolgává és tanúvá rendeljelek mind arra nézve, amit láttál, mind azokra nézve, amiket majd később jelentek meg neked.
+Acts.26.17 | Mert megszabadítalak téged a néptől és a pogányoktól, akik közé most küldelek,
+Acts.26.18 | hogy megnyisd szemüket, hogy sötétségből világosságra és a Sátán hatalmából az Istenhez térjenek, hogy bűneik bocsánatát vegyék és osztályrészt azok között, akik megszenteltettek a bennem való hit által.
+Acts.26.19 | Azért, Agrippa király, nem lettem engedetlen a mennyei látomás iránt,
+Acts.26.20 | hanem először a damaskusiaknak és jeruzsálemieknek, majd Júdea egész tartományában és a pogányoknak hirdettem, hogy bánják meg bűneiket, térjenek meg az Istenhez, és cselekedjenek megtéréshez méltó cselekedeteket.
+Acts.26.21 | Ezért fogtak el engem a zsidók a templomban és akartak megölni.
+Acts.26.22 | De mivel Isten megsegített mind e mai napig, itt állok és tanúbizonyságot teszek mind kicsinynek, mind nagynak, és semmit sem mondok azokon kívül, amikről mind a próféták, mind Mózes hirdették, hogy be fognak teljesedni:
+Acts.26.23 | hogy Krisztusnak szenvednie kell, és hogy mint a halottak feltámadásából az első, világosságot fog hirdetni e népnek és a pogányoknak.
+Acts.26.24 | "Mikor pedig ezeket mondta a maga mentségére, Fesztus hangosan így kiáltott: Bolond vagy te, Pál; a sok tudomány őrültségbe visz."
+Acts.26.25 | Ő pedig válaszolt: Nem vagyok bolond, nemes Fesztus, hanem igaz és józan beszédeket hirdetek.
+Acts.26.26 | Mert tud ezekről a király, akihez nyílt bátorsággal is szólok, mert éppen nem gondolom, hogy ezek közül ő előtte bármi is ismeretlen volna, hiszen nem valami zugban történt dolog ez.
+Acts.26.27 | Hiszel-e, Agrippa király, a prófétáknak? Tudom, hogy hiszel.
+Acts.26.28 | Agrippa pedig így felelt Pálnak: Előbb-utóbb rábeszélsz engem, hogy keresztyénné legyek.
+Acts.26.29 | Pál pedig ezt mondta: Kívánnám Istentől, hogy akár előbb, akár utóbb ne csak te, hanem mindazok is, akik ma engem hallgatnak, olyanok lennétek, amilyen én is vagyok, e bilincsek nélkül.
+Acts.26.30 | Ezután felkelt a király, a helytartó, Bernicé és akik velük együtt ültek,
+Acts.26.31 | és távozóban így beszélgettek egymás között: Semmi halált vagy fogságot érdemlő dolgot nem cselekszik ez az ember.
+Acts.26.32 | Agrippa pedig így szólt Fesztusnak: Ezt az embert szabadon lehetett volna bocsátani, ha nem fellebbezett volna a császárhoz.
+
+Acts.27.1 | Mikor pedig úgy határoztak, hogy mi Itáliába hajózunk, mind Pált, mind a többi foglyot átadták a császári csapatból való Július nevű századosnak.
+Acts.27.2 | Azután felszálltunk egy adramittiumi hajóra, amely az ázsiai partvidék helyeit, akarta behajózni és útnak indultunk a macedóniai Arisztarkus kíséretében, aki thessalonikai volt.
+Acts.27.3 | Másnap megérkeztünk Szidonba. És mivel Július emberségesen bánt Pállal, megengedte, hogy elmenjen barátaihoz és azok gondoskodjanak róla.
+Acts.27.4 | És onnan elindulva, Ciprus alatt hajóztunk el, mivel a szelek ellenkező irányúak voltak.
+Acts.27.5 | Majd Cilicia és Pamfilia partjai mellett elhajózva, eljutottunk a liciai Mirába.
+Acts.27.6 | És mivel ott a százados egy Itáliába menő alexandriai hajót talált, abba szállított be minket.
+Acts.27.7 | Több napi lassú hajózás után nagynehezen értük el Knidust, de mivel ott a szél nem engedett partra jutni, elhajóztunk Kréta alatt, Szalmóne mellett.
+Acts.27.8 | És miután nagy üggyel-bajjal elhajóztunk mellette, eljutottunk egy helyre, amelyet Szépkikötőnek neveznek, amelyhez közel van Lázea városa.
+Acts.27.9 | Mivel pedig sok idő múlt el és a hajózás már veszedelmessé vált, hiszen a böjtnap is elmúlt már, Pál intette őket:
+Acts.27.10 | Férfiak, látom, hogy a hajóút folytatása nemcsak a rakományban okozhat nagy kárt, hanem életünket is veszélyezteti.
+Acts.27.11 | De a százados inkább hitt a kormányos mesternek és hajótulajdonosnak, mint annak, amit Pál mondott.
+Acts.27.12 | Mivel pedig a kikötő telelésre nem volt alkalmas, a többség úgy határozott, hogy onnan is tovább kell hajózni, hogy valami módon eljussunk Fénixbe, Kréta kikötőjébe, amely délnyugat és északnyugat felé néz és ott telelhessünk ki.
+Acts.27.13 | Mivel pedig déli szél kezdett lassan fújni, elindultak abban a hiszemben, hogy feltett szándékukat véghezvihetik és Kréta közelében hajóztak tovább.
+Acts.27.14 | Nemsokára azonban a sziget felől viharos szél csapott le, amelyet „északkeleti”-nek neveznek.
+Acts.27.15 | Mivel pedig a hajót magával ragadta a szél és nem bírt azzal szemben haladni, neki eresztettük, hadd sodorjon tova.
+Acts.27.16 | És befutva egy kis sziget alá, amelyet Klaudának hívnak, csak nagy nehezen tudtuk biztosítani a mentőcsónakot.
+Acts.27.17 | Miután azt felvonták, védekezni kezdtek: alul kötelekkel kötötték át a hajót és mivel féltek, hogy zátonyra futnak, a vitorlát leeresztették és úgy vitették magukat.
+Acts.27.18 | Minthogy pedig a szélvész hányt-vetett bennünket, másnap kidobálták a hajóterhet.
+Acts.27.19 | És harmadnap saját kezükkel dobálták ki a hajó felszerelését.
+Acts.27.20 | Mivel pedig több napon át sem a nap, sem a csillagok nem látszottak, és nem kis vihar szorongatott minket, végre minden reménységünk elveszett életben maradásunk felől.
+Acts.27.21 | Mikor azután már sokat éheztünk, Pál felállt köztünk, és így szólt: Bár engedelmeskednetek kellett volna nekem, férfiak, és nem lett volna szabad el indulnunk Krétából, hogy elkerüljük ezt a bajt és kárt,
+Acts.27.22 | de mostanra nézve is intelek titeket, hogy legyetek jó reménységben, mert senki sem vész el közületek, csak a hajó.
+Acts.27.23 | Mert ma éjjel mellém állott annak az Istennek angyala, akié vagyok, akinek szolgálok is
+Acts.27.24 | és ezt mondta: Ne félj, Pál, neked a császár elé kell állanod. És íme az Isten ajándékba adta neked mindazokat, akik veled hajóznak.
+Acts.27.25 | Ezért immár legyetek jó reménységben, férfiak! Mert hiszek az Istenben, hogy úgy lesz, amint nekem megmondotta.
+Acts.27.26 | Valami szigetre kell kivetődnünk.
+Acts.27.27 | Mikor pedig eljött a tizennegyedik éjtszaka, amint idestova hányódtunk az Adrián, éjféltájban a hajósok azt vették észre, hogy valami szárazföldhöz közelednek.
+Acts.27.28 | És lebocsátva a mérőónt, húsz ölnyinek találták a mélységet. Majd kevéssel tovább haladtak és ismét lebocsátva a mérőónt tizenöt ölnyinek találták.
+Acts.27.29 | És mivel féltek, hogy esetleg szirtes helyre vetődünk, a hajó farából négy horgonyt dobtak ki, alig várva, hogy nappal legyen.
+Acts.27.30 | Ekkor a hajósok el akartak menekülni a hajóról és a mentőcsónakot a tengerre bocsátották azzal az ürüggyel, hogy a hajó orrából horgonyokat akarnak vetni.
+Acts.27.31 | De Pál így szólt a századoshoz és a katonákhoz: Ha ezek nem maradnak a hajóban, akkor ti sem menekülhettek meg.
+Acts.27.32 | Ekkor a katonák elvágták a csónak köteleit és az ár elsodorta.
+Acts.27.33 | Addig pedig, amíg megvirradt, Pál intette mindnyájukat, hogy egyenek: Ma a tizennegyedik napja, amióta folyton étlen várakoztok és semmit sem ettetek.
+Acts.27.34 | Figyelmeztetlek azért titeket, hogy egyetek, mert ez javatokra szolgál. Mert közületek senkinek sem vész el egy hajszál sem a fejéről.
+Acts.27.35 | Miután pedig ezeket mondta és kenyeret vett a kezébe, hálát adott Istennek mindnyájuk előtt, megtörte azt, és enni kezdett.
+Acts.27.36 | Ekkor mindnyájan nekibátorodva, szintén ettek.
+Acts.27.37 | Lélekszám szerint pedig összesen kétszázhetvenhatan voltunk a hajóban.
+Acts.27.38 | Miután pedig eleget ettek, könnyítettek a hajón, és a gabonát kihányták a tengerbe.
+Acts.27.39 | Mikor pedig megvirradt, nem ismerték fel a szárazföldet, de egy öblöt vettek észre, amelynek lapos partja volt. Úgy döntöttek, hogy erre futtatják rá a hajót, ha bírják.
+Acts.27.40 | A horgonyokat tehát köröskörül elvagdalva, a tengerben hagyták, egyszersmind a kormányrúd köteleit is megoldták és felvonva a nagy vitorlát a szélfúvás elé, igyekeztek a part felé haladni.
+Acts.27.41 | Eközben egy földnyelvhez értek, és arra hajtották rá a hajót, amelynek eleje befúródva mozdulatlanul ott maradt, hátsó része azonban az erős hullámveréstől szétroncsolódott.
+Acts.27.42 | A katonák pedig azon tanakodtak, hogy a foglyokat leölik, hogy senki úszással el ne menekülhessen.
+Acts.27.43 | "De a százados meg akarta menteni Pált és ezért megakadályozta őket e szándékukban és megparancsolta, hogy először azok ugorjanak a tengerbe, akik úszni tudnak és meneküljenek ki a szárazföldre;"
+Acts.27.44 | azután a többiek is, ki deszkákon, ki a hajó egyéb darabjain. Így történt, hogy mindnyájan szerencsésen kimenekültek a szárazföldre.
+
+Acts.28.1 | És miután szerencsésen megmenekültünk, megtudtuk, hogy ezt a szigetet Máltának hívják.
+Acts.28.2 | A barbárok pedig nem közönséges jó indulattal voltak irántunk, mert tüzet rakva, befogadtak mindnyájunkat a beálló eső és hideg ellen,
+Acts.28.3 | Mikor pedig Pál nagy nyaláb rőzsét gyűjtött és a tűzre tette, egy vipera a melegből kimászva, megmarta és a kezére ragadt.
+Acts.28.4 | Amint a barbárok meglátták a kezéről lecsüngő mérges kígyót, ezt mondták egymásnak: Ez az ember bizonyosan gyilkos, akit nem hagy élni a bosszúállás, noha a tengerből megszabadult.
+Acts.28.5 | Ő azonban a kígyót belerázta a tűzbe és semmi baja sem lett.
+Acts.28.6 | Azok pedig vártak, hogy megdagad, vagy hirtelen holtan rogy össze. Mikor azonban jóidéig várták és látták, hogy semmi baja sem lesz, megváltoztatták véleményüket, és istennek mondták őt.
+Acts.28.7 | Annak a helynek környékén volt pedig a sziget főemberének, név szerint Publiusnak majorja, ő befogadott és három napig nagyon barátságosan vendégül látott minket.
+Acts.28.8 | Történt pedig, hogy Publius atyja hideglelésben és vérhasban betegen feküdt. Pál bement hozzá s miután könyörgött, kezeit rátette és meggyógyította.
+Acts.28.9 | Ennek megtörténte után mások is, akik betegek voltak a szigeten, eljöttek hozzá és meggyógyultak.
+Acts.28.10 | Ezek nagy tisztességgel bántak velünk és mikor elindultunk, elláttak a szükségesekkel.
+Acts.28.11 | Három hónap múlva azután útnak indultunk egy alexandriai hajón, amely a szigeten telelt s amelynek címere Kásztor és Pollux volt.
+Acts.28.12 | És mikor Szirakuzába értünk, ott maradtunk három napig.
+Acts.28.13 | Onnét a partot körül hajózva, Régiumba jutottunk és miután egy nap déli szél támadt, másnap megérkeztünk Puteoliba.
+Acts.28.14 | Itt atyafiakra találtunk, akik kértek minket, hogy maradjunk náluk hat napig. Így értünk Rómába.
+Acts.28.15 | Onnét is az atyafiak, mikor hallottak rólunk, elénk jöttek Appius Fórumáig és Tres Tabernaeig. És mikor Pál meglátta őket, hálát adott az Istennek és újból megbátorodott,
+Acts.28.16 | Mikor pedig Rómába érkeztünk, Pálnak megengedték, hogy külön lakjék az őt őrző katonával. (A 16. vers egyes kéziratokban így hangzik: Mikor pedig Rómába érkeztünk, a százados átadta a foglyokat az illetékes katonai parancsnoknak, Pálnak azonban megengedték, hogy külön lakjék az őt őrző katonával.)
+Acts.28.17 | Három nap múlva azután magához hívatta a zsidók közül való főembereket. Mikor pedig összegyűltek, így szólt hozzájuk: Atyámfiai, férfiak, bár én semmit sem vétkeztem a nép ellen vagy az ősi szokások ellen, mégis foglyul adtak Jeruzsálemből a rómaiak kezébe.
+Acts.28.18 | Miután ezek kihallgattak, szabadon akartak bocsátani, mivel nincs bennem semmi halált érdemlő vétek.
+Acts.28.19 | De mert a zsidók ez ellen tiltakoztak, kénytelen voltam a császárhoz fellebbezni, de nem mintha az én népem ellen valami vádam volna.
+Acts.28.20 | Azért hívattalak hát titeket, hogy lássalak és szóljak veletek, mert Izráel reménységéért hordozom ezt a láncot.
+Acts.28.21 | Azok pedig így szóltak neki: Mi sem levelet nem kaptunk felőled Júdeából, sem pedig az atyafiak közül senki sem jött ide s nem jelentett vagy mondott felőled semmi rosszat.
+Acts.28.22 | Szeretnék tehát tőled hallani, hogyan gondolkodol. Mert tudjuk, hogy mindenütt ellene mondanak ennek a felekezetnek.
+Acts.28.23 | Miután tehát egy napot tűztek ki neki, többen eljöttek hozzá a szállására. Ezeknek nagy bizonyságtevéssel hirdette az Isten országát és igyekezett őket meggyőzni Jézus felől, mind Mózes törvényéből, mind a prófétákból reggeltől fogva egész estig.
+Acts.28.24 | És némelyek hittek az ő beszédének, mások pedig nem hittek.
+Acts.28.25 | Mivel pedig nem egyeztek meg egymással, szétoszoltak és Pál ezt a beszédet mondta: Helyesen szólott a Szentlélek Ésaiás próféta által a ti atyáitokhoz,
+Acts.28.26 | "mikor ezt mondta: Menj el e néphez és mondd: Hallván halljatok és ne értsetek; és nézvén nézzetek és ne lássatok!"
+Acts.28.27 | Mert megkövéredett ennek a népnek a szíve és fülükkel nehezen hallanak és szemüket behunyják, hogy szemükkel ne lássanak, fülükkel ne halljanak, szívükkel ne értsenek és meg ne térjenek, és én meg ne gyógyítsam őket.
+Acts.28.28 | Tudjátok meg azért, hogy az Isten ezt az üdvösséget a pogány népeknek küldötte és azok hallgatni is fogják.
+Acts.28.29 | És mikor ezeket mondta, elmentek a zsidók, maguk között sokat vitatkozva.
+Acts.28.30 | "Pál pedig két esztendeig maradt tulajdon bérelt szállásán és mindazokat fogadta, akik hozzá mentek;"
+Acts.28.31 | hirdette az Isten országát és tanított az Úr Jézus Krisztusról, teljes bátorsággal, minden akadályozás nélkül.

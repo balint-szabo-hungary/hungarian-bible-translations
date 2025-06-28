@@ -1,0 +1,899 @@
+John.1.1 | Kezdetben volt az Ige, és az Ige Istennél volt, és az Ige Isten volt.
+John.1.2 | Ez kezdetben az Istennél volt.
+John.1.3 | Minden általa lett és nála nélkül semmi sem lett, ami létrejött.
+John.1.4 | Benne élet volt és az élet volt az emberek világossága.
+John.1.5 | És a világosság a sötétségben fénylik, de a sötétség nem fogadta be.
+John.1.6 | Eljött egy Istentől küldött ember, akinek neve János volt.
+John.1.7 | Ez tanúbizonyságul jött, hogy bizonyságot tegyen a világosságról, hogy mindenki higgyen általa.
+John.1.8 | Nem ő volt a világosság, hanem azért jött, hogy bizonyságot tegyen a világosságról.
+John.1.9 | Amaz volt az igazi világosság, amely megvilágosít minden a világra született embert.
+John.1.10 | A világban volt és a világ általa lett, de a világ nem ismerte meg őt.
+John.1.11 | Az övéi közé jött és az övéi nem fogadták be őt.
+John.1.12 | "De mindazoknak, akik befogadták, akik hisznek az ő nevében, hatalmat adott, hogy Isten gyermekeivé legyenek;"
+John.1.13 | akik nem vérből, sem a test akaratából, sem a férfi indulatjából, hanem Istentől születtek.
+John.1.14 | És az Ige testté lett és lakozott mi közöttünk — és láttuk az ő dicsőségét, mint az Atya egyszülöttének dicsőségét, — aki teljes volt kegyelemmel és igazsággal.
+John.1.15 | János bizonyságot tett róla és kiáltott: Ez volt az, akiről azt mondtam: Aki utánam jön, megelőzött engem, mert előbb volt nálamnál.
+John.1.16 | Mivel az ő teljességéből vettünk mindnyájan, még pedig kegyelmet kegyelemre.
+John.1.17 | "Mert a törvény Mózes által adatott; a kegyelem pedig és az igazság Jézus Krisztus által lett."
+John.1.18 | "Istent soha senki nem látta; az egyszülött Fiú, aki az Atya kebelén van, az jelentette ki őt."
+John.1.19 | És ez János bizonyságtétele, mikor a zsidók papokat és lévitákat küldtek hozzá Jeruzsálemből, hogy megkérdezzék őt: Kicsoda vagy te?
+John.1.20 | "És megvallotta és nem tagadta; és megvallotta: Én nem vagyok a Krisztus."
+John.1.21 | És megkérdezték tőle: Micsoda vagy tehát? Illés vagy? És szólt: Nem vagyok. A próféta vagy? És ő felelt: Nem.
+John.1.22 | "Így szóltak azért hozzá: Kicsoda vagy""? Hogy megfelelhessünk azoknak, akik minket küldtek. Mit mondasz magad felől?"
+John.1.23 | Ső így válaszolt: Én kiáltó szó vagyok a pusztában: Egyengessétek az Úr útját, amint megmondta Ésaiás próféta.
+John.1.24 | És a küldöttek a farizeusok közül valók voltak.
+John.1.25 | És megkérdezték őt és ezt mondták neki: Akkor miért keresztelsz, ha nem vagy a Krisztus, sem Illés, sem a próféta?
+John.1.26 | "János így felelt nekik: Én vízzel keresztelek; de közöttetek van, akit ti nem ismertek."
+John.1.27 | Ő az, aki utánam jön, akinek nem vagyok méltó, hogy a saruja szíját megoldjam.
+John.1.28 | Ezek Betániában történtek, a Jordánon túl, ahol János keresztelt. (A 28. versben egyes kéziratokban Betánia helyett Betabara olvasható. 1. 2. )
+John.1.29 | Másnap látta János, amint Jézus őhozzá ment, és szólt: Íme, az Isten Báránya, aki elveszi a világ bűnét!
+John.1.30 | Ez az, akiről én azt mondtam: Utánam jön egy férfi, aki megelőzött engem, mert előbb volt nálamnál.
+John.1.31 | "És én nem ismertem őt; de hogy kijelentessék Izraelnek, azért jöttem én, aki vízzel keresztelek."
+John.1.32 | És bizonyságot tett János: Láttam, hogy a Lélek mint egy galamb alászállt az égből és ott maradt rajta.
+John.1.33 | És én nem ismertem őt, de aki elküldött engem, hogy vízzel kereszteljek, az mondta nekem: Akire látod, hogy a Lélek alászáll és ott marad rajta, ez az, aki Szentlélekkel keresztel.
+John.1.34 | És én láttam és bizonyságot tettem, hogy ez az Isten Fia.
+John.1.35 | "Másnap ismét ott állott János és tanítványai közül kettő;"
+John.1.36 | és mikor rátekintett az ott járó Jézusra, így szólt: Íme, az Isten Báránya!
+John.1.37 | És mikor a két tanítvány meghallotta, amit mondott, követte Jézust.
+John.1.38 | Ekkor Jézus hátrafordult és látta, hogy azok követik, és így szólt hozzájuk: Mit kerestek? Azok pedig azt mondták neki: Rabbi (ami azt jelenti: mester), hol lakol?
+John.1.39 | "Ő ezt mondta nekik: Jertek és lássátok meg. Elmentek és meglátták, hol lakik; és nála maradtak azon a napon. Körülbelül tíz óra volt."
+John.1.40 | András, a Simon Péter testvére, volt az egyik a kettő közül, akik hallották ezt Jánostól és követték őt.
+John.1.41 | Ez először a testvérével, Simonnal találkozott és ezt mondta neki: Megtaláltuk a Messiást (ami azt jelenti: Felkent).
+John.1.42 | És Jézushoz vezette őt. Jézus rátekintett és ezt mondta: Te Simon vagy, Jónának fia: a te neved Kéfás lesz (ami annyi, mint: kő).
+John.1.43 | A következő napon Galileába akart menni Jézus és találkozott Fülöppel, és így szólt neki: Kövess engem!
+John.1.44 | Fülöp pedig Betsaidából, András és Péter városából való volt.
+John.1.45 | Találkozott Fülöp Nátánaellel és ezt mondta neki: Megtaláltuk azt, aki felől Mózes írt a törvényben, és a próféták: a názáreti Jézust, a József fiát.
+John.1.46 | És Nátánael így szólt neki: Názáretből támadhat-e valami jó? Fülöp így válaszolt neki: Jöjj és lásd meg!
+John.1.47 | Látta Jézus, amint Nátánael őhozzá ment és azt mondta felőle: íme, egy igazán izraelita, akiben nincsen álnokság.
+John.1.48 | Szólott neki Nátánael: Honnét ismersz engem? Felelt Jézus és ezt mondta neki: Mielőtt Fülöp hívott téged, láttalak, amikor a fügefa alatt voltál.
+John.1.49 | Válaszolt neki Nátánael: Mester, te vagy az Isten Fia, te vagy Izrael királya!
+John.1.50 | Felelt Jézus és azt mondta neki: Mivel azt mondtam neked, hogy láttalak a fügefa alatt, hiszel? Nagyobbakat látsz majd ezeknél.
+John.1.51 | És azt mondta neki: Bizony, bizony mondom nektek: meglátjátok majd a megnyílt eget és az Isten angyalait, akik felszállanak és leszállanak az Ember Fiára.
+
+John.2.1 | És harmadnap menyegző volt a galileai Kánában és ott volt Jézus anyja.
+John.2.2 | És Jézust is meghívták tanítványaival együtt a menyegzőre.
+John.2.3 | Mikor a bor elfogyott, Jézus anyja ezt mondta neki: Nincs boruk.
+John.2.4 | Jézus így szólt hozzá: Asszony! mi dolgom van nekem veled? Nem jött még el az én órám.
+John.2.5 | Anyja azt mondta a szolgáknak: Bármit mond, tegyétek meg.
+John.2.6 | El volt pedig ott helyezve tisztulás céljából a zsidók számára hat kőveder, amelyekbe egyenként két vagy három metréta fért.
+John.2.7 | Szólott nekik Jézus. Töltsétek meg a vedreket vízzel. És megtöltötték színültig.
+John.2.8 | Majd ezt mondta nekik: Most merítsetek és vigyetek a násznagynak. És vittek neki.
+John.2.9 | A násznagy pedig megízlelte a borrá lett vizet, és nem tudta honnét van, de a szolgák, akik a vizet merítették, tudták. Ezért a násznagy szólította a vőlegényt
+John.2.10 | és ezt mondta neki: Minden ember a jó bort adja fel először és csak mikor az emberek megittasodtak, akkor a silányabbat. Te a jó bort mostanig tartogattad.
+John.2.11 | Ezt cselekedte Jézus első jelként a galileai Kánában és kinyilvánította dicsőségét és hittek benne a tanítványai.
+John.2.12 | "Azután lement Kapernaumba ő, az ő anyja, testvérei és tanítványai; és ott maradták néhány napig."
+John.2.13 | Közel volt a zsidók húsvétja és felment Jézus Jeruzsálembe.
+John.2.14 | És a templomban találta az ökrök, juhok és galambok árusait és a pénzváltókat, akik ott ültek.
+John.2.15 | Ekkor kötélből ostort készítve, mindnyájukat kiűzte a templomból az ökrökkel és juhokkal együtt. És a pénzváltók pénzét kiszórta, az asztalokat pedig felforgatta.
+John.2.16 | "És a galambárusoknak ezt mondta: Vigyétek el ezeket innen; ne tegyétek az én Atyámnak házát kalmárság házává!"
+John.2.17 | Ekkor megemlékeztek tanítványai, hogy meg van írva: A te házad iránt való féltő szeretet megemészt engem.
+John.2.18 | "A zsidók ekkor így feleltek neki: Micsoda jelt mutatsz nekünk; hogy ezeket cselekszed?"
+John.2.19 | Felelt Jézus és azt mondta nekik: Rontsátok le ezt a templomot és három nap alatt felépítem.
+John.2.20 | A zsidók ekkor ezt mondták: Negyvenhat esztendeig épült ez a templom, és te három nap alatt felépíted?
+John.2.21 | Ő pedig az ő testének templomáról beszélt.
+John.2.22 | "Mikor azért feltámadt a halottak közül, megemlékeztek a tanítványai, hogy ezt mondta; és hittek az Írásnak és a beszédnek, amelyet Jézus mondott."
+John.2.23 | Mikor pedig Jeruzsálemben volt a húsvét ünnepén, sokan hittek az ő nevében, látva az ő jeleit, amelyeket cselekedett.
+John.2.24 | Maga Jézus azonban nem bízta magát rájuk, mivel ismerte mindnyájukat,
+John.2.25 | és nem volt szüksége arra, hogy bárki bizonyságot tegyen az emberről. Mert ő maga tudta, mi van az emberben.
+
+John.3.1 | Volt pedig egy ember a farizeusok között, neve Nikodémus, a zsidók főembere.
+John.3.2 | Ez elment Jézushoz éjjel és így szólt hozzá: Mester, tudjuk, hogy te Istentől jöttél tanítóul, mert senki sem teheti e jeleket, amelyeket te teszel, csak ha az Isten van vele.
+John.3.3 | Ekkor Jézus így felelt neki: Bizony, bizony mondom neked: ha valaki újonnan nem születik, nem láthatja meg az Isten országát.
+John.3.4 | Megkérdezte tőle Nikodémus: Mi módon születhetik az ember, ha vén? vajjon bemehet-e másodszor az anyja méhébe és születhetik-e?
+John.3.5 | Jézus így válaszolt: Bizony, bizony mondom neked: ha valaki nem születik víztől és Lélektől, nem mehet be az Isten országába.
+John.3.6 | Ami testtől született, test az és ami Lélektől született, lélek az.
+John.3.7 | Ne csodáld, hogy azt mondtam neked: Szükséges nektek újonnan születnetek.
+John.3.8 | A szél fú, ahova akar: és annak zúgását hallod, de nem tudod, honnét jön és hová megy így van mindenki, aki Lélektől született.
+John.3.9 | Felelt Nikodémus és azt mondta neki: Mimódon lehetnek ezek?
+John.3.10 | Jézus így válaszolt neki: Te Izrael tanítója vagy és mégsem tudod ezeket?
+John.3.11 | "Bizony, bizony mondom neked: azt hirdetjük, amit tudunk, és arról teszünk bizonyságot, amit láttunk; de a mi bizonyságtételünket nem fogadjátok el."
+John.3.12 | Ha földi dolgokról szóltam nektek és nem hisztek, mimódon hisztek, ha a mennyeiekről szólok nektek?
+John.3.13 | És senki sem ment fel a mennybe, csak az, aki a mennyből szállott alá: az Ember Fia, aki a mennyben van.
+John.3.14 | És amint Mózes felemelte a kígyót a pusztában, úgy kell az Ember Fiának felemeltetnie,
+John.3.15 | hogy mindenkinek, aki hisz, örök élete legyen őbenne.
+John.3.16 | Mert úgy szerette Isten a világot, hogy az ő egy szülött Fiát adta, hogy aki hisz őbenne, el ne vesszen hanem örök életet vegyen.
+John.3.17 | Mert nem azért küldte Isten az ő Fiát a világba hogy elkárhoztassa a világot, hanem, hogy megtartassák a világ ő általa.
+John.3.18 | "Aki hisz őbenne, nem kárhozik el; aki pedig nem hisz, az már elkárhozott, mivel nem hitt az Isten egyszülött Fiának nevében."
+John.3.19 | "Az ítélet pedig ez, hogy a világosság eljött a világba, de az emberek inkább szerették a sötétséget, mint a világosságot; mert cselekedeteik gonoszak voltak."
+John.3.20 | Mert mindenki, aki gonoszul cselekszik, gyűlöli a világosságot, és nem megy a világosságra, hogy az ő cselekedetei rá ne bizonyuljanak.
+John.3.21 | Aki pedig az igazságot cselekszi az a világosságra megy, hogy az ő cselekedetei nyilvánvalókká legyenek, mert azokat Istenben végezte el.
+John.3.22 | "Ezután Jézus elment a tanítványaival Júdea földére; ott időzött velük és keresztelt."
+John.3.23 | János pedig szintén keresztelt Énonban, Sálimhez közel, mert ott sok volt a víz, és az emberek odamentek és megkeresztelkedtek.
+John.3.24 | Mert János még nem volt tömlöcbe vetve.
+John.3.25 | Ekkor vitatkozás támadt János tanítványai és a zsidók között a megtisztulás felől.
+John.3.26 | És odamentek Jánoshoz és így szóltak neki: Mester! Aki veled volt a Jordánon túl, akiről te bizonyságot tettél, íme, az keresztel és hozzámegy mindenki.
+John.3.27 | János így felelt: Az ember semmit sem szerezhet meg, csak ha a mennyből adatott neki.
+John.3.28 | Ti magatok vagytok a tanúim, hogy megmondtam: Én nem vagyok a Krisztus, hanem: ő előtte küldettem el.
+John.3.29 | Akinek menyasszonya van, vőlegény az. A vőlegény barátja pedig, aki ott áll és hallja őt, örvendezve Örül a vőlegény hangjának. Ez az én örömöm immár betelt.
+John.3.30 | Annak növekednie kell, nekem pedig alászállanom.
+John.3.31 | Aki felülről jött, mindenkinél feljebb való. Aki a földről való, földi az és földi dolgokat beszél. Aki a mennyből jött, mindenkinél feljebb való.
+John.3.32 | És arról tesz bizonyságot, amit látott és hallott, de az ő bizonyságtételét senki sem fogadja el.
+John.3.33 | Aki az ő bizonyságtételét elfogadja, az megpecsételte, hogy az Isten igaz.
+John.3.34 | Mert akit az Isten küldött, az Isten beszédeit szólja: mivel az Isten nem mérték szerint adja a Lelket.
+John.3.35 | Az Atya szereti a Fiút és az ő kezébe adott mindent.
+John.3.36 | "Aki hisz a Fiúban, örök élete van; aki pedig nem engedelmeskedik a Fiúnak, nem lát majd életet, hanem az Isten haragja marad rajta."
+
+John.4.1 | Amint megtudta az Úr, hogy a farizeusok meghallották, hogy Jézus több tanítványt szerez és keresztel, mint János,
+John.4.2 | (bár Jézus maga nem keresztelt, hanem csak a tanítványai),
+John.4.3 | elhagyta Júdeát és elment ismét Galileába.
+John.4.4 | Samárián kellett pedig átmennie.
+John.4.5 | Így érkezett Samáriának Sikár nevű városához, annak a teleknek szomszédságába, amelyet még Jákob adott volt fiának, Józsefnek.
+John.4.6 | Ott volt pedig a Jákob forrása. Jézus az utazástól elfáradva, azon módon leült a forráshoz. Mintegy hat óra volt.
+John.4.7 | Egy samáriai asszony jött vizet meríteni. Jézus így szólt hozzá: Adj innom!
+John.4.8 | Tanítványai ugyanis bementek a városba, hogy ennivalót vegyenek.
+John.4.9 | A samáriai asszony ekkor ezt mondta neki: Hogyan kérhetsz tőlem inni zsidó létedre, hiszen én samáriai asszony vagyok? Mert a zsidók nem érintkeznek a samáriabeliekkel.
+John.4.10 | Felelt Jézus és azt mondta neki: Ha ismernéd az Isten ajándékát, és hogy ki az, aki ezt mondja neked: Adj innom! Te kérted volna őt és ő adott volna neked élő vizet.
+John.4.11 | Szólt neki az asszony: Uram, nincs mivel merítened, a kút pedig mély: honnét vennéd tehát az élő vizet?
+John.4.12 | Avagy te nagyobb vagy a mi atyánknál, Jákobnál, aki nekünk ezt . a kutat adta volt, és ebből, ivott ő maga, fiai is és jószága is?
+John.4.13 | "Felelt Jézus, és így i szólt neki: Mindenki, aki ebből a vízből iszik, ismét megszomjazik;"
+John.4.14 | de ha valaki , abból a vízből iszik, amelyet én adok neki, soha többé meg nem szomjúhozik, hanem az a víz, amelyet én adok neki, olyan víz forrásává lesz benne, amely örök életre buzog.
+John.4.15 | Szólott neki az asszony: Uram, add nekem ezt a vizet hogy meg ne szomjazzam és ne kelljen ide járnom meríteni.
+John.4.16 | Jézus azt mondta neki: Menj el, hívd a férjedet és jöjj ide!
+John.4.17 | Felelt az asszony és ezt mondta: Nincs férjem. Jézus így folytatta: Jól mondtad, hogy: Nincs férjed!
+John.4.18 | Mert öt férjed volt, és a mostani nem férjed: ezzel igazat mondtál.
+John.4.19 | Szólt neki az asszony: Uram, látom, hogy te próféta vagy.
+John.4.20 | A mi atyáink ezen a hegyen imádták az Istent és ti azt mondjátok, hogy Jeruzsálemben van az a hely, ahol Istent imádni kell.
+John.4.21 | Szólt neki Jézus: Asszony, hidd el nekem, hogy eljön az óra, amikor sem nem ezen a hegyen, sem nem Jeruzsálemben imádjátok az Atyát.
+John.4.22 | Ti azt imádjátok, amit nem ismertek, mi pedig azt imádjuk, amit ismerünk, mert az üdvösség a zsidók közül támad.
+John.4.23 | De eljön az óra és az most van, amikor az igazi imádók lélekben és igazságban imádják az Atyát, mert az Atya is olyanokat keres, akik őt így imádják.
+John.4.24 | Az Isten lélek és akik őt imádják szükség, hogy lélekben és igazságban imádják.
+John.4.25 | "Szólt neki az asszony: Tudom, hogy Messiás jön (akit Krisztusnak mondanak); mikor ő eljön, mindent megjelent nekünk."
+John.4.26 | Szólt neki Jézus: Én vagyok az, aki veled beszélek.
+John.4.27 | Ekkor megjöttek tanítványai és csodálkoztak, hogy asszonnyal beszél, de azért egyik sem mondta: Mit kívánsz? vagy: Mit beszélsz vele?
+John.4.28 | Ott hagyta tehát az asszony a vedrét, elment a városba és így szólt az embereknek:
+John.4.29 | Jertek, lássatok egy embert, aki mindent megmondott nekem, amit cselekedtem. vajjon nem ez-e a Krisztus?
+John.4.30 | Kimentek azért a városból és odamentek hozzá.
+John.4.31 | Eközben pedig kérték őt tanítványai: Mester, egyél!
+John.4.32 | De ő azt mondta nekik: Van nekem eledelem, amit egyem, amit ti nem tudtok.
+John.4.33 | Tanítványai azért így szóltak egymásnak: vajjon hozott-e valaki neki eledelt?
+John.4.34 | Szólott nekik Jézus: Az én eledelem az, hogy annak akaratát cselekedjem, aki elküldött engem és az ő dolgát elvégezzem.
+John.4.35 | Ti nem azt mondjátok-e: még négy hónap és eljön az aratás? Íme mondom nektek: Emeljétek fel szemeteket és lássátok meg a mezőket, hogy már fehérek az aratásra.
+John.4.36 | Az arató jutalmat nyer és az örök életre takarja be a termést, hogy a magvető és az arató együtt örüljön.
+John.4.37 | Mert ebben igaz az a mondás, hogy más a magvető és más az arató.
+John.4.38 | "Én titeket annak aratására küldöttelek, amiért nem ti fáradoztatok; mások fáradoztak és ti a mások munkájába állottatok be."
+John.4.39 | Abból a városból pedig sokan hittek benne a samáriabeliek közül annak az asszonynak beszédéért, aki bizonyságot tett, hogy: Mindent megmondott nekem, amit cselekedtem.
+John.4.40 | Amint azért odamentek hozzá a samáriabeliek, kérték őt, hogy maradjon náluk, és ottmaradt két napig.
+John.4.41 | És sokkal többen hittek az ő beszédéért,
+John.4.42 | és azt mondták az asszonynak: Most már nem a te beszédedért hiszünk, mert magunk hallottuk és tudjuk, hogy valóban ez a világ Megváltója.
+John.4.43 | Két nap múlva pedig eltávozott onnét Galileába.
+John.4.44 | Mert Jézus maga tett bizonyságot arról, hogy a prófétának nincs tisztessége a maga hazájában.
+John.4.45 | Mikor azért Galileába érkezett, a galileabeliek befogadták őt, mivel látták mindazt amit Jeruzsálemben cselekedett az ünnepen. Mert ők is elmentek az ünnepre.
+John.4.46 | Ekkor ismét a galileai Kánába ment, ahol a vizet borrá változtatta. És volt Kapernaumban egy királyi tisztviselő, akinek beteg volt a fia.
+John.4.47 | "Mikor ez meghallotta, hogy Jézus Júdeából Galileába érkezett elment hozzá és kérte őt, hogy menjen el vele és gyógyítsa meg a fiát; mert már haldoklott."
+John.4.48 | Szólott azért neki Jézus: Ha jeleket és csodákat nem láttok, nem hisztek.
+John.4.49 | A királyi tisztviselő így felelt: Uram, jöjj, mielőtt a gyermekem meghal.
+John.4.50 | "Jézus ezt mondta neki: Menj el; a te fiad él. Hitt az ember a szónak, amit Jézus mondott neki, és elment."
+John.4.51 | Amint pedig már útban volt, eléje jöttek a szolgái és hírt hoztak neki, hogy a fia él.
+John.4.52 | Megtudakolta azért tőlük az órát, amelyben az megkönnyebbedett, és azok elmondták neki, hogy: Tegnap hét órakor hagyta el őt a láz.
+John.4.53 | Megértette azért az atya, hogy ez abban az. órában történt, amelyben Jézus azt mondta neki: A te fiad él. És hitt ő és egész házanépe.
+John.4.54 | Ezt ismét második jel gyanánt cselekedte Jézus, mikor Júdeából Galileába ment
+
+John.5.1 | Ezek után volt a zsidók ünnepe és Jézus felment Jeruzsálembe.
+John.5.2 | Van pedig Jeruzsálemben a Juhkapunál egy tó, amelyet héberül Betesdának neveznek. Ennek öt tornáca van.
+John.5.3 | Ezekben feküdt a vakoknak, sántáknak, aszkórosoknak nagy sokasága, várva a víz megmozdulását.
+John.5.4 | Mert időnként az Úr angyala szállott le a tóra és felkavarta a vizet. Aki mármost elsőnek lépett bele a víz felkavarása után, meggyógyult, bármilyen betegségben volt is.
+John.5.5 | Volt pedig ott egy ember, aki harmincnyolc esztendő óta feküdt betegen.
+John.5.6 | Amint Jézus ezt ott feküdni látta és megtudta, hogy már olyan régóta beteg, így szólt hozzá: Akarsz-e meggyógyulni?
+John.5.7 | Felelt neki a beteg: Uram, nincs senkim, aki bevinne a tóba, amikor a víz felkavarodik. És mire én odaérek, már más lép be előttem.
+John.5.8 | Szólott neki Jézus: Kelj fel, vedd az ágyadat és járj!
+John.5.9 | "Erre azonnal meggyógyult az ember; felvette az ágyát és járt. Aznap pedig szombat volt."
+John.5.10 | "A zsidók azért így szóltak a meggyógyulthoz: Szombat van; nem szabad az ágyat hordoznod."
+John.5.11 | Ő így felelt nekik: Aki engem meggyógyított, az mondta nekem: Vedd az ágyadat és járj.
+John.5.12 | Megkérdezték azért tőle: Kicsoda az az ember, aki azt mondta neked: Vedd az ágyadat és járj?
+John.5.13 | A meggyógyult ember pedig nem tudta, ki az. Jézus ugyanis eltávozott, mivel sokan voltak azon a helyen.
+John.5.14 | "Ezek után találkozott vele Jézus a templomban és így szólt neki: íme, meggyógyultál; többé ne vétkezzél, hogy gonoszabbul ne legyen dolgod!"
+John.5.15 | Elment az ember és hírül adta a zsidóknak, hogy Jézus az, aki őt meggyógyította.
+John.5.16 | És e miatt üldözték a zsidók Jézust és meg akarták ölni, mert ezt szombaton cselekedte.
+John.5.17 | Jézus pedig így felelt nekik: Az én Atyám mindezideig munkálkodik, én is munkálkodom.
+John.5.18 | E miatt azután a zsidók még inkább meg akarták őt ölni, mivel nemcsak a szombatot szegte meg, hanem Istent is tulajon Atyjának mondta s ily módon egyenlővé tette magát az Istennel.
+John.5.19 | Felelt azért Jézus és azt mondta nekik: Bizony, bizony mondom nektek: a Fiú semmit sem tehet magától, csak ha látja, hogy mit cselekszik az Atya, mert amiket az cselekszik, ugyanazokat cselekszi hasonlóképen a Fiú is.
+John.5.20 | "Mert az Atya szereti a Fiút és mindent megmutat neki, amit ő maga cselekszik; és ezeknél nagyobb dolgokat is mutat majd neki, hogy csodálkozzatok."
+John.5.21 | Mert amint az Atya feltámasztja a halottakat és megeleveníti, úgy a Fiú is megeleveníti azokat, akiket akar.
+John.5.22 | Mert az Atya nem ítél senkit, hanem az ítéletet teljesen a Fiúnak adta át,
+John.5.23 | hogy mindenki úgy tisztelje a Fiút, amint tisztelik az Atyát. Aki nem tiszteli a Fiút, nem tiszteli az Atyát sem, aki őt elküldötte.
+John.5.24 | "Bizony, bizony mondom nektek, hogy aki az én beszédemet hallja és hisz annak, aki engem elküldött, örök élete van; s nem megy az ítéletre, hanem átment a halálból az életre."
+John.5.25 | Bizony, bizony mondom nektek, hogy eljön az óra, — és az most van, — mikor a halottak meghallják az Isten Fiának szavát és akik meghallják, élni fognak.
+John.5.26 | Mert amint az Atyának élete van önmagában, úgy a Fiúnak is megadta, hogy élete legyen önmagában.
+John.5.27 | És hatalmat adott neki az ítélettételre is, mivel Ember Fia.
+John.5.28 | "Ne csodálkozzatok ezen; mert eljön az óra, amelyben mindazok, akik a sírokban vannak, meghallják az ő szavát,"
+John.5.29 | és kijönnek azok, akik a jót tették, hogy feltámadjanak az életre, azok pedig, akik a gonoszt cselekedték, hogy feltámadjanak az ítéletre.
+John.5.30 | "Én semmit nem cselekedhetem magamtól; amint hallok, úgy ítélek, és az én ítéletem igazságos, mert nem a magam akaratát keresem, hanem annak akaratát, aki elküldött engem."
+John.5.31 | Ha én teszek bizonyságot magamról, az én bizonyságtételem nem igaz.
+John.5.32 | "Más az, aki bizonyságot tesz rólam; és tudom, hogy igaz az a bizonyságtétel, amelyet tesz rólam."
+John.5.33 | Ti elküldtetek Jánoshoz és ő bizonyságot tett az igazságról.
+John.5.34 | De én nem embertől nyerem a bizonyságtételt, hanem ezeket azért mondom, hogy ti megtartassatok.
+John.5.35 | Ő az égő és fénylő szövétnek volt, de ti csak ideig-óráig akartatok örvendezni, az ő világosságában.
+John.5.36 | "Nekem pedig nagyobb bizonyságom van a Jánosénál; mert azok a cselekedetek, amelyeket rámbízott az Atya, hogy azokat elvégezzem, azok maguk, amelyeket én cselekszem, tesznek bizonyságot rólam, hogy az Atya küldött engem."
+John.5.37 | Aki elküldött engem, maga az Atya is bizonyságot tett rólam. Sem hangját nem hallottátok soha, sem arcát nem láttátok,
+John.5.38 | az ő igéje sincs maradandóan bennetek, mert nem hisztek annak, akit ő elküldött.
+John.5.39 | "Ti azért tudakozzátok az írásokat, mert azt gondoljátok, hogy azokban van a ti örök életetek; pedig ezek rólam tesznek bizonyságot."
+John.5.40 | És még sem akartok hozzám jönni, hogy életetek legyen.
+John.5.41 | Dicsőséget emberektől nem fogadok el.
+John.5.42 | De megismertelek titeket, hogy nincs bennetek szeretet Isten iránt.
+John.5.43 | "Én az én Atyám nevében jöttem, és nem fogadtatok be engem; ha más jönne a maga nevében, azt befogadnátok."
+John.5.44 | Mimódon tudnátok hinni ti, akik egymástól fogadtok el dicsőséget, és azt a dicsőséget, amely az egy Istentől van, nem keresitek?
+John.5.45 | Ne gondoljátok, hogy én vádollak majd titeket az Atyánál! Van, aki vádoljon titeket: Mózes az, akiben ti reménykedtek.
+John.5.46 | "Mert ha hinnétek Mózesnek, nekem is hinnétek; mert ő énrólam írt."
+John.5.47 | Ha pedig az ő írásainak nem hisztek, hogyan fogtok hinni az én beszédeimnek?
+
+John.6.1 | Ezek után elment Jézus Galilea tengerének, más néven a Tiberiás-tavának túlsó partjára.
+John.6.2 | És nagy sokaság követte őt, mivel látták a jeleket, amelyeket a betegeken cselekedett.
+John.6.3 | Felment pedig Jézus a hegyre és leült ott tanítványaival.
+John.6.4 | Közel volt pedig a húsvét, a zsidók ünnepe.
+John.6.5 | Mikor azért felemelte Jézus a szemeit és látta, hogy nagy sokaság jön hozzá, így szólt Fülöpnek: Honnét vegyünk kenyeret, hogy ezek ehessenek?
+John.6.6 | Ezt pedig azért mondta, hogy próbára tegye, mert ő maga tudta, mit akar cselekedni.
+John.6.7 | Felelt neki Fülöp: Kétszáz dénár áru kenyér sem elég ezeknek, hogy mindegyikük kapjon valami keveset.
+John.6.8 | Tanítványai közül az egyik, András, Simon Péter testvére, azt mondta neki:
+John.6.9 | Van itt egy gyermek, akinek van öt árpakenyere és két hala, de mi ez ennyi sok népnek?
+John.6.10 | Jézus pedig szólt: Ültessétek le az embereket. Nagy fű volt pedig azon a helyen. Letelepedtek azért a férfiak, számszerint mintegy ötezeren.
+John.6.11 | "Ekkor Jézus vette a kenyereket, hálát adott és szétosztotta a tanítványoknak, a tanítványok pedig az ott ülőknek; hasonlóképen a halakból is adott, amennyit akartak."
+John.6.12 | Mikor pedig jóllaktak, így szólt tanítványainak: Szedjétek össze a megmaradt darabokat, hogy semmi el ne vesszen.
+John.6.13 | összeszedték tehát és megtöltöttek tizenkét kosarat az öt árpakenyérből való darabokkal, amelyek megmaradtak azok után, akik ettek.
+John.6.14 | Az emberek azért, látva a jelt, amelyet cselekedett, azt mondták: Valóban ez az a próféta, akinek el kell jönnie a világba.
+John.6.15 | Jézus azért, amint észrevette, hogy készülnek jönni és el akarják őt ragadni, hogy királlyá tegyék, ismét visszavonult a hegyre egymagában.
+John.6.16 | Mikor pedig este lett, tanítványai lementek a tengerhez,
+John.6.17 | és hajóra szállva, elindultak a tengeren túl Kapernaumba. Immár sötét volt és Jézus még mindig nem ment hozzájuk.
+John.6.18 | És a tenger a nagy szél fúvása miatt háborgott.
+John.6.19 | Mikor azért huszonöt vagy harminc futamatnyira beeveztek, meglátták Jézust, amint a tengeren járt és a hajóhoz közeledett, és megrémültek.
+John.6.20 | Ő pedig így szólt nekik: Én vagyok, ne féljetek!
+John.6.21 | "Ekkor be akarták őt venni a hajóba; és a hajó azonnal ott volt a szárazföldnél, ahova menni akartak."
+John.6.22 | "Másnap a tenger túlsó partján álló sokaság látta, hogy nem volt ott más hajó, csak egy, és hogy Jézus nem ment be a tanítványaival a hajóba, hanem csak tanítványai mentek el; (A 22. versben egyes kéziratok a „nem volt ott más hajó, csak egy"" szavak után közbeiktatják: ,,amelybe Jézus tanítványai szálltak be"". )"
+John.6.23 | — de jöttek más hajók Tiberiásból, közel ahhoz a helyhez, ahol a kenyeret ették, miután hálát adott az Úr: —
+John.6.24 | mikor ezért látta a sokaság, hogy sem Jézus, sem tanítványai nincsenek ott, beszálltak ők is a hajókba és elmentek Kapernaumba, keresve Jézust.
+John.6.25 | Amikor megtalálták őt a tengeren túl, ezt mondták neki: Mester, mikor jöttél ide?
+John.6.26 | Jézus ezt válaszolta nekik: Bizony, bizony mondom nektek: nem azért kerestek engem, mivel jeleket láttatok, hanem azért, mert ettetek ama kenyerekből és jóllaktatok.
+John.6.27 | "Munkálkodjatok, ne az eledelért, amely elvész, hanem az eledelért, amely megmarad az örök életre, amelyet az Ember Fia ad majd nektek; mert őt az Atya pecsételte el, az Isten."
+John.6.28 | Így szóltak azért neki: Mit tegyünk, hogy az Isten munkáit végezzük?
+John.6.29 | Jézus így felelt nekik: Az az Isten munkája, hogy higgyetek abban, akit ő küldött.
+John.6.30 | Szólottak azért neki: Micsoda jelt mutatsz tehát te, hogy lássuk és higgyünk neked? Mit művelsz?
+John.6.31 | A mi atyáink a mannát ették a pusztában: amint meg van írva: Mennyből való kenyeret adott nekik enni.
+John.6.32 | Szólt azért nekik Jézus: Bizony, bizony mondom nektek: nem Mózes adta nektek a mennyei kenyeret, hanem az én Atyám adja nektek az igazi mennyei kenyeret.
+John.6.33 | Mert az az Istennek kenyere, amely a mennyből száll alá és életet ad a világnak.
+John.6.34 | Szóltak azért neki: Uram, mindenkor add nekünk ezt a kenyeret!
+John.6.35 | "Jézus pedig azt mondta nekik: Én vagyok az életnek a kenyere; aki hozzám jön, semmiképpen meg nem éhezik és aki hisz bennem, nem szomjúhozik meg soha."
+John.6.36 | De megmondtam nektek, hogy noha láttatok is engem, mégsem hisztek.
+John.6.37 | Amit nekem ad az Atya, énhozzám jön, és aki énhozzám jön, azt én semmiképpen ki nem vetem.
+John.6.38 | Mert nem azért szállottam le a mennyből, hogy a magam akaratát cselekedjem, hanem annak akaratát, aki elküldött engem.
+John.6.39 | Annak pedig, aki elküldött engem, az az akarata, hogy mindabból, amit nekem adott, semmit el ne veszítsek, hanem feltámasszam azt az utolsó napon.
+John.6.40 | Mert ez az én Atyámnak akarata, hogy örök élete legyen mindenkinek, aki látja a Fiút és hisz őbenne és én feltámasztom azt az utolsó napon.
+John.6.41 | Zúgolódtak azért a zsidók ő ellene, hogy azt mondta: Én vagyok az a kenyér, amely a mennyből szállott alá,
+John.6.42 | és szóltak: Nem ez-e Jézus, József fia, akinek ismerjük atyját és anyját? Mi módon mondja hát ez, hogy: A mennyből szállottam alá?
+John.6.43 | Jézus így felelt nekik: Ne zúgolódjatok egymás között!
+John.6.44 | Senki sem jöhet énhozzám, csak ha az Atya vonja, aki elküldött engem, és én fel támasztom azt az utolsó napon.
+John.6.45 | Meg van írva a prófétáknál: És mindnyájan Istentől tanítottak lesztek. Mindenki, aki az Atyától hallott és tanult, énhozzám jön.
+John.6.46 | "Nem minthogyha az Atyát valaki látta volna; csak az, aki Istentől van, az látta az Atyát."
+John.6.47 | Bizony, bizony mondom nektek: aki hisz, annak örök élete van.
+John.6.48 | Én vagyok az életnek kenyere.
+John.6.49 | Atyáitok a mannát ették a pusztában és meghaltak.
+John.6.50 | Ez az a kenyér, amely a mennyből szállt alá, hogy az ember egyék belőle és meg ne haljon.
+John.6.51 | Én vagyok amaz élő kenyér, amely a mennyből szállott alá: ha valaki eszik ebből a kenyérből, él örökké. És az a kenyér, amelyet én adok, az én testem, amelyet odaadok majd a világ életéért.
+John.6.52 | Tusakodtak azért a zsidók egymás között: Mimódon adhatja ez nekünk az ő testét eledelül?
+John.6.53 | Jézus azért így szólt nekik: Bizony, bizony mondom nektek: ha nem eszitek az Ember Fia testét és nem isszátok az ő vérét, nincsen élet tibennetek.
+John.6.54 | Aki eszi az én testemet és issza az én véremet, örök élete van annak, és én feltámasztom azt az utolsó napon.
+John.6.55 | Mert az én testem igazi étel és az én vérem igazi ital.
+John.6.56 | Aki eszi az én testemet és issza az én véremet, az énbennem marad és én őbenne.
+John.6.57 | Amint elküldött engem az élő Atya és én élek az Atya által, úgy az is, aki engem eszik, élni fog én általam.
+John.6.58 | "Ez ama kenyér, amely a mennyből szállott alá; nem olyan, amilyet a ti atyáitok ettek és meghaltak; aki ezt a kenyeret eszi, élni fog örökké."
+John.6.59 | Ezeket mondta a zsinagógában, amikor tanított Kapernaumban.
+John.6.60 | Sokan azért a tanítványai közül, akik mindezt hallották, így szóltak: Kemény beszéd ez. Ki hallgathatja ezt?
+John.6.61 | Mivel pedig Jézus tudta önmagában, hogy e miatt zúgolódnak a tanítványai, így szólt nekik: Ti ezen megütköztök?
+John.6.62 | Hát ha meglátjátok az Ember Fiát felmenni oda, ahol előbb volt?
+John.6.63 | "A lélek az, ami megelevenít, a test nem használ semmit; a beszédek, amelyeket én mondtam nektek, lélek és élet."
+John.6.64 | De vannak közöttetek némelyek, akik nem hisznek. Mert Jézus eleitől fogva tudta, kik azok, akik nem hisznek, és ki az, aki elárulja őt.
+John.6.65 | És így szólt: Azért mondtam nektek, hogy senki sem jöhet hozzám, csak ha az én Atyámtól adatott meg neki.
+John.6.66 | Ettől fogva sokan visszavonultak a tanítványai közül és nem jártak többé vele.
+John.6.67 | Jézus azért így szólt a tizenkettőnek: vajjon ti is el akartok menni?
+John.6.68 | Felelt neki Simon Péter: Uram, kihez mehetnénk? Örök életnek beszéde van tenálad.
+John.6.69 | És mi elhittük és megismertük, hogy te vagy a Krisztus, az élő Isten Fia.
+John.6.70 | Jézus így felelt nekik: Nem én választottalak-e titeket, a tizenkettőt? És egy közületek ördög.
+John.6.71 | Ezen pedig Júdás Iskáriótest, Simon fiát értette, mert ez szándékozott őt elárulni, jóllehet egy volt a tizenkettő közül.
+
+John.7.1 | És ezek után Galileában járt Jézus, mert nem akart Júdeában járni, mivel a zsidók azon voltak, hogy megöljék őt.
+John.7.2 | Közel volt pedig a zsidók ünnepe, a sátoros ünnep.
+John.7.3 | Testvérei tehát így szóltak neki: Menj el innen és eredj Júdeába, hadd lássák a tanítványaid is a te dolgaidat, amelyeket cselekszel.
+John.7.4 | Mert senki sem cselekszik semmit titokban, aki azt akarja, hogy nyilvánosan elismerjék őt. Ha ilyeneket cselekszel, tedd ismertté magadat a világ előtt.
+John.7.5 | Mert a testvérei sem hittek benne.
+John.7.6 | "Jézus azért így szólt nekik: Az én időm még nincs itt; a ti időtök pedig mindig készen van,"
+John.7.7 | Titeket nem gyűlölhet a világ, de engem gyűlöl, mert én bizonyságot teszek felőle, hogy cselekedetei gonoszak.
+John.7.8 | "Ti menjetek fel az ünnepre; én még nem megyek fel erre az ünnepre, mert az én időm még nem telt be."
+John.7.9 | Miután pedig ezeket mondta nekik, Galileában maradt.
+John.7.10 | Amikor azonban testvérei felmentek, akkor ő is felment az ünnepre, nem nyilvánosan, hanem mintegy titkon.
+John.7.11 | A zsidók azért keresték őt az ünnepen és így szóltak: Hol van ő?
+John.7.12 | És sok suttogás volt miatta a sokaságban. Egyesek azt mondták, hogy jó ember, mások viszont azt állították: Nem az, hanem ámítja a népet.
+John.7.13 | Mindamellett senki sem beszélt ró a nyíltan a zsidóktól való félelem miatt.
+John.7.14 | Mikor pedig az ünnepnek már a fele elmúlt, felment Jézus a templomba és tanított.
+John.7.15 | Ezen csodálkoztak a zsidók és ezt mondták: Hogyan ért ez az Íráshoz, holott nem tanulta?
+John.7.16 | Jézus azért így felelt nekik: Az én tanításom nem az enyém, hanem azé, aki elküldött engem.
+John.7.17 | Ha valaki cselekedni akarja az ő akaratát, megismerheti a tanítás felől, vajjon Istentől van-e, vagy én magamtól szólok,
+John.7.18 | "Aki magától szól, a maga dicsőségét keresi; aki ellenben annak dicsőségét keresi, aki elküldötte őt, igaz az és nincs abban hamisság."
+John.7.19 | Nem Mózes adta-e nektek a törvényt? És mégsem teljesíti közületek senki a törvényt. Miért akartok engem megölni?
+John.7.20 | A nép így válaszolt: ördög van benned. Ki akar téged megölni?
+John.7.21 | És Jézus így felelt nekik: Egy dolgot cselekedtem és mindnyájan csodálkoztok rajta.
+John.7.22 | Mózes adta nektek a körülmetélkedést (nem mintha Mózestől való volna az, hanem az atyáktól) és szombaton körülmetélitek az embert.
+John.7.23 | Ha körülmetélhető az ember szombaton, hogy Mózes törvénye meg ne csorbuljon, énrám azért haragusztok, hogy az egész embert meggyógyítottam szombaton?
+John.7.24 | Ne látszat után ítéljetek, hanem igazságos ítélettel ítéljetek!
+John.7.25 | A jeruzsálemiek közül azért némelyek így szóltak: Nem ez-e az, akit meg akarnak ölni?
+John.7.26 | És íme nyíltan beszél, és semmit sem szólnak neki. Talán bizony valóban felismerték a főemberek, ez a Krisztus?
+John.7.27 | De erről tudjuk honnan való: mikor pedig eljön a Krisztus, őróla senki sem tudja, honnan való.
+John.7.28 | "Ekkor Jézus a templomban tanítva így kiáltott: Engem is ismertek; azt is tudjátok, honnan való vagyok; és én nem magamtól jöttem, de igaz az, aki engem küldött, akit ti nem ismertek."
+John.7.29 | Én azonban ismerem őt, mert tőle való vagyok és ő küldött engem.
+John.7.30 | El akarták tehát fogni őt, de senki sem vetette rá a kezét, mert még nem jött el az ő órája.
+John.7.31 | A sokaság közül pedig sokan hittek benne és azt mondták: Mikor eljön a Krisztus, tehet-e majd több csodát annál, amennyit ez tett?
+John.7.32 | "Meghallották a farizeusok, amint a sokaság ezeket suttogta felőle; és szolgákat küldtek a papi fejedelmek és farizeusok, hogy fogják el őt."
+John.7.33 | Szólt azért nekik Jézus: Egy kevés ideig még veletek vagyok, de azután majd elmegyek ahhoz, aki elküldött engem.
+John.7.34 | "Kerestek majd engem, de nem találtok; és ahol én vagyok, oda ti nem jöhettek."
+John.7.35 | Ekkor a zsidók így szóltak maguk között: Hova akar ez menni, hogy mi majd nem találjuk meg őt? vajjon a görögök közé szóródottakhoz akar-e menni és a görögöket tanítani?
+John.7.36 | "Mit értett azon a beszéden, amikor azt mondta: Kerestek majd engem és nem találtok meg; és ahol én vagyok, ti oda nem jöhettek?"
+John.7.37 | Az ünnep utolsó nagy napján pedig felállott Jézus és így kiáltott: Ha valaki szomjúhozik, jöjjön énhozzám és igyék.
+John.7.38 | Aki hisz énbennem, amint az Írás mondta, élő víznek folyamai áradnak ki annak belsejéből.
+John.7.39 | Ezt pedig a Lélekről mondta, akit veendők voltak a benne hívők, mert még nem jött el a Lélek, mivel Jézus még nem dicsőíttetett meg.
+John.7.40 | Amikor hallották e beszédet, a sokaságból némelyek ezt mondták: Valóban ez ama próféta.
+John.7.41 | Mások azt mondták: Ez a Krisztus. Megint mások így szóltak: Csak nem Galileából jön el a Krisztus?
+John.7.42 | Hiszen az Írás azt mondta, hogy Dávid magvából és Betlehem városából, Dávid lakóhelyéből jön el a Krisztus.
+John.7.43 | Szakadás támadt azért miatta a sokaságban.
+John.7.44 | Némelyek pedig közülük el akarták őt fogni, de senki sem vetette rá a kezét.
+John.7.45 | Elmentek azért a szolgák a papi fejedelmekhez és farizeusokhoz s azok így szóltak nekik: Miért nem hoztátok el őt?
+John.7.46 | Feleltek a szolgák: Soha ember úgy nem szólt, mint ahogy ez az ember szól!
+John.7.47 | A farizeusok erre azt feleitek nekik: vajjon titeket is elhitetett?
+John.7.48 | vajjon a főemberek vagy a farizeusok közül hitt-e benne valaki?
+John.7.49 | De ez a sokaság, amely nem ismeri a törvényt, átkozott!
+John.7.50 | Szólt nekik Nikodémus, aki régebben elment hozzá s aki közülük való volt:
+John.7.51 | vajjon a mi törvényünk elítéli-e az embert, mielőtt ki nem hallgatja és meg nem tudja, mit cselekedett?
+John.7.52 | És azok így feleltek neki: vajjon te is galileai vagy? Tudakozódjál utána és győződjél meg ró:a, hogy Galileából nem támad próféta.
+John.7.53 | És elment kiki a maga házába. (A házasságtörő asszonyról szóló elbeszélés (vagyis a 7: 53—8:11. versek) valamely elveszett evangéliumból származik. Ezt a történetet később iktatták be egyes másolók János evangéliumába, a jelenlegi helyére.)
+
+John.8.1 | Jézus pedig elment az Olajfák hegyére.
+John.8.2 | "Jókor reggel azonban ismét ott volt a templomban, és az egész nép odament hozzá; és ő leülve, tanította őket."
+John.8.3 | Az írástudók és farizeusok pedig egy asszonyt vittek hozzá, akit házasságtörésen értek. És középre állítva,
+John.8.4 | így szóltak neki: Mester, ezt az asszonyt tetten érték, mint házasságtörőt.
+John.8.5 | Mózes pedig a törvényben azt parancsolta nekünk, hogy az ilyeneket meg kell kövezni. Hát te mit mondasz?
+John.8.6 | Ezt pedig azért mondták, hogy kísértsék őt, hogy legyen mivel vádolniuk. Jézus pedig lehajolva, az ujjával írt a földre.
+John.8.7 | De mikor tovább faggatták, felegyenesedve azt mondta nekik: Aki közületek nem bűnös, az vessen rá először követ.
+John.8.8 | És újra lehajolva, írt a földre.
+John.8.9 | Azok pedig ennek hallatára és mivel lelkiismeretük vádolta őket, egymásután eltávoztak, a vénektől kezdve mind az utolsókig, úgyhogy egyedül Jézus maradt ott és az asszony, középen állva.
+John.8.10 | Mikor pedig Jézus felegyenesedett és senkit sem látott az asszonyon kívül, így szólt neki: Asszony, hol vannak a te vádlóid? Senki sem kárhoztat téged?
+John.8.11 | "Ő pedig azt mondta: Senki, Uram. Jézus pedig így szólt neki: Én sem kárhoztatlak; eredj el és többé ne vétkezzél!"
+John.8.12 | "Ismét szólt azért hozzájuk Jézus: Én vagyok a világ világossága; aki engem követ, nem járhat a sötétségben, hanem övé lesz az élet világossága."
+John.8.13 | A farizeusok azért így szóltak neki: Te magadról teszel bizonyságot: a te bizonyságtételed nem igaz.
+John.8.14 | "És Jézus azt felelte nekik: Ha magam teszek is bizonyságot magamról, az én bizonyságtételem igaz, mert tudom, honnan jöttem és hová megyek; ti pedig nem tudjátok, honnan jövök és hová megyek."
+John.8.15 | Ti test szerint ítéltek. Én nem ítélek senkit.
+John.8.16 | De ha ítélek is, az én ítéletem igaz, mert nem vagyok egyedül, hanem én és az Atya, aki küldött engem.
+John.8.17 | A ti törvényetekben is meg van írva, hogy két ember bizonyságtétele igaz.
+John.8.18 | Én vagyok, aki bizonyságot teszek magamról, és bizonyságot tesz rólam az Atya, aki elküldött engem.
+John.8.19 | "Szóltak azért neki: Hol van a te Atyád? Felelt Jézus: Sem engem nem ismertek, sem az én Atyámat; ha engem ismernétek, az én Atyámat is ismernétek."
+John.8.20 | "Ezeket a beszédeket mondta Jézus a kincstartó helyen, mikor a templomban tanított; és senki sem fogta el őt, mert még nem jött el az ő órája."
+John.8.21 | Ismét azt mondta azért nekik Jézus: Én elmegyek és ti majd kerestek engem, és meg fogtok halni bűneitekben. Ahova én megyék, oda ti nem jöhettek.
+John.8.22 | Szóltak azért a zsidók: vajjon megöli magát, hogy azt mondja: Ahova én megyek, oda ti nem jöhettek?
+John.8.23 | "És szólt nekik: Ti alulról valók vagytok, én pedig felülről való vagyok; ti ebből a világból valók vagytok; én nem vagyok ebből a világból való."
+John.8.24 | Azért mondtam nektek, hogy meghaltok bűneitekben. Mert ha nem hiszitek, hogy én vagyok, meghaltok bűneitekben.
+John.8.25 | Szóltak azért neki: Kicsoda vagy te? És Jézus így felelt: Egyáltalán miért is beszélek még veletek?
+John.8.26 | Sok mondani- és ítélnivalóm van felőletek. De igaz az, aki elküldött engem. És én azokat hirdetem a világnak, amiket tőle hallottam.
+John.8.27 | Nem értették meg, hogy az Atyáról beszélt nekik.
+John.8.28 | Szólt azért nekik Jézus: Mikor majd felemeltétek az Ember Fiát, akkor megtudjátok, hogy én vagyok és hogy én semmit sem cselekszem magamtól, hanem amint az Atya tanított engem, úgy beszélek.
+John.8.29 | És aki elküldött engem, velem van. Nem hagyott engem egyedül, mert én mindenkor azokat cselekszem, amik neki kedvesek.
+John.8.30 | Mikor ezeket mondta, sokan hittek benne.
+John.8.31 | "Szólt azért Jézus azokhoz a zsidókhoz, akik hittek benne: Ha megmaradtok az én beszédemben, valóban az én tanítványaim vagytok;"
+John.8.32 | és megismeritek az igazságot, és az igazság szabadokká tesz titeket.
+John.8.33 | Feleltek neki: Ábrahám magva vagyunk és sohasem szolgáltunk senkinek. Hogyan mondod te, hogy: Szabadokká lesztek?
+John.8.34 | Felelt nekik Jézus: Bizony, bizony mondom nektek, hogy mindaz, aki bűnt cselekszik, szolgája a bűnnek.
+John.8.35 | A szolga pedig nem marad örökre a házban: a fiú ott marad örökre.
+John.8.36 | Azért ha a Fiú megszabadít titeket, valósággal szabadok lesztek.
+John.8.37 | "Tudom, hogy Ábrahám magva vagytok; de meg akartok engem ölni, mert az én beszédemnek nincs helye bennetek."
+John.8.38 | "Én azt hirdetem, amit az én Atyámnál láttam; ti is azt cselekszitek azért, amit a ti atyátoktól hallottatok."
+John.8.39 | Feleltek és ezt mondták neki: A mi atyánk Ábrahám. Szólt nekik Jézus: Ha Ábrahám gyermekei volnátok, Ábrahám cselekedeteit cselekednétek.
+John.8.40 | Ámde ti most meg akartok engem ölni, azt az embert, aki az igazságot szóltam nektek, amelyet az Istentől hallottam. Ábrahám ezt nem cselekedte.
+John.8.41 | "Ti a ti atyátok cselekedeteit cselekszitek. Szóltak azért neki: Mi nem paráznaságból születtünk; egy Atyánk van: az Isten."
+John.8.42 | "Jézus ezt mondta nekik: Ha Isten volna a ti Atyátok, szeretnétek engem, mert én az Istentől jöttem ki és vagyok itt; mert nem is magamtól jöttem, hanem ő küldött engem."
+John.8.43 | Miért nem értitek az én beszédemet? Mert nem bírjátok hallgatni az én szómat.
+John.8.44 | "Ti az ördögatyától valók vagytok és a ti atyátok kívánságait akarjátok cselekedni. Gyilkos volt az kezdettől fogva és nem állott meg az igazságban; mert nincs benne igazság. Mikor hazugságot mond, a magáéból beszél; mert hazug ő és a hazugságnak atyja."
+John.8.45 | De mivel én az igazságot mondom, nem hisztek nekem.
+John.8.46 | Közületek kicsoda bizonyíthat rám bűnt? Ha pedig igazságot szólok, miért nem hisztek nekem?
+John.8.47 | Aki az Istentől van, hallja az Isten beszédeit, Ti azért nem halljátok, mert nem vagytok az Istentől valók.
+John.8.48 | Feleltek azért a zsidók és ezt mondták neki: Nem jól mondjuk-e, hogy te samaritánus vagy és ördög van benned?
+John.8.49 | Felelt Jézus: Nincs bennem ördög, hanem tisztelem az én Atyámat és ti gyaláztok engem.
+John.8.50 | "Pedig én nem keresem a magam dicsőségét; van, aki keresi és megítéli."
+John.8.51 | Bizony, bizony mondom nektek: ha valaki megtartja az én beszédemet, nem lát halált soha.
+John.8.52 | "Szóltak azért neki a zsidók: Most értettük meg, hogy ördög van benned. Ábrahám meghalt, a próféták is; és te azt mondod: Ha valaki megtartja az én beszédemet, nem ízleli meg a halált soha."
+John.8.53 | vajjon te nagyobb vagy a mi atyánknál, Ábrahámnál, aki meghalt? A próféták meghaltak. Ki akarsz te lenni?
+John.8.54 | Felelt Jézus: Ha én dicsőítem magamat, az én dicsőségem semmi. Az én Atyám az, aki dicsőít engem. Ti pedig azt mondjátok róla: Ő a mi Istenünk.
+John.8.55 | És ti nem ismertétek meg őt, de én ismerem. És ha azt mondanám, hogy nem ismerem, hozzátok hasonlóvá, hazuggá lennék. De ismerem őt és az ő beszédét megtartom.
+John.8.56 | "Ábrahám, a ti atyátok ujjongott, hogy meglátja az én napomat; látta is és örvendezett."
+John.8.57 | Ekkor a zsidók azt mondták neki: Még nem vagy ötven esztendős és láttad Ábrahámot?
+John.8.58 | Szólt nekik Jézus: Bizony, bizony mondom nektek, hogy mielőtt Ábrahám lett, én vagyok.
+John.8.59 | Köveket ragadtak azért, hogy megdobálják. Jézus azonban elrejtőzött és kiment a templomból. (Az 59. vers végén egyes kéziratokban még ez is olvasható: átment közöttük és így eltávozott.)
+
+John.9.1 | És elmenőben látott egy embert, aki születésétől fogva vak volt.
+John.9.2 | "És megkérdezték a tanítványai: Mester, ki vétkezett; ez az ember, vagy a szülei, hogy vakon született?"
+John.9.3 | Felelt Jézus: Sem ez nem vétkezett, sem a szülei, hanem azért született vakon, hogy nyilvánvalókká legyenek benne Isten cselekedetei.
+John.9.4 | Nekünk annak dolgait kell cselekednünk, aki elküldött engem, amíg nappal van. Eljön az éjtszaka, amikor senki sem munkálkodhatik.
+John.9.5 | Míg a világban vagyok, a világ világossága vagyok.
+John.9.6 | Ahogy ezeket mondta, a földre köpött, nyálából sarat csinált és a sarat rákente a vak ember szemére.
+John.9.7 | "És így szólt neki: Menj el, mosakodjál meg a Siloám-tavában (ami azt jelenti: „küldött""). Elment azért és megmosakodott és mikor megjött, látott."
+John.9.8 | A szomszédok azért és akik azelőtt látták, hogy koldus volt, így szóltak: Nem ez-é az, aki itt szokott ülni és koldulni?
+John.9.9 | Némelyek azt mondták: Ez az! mások pedig: Nem, csak hasonlít hozzá. Ő azt mondta: Én vagyok az.
+John.9.10 | Szóltak azért neki: Mimódon nyílt meg hát a szemed?
+John.9.11 | Ő így felelt: Az az ember, akit Jézusnak mondanak, sarat csinált, szememre kente és azt mondta nekem: Menj el a Siloám-tavához és mosakodjál meg. Én tehát elmentem, megmosakodtam, és megjött a szemem világa.
+John.9.12 | Szóltak azért néki: Hol van ő? Az így felelt: Nem tudom.
+John.9.13 | Elvitték őt, aki előbb még vak volt, a farizeusokhoz.
+John.9.14 | Aznap pedig, mikor Jézus a sarat csinálta és megnyitotta annak szemét szombat volt.
+John.9.15 | Akkor újra kérdezték őt a farizeusok, mimódon jött meg a látása, ő pedig azt mondta nekik: Sarat tett a szememre és én megmosakodtam és látok.
+John.9.16 | Szóltak azért némelyek a farizeusok közül: Nem Istentől való ez az ember, mert nem tartja meg a szombatot. Mások ezt mondták: Mimódon tehet bűnös ember ilyen jeleket? És meghasonlás volt köztük.
+John.9.17 | Újra szóltak a vaknak: Te mit mondasz ő felőle, hogy megnyitotta a szemedet? Ő pedig azt mondta: Azt, hogy próféta.
+John.9.18 | Nem hitték azért a zsidók róla, hogy vak volt és megjött a látása, míg elő nem hívták annak szüleit, akinek megjött a látása.
+John.9.19 | És megkérdezték őket: Ez a ti fiatok, akiről azt mondjátok, hogy vakon született? Akkor mimódon lát most?
+John.9.20 | Feleltek nekik az ő szülei és ezt mondták: Tudjuk, hogy ez a mi fiúnk és hogy vakon született,
+John.9.21 | de hogy most mimódon lát, azt nem tudjuk. Azt sem tudjuk, ki nyitotta meg a szemét. Elég idős már, kérdezzétek meg tőle. Ő majd beszél magáról.
+John.9.22 | Ezeket mondták a szülei, mivel féltek a zsidóktól, mert a zsidók már megegyeztek, hogy ha valaki Krisztusnak vallja őt, azt ki kell zárni a zsinagógából.
+John.9.23 | Ezért mondták az ő szülei: Elég idős már, őt kérdezzétek meg.
+John.9.24 | Ekkor másodszor is szólították azt az embert, aki vak volt s azt mondták neki: Adj dicsőséget az Istennek. Mi tudjuk, hogy ez az ember bűnös.
+John.9.25 | "Felelt azért és ezt mondta: Hogy bűnös-e, nem tudom; egyet tudok, hogy noha vak voltam, most látok."
+John.9.26 | Ekkor újra így szóltak neki: Mit tett veled? Hogyan nyitotta meg a szemedet?
+John.9.27 | Felelt nekik: Már mondtam nektek és ti nem hallgattatok rá. Miért akarjátok újra hallani? Tán csak nem akartok ti is az ő tanítványai lenni?
+John.9.28 | "És szidalmazták őt s azt mondták: Te vagy az ő tanítványa; mi pedig Mózes tanítványai vagyunk."
+John.9.29 | "Mi tudjuk, hogy Mózeshez szólt az Isten; erről pedig azt sem tudjuk, honnét való."
+John.9.30 | Felelt az ember s ezt mondta nekik: Éppen az a csodálatos ebben, hogy ti nem tudjátok, honnét való, és az én szememet megnyitotta.
+John.9.31 | "Tudjuk, hogy az Isten nem hallgatja meg a bűnösöket; csak ha valaki istenfélő és az ő akaratát cselekszi, azt hallgatja meg."
+John.9.32 | öröktől fogva nem hallott az ember olyant, hogy valaki megnyitotta volna vakon születettnek a szemét.
+John.9.33 | Ha ez nem volna Istentől való, semmit sem cselekedhetett volna.
+John.9.34 | Feleltek és így szóltak neki: Te mindenestül bűnben születtél, és te tanítasz minket? És kivetették őt.
+John.9.35 | Meghallotta Jézus, hogy kivetették azt, és mikor megtalálta őt, ezt mondta neki: Te hiszel az Ember Fiában? (A 35. versben egyes kéziratokban az Ember Fiában szavak helyett: az Isten Fiában szavak olvashatók.)
+John.9.36 | És ő így felelt: Ki az, Uram, hogy higgyek benne?
+John.9.37 | Jézus azt mondta neki: Láttad is őt, és ő az, aki veled beszél.
+John.9.38 | Az pedig szólt: Hiszek, Uram. És imádta őt.
+John.9.39 | "És szólt Jézus: Ítélni jöttem erre a világra, hogy a nem látók lássanak; és a látók vakokká legyenek."
+John.9.40 | És meghallotta ezt néhány farizeus, akik vele voltak és azt mondták neki: Talán csak nem vagyunk mi is vakok?
+John.9.41 | Felelt nekik Jézus: Ha vakok volnátok, nem volna bűnötök! ámde azt mondjátok: Mi látunk, — azért megmarad a ti bűnötök.
+
+John.10.1 | Bizony, bizony mondom nektek: Aki nem az ajtón megy be a juhok aklába, hanem máshonnan hág be, tolvaj az és rabló.
+John.10.2 | Aki ellenben az ajtón megy be, a juhok pásztora az.
+John.10.3 | "Ennek az ajtónálló ajtót nyit és a juhok hallgatnak hangjára; és a maga juhait nevükön szólítja és kivezeti őket."
+John.10.4 | És amikor mind kiereszti a juhait, előttük megy és a juhok követik őt, mert ismerik a hangját.
+John.10.5 | Idegent pedig nem követnek, hanem elfutnak attól, mert nem ismerik az idegenek hangját.
+John.10.6 | Ezt a példázatot mondta nekik Jézus, de ők nem értették, mi az, amit mondott nekik.
+John.10.7 | Újra szólt azért nekik Jézus: Bizony, bizony mondom nektek, én vagyok a juhok ajtaja.
+John.10.8 | "Mindazok, akik előttem jöttek, tolvajok és rablók; de nem hallgattak rájuk a juhok."
+John.10.9 | "Én vagyok az ajtó: ha valaki rajtam át megy be, megtartatik; bemegy és kimegy és legelőt talál."
+John.10.10 | "A tolvaj csak azért jön, hogy lopjon, öljön és pusztítson; én azért jöttem, hogy életük legyen és bővölködjenek."
+John.10.11 | Én vagyok a jó pásztor: a jó pásztor életét adja a juhokért.
+John.10.12 | Aki béres és nem pásztor, akinek a juhok nem tulajdonai, amikor látja, hogy jön a farkas, otthagyja a juhokat és elfut, és a farkas elragadozza és elszéleszti a juhokat.
+John.10.13 | A béres pedig azért fut el, mert béres és nincs gondja a juhokra.
+John.10.14 | "Én vagyok a jó pásztor; és úgy ismerem az enyéimet és engem is úgy ismernek az enyéim,"
+John.10.15 | amint ismer engem az Atya és én is ismerem az Atyát. És életemet adom a juhokért.
+John.10.16 | "Más juhaim is vannak nekem, amelyek nem ebből az akolból valók: azokat is vezetnem kell, és hallgatnak majd az én hangomra; és lesz egy nyáj, egy pásztor."
+John.10.17 | Azért szeret engem az Atya, mert én leteszem az én életemet, hogy újra felvegyem azt.
+John.10.18 | Senki sem veszi azt el éntőlem, hanem én teszem le magamtól. Van hatalmam, hogy letegyem, és van hatalmam, hogy ismét felvegyem. Ezt a parancsolatot vettem az én Atyámtól.
+John.10.19 | Újra meghasonlás támadt a zsidók között e beszédek miatt
+John.10.20 | És sokan mondták közülök: ördög van benne és megháborodott. Mit hallgattok rá?
+John.10.21 | Mások azt mondták: Ezek nem ördöngösnek a beszédei. vajjon ördög megnyithatja-e a vakok szemét?
+John.10.22 | Akkor Jeruzsálemben a templomszentelés ünnepét ülték. Tél volt.
+John.10.23 | És Jézus a templomban, Salamon csarnokában járt.
+John.10.24 | Körülvették azért a zsidók és így szóltak neki: Meddig tartasz még bizonytalanságban bennünket? Ha te vagy a Krisztus, mondd meg nekünk nyíltan.
+John.10.25 | Fejelt nekik Jézus: Megmondtam nektek, de nem hiszitek. A cselekedetek, melyeket én cselekszem az én Atyám nevében, azok tesznek bizonyságot rólam.
+John.10.26 | De ti nem hisztek, mert nem az én juhaim közül valók vagytok. Amint megmondtam nektek.
+John.10.27 | Az én juhaim hallgatnak az én hangomra és én ismerem őket és ők követnek engem.
+John.10.28 | És én örök életet adok nekik, és soha el nem vesznek és nem ragadja ki senki őket a kezemből.
+John.10.29 | Az én Atyám, aki őket nekem adta, nagyobb mindenkinél. És senki sem ragadhatja ki őket az én Atyám kezéből.
+John.10.30 | Én és az Atya egy vagyunk.
+John.10.31 | Ismét köveket ragadtak a zsidók, hogy megkövezzék.
+John.10.32 | "Felelt nekik Jézus: Sok jó cselekedetet mutattam nektek az Atyától; vajjon azok közül melyik miatt köveztek meg engem?"
+John.10.33 | Feleltek neki a zsidók: Azért, ami jót tettél, nem kövezünk meg téged, hanem a káromlásért, hogy te ember létedre Istenné teszed magadat.
+John.10.34 | Felelt nekik Jézus: Nincs-e megírva a ti törvényetekben: Én mondtam: istenek vagytok?
+John.10.35 | Ha isteneknek mondta azokat, akikhez az Isten szólt — és az Írást nem lehet semmibe venni —
+John.10.36 | akkor ti arról, akit az Atya megszentelt és elküldött a világba, azt mondjátok: Káromlást szólsz, — mivel azt mondtam: az Isten Fia vagyok?!
+John.10.37 | "Ha nem cselekszem az én Atyám cselekedeteit, ne higgyetek nekem;"
+John.10.38 | ha azonban cselekszem, ha nekem nem hisztek is, higgyetek a cselekedeteknek, hogy megtudjátok és elhiggyétek, hogy az Atya énbennem van és én az Atyában vagyok.
+John.10.39 | Ismét meg akarták őt fogni, de ő átment közöttük.
+John.10.40 | És újra elment a Jordánontúl arra a helyre, ahol János először keresztelt, és ott maradt.
+John.10.41 | És sokan mentek hozzá és mondták: János nem tett ugyan semmi csodát, de mindaz, amit János róla mondott, igaz volt.
+John.10.42 | És sokan hittek őbenne.
+
+John.11.1 | Volt pedig egy beteg, Lázár, Betániából, Máriának és testvérének, Mártának falujából.
+John.11.2 | Az a Mária volt pedig ez, aki megkente az Urat kenettel és hajával törölte meg a lábát: ennek a testvére, Lázár volt beteg.
+John.11.3 | Elküldtek azért a nőtestvérek hozzá ezzel az üzenettel: Uram, íme akit te szeretsz, beteg.
+John.11.4 | Mikor pedig Jézus ezt hallotta, így szólt: Ez a betegség nem halálos, hanem az Isten dicsőségére való, hogy megdicsőíttessék általa az Isten Fia.
+John.11.5 | Jézus pedig kedvelte Mártát és az ő nőtestvérét és Lázárt.
+John.11.6 | Mikor azért meghallotta, hogy beteg, akkor két napig maradt azon a helyen, ahol volt.
+John.11.7 | De azután azt mondta tanítványainak: Menjünk ismét Júdeába.
+John.11.8 | "Szóltak neki ""a tanítványok: Mester, most akartak a zsidók megkövezni és újra odamégy?"
+John.11.9 | Felelt Jézus: vajjon nem tizenkét órája van-e a napnak? Ha valaki nappal jár, nem botlik meg, mert látja a világ világosságát,
+John.11.10 | de ha valaki éjjel jár, megbotlik, mert nincsen annak világossága.
+John.11.11 | "Ezeket mondta s azután így szólt nekik: Lázár, a mi barátunk elaludt; de elmegyek, hogy felköltsem."
+John.11.12 | Szóltak azért a tanítványai: Uram, ha elaludt, meggyógyul.
+John.11.13 | "Pedig Jézus annak a haláláról beszélt; de ők azt hitték, hogy pihentető álomról szól."
+John.11.14 | Akkor azért nyíltan megmondta nekik Jézus: Lázár meghalt.
+John.11.15 | És örülök, hogy nem voltam ott, tiérettetek, hogy higgyetek. De menjünk el hozzá!
+John.11.16 | Tamás, akit Ikernek mondanak, azért így szólt a tanítványtársaihoz: Menjünk el mi is, hogy vele haljunk meg.
+John.11.17 | Mikor azért Jézus odaért, úgy találta, hogy az már négy napja a sírban van.
+John.11.18 | Betánia pedig közel volt Jeruzsálemhez, mint-egy tizenöt futamatnyira,
+John.11.19 | És a zsidók közül sokan mentek Mártához és Máriádhoz, hogy vigasztalják őket a testvérük miatt.
+John.11.20 | "Amint Márta hallotta, hogy Jézus jön, eléje ment; Mária pedig otthon ült."
+John.11.21 | Márta ekkor így szólt Jézusnak: Uram, ha itt lettél volna, nem halt volna meg a testvérem.
+John.11.22 | De most is tudom, hogy amit csak kérsz az Istentől, megadja neked az Isten.
+John.11.23 | Szólt neki Jézus: Feltámad a te testvéred.
+John.11.24 | Márta ezt mondta neki: Tudom, hogy feltámad a feltámadáskor, az utolsó napon.
+John.11.25 | "Szólt neki Jézus: Én vagyok a feltámadás és az élet: aki hisz énbennem, ha meghal is él;"
+John.11.26 | és mindenki aki él és hisz énbennem, soha meg nem hal. Hiszed-é ezt?
+John.11.27 | "Szólott neki: Hiszem, Uram; én hiszem, hogy te vagy a Krisztus, az Isten Fia, akinek el kell jönnie e világra."
+John.11.28 | És amint ezeket mondta, elment és titkon szólította a testvérét, Máriát: A Mester itt van és hív téged.
+John.11.29 | Mihelyt ezt Mária meghallotta, hamar felkelt és odament hozzá.
+John.11.30 | Jézus pedig még nem ért be a faluba, hanem azon a helyen volt, ahová Márta eléje ment.
+John.11.31 | A zsidók azért, akik otthon vele voltak és vigasztalták, látva, hogy Mária hamar felkelt és kiment, utána mentek, mert azt gondolták: A sírhoz megy, hogy ott sírjon.
+John.11.32 | Mária tehát, amint odaért, ahol Jézus volt, meglátva őt, leborult a lába elé és így szólt hozzá: Uram, ha itt lettél volna, nem halt volna meg a testvérem.
+John.11.33 | Jézus azért, amint látta, hogy sír és sírnak a vele jött zsidók is, felindult lelkében és igen megrendült,
+John.11.34 | és azt mondta: Hova helyeztétek őt? Szóltak neki: Uram, jer és lásd meg!
+John.11.35 | Jézus könnyezett.
+John.11.36 | Így szóltak azért a zsidók: Íme, mennyire szerette őt.
+John.11.37 | Némelyek pedig ezt mondták közülük: Ez, aki a vak szemét megnyitotta, nem tehette volna-e meg, hogy ez meg ne haljon?
+John.11.38 | Jézus pedig újra felindulva magában, odament a sírhoz. Az pedig egy üreg volt és kő feküdt rajta.
+John.11.39 | Szólt Jézus: Vegyétek el a követ. A halott nőtestvére, Márta, azt mondta neki: Uram, már szaga van, hiszen negyednapos.
+John.11.40 | Szólt neki Jézus: Nem megmondtam-e neked, hogy ha hiszel, meglátod majd az Isten dicsőségét?
+John.11.41 | Elvették azért a követ onnan. Jézus pedig felemelte szemeit az égre és így szóit: Atyám, hálát adok neked, hogy meghallgattál. (A 41. vers első mondata egyes kéziratokban így hangzik: Elvették azért a követ onnan, ahol a megholt feküdt.)
+John.11.42 | "Én jól tudtam, hogy te mindenkor meghallgatsz engem; csak a körülálló sokaságért mondtam, hogy elhiggyék, hogy te küldtél engem."
+John.11.43 | És mikor ezeket mondta, hangosan kiáltott: Lázár, jöjj ki!
+John.11.44 | És kijött a halott, kezén-lábán pólyákkal megkötözve és arca kendővel leborítva. Szólt nekik Jézus: Oldozzátok fel, hadd menjen el.
+John.11.45 | Sokan ama zsidók közül, akik Máriához mentek és látták, amiket cselekedett, hittek benne.
+John.11.46 | De némelyek közülük elmentek a farizeusokhoz és elbeszélték nekik, amiket Jézus cselekedett.
+John.11.47 | Összegyűjtötték azért a papi fejedelmek és a farizeusok a tanácsot és szóltak: Mit tegyünk? mert ez az ember sok csodát művel.
+John.11.48 | Ha így hagyjuk őt, mindenki hinni fog benne, és eljönnek majd a rómaiak és elveszik tőlünk mind e helyet, mind e népet.
+John.11.49 | Ám egyikük, Kajafás, aki abban az esztendőben főpap volt, azt mondta nekik: Ti semmit sem tudtok,
+John.11.50 | és azt sem veszitek fontolóra: jobb nektek, hogy egy ember haljon meg a népért, mintsem hogy az egész nép elvesszen.
+John.11.51 | "Ezt pedig nem magától mondta, hanem mivel abban az esztendőben főpap volt, megjövendölte, hogy Jézus meg fog halni a népért;"
+John.11.52 | de nemcsak a népért, hanem azért is, hogy összegyűjtse Isten elszéledt gyermekeit.
+John.11.53 | Attól a naptól fogva azért azon tanakodtak, hogy őt megöljék.
+John.11.54 | Ezért Jézus nem járt nyilvánosan a zsidók között, hanem elment onnan a vidékre, a pusztához közel, egy Efraim nevű városba, és ott tartózkodott tanítványaival.
+John.11.55 | Közel volt pedig a zsidók húsvétja, és sokan mentek fel Jeruzsálembe a vidékről húsvét előtt, hogy megtisztuljanak.
+John.11.56 | Keresték azért Jézust és így szóltak egymás között a templomban állva: Mit gondoltok: nem jön fel az ünnepre?
+John.11.57 | A papi fejedelmek pedig és a farizeusok parancsot adtak, hogy ha valaki megtudja, hol van, jelentse, hogy elfoghassák őt.
+
+John.12.1 | Jézus azért hat nappal a húsvét előtt Betániába ment, ahol Lázár lakott, akit feltámasztott a halottak közül.
+John.12.2 | "Vacsorát készítettek tehát ott neki és Márta szolgált fel; Lázár pedig azok között volt, akik vele együtt telepedtek asztalhoz."
+John.12.3 | Ekkor Mária elővett egy font igazi nárdusból való drága kenetet, megkente Jézus lábait és megtörölte hajával. És a ház megtelt a kenet illatával.
+John.12.4 | Szólt azért egyik tanítványa, Iskáriótes Júdás, aki később elárulta őt:
+John.12.5 | Miért nem adták el ezt a kenetet háromszáz dénárért, és miért nem adták a szegényeknek?
+John.12.6 | Ezt pedig nem azért mondta, mintha a szegényekre lett volna gondja, hanem mivel tolvaj volt s az erszény nála állott és amit abba raktak, ellopkodta.
+John.12.7 | "Jézus azért így szólt. Hagyd őt; az én temetésem idejére tartogatta ezt."
+John.12.8 | Mert szegények mindenkor vannak veletek, én pedig nem mindenkor vagyok.
+John.12.9 | A zsidók közül tehát nagy sokaság értesült arról, hogy ő ott van, és eljöttek nemcsak Jézusért, hanem azért is, hogy Lázárt is lássák, akit feltámasztott a halottak közül.
+John.12.10 | A papi fejedelmek pedig arról tanácskoztak, hogy Lázárt is megöljék,
+John.12.11 | mivel a zsidók közül sokan miatta mentek oda és hittek Jézusban.
+John.12.12 | "Másnap a nagy sokaság, amely az ünnepre jött, hallva, hogy Jézus Jeruzsálembe jön,"""
+John.12.13 | pálmaágakat vett, kiment eléje és így kiáltott: Hozsánna! Áldott, aki jön az Úrnak nevében, Izraelnek a Királya!
+John.12.14 | Talált pedig Jézus egy szamarat, és arra ült fel, amint meg van írva:
+John.12.15 | "Ne félj, Sionnak leánya; íme jön a te Királyod, szamárcsikón ülve."
+John.12.16 | Ezeket a tanítványai eleinte nem értették, de mikor Jézus megdicsőült, akkor visszaemlékeztek, hogy ezek felőle írattak meg és hogy ezeket cselekedték vele.
+John.12.17 | Bizonyságot tett pedig a sokaság, amely vele volt, mikor kihívta Lázárt a sírból és feltámasztotta a halottak közül.
+John.12.18 | Azért is ment eléje a sokaság, mivel hallotta, hogy ezt a csodát tette.
+John.12.19 | A farizeusok akkor így szóltak egymás között: Látjátok, hogy semmire sem mentek? Íme, a világ elindult utána.
+John.12.20 | Néhány görög is volt azok között, akik felmentek, hogy imádkozzanak az ünnepen.
+John.12.21 | Ezek tehát odamentek a galileai Betsaidából való Fülöphöz és kérték őt: Uram, Jézust akarjuk látni.
+John.12.22 | Fülöp elment és szólt Andrásnak, András és Fülöp elment és szólt Jézusnak.
+John.12.23 | Jézus pedig így felelt nekik: Eljött az óra, hogy megdicsőíttessék az Ember Fia.
+John.12.24 | "Bizony, bizony mondom nektek: ha a búzaszem a földbe nem esik és el nem hal, csak egymaga marad; de ha elhal, sok gyümölcsöt terem."
+John.12.25 | "Aki szereti a maga életét, elveszíti azt; és aki gyűlöli a maga életét ezen a világon, örök életre őrzi meg azt."
+John.12.26 | "Ha valaki nekem szolgál, engem kövessen; és ahol én vagyok, ott lesz az én szolgám is; és ha valaki nekem szolgál, megbecsüli őt az Atya,"
+John.12.27 | "Most az én lelkem nyugtalan; és mit mondjak? Atyám, ments meg engem ettől az órától! De hiszen ezért jutottam erre az órára."
+John.12.28 | Atyám, dicsőítsd meg a te nevedet! Ekkor hang hallatszott az égből: Meg is dicsőítettem és újra megdicsőítem.
+John.12.29 | "A sokaság azért, amely ott állott és hallotta, azt mondta, hogy mennydörgött; mások azt állították, hogy angyal szólt neki."
+John.12.30 | Felelt Jézus és azt mondta: Nem énérettem lett ez az égi hang, hanem tiérettetek.
+John.12.31 | "Most van e világ megítéltetése; most vettetik ki e világ fejedelme."
+John.12.32 | És én, ha felemeltetem a földről, magamhoz vonzok mindeneket.
+John.12.33 | Ezt pedig azért mondta, hogy jelentse, milyen halállal kell meghalnia.
+John.12.34 | A sokaság pedig így felelt neki: Mi azt hallottuk a törvényből, hogy a Krisztus örökké megmarad. Hogyan mondod te, hogy az Ember Fiának fel kell emeltetnie? Kicsoda ez az Ember Fia?
+John.12.35 | "Szólt azért nekik Jézus: Még egy kevés ideig veletek van a világosság. Járjatok, amíg a világosság veletek van, hogy a sötétség meg ne lepjen titeket; mert aki a sötétségben jár, nem tudja, hová megy."
+John.12.36 | Amíg a világosság veletek van, higgyetek a világosságban, hogy a világosság fiai legyetek. Ezeket mondta Jézus és elmenve, elrejtőzött előlük.
+John.12.37 | És noha annyi jelt cselekedett előttük, mégsem hittek benne,
+John.12.38 | hogy beteljesedjék Ésaiás próféta beszéde, amelyet mondott: Uram, ki hitt a mi tanításunknak, és az Úrnak karja kinek jelentetett meg?
+John.12.39 | Azért nem tudtak hinni, mert Ésaiás ismét megmondta:
+John.12.40 | Megvakította szemüket és megkeményítette szívüket, hogy szemükkel ne lássanak és szívükkel ne értsenek és meg ne térjenek és meg ne gyógyítsam őket.
+John.12.41 | Ezeket mondta Ésaiás, mert látta az ő dicsőségét és szólt ő felőle.
+John.12.42 | Mindazáltal a főemberek közül is sokan hittek benne, de a farizeusok miatt nem vallották meg, hogy ki ne zárják őket a zsinagógából.
+John.12.43 | Mert jobban szerették az emberektől nyert dicsőséget, mint az Istentől nyert dicsőséget.
+John.12.44 | Jézus pedig kiáltott és ezt mondta: Aki hisz énbennem, nem énbennem hisz, hanem abban, aki elküldött engem.
+John.12.45 | És aki engem lát, azt látja, aki elküldött engem.
+John.12.46 | Én világosságul jöttem e világra, hogy senki se maradjon a sötétségben, aki énbennem hisz.
+John.12.47 | És ha valaki hallja az én beszédeimet, de nem tartja meg, nem én ítélem el azt, mert nem azért jöttem, hogy elítéljem a világot, hanem hogy megtartsam a világot.
+John.12.48 | Aki elvet engem és nem fogadja el az én beszédeimet, van annak, aki elítélje: a beszéd, amelyet szóltam, az ítéli el őt az utolsó napon.
+John.12.49 | Mert én nem magamtól szóltam, hanem az Atya, aki elküldött engem, ő parancsolta nekem, hogy mit mondjak és mit beszéljek.
+John.12.50 | És tudom, hogy az ő parancsolata örök élet. Amiket tehát én beszélek, úgy beszélem, amint az Atya mondta nekem.
+
+John.13.1 | "A húsvét ünnepe előtt pedig Jézus tudta, hogy eljött az ő órája, hogy átmenjen e világból az Atyához; ezért ő, aki szerette övéit e világban, mindvégig szerette őket."
+John.13.2 | És vacsora közben, mikor az ördög már belesugallta Iskáriótes Júdásnak, Simon fiának szívébe, hogy árulja el őt,
+John.13.3 | tudva, hogy az Atya mindent az ő kezébe adott, és hogy ő az Istentől jött és az Istenhez megy,
+John.13.4 | felkelt a vacsorától, levetette a felső ruháját és kendővel körülkötötte magát.
+John.13.5 | Azután vizet töltött a mosdótálba és elkezdte mosni a tanítványok lábát és megtörölni a kendővel, amellyel magát körülkötötte.
+John.13.6 | Mikor azért Simon Péterhez ért, az így szólt neki: Uram, te mosod meg az én lábamat?
+John.13.7 | Jézus azt felelte neki: Amit én cselekszem, azt te most nem érted, de később majd megérted.
+John.13.8 | "Szólt neki Péter: Az én lábamat ugyan nem mosod meg soha! Jézus így felelt neki; Ha meg nem moslak téged, semmi közöd sincs hozzám."
+John.13.9 | Szólt neki Simon Péter: Uram, ne-csak a lábamat, hanem a kezemet és fejemet is!
+John.13.10 | Jézus azt mondta neki: Aki megfürdött, annak nincs szüksége másra, csak hogy a lábát mossa meg, különben egészen tiszta. Ti is tiszták vagytok, de nem mindnyájan.
+John.13.11 | "Tudta ugyanis, hogy ki árulja el őt; azért mondta: Nem vagy tok mindnyájan tiszták."
+John.13.12 | Mikor azért lábukat megmosta és felső ruháját felvette, újra letelepedett és így szólt hozzájuk: Értitek, hogy mit cselekedtem veletek?
+John.13.13 | Ti engem így hívtok: Mester! és: Uram! és jól mondjátok, mert az vagyok.
+John.13.14 | Azért, ha én, az Úr és a Mester megmostam a ti lábatokat, nektek is meg kell mosnotok egymás lábát.
+John.13.15 | Mert. példát adtam nektek, hogy amint én cselekedtem veletek, ti is úgy cselekedjetek.
+John.13.16 | Bizony, bizony mondom nektek: a szolga nem nagyobb az ő uránál, sem a követ nem nagyobb az ő küldőjénél.
+John.13.17 | Ha tudjátok ezeket, boldogok lesztek, ha cselekszitek ezeket.
+John.13.18 | "Nem mindnyájatokról szólok; én tudom, kiket választottam ki; de kell, hogy beteljesedjék az írás: Aki az én kenyeremet eszi, az emelte fel a sarkát ellenem."
+John.13.19 | Már most megmondom nektek, mielőtt meglenne, hogy mikor meglesz, higgyétek majd, hogy én vagyok.
+John.13.20 | "Bizony, bizony mondom nektek: aki befogadja azt, akit én küldök, engem fogad be; aki pedig engem befogad, azt fogadja be, aki engem küldött."
+John.13.21 | Mikor ezeket mondta Jézus, igen megrendült lelkében és bizonyságot tett és ezt mondta: Bizony, bizony mondom nektek, hogy közületek egy elárul engem.
+John.13.22 | A tanítványok ekkor egymásra néztek és tanácstalanok voltak, hogy kiről mondta.
+John.13.23 | Egyik tanítványa pedig, akit Jézus szeretett, Jézus kebelén pihent.
+John.13.24 | Ennek intett azért Simon Péter és így szólt hozzá: Mondd, ki az, akiről beszél?
+John.13.25 | Az pedig Jézus kebelére hajolva, ezt mondta neki: Uram, ki az?
+John.13.26 | Felelt Jézus: Az, akinek én a falatot bemártom és odaadom. És bemártva a falatot, vette és Iskáriótes Júdásnak, Simon fiának adta.
+John.13.27 | És a falat után akkor bement abba a Sátán. Jézus azért ezt mondta neki: Amit akarsz cselekedni, hamar cselekedd.
+John.13.28 | De az ott ülők közül senki sem értette, hogy ezt miért mondta neki.
+John.13.29 | Némelyek ugyanis azt gondolták, hogy mivel az erszény Júdásnál volt, azt mondta neki Jézus: Vedd meg, amire szükségünk van az ünnepre, — vagy hogy a szegényeknek adjon valamit.
+John.13.30 | Az pedig, mihelyt a falatot elvette, tüstént kiment És éjtszaka volt.
+John.13.31 | "Mikor azért kiment, így szólt Jézus: Most dicsőíttetett meg az Ember Fia; Isten is megdicsőíttetett őbenne."
+John.13.32 | Ha pedig az Isten megdicsőíttetett őbenne, az Isten is megdicsőíti majd őt magában, sőt mindjárt megdicsőíti őt.
+John.13.33 | Gyermekeim, egy kevés ideig még veletek vagyok. Kerestek majd engem, de, amint a zsidóknak mondtam, most nektek is mondom: Ahová én megyek, oda ti nem jöhettek. —
+John.13.34 | "Új parancsolatot adok nektek, hogy egymást szeressétek; amint én szerettelek titeket, ti is úgy szeressétek egymást."
+John.13.35 | Arról ismeri meg mindenki, hogy az én tanítványaim vagytok, ha egymást szeretitek.
+John.13.36 | "Szólt neki Simon Péter: Uram, hová mégy? Felelt neki Jézus: Ahová én megyek, oda te most nem követhetsz engem; később azonban követni fogsz."
+John.13.37 | Péter azt mondta neki: Uram, miért nem követhetlek most? Az életemet adom érted!
+John.13.38 | Felelt neki Jézus: Az életedet adod értem? Bizony, bizony mondom neked, nem szól addig a kakas, amíg háromszor meg nem tagadsz engem.
+
+John.14.1 | "Ne nyugtalankodjék a ti szívetek; higgyetek Istenben és higgyetek énbennem."
+John.14.2 | "Az én Atyám házában sok hajlék van; ha nem így volna, megmondtam volna nektek. Elmegyek, hogy helyet készítsek nektek."
+John.14.3 | És ha majd elmegyek és helyet készítek nektek, ismét eljövök én magamhoz veszlek titeket, hogy ahol én vagyok, ti is ott legyetek.
+John.14.4 | "És hogy hová megyek, tudjátok; az utat is tudjátok."
+John.14.5 | Szólt neki Tamás: Uram, nem tudjuk, hová mégy. Hogyan tudhatjuk azért az utat?
+John.14.6 | Jézus azt mondta neki: Én vagyok az út az igazság és az élet. Senki sem mehet az Atyához, hanem csak én általam.
+John.14.7 | Ha megismertetek volna engem, megismertétek volna az én Atyámat is. És mostantól fogva ismeritek őt és láttátok őt.
+John.14.8 | Szólt neki Fülöp: Uram, mutasd meg nekünk az Atyát és ez elég nekünk!
+John.14.9 | Szólt neki Jézus: Annyi idő óta veletek vagyok és mégsem ismertél meg engem, Fülöp? Aki engem látott, látta az Atyát. Hogyan mondod azért: Mutasd meg nekünk az Atyát?
+John.14.10 | "Nem hiszed, hogy én az Atyában vagyok és az Atya énbennem van? A beszédeket, amelyeket én mondok nektek, nem magamtól mondom; az Atya pedig, aki énbennem lakik, cselekszi az ő cselekedeteit."
+John.14.11 | "Higgyetek nekem, hogy én az Atyában vagyok és az Atya énbennem van; ha pedig nem, magukért a cselekedetekért higgyetek nekem."
+John.14.12 | "Bizony, bizony mondom nektek: aki hisz énbennem, az is cselekszi majd azokat a cselekedeteket, amelyeket én cselekszem; és nagyobbakat is cselekszik azoknál; mert én az Atyához megyek."
+John.14.13 | És akármit kértek majd az én nevemben, megcselekszem azt, hogy dicsőíttessék az Atya a Fiúban.
+John.14.14 | Ha valamit kértek az én nevemben, én megcselekszem azt.
+John.14.15 | Ha szerettek engem, tartsátok meg a parancsolataimat.
+John.14.16 | És én kérem az Atyát és más Vigasztalót ad majd nektek, hogy veletek maradjon mindörökké:
+John.14.17 | "az igazságnak a Lelkét, akit a világ be nem fogadhat, mert nem látja és nem ismeri őt; de ti ismeritek, mert nálatok marad és bennetek lesz."
+John.14.18 | "Nem hagylak titeket árvákul; eljövök hozzátok."
+John.14.19 | "Még egy kevés idő és a világ nem lát engem többé; de ti megláttok engem: mert én élek és ti is élni fogtok,"
+John.14.20 | Azon a napon megtudjátok majd, hogy én az én Atyámban vagyok és ti énbennem és én tibennetek.
+John.14.21 | "Aki tudja az én parancsolataimat és megtartja azokat, az szeret engem; aki pedig engem szeret, azt szereti az én Atyám; én is szeretni fogom azt és kijelentem magamat neki."
+John.14.22 | Szólt neki Júdás, — nem az Iskáriótes —: Uram, hogyan van az, hogy nekünk akarod kijelenteni magadat és nem a világnak?
+John.14.23 | És Jézus így felelt neki: Ha valaki szeret engem, az én beszédemet megtartja és az én Atyám szeretni fogja őt, és hozzá megyünk és nála otthonunk lesz.
+John.14.24 | Aki nem szeret engem, nem tartja meg az én beszédeimet. És az a beszéd, amelyet hallotok, nem az enyém, hanem az Atyáé, aki elküldött engem.
+John.14.25 | Ezeket beszéltem nektek, amíg veletek voltam.
+John.14.26 | "A Vigasztaló pedig, a Szentlélek, akit az én nevemben küld az Atya; ez mindenre megtanít majd titeket és eszetekbe juttatja mindazt, amit mondtam nektek."
+John.14.27 | "Békességet hagyok nektek; az én békességemet adom nektek; nem úgy adom én nektek, amint a világ adja. Ne nyugtalankodjék a ti szívetek és ne féljen."
+John.14.28 | Hallottátok, hogy én azt mondtam nektek: elmegyek és eljövök hozzátok. Ha szeretnétek engem, örvendeznétek, hogy elmegyek az Atyához, — mert az én Atyám nagyobb énnálam.
+John.14.29 | És ezt most mondtam meg nektek, mi előtt meglenne, hogy amikor majd meglesz, higgyetek.
+John.14.30 | "Nem sokat beszélek már veletek, mert jön a világ fejedelme; de én felettem nincsen semmi hatalma,"
+John.14.31 | Hogy azonban megtudja a világ, hogy én szeretem az Atyát és úgy cselekszem, amint az én Atyám parancsolta nekem: keljetek fel, menjünk el innen
+
+John.15.1 | Én vagyok az igazi szőlőtő és az én Atyám a szőlőműves.
+John.15.2 | "Minden szőlővesszőt, amely bennem gyümölcsöt nem terem, lemetsz; mindazt pedig, amely gyümölcsöt terem, megtisztítja, hogy több gyümölcsöt teremjen."
+John.15.3 | Ti már tiszták vagytok a beszéd által, amelyet hirdettem nektek.
+John.15.4 | Maradjatok énbennem és én tibennetek. Amint a szőlővessző nem teremhet gyümölcsöt magától, csak ha a szőlőtőkén marad, úgy ti sem, csak ha énbennem maradtok.
+John.15.5 | "Én vagyok a szőlőtő, ti a szőlővesszők: aki énbennem marad, én pedig őbenne, az terem sok gyümölcsöt; mert nálam nélkül semmit sem cselekedhettek."
+John.15.6 | "Ha valaki nem marad bennem, kivettetik, mint a szőlővessző és megszárad; és ezeket összegyűjtik és tűzre vetik és megégnek."
+John.15.7 | Ha bennem maradtok és az én beszédeim bennetek maradnak, kérjetek, amit csak akartok, és meglesz nektek.
+John.15.8 | Abban dicsőíttetik meg az én Atyám, hogy ti sok gyümölcsöt teremtek és az én tanítványaim lesztek.
+John.15.9 | Amint az Atya szeretett engem, én is úgy szerettelek titeket: maradjatok meg ebben az én szeretetemben.
+John.15.10 | "Ha az én parancsolataimat megtartjátok, megmaradtok az én szeretetemben; amint én megtartottam az én Atyám parancsolatait és megmaradok az ő szeretetében."
+John.15.11 | Ezeket mondtam nektek, hogy megmaradjon bennetek az én örömem és a ti örömetek teljes legyen.
+John.15.12 | Ez az én parancsolatom, hogy úgy szeressétek egymást, amint én szerettelek titeket.
+John.15.13 | Nincs senkiben nagyobb szeretet annál, mint ha valaki életét adja az ő barátaiért
+John.15.14 | Ti az én barátaim vagytok, ha azokat cselekszitek, amiket én parancsolok nektek.
+John.15.15 | Nem mondottalak többé titeket szolgáknak, mert a szolga nem tuja, mit cselekszik az ő ura, hanem barátaimnak mondalak, mert mindazt, amit az Atyámtól halottam, tudtul adtam nektek.
+John.15.16 | Nem ti választottatok engem, hanem én választottalak és rendeltelek titeket, hogy elmenjetek és gyümölcsöt teremjetek, és a ti gyümölcsötök megmaradjon: hogy akármit kértek az Atyától az én nevemben, megadja nektek.
+John.15.17 | Ezeket parancsolom nektek, hogy egymást szeressétek.
+John.15.18 | Ha gyűlöl titeket a világ, tudjátok meg, hogy engem előbb gyűlölt, mint titeket.
+John.15.19 | "Ha e világból valók volnátok, a világ szeretné azt, ami az övé; de mivel nem vagytok e világból, hanem én választottalak ki magamnak e világból, azért gyűlöl titeket a világ."
+John.15.20 | Emlékezzetek meg arról a beszédről, amelyet én mondtam nektek: Nem nagyobb a szolga az uránál. Ha engem üldöztek, titeket is üldöznek majd: ha az én beszédemet megtartották, a tiéteket is megtartják majd.
+John.15.21 | De mindezt az én nevemért cselekszik veletek, mivel nem ismerik azt, aki küldött engem.
+John.15.22 | Ha nem jöttem volna és nem beszéltem volna nekik, nem volna bűnük, de most nincsen mivel menteniük a bűnüket.
+John.15.23 | Aki engem gyűlöl, gyűlöli az én Atyámat is.
+John.15.24 | "Ha nem cselekedtem volna közöttük ama cselekedeteket, amelyeket senki más nem cselekedett, nem volna bűnük; de most láttak is, gyűlöltek is, mind engem, mind az én Atyámat."
+John.15.25 | De szükséges, hogy beteljesedjék a mondás, amely megíratott az ő törvényükben: Ok nélkül gyűlöltek engem.
+John.15.26 | Mikor majd eljön a Vigasztaló, akit én küldök nektek az Atyától, az igazság Lelke, aki az Atyától származik, az tesz majd rólam bizonyságot.
+John.15.27 | De ti is bizonyságot tesztek, mert kezdettől fogva velem vagytok.
+
+John.16.1 | Ezeket beszéltem nektek, hogy megóvjalak titeket az eleséstől.
+John.16.2 | "A gyülekezetekből majd kizárnak titeket; sőt jön idő, hogy aki megöl titeket, mind azt hiszi, hogy ezzel Istennek szolgál."
+John.16.3 | És ezeket azért cselekszik veletek, mert nem ismerték meg az Atyát, sem engem.
+John.16.4 | Ezeket pedig azért beszéltem nektek, hogy mikor eljön mindezeknek az ideje, emlékezzetek meg róluk, hogy én megmondtam nektek. De kezdettől fogva nem mondtam ezeket nektek, mert veletek voltam.
+John.16.5 | "Most azonban elmegyek ahhoz, aki küldött engem; és senki sem kérdezi tőlem közületek: Hová mégy?"
+John.16.6 | Hanem mivel ezeket beszéltem nektek, a szomorúság eltöltötte a szíveteket.
+John.16.7 | "De én az igazságot mondom nektek:. Jobb nektek, hogy én elmenjek, mert ha én nem megyek el, nem jön el hozzátok a Vigasztaló; ha pedig elmegyek, elküldöm őt hozzátok."
+John.16.8 | És ha eljön, meggyőzi a világot bűn, igazság és ítélet tekintetében:
+John.16.9 | "bűn tekintetében, hogy nem hisznek énbennem;"
+John.16.10 | "igazság tekintetében, hogy én az Atyához megyek és többé nem láttok engem;"
+John.16.11 | ítélet tekintetében, hogy e világ fejedelme megítéltetett.
+John.16.12 | Még sok mondanivalóm van hozzátok, de most nem hordozhatjátok el.
+John.16.13 | Ám mikor eljön ő, az igazság Lelke, ő majd elvezet titeket minden igazságra. Mert nem magától szól, hanem azokat mondja, amiket hall és a bekövetkezendőket jelenti ki nektek.
+John.16.14 | Ő majd dicsőít engem, mert az enyémből vesz és kijelenti nektek.
+John.16.15 | Mindaz, ami az Atyáé, az enyém: azért mondtam, hogy az enyémből veszi és jelenti ki nektek.
+John.16.16 | "Egy kevés idő és nem láttok engem; és ismét egy kevés idő és megláttok engem."
+John.16.17 | "Ekkor tanítványai közül némelyek így szóltak egymásnak: Mi az, amit nekünk mond: Egy kevés idő és nem láttok engem; és ismét egy kevés idő és megláttok majd engem; és: Mert én az Atyához megyek?"
+John.16.18 | Szóltak azért: Mi az a kevés idő, amiről szól? Nem tudjuk, mit mond.
+John.16.19 | "Megértette tehát Jézus, hogy őt akarják megkérdezni és így szólt nekik: Arról tudakozódtok egymás között, hogy azt mondtam: Egy kevés idő és nem láttok engem; és: Ismét egy kevés idő és megláttok majd engem!?"
+John.16.20 | "Bizony, bizony mondom nektek, hogy sírtok és jajgattok ti, a világ pedig örül; ti szomorkodtok, de szomorúságtok örömre fordul."
+John.16.21 | "Az asszony, mikor szül, fájdalma van, mert eljött az ő órája; de mikor megszüli a gyermekét, nem emlékezik többé a gyötrelemre az öröm miatt, hogy ember született a világra."
+John.16.22 | Ti is azért most szomorúságban vagytok, de ismét meglátlak majd titeket, és örülni fog a szívetek, és senki sem veszi el tőletek a ti örömeteket.
+John.16.23 | És azon a napon nem kérdeztek majd engem semmiről. Bizony, bizony mondom nektek, hogy amit csak kérni fogtok az Atyától az én nevemben, megadja nektek.
+John.16.24 | Mostanáig semmit sem kértetek az én nevemben. Kérjetek és megkapjátok, hogy a ti örömetek teljes legyen.
+John.16.25 | "Ezeket példázatokban mondtam nektek; de eljön az idő, amikor nem példázatokban beszélek majd, hanem nyíltan beszélek nektek az Atyáról."
+John.16.26 | "Azon a napon az én nevemben kértek majd; és nem mondom nektek, hogy én kérni fogom az Atyát értetek;"
+John.16.27 | mert maga az Atya szeret titeket, mivel ti szereltetek engem és elhittétek, hogy én az Istentől jöttem ki.
+John.16.28 | Kijöttem az Atyától és eljöttem a világba: ismét elhagyom a világot és elmegyek az Atyához.
+John.16.29 | Szóltak neki a tanítványai: Íme, most nyíltan beszélsz és semmi példázatot nem mondasz.
+John.16.30 | Most tudjuk, hogy te mindent tudsz és nincs szükséged arra, hogy valaki téged megkérdezzen: Ezért hisszük, hogy az Istentől jöttél ki.
+John.16.31 | Felelt nekik Jézus: Most hiszitek?
+John.16.32 | "íme eljön az óra és már eljött, hogy eloszoljatok, kiki az övéihez, és engem egyedül hagyjatok; de nem vagyok egyedül, mert az Atya velem van."
+John.16.33 | "Azért beszéltem ezeket nektek, hogy békességetek legyen énben-nem. E világon nyomorúságot ok lesz; de bízzatok: én legyőztem a világot."
+
+John.17.1 | "Ezeket beszélte Jézus és felemelte szemeit az égre és szólt: Atyám, eljött az óra; dicsőítsd meg a te Fiadat, hogy a te Fiad is dicsőítsen téged;"
+John.17.2 | amint te hatalmat adtál neki minden emberen, hogy örök életet adjon mindazoknak, akiket neki adtál.
+John.17.3 | Az pedig az örök élet, hogy megismerjenek téged, az egyedül igaz Istent és akit elküldtél, a Jézus Krisztust.
+John.17.4 | "Én dicsőítettelek téged a földön; elvégeztem a munkát, amelyet rámbíztál, hogy végezzem azt."
+John.17.5 | És most te dicsőíts meg engem, Atyám, te magadnál azzal a dicsőséggel, amely az enyém volt tenálad, mielőtt a világ lett volna.
+John.17.6 | "Kinyilatkoztattam a te nevedet az embereknek, akiket e világból nekem adtál. Tieid voltak és nekem adtad őket; és a te beszédedet megtartották."
+John.17.7 | "Most tudták meg, hogy mindaz tetőled van, amit nekem adtál;"
+John.17.8 | mert ama beszédeket, amelyeket nekem adtál, őnekik adtam, és ők befogadták és valóban megismerték, hogy én tőled jöttem ki, és elhitték, hogy te küldtél engem.
+John.17.9 | "Én őérettük könyörgök; nem a világért könyörgök, hanem azokért, akiket nekem adtál, mert a tieid."
+John.17.10 | És az enyémek mind a tieid és a tieid az enyémek, és én megdicsőíttetem őbennük.
+John.17.11 | És én nem vagyok többé a világban, de ők a világban vannak, én pedig tehozzád megyek. Szent Atyám, tartsd meg őket a te nevedben, amelyet nekem adtál, hogy egyek legyenek, mint mi!
+John.17.12 | Amikor velük voltam, én megtartottam őket a te nevedben, amelyet nekem adtál, és megőriztem, és senki sem veszett el közülük, csak a veszedelem fia, hogy az Írás beteljesüljön.
+John.17.13 | "Most pedig hozzád megyek; és ezeket beszélem a világon, hogy az én örömem teljes legyen őbennük."
+John.17.14 | "Én a te igédet nekik adtam; és a világ gyűlölte őket, mivel nem a világból valók, mint ahogy én sem a világból való vagyok."
+John.17.15 | Nem azt kérem, hogy vedd ki őket a világból, hanem hogy őrizd meg őket a gonosztól.
+John.17.16 | Nem a világból valók, mint ahogy én sem a világból vagyok.
+John.17.17 | "Szenteld meg őket a te igazságoddal; a te igéd igazság."
+John.17.18 | Amint te küldtél engem a világba, úgy küldtem én is őket a világba.
+John.17.19 | És én érettük odaszentelem magamat, hogy ők is megszenteltekké legyenek az igazsággal.
+John.17.20 | "De nemcsak őérettük könyörgök, hanem azokért is, akik az ő beszédükre hisznek majd énbennem;"
+John.17.21 | hogy mindnyájan egyek legyenek, mint te énbennem, Atyám és én tebenned, hogy ők is bennünk legyenek, hogy elhiggye a világ, hogy te küldtél engem.
+John.17.22 | És én azt a dicsőséget, amelyet nekem adtál, őnekik adtam, hogy egyek legyenek, amint mi egy vagyunk:
+John.17.23 | "Én őbennük és te énbennem; hogy tökéletesen eggyé legyenek és hogy megismerje a világ, hogy te küldtél engem, és szeretted őket, amiként engem szerettél."
+John.17.24 | "Atyám, akiket nekem adtál, akarom, hogy ahol én vagyok, azok is velem legyenek, hogy megláthassák az én dicsőségemet, amelyet nekem adtál; mert szerettél engem a világ teremtése előtt."
+John.17.25 | Igazságos Atyám! A világ nem ismert meg téged, de én megismertelek és ezek is megismerték, hogy te küldtél engem.
+John.17.26 | És én megismertettem velük a te nevedet és ezután is megismertetem, hogy az a szeretet, amellyel engem szerettél, legyen bennük, és én is őbennük.
+
+John.18.1 | "Mikor ezeket mondta Jézus, kiment tanítványaival együtt a Kedron-patakon túlra; itt volt egy kert, amelybe bementek ő és a tanítványai."
+John.18.2 | De ismerte azt a helyet Júdás is, az áruló, mivel Jézus és a tanítványai gyakorta összegyűltek ott.
+John.18.3 | Júdás tehát magához vette a katonai csapatot, meg a papi fejedelmektől és a farizeusoktól szolgákat, és odament fáklyákkal, lámpásokkal és fegyverekkel.
+John.18.4 | Jézus pedig, mivel tudta mindazt, aminek el kell reá következnie, eléjük ment és így szólt: Kit kerestek?
+John.18.5 | Feleltek neki: A názáreti Jézust. Jézus azt mondta nekik: Én vagyok. Ott állt velük Júdás is, az áruló.
+John.18.6 | Mikor pedig azt mondta nekik: Én vagyok! visszatántorodtak és földre estek.
+John.18.7 | Ismét megkérdezte azért tőlük: Kit kerestek? És azok szóltak: A názáreti Jézust.
+John.18.8 | "Felelt Jézus: Mondtam nektek, hogy én vagyok. Azért, ha engem kerestek, ezeket bocsássátok el;"
+John.18.9 | hogy beteljesüljön a beszéd, amelyet mondott: Azok közül, akiket nekem adtál, senkit sem vesztettem el.
+John.18.10 | Ekkor Simon Péter, akinek kardja volt, kirántotta azt és a főpap szolgájára sújtott és levágta annak jobb fülét. A szolga neve pedig Málkus volt.
+John.18.11 | Szólott azért Jézus Péternek: Tedd hüvelyébe kardodat! Vagy nem kell-é kiinnom a poharat, amelyet az Atya adott nekem?
+John.18.12 | A csapat azért és az ezredes és a zsidók szolgái elfogták Jézust és megkötözték.
+John.18.13 | És először Annáshoz vitték, mert ez ipa volt Kajafásnak, aki abban az esztendőben főpap volt.
+John.18.14 | Ez a Kajafás volt az, aki azt tanácsolta a zsidóknak: jobb, hogy egy ember haljon meg a népért.
+John.18.15 | Simon Péter pedig és egy másik tanítvány követte Jézust. Ez a tanítvány pedig ismerőse volt a főpapnak és bement Jézussal együtt a főpap udvarába.
+John.18.16 | Péter pedig kívül állott az ajtónál. Kiment azért a másik tanítvány, aki a főpappal ismerős volt és szólt az ajtóőrző leánynak és bevitte Pétert.
+John.18.17 | Akkor az ajtóőrző leány így szólt Péterhez: Nem ennek az embernek a tanítványai közül való vagy te is? Ő azt mondta: Nem vagyok.
+John.18.18 | A szolgák pedig és a templom-őrök ott állottak, szítva a parazsat, mivel hűvös volt és melegedtek. Péter is ott állt velük együtt és melegedett.
+John.18.19 | A főpap azért megkérdezte Jézust a tanítványai és tanítása felől.
+John.18.20 | "Felelt neki Jézus: Én nyilvánosan beszéltem a világnak; mindenkor a zsinagógában és a templomban tanítottam, ahol a zsidók mind összegyűlnek, és titkon semmit sem szóltam."
+John.18.21 | Mit kérdezel engem? Kérdezd azokat, akik hallották, hogy mit beszéltem nekik. Hiszen ők tudják, hogy mit mondtam.
+John.18.22 | Mikor pedig ezeket mondta, az ott álló szolgák közül az egyik arcul ütötte Jézust, és azt mondta: Így felelsz te a főpapnak?
+John.18.23 | "Felelt neki Jézus: Ha helytelenül szóltam, bizonyítsd be, hogy helytelen; ha pedig jól, akkor miért ütsz engem?"
+John.18.24 | Elküldte őt Annás, megkötözve Kajafáshoz, a főpaphoz.
+John.18.25 | Simon Péter pedig ott állt és melegedett. Szóltak azért neki: Nem az ő tanítványai közül való vagy te is? Ő tagadta és ezt mondta: Nem vagyok.
+John.18.26 | Így szólt a főpap egyik szolgája, rokona annak, akinek Péter levágta a fülét: Nem téged láttalak vele együtt a kertben?
+John.18.27 | Ekkor Péter újra tagadta. És a kakas azonnal megszólalt
+John.18.28 | Azután Jézust Kajafástól a várba vitték. Kora reggel volt pedig, és ők nem mentek be a várba, hogy tisztátalanokká ne legyenek, hanem megehessék a húsvéti bárányt.
+John.18.29 | Pilátus ment hát ki hozzájuk és szólt: Micsoda vádat emeltek ez ellen az ember ellen?
+John.18.30 | ők így feleltek neki: Ha ez nem volna gonosztevő, nem adtuk volna a kezedbe.
+John.18.31 | "Szólt azért nekik Pilátus: Vigyétek el őt ti és ítéljétek el a ti törvényetek szerint. A zsidók azonban azt mondták neki: Nekünk senkit sem szabad megölnünk;"
+John.18.32 | hogy beteljesedjék Jézus szava, melyet mondott, amikor jelentette, milyen halállal kell majd meghalnia.
+John.18.33 | Ismét bement azért Pilátus a várba, szólította Jézust és ezt mondta neki: Te vagy a zsidók királya?
+John.18.34 | Felelt neki Jézus: Magadtól mondod ezt, vagy mások mondták ezt neked felőlem?
+John.18.35 | Felelt Pilátus: Hát zsidó vagyok én? A te néped és a papi fejedelmek adtak téged a kezembe. Mit tettél?
+John.18.36 | Felelt Jézus: Az én országom nem ebből a világból való. Ha ebből a világból való volna az én országom, a szolgáim harcolnának, hogy ne adjanak át a zsidóknak. Ámde az én országom nem innen való.
+John.18.37 | Szólott azért neki Pilátus: Mégis király vagy-e hát? Felelt Jézus: Ahogy mondod: király vagyok. Én azért születtem és azért jöttem a világra, hogy bizonyságot tegyek az igazságról. Mindaz, aki az igazságból való, hallgat az én szavamra.
+John.18.38 | Szólt neki Pilátus: Micsoda az igazság? És amint ezt mondta, újra kiment a zsidókhoz és így szólt nekik: Én nem találok benne semmi bűnt.
+John.18.39 | Szokás pedig nálatok, hogy elbocsássak egyet nektek a húsvét ünnepén. Akarjátok tehát, hogy elbocsássam nektek a zsidók királyát?
+John.18.40 | Ekkor ismét kiáltottak: Ne ezt, hanem Barabbást! Ez a Barabbás pedig rabló volt.
+
+John.19.1 | Akkor tehát Pilátus elővezettette Jézust és megkorbácsoltatta.
+John.19.2 | És a katonák tövisből koronát fonva, a fejére tették és bíbor ruhát adtak rá.
+John.19.3 | Majd odajárulva hozzá, ezt mondogatták: Üdvözlégy, zsidók királya! És arcul verték őt.
+John.19.4 | Majd ismét kiment Pilátus és ezt mondta nekik: íme, én kihozom őt nektek, hogy megtudjátok: én semmi bűnt sem találok benne.
+John.19.5 | Kiment azért Jézus, hordozva a töviskoronát és a bíborruhát. És Pilátus így szólt hozzájuk: íme, az ember!
+John.19.6 | Mikor azért látták őt a papi fejedelmek és a szolgák, így kiáltoztak: Feszítsd meg, feszítsd meg! Szólt nekik Pilátus: Vigyétek el ti és feszítsétek meg, mert én nem találok benne bűnt.
+John.19.7 | Feleltek neki a zsidók: Nekünk törvényünk van és a mi törvényünk szerint meg kell halnia, mivel Isten Fiává tette magát.
+John.19.8 | Mikor pedig Pilátus ezt a beszédet hallotta, még inkább megrémült,
+John.19.9 | majd ismét bement a várba és így szólt Jézusnak: Honnét való vagy? Jézus azonban nem felelt neki.
+John.19.10 | így szólt azért neki Pilátus: Nekem nem felelsz? Hát nem tudod, hogy nekem van hatalmam, hogy szabadon bocsássalak, és van hatalmam, hogy megfeszítselek?
+John.19.11 | Felelt Jézus: Semmi hatalmad sem volna rajtam, ha felülről nem adatott volna neked. Nagyobb bűne van azért annak, aki a te kezedbe adott engem.
+John.19.12 | "Ettől fogva Pilátus azon volt, hogy szabadon bocsássa őt; de a zsidók így kiáltoztak: Ha ezt szabadon bocsátod, nem vagy barátja a császárnak. Mindenki, aki királlyá teszi magát, ellensége a császárnak."
+John.19.13 | Mikor Pilátus hallotta ezt a beszédet, kihozatta Jézust és a bírói székbe ült azon a helyen, amelyet Kőpadolatnak, héberül pedig Gabbatának hívnak. 1
+John.19.14 | A húsvét előkészületi napja volt és mintegy hat óra. És így szólt a zsidóknak: Íme a ti királyotok!
+John.19.15 | Ám azok így kiáltoztak: Vidd el, vidd el Feszítsd meg! Szólt nekik Pilátus: A ti királyotokat feszítsem meg? A papi fejedelmek így feleltek: Nekünk nincs királyunk, hanem császárunk van!
+John.19.16 | Akkor tehát kezükbe adta őt, hogy megfeszítsék. Azok pedig átvették Jézust.
+John.19.17 | És maga vitte keresztjét, míg kiment az úgynevezett Koponya-helyre, amelyet héberül Golgotának hívnak,
+John.19.18 | ahol megfeszítették őt és vele más kettőt, egyfelől és másfelől, középen pedig Jézust.
+John.19.19 | Pilátus pedig feliratot is írt és rátétette a keresztfára. Ez volt pedig a felirat: NÁZÁRETI JÉZUS, A ZSIDÓK KIRÁLYA.
+John.19.20 | Sokan olvasták pedig ezt a feliratot a zsidók közül, mivel közei volt a városhoz az a hely, ahol Jézust megfeszítették. És héberül, latinul és görögül volt írva.
+John.19.21 | Szóltak azért Pilátusnak a zsidók papi fejedelmei: Ne írd: A zsidók királya! hanem hogy ő mondta: A zsidók királya vagyok.
+John.19.22 | Felelt Pilátus: Amit írtam, megírtam.
+John.19.23 | Amikor a katonák megfeszítették Jézust, vették az ő ruháit és négy részre osztották, mindegyik katonának egy-egy részt, és külön vették a köntösét. A köntös pedig varratlan volt, felülről mindvégig egybeszőve.
+John.19.24 | "így szóltak azért egymásnak: Ezt ne hasogassuk el, hanem vessünk rá sorsot, kié legyen; hogy beteljesedjék az Írás: Ruháimon megosztoztak maguk között és köntösömre sorsot vetettek. A katonák tehát ezt tették."
+John.19.25 | "Jézus keresztfája mellett pedig ott állott az anyja, anyjának nőtestvére; Mária, Kleopás felesége és a magdalai Mária."
+John.19.26 | Mikor Jézus látta, hogy ott áll az anyja és a tanítvány, akit szeretett, ezt mondta az anyjának: Asszony, ímhol a te fiad!
+John.19.27 | Majd szólott a tanítványnak: Ímhol a te anyád. És ettől az órától fogva magához fogadta őt az a tanítvány.
+John.19.28 | Ezután Jézus tudva, hogy már minden elvégeztetett, hogy beteljesedjék az írás, így szólt: Szomjúhozom.
+John.19.29 | Volt pedig ott egy ecettel teli edény. Azok azért ecettel telt szivacsot tűztek izsópszárra és odatartották a szájához.
+John.19.30 | Mikor pedig elvette Jézus az ecetet, így szól: Elvégeztetett! Aztán lehajtotta fejét és kilehelte lelkét.
+John.19.31 | Péntek volt és hogy a testek ne maradjanak szombaton a keresztfán (mert az a szombat nagy nap volt), a zsidók arra kérték Pilátust, hogy törjék el a lábszáraikat és vegyék le őket.
+John.19.32 | Elmentek azért a katonák és eltörték az elsőnek lábszárait, majd a másikét is, akit vele együtt feszítettek meg.
+John.19.33 | Mikor pedig Jézushoz értek, amint látták, hogy ő már halott, az ő lábszárait nem törték el,
+John.19.34 | hanem az egyik katona dárdával beleszúrt az oldalába és nyomban vér és víz jött ki abból.
+John.19.35 | És aki látta, bizonyságot tett és igaz az ő tanúbizonysága, és az tudja, hogy igazat mond, hogy ti is higgyetek.
+John.19.36 | Mert azért történtek ezek, hogy beteljesedjék az írás: Az ő csontja meg ne töressék.
+John.19.37 | Másutt ismét így szól az írás: Néznek majd arra, akit átszögeztek.
+John.19.38 | Ezek után pedig kérte Pilátust arimatiai József, aki Jézus tanítványa volt, de a zsidóktól való félelme miatt csak titokban, hogy levehesse Jézus testét. Pilátus meg is engedte. Elment azért és levette Jézus testét.
+John.19.39 | Eljött pedig Nikodémus is, — aki éjtszaka ment először Jézushoz, — mirhából és áloéból való kenetet hozva, mintegy száz fontot.
+John.19.40 | Vették azért Jézus testét és lepedőbe takarták az illatszerekkel együtt, amint a zsidóknál szokás temetni.
+John.19.41 | Azon a helyen pedig, ahol őt megfeszítették, volt egy kert, a kertben egy új sír, amelybe még senkit sem hegyeztek.
+John.19.42 | A zsidók péntekje miatt abba helyezték Jézust, mivel az a sír közel volt.
+
+John.20.1 | A hét első napján pedig jókor reggel, mikor még szürkület volt, odament a magdalai Mária a sírhoz és látta, hogy a követ elvették a sírról.
+John.20.2 | Elfutott azért és Simon Péterhez ment és a másik tanítványhoz, akit Jézus szeretett s azt mondta nekik: Elvitték az Urat a sírból, és nem tudjuk, hová tették.
+John.20.3 | Kiment azért Péter és a másik tanítvány és odamentek a sírhoz.
+John.20.4 | Együtt futottak mind a ketten, de a másik tanítvány előrefutott, gyorsabban, mint Péter és előbb ért a sírhoz.
+John.20.5 | Amikor lehajolt, látta, hogy ott vannak a lepedők. De nem ment be.
+John.20.6 | "Nyomban utána megérkezett Simon Péter is és bement a sírba; és látta, hogy a lepedők ott vannak,"
+John.20.7 | de az a kendő, amely a fején volt, nincs együtt a lepedőkkel, hanem összegöngyölítve külön egy helyen.
+John.20.8 | Azután bement a másik tanítvány is, aki először ért a sírhoz és látott és hitt.
+John.20.9 | Mert még nem értették az Írást, hogy fel keli támadnia a halottak közül.
+John.20.10 | Visszatértek azért a tanítványok övéikhez.
+John.20.11 | Mária pedig kívül állott a sírnál zokogva. Amint pedig zokogott, behajolt a sírba
+John.20.12 | és látta, hogy két angyal ül ott fehér ruhában, egyik fejtől, másik lábtól, ahol Jézus teste feküdt.
+John.20.13 | S azok így szóltak neki: Asszony, miért sírsz? Ő azt mondta nekik: Mert elvitték az én Uramat, és nem tudom, hová tették.
+John.20.14 | És mikor ezeket mondta, hátrafordult és látta, hogy Jézus ott áll, de nem tudta hogy Jézus az.
+John.20.15 | Szólt neki Jézus: Asszony, miért sírsz ? Kit kereseti Ő pedig azt gondolta, hogy a kertész az, és ezt mondta neki: Uram, ha te vitted el őt, mondd meg nekem, hová tetted és én elviszem.
+John.20.16 | Szólt neki Jézus: Mária! Az megfordulva azt mondta neki héberül: Rabboni! ami azt jelenti: Mester!
+John.20.17 | "Szólt neki Jézus: Ne érints engem, mert még nem mentem fel az Atyámhoz; hanem menj el az én atyámfiaihoz és mondd meg nekik: Felmegyek az én Atyámhoz és a ti Atyátokhoz, és az én Istenemhez és a ti Istenetekhez."
+John.20.18 | Elment a magdalai Mária, és megje1entette a tanítványoknak: láttam az Urat, és hogy ezeket mondta neki.
+John.20.19 | Mikor pedig este lett, azon a napon, a hét első napján, bár az ajtók zárva voltak, ahol összegyűltek a tanítványok a zsidóktól való félelem miatt, eljött Jézus és megállott középen és így szót nekik: Békesség nektek!
+John.20.20 | És ezt mondva, megmutatta nekik kezeit és oldalát. Örvendeztek azért tanítványok, amikor látták az Urat.
+John.20.21 | Ismét szólt azért nekik Jézus: Békesség nektek! Amint engem elküldött az Atya, én is elküldelek titeket.
+John.20.22 | És mikor ezt mondta, rájuk lehelt és szólt nekik: Vegyetek Szentlelket!
+John.20.23 | "Akiknek bűneit megbocsátjátok, megbocsáttatnak azoknak; akikéit megtartjátok, azoknak megtartatnak."
+John.20.24 | Tamás pedig, a tizenkettő egyike, akit Ikernek mondtak, nem volt velük, mikor eljött Jézus.
+John.20.25 | Szólt azért neki a többi tanítvány: Láttuk az Urat. Ám ő azt mondta nekik: Ha nem látom az ő kezein a szögek helyét és nem teszem ujjaimat a szögek helyére, és kezemet nem teszem az ő oldalába, semmiképpen sem hiszem el.
+John.20.26 | És nyolc nap múlva ismét benn voltak tanítványai, Tamás is velük. Bár az ajtó zárva volt, bement Jézus, megállott a középen és így szólt: Békesség nektek!
+John.20.27 | "Azután azt mondta Tamásnak: Nyújtsd ide az ujjadat és nézd meg a kezeimet; és nyújtsd ki a kezedet és tedd az oldalamba és ne légy hitetlen, hanem hívő."
+John.20.28 | Tamás így felelt neki: Én Uram és én Istenem!
+John.20.29 | "Szólt neki Jézus: Mivel láttál engem, hittél; boldogok, akik nem látnak és hisznek."
+John.20.30 | Sok más jelt is cselekedett Jézus a tanítványai előtt, amelyek nincsenek megírva ebben a könyvben.
+John.20.31 | Ezek pedig azért vannak megírva, hogy higgyétek: Jézus a Krisztus, az Isten Fia, és hogy e hitben életetek legyen az ő neve által.
+
+John.21.1 | Ezek után ismét megjelentette magát Jézus a tanítványoknak a Tibériás-tengerénél, még pedig így jelentette meg:
+John.21.2 | együtt voltak Simon Péter és Tamás, akit Ikernek neveztek, és Nátánael, a galileai Kánából való és Zebedeus fiai, valamint más kettő is a tanítványok közül.
+John.21.3 | Szólt nekik Simon Péter: Elmegyek halászni. Azok pedig azt mondták neki: Mi is elmegyünk veled. Elmentek és hajóra szálltak. És azon az éjtszakán nem fogtak semmit.
+John.21.4 | Mikor pedig már hajnalodott, megállt Jézus a parton, a tanítványok azonban nem ismerték meg, hogy Jézus az.
+John.21.5 | Jézus azért azt mondta nekik: Fiaim, van-e valami ennivalótok! Feleltek neki: Nincs.
+John.21.6 | Ekkor így szólt hozzájuk: Vessétek ki a hálót a hajó jobb oldala felől és találtok. Oda vetették azért, de kivonni már nem bírták a tömérdek hal miatt.
+John.21.7 | Szólt azért az a tanítvány, akit Jézus szeretett, Péternek: Az Úr az. Simon Péter tehát, mikor hallotta, hogy az Úr az, magára vette a ruháját, — mert mezítelen volt — és belevetette magát a tengerbe.
+John.21.8 | A többi tanítvány pedig a hajón ment, — mert nem voltak messze a parttól, csak mintegy kétszáz könyöknyire — és vonták a hálót a halakkal.
+John.21.9 | Mikor pedig a partra értek, látták, hogy parázs van ott és azon hal és kenyér.
+John.21.10 | Szólt nekik Jézus: Hozzatok a halakból, amelyeket most fogtatok.
+John.21.11 | Beszállt Simon Péter és kivonta a hálót a partra, amely tele volt nagy halakkal, százötvenhárommal, és bár ennyi volt, nem szakadozott a háló.
+John.21.12 | Szólt nekik Jézus: Jertek, egyetek! A tanítványok közül pedig senki sem merte őt megkérdezni: Ki vagy? mivel tudták, hogy az Úr.
+John.21.13 | Odament azért Jézus, vette a kenyeret és adta nekik, hasonlóképen a halat is.
+John.21.14 | Ezzel már harmadszor jelent meg Jézus a tanítványainak, miután feltámadt a halottak közül.
+John.21.15 | "Mikor azután ettek, így szólt Jézus Simon Péternek: Simon, Jóna fia, jobban szeretsz-e engem mint ezek? Azt felelte neki: Igen, Uram; te tudod, hogy szeretlek téged! Ő azt mondta neki: Legeltesd az én bárányaimat."
+John.21.16 | Szólt neki másodszor is: Simon, Jóna fia, szeretsz-e engem? Ő így válaszolt neki: Igen, Uram, te tudod, hogy szeretlek téged. Ő ezt mondta neki: Őrizd az én juhaimat!
+John.21.17 | Szólt neki harmadszor is: Simon, Jóna fia, szeretsz-e engem? Péter elszomorodott, hogy harmadszor is ezt mondta neki: Szeretsz-e engem? és így felelt neki: Uram, te mindent tudsz, te tudod, hogy szeretlek téged. Jézus ezt mondta neki: Legeltesd az én juhaimat.
+John.21.18 | "Bizony, bizony mondom neked, mikor ifjabb voltál, felövezted magadat és odamentéi, ahova akartál; ám mikor megöregszel, kinyújtod a kezedet, és más övez fel téged és odavisz, ahova nem akarod."
+John.21.19 | Ezt pedig azért mondta, hogy jelezze, milyen halállal dicsőíti majd az Istent. És miután ezt mondta, így szólt neki: Kövess engem!
+John.21.20 | Péter pedig megfordult és látta, hogy követi az a tanítvány, akit Jézus szeretett, aki azon a vacsorán az e keblén pihenve, megkérdezte: Uram, ki az, aki elárul téged?
+John.21.21 | Ezt a tanítványt látva, Péter így szólt Jézusnak: Uram, hát ezzel mi leszi
+John.21.22 | Szólt neki Jézus: Ha azt akarom, hogy ő megmaradjon, amíg én eljövök, mit tartozik rád? Te kövess engem!
+John.21.23 | Elterjedt azért ez a mondás az atyafiak között, hogy az a tanítvány nem hal meg, pedig Jézus nem azt mondta neki, hogy nem hal meg, hanem: Ha azt akarom, hogy ez megmaradjon, amíg én eljövök, mit tartozik rád?
+John.21.24 | Ez az a tanítvány, aki bizonyságot tesz ezekről és mindezt megírta. És tudjuk, hogy az ő bizonyságtétele igaz.
+John.21.25 | De van sok egyéb is, amiket Jézus cselekedett s amiket, ha egyenként megírnának, azt gondolom, hogy maga a világ sem foghatná be a könyveket, amelyeket írnának.

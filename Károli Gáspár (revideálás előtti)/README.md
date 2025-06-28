@@ -26,10 +26,11 @@ https://www.okosbiblia.hu/tools/compare-translations?original=kg1908&changed=kgr
 
 ## Verzió napló
 
-| Dátum      | Változás                                                                           |
-| :--------- | :--------------------------------------------------------------------------------- |
-| 2025-06-28 | Fordítás feltöltve                                                                 |
-| 2025-06-28 | OCR hibák javítása (AI javaslatok, kézi ellenőrzés saját példányból) : 61_2Pet.txt |
+| Dátum      | Változás                                                                                  |
+| :--------- | :---------------------------------------------------------------------------------------- |
+| 2025-06-28 | OCR hibák javítása (AI - OCR kép alapján, kézi ellenőrzés saját példányból) : 61_2Pet.txt |
+| 2025-06-28 | OCR hibák javítása (AI javaslatok, kézi ellenőrzés saját példányból) : 61_2Pet.txt        |
+| 2025-06-28 | Fordítás feltöltve                                                                        |
 
 ---
 

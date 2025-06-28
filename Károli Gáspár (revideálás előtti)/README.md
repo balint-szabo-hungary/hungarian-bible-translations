@@ -10,7 +10,7 @@ Budapest. Kiadja a Brit és Külföldi Biblia-Társulat. 1908.
 
 ## Licenc
 
-A Károli Gáspár (revideált 1908) fordítás közkincs (public domain).
+A Károli Gáspár (revideálás előtti) fordítás közkincs (public domain).
 
 Szabadon hozzáférhető, másolható, felhasználását nem védi szerzői jog.
 
@@ -26,6 +26,6 @@ Ennek hibái saját példányból, internetes forrásból kerülnek javításra.
 
 ## Verzió napló
 
-| Dátum      | Változás         |
-| :--------- | :--------------- |
-| 2025-06-28 | Kezdeti változat |
+| Dátum      | Változás           |
+| :--------- | :----------------- |
+| 2025-06-28 | Fordítás feltöltve |

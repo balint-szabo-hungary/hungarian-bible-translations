@@ -59,6 +59,18 @@ Mivel a kiadás csak próbakiadás, elterjedtségéről nincs információnk. Sz
 
 ---
 
+## Fordítások összehasonlítása:
+
+Károli Gáspár (revideált 1908) és Károli Gáspár: Az Újszövetség könyvei [próbakiadás] (1954) szövegének összehasonlítása:
+
+https://www.okosbiblia.hu/tools/compare-translations?original=kg1908&changed=kgprc&bookid=43&chapterid=1
+
+Károli Gáspár (revideálás előtti) és Károli Gáspár: Az Újszövetség könyvei [próbakiadás] (1954) szövegének összehasonlítása:
+
+https://www.okosbiblia.hu/tools/compare-translations?original=kgre&changed=kgprc&bookid=43&chapterid=1
+
+---
+
 ## Verzió napló
 
 | Dátum      | Változás           |
